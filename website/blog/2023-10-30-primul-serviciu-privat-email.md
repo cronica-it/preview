@@ -43,4 +43,4 @@ Primele domenii deservite de acest sistem au fost `eunet.ro`,
 
 După înființarea firmei **EUnet România** și instalarea de noi linii telefonice
 cu acces internațional, conexiunea s-a putut iniția la fiecare oră,
-îmbunătățind sensibil viteza de tranmitere a mesajelor.
+îmbunătățind sensibil viteza de transmitere a mesajelor.
