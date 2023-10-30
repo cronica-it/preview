@@ -14,20 +14,24 @@ Sintaxa este de YML.
 
 Data evenimentului, în format `YYYY-MM-DD`, `YYYY-MM` sau `YYYY`.
 
+Daca ziua lipseste, pentru ordonare data se consideră `YYYY-MM-15` (mijlocul lunii).
+
+Daca luna lipseste, pentru ordonare data se considera `YYYY-06-01` (1 iulie, mijlocul anului).
+
 Exemplu:
 
 ```
 eventDate: '1993'
 ```
 
-## `eventUntil`
+## `eventEndDate`
 
 Data până la care a avut loc evenimentul, în același format ca `eventDate`.
 
 Exemplu:
 
 ```
-eventUntil: '1998'
+eventEndDate: '1998'
 ```
 
 ## `eventSummary`
@@ -39,7 +43,3 @@ Exemplu:
 ```
 eventSummary: 'Programul Soros _Computere pentru licee_'
 ```
-
-## `citationOf`
-
-Un link la o pagină cu informații de referință despre eveniment.

@@ -8,7 +8,6 @@ date: 2023-10-30T07:35
 eventDate: '1837'
 eventSummary: 'Telegraful electric Morse'
 reportedBy: 'ilg-ul'
-citationOf: 'https://en.wikipedia.org/wiki/Electrical_telegraph'
 
 ---
 
@@ -22,3 +21,7 @@ Cel mai cunoscut și răspândit a fost sistemul
 inventat de
 [Samuel Morse](https://en.wikipedia.org/wiki/Samuel_Morse) in 1837 și
 folosit din 1838.
+
+## Referințe
+
+- <https://en.wikipedia.org/wiki/Electrical_telegraph>
