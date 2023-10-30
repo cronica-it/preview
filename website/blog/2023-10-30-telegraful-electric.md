@@ -24,4 +24,4 @@ folosit din 1838.
 
 ## Referințe
 
-- <https://en.wikipedia.org/wiki/Electrical_telegraph>
+- [Wikipedia](https://en.wikipedia.org/wiki/Electrical_telegraph)
