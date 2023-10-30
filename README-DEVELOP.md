@@ -6,6 +6,13 @@
 npx create-docusaurus@3.0.0-rc.1 website classic --typescript
 ```
 
+## Install dependencies
+
+```
+cd website
+npm install
+```
+
 ## Start server
 
 ```bash
