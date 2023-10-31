@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Documentatie
+# Documentație
 
 Acest site este organizat în jurul unui blog generat static cu
 [Docusaurus](https://docusaurus.io).
