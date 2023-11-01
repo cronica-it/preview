@@ -30,7 +30,7 @@ dinspre Viena, de 2-3 ori pe zi, deoarece liniile telefonice din București
 
 In aceeași perioadă, la Institutul Politehnic București, Nini Popovici
 administra un serviciu similar de poștă electronică pentru rețeaua
-academică, prin dial-up către Universitatea Darmstadt.
+academică, prin dial-up cu Universitatea Darmstadt.
 
 Pentru că nici linia telefonică din Politehnică nu permitea apeluri
 internaționale, conexiunea era inițiată manual prin operatoare, și după

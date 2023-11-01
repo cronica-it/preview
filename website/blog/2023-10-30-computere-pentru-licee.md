@@ -12,7 +12,7 @@ reportedBy: 'dancorl'
 
 ---
 
-Se desfășoară programul _Computere pentru
+În perioada 1993-1998 se desfășoară programul _Computere pentru
 licee_ finanțat prin Fundația Soros România si coordonat de Nicolai
 Sandu, care a dus la dezvoltarea unei rețele a liceelor. Această rețea
 a funcționat inițial prin dial-up (linie comutată) pentru email cu
