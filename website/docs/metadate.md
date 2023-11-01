@@ -51,8 +51,10 @@ Proprietatea `eventSummary` este un string cu o descriere sumară
 (câteva zeci de caractere)
 a evenimentului. Aceast string va apărea in tabela cu evenimente.
 
-Se recomandă a fi o acțiune, cu un verb, formulată impersonal, sau personal
-autorul este cunoscut.
+Se recomandă a fi o propoziție scurtă, cu predicat, formulată impersonal,
+sau personal dacă autorul este cunoscut.
+
+Diferă de câmpul `title`, care este numele scurt al evenimentului.
 
 Exemple:
 
