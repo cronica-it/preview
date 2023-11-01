@@ -16,11 +16,15 @@ ghilimele.
 
 ## `eventDate`
 
-Data evenimentului, un string în format `YYYY-MM-DD`, `YYYY-MM` sau `YYYY`.
+Proprietatea `eventDate` este un string ce definește data de
+început a evenimentului,
+ca un string în format `YYYY-MM-DD`, `YYYY-MM` sau `YYYY`.
 
-Daca ziua lipseste, pentru ordonare data se consideră `YYYY-MM-15` (mijlocul lunii).
+Daca ziua lipseste, pentru ordonare data se consideră `YYYY-MM-15`
+(mijlocul lunii).
 
-Daca luna lipseste, pentru ordonare data se considera `YYYY-06-01` (1 iulie, mijlocul anului).
+Daca luna lipseste, pentru ordonare data se considera `YYYY-06-01`
+(1 iulie, mijlocul anului).
 
 Exemple:
 
@@ -32,7 +36,8 @@ eventDate: '1993-06-24'
 
 ## `eventEndDate`
 
-Data până la care a avut loc evenimentul, în același format ca `eventDate`.
+Proprietatea `eventEndDate` definește data de sfârșit a evenimentului,
+în același format ca `eventDate`.
 
 Exemplu:
 
@@ -42,13 +47,16 @@ eventEndDate: '1998'
 
 ## `eventSummary`
 
-O linie de text cu o descriere sumară (câteva zeci de caractere)
-a evenimentului. Aceasta linie va
-apărea in tabela cu evenimente.
+Proprietatea `eventSummary` este un string cu o descriere sumară
+(câteva zeci de caractere)
+a evenimentului. Aceast string va apărea in tabela cu evenimente.
+
+Se recomandă a fi o acțiune, cu un verb, formulată impersonal, sau personal
+autorul este cunoscut.
 
 Exemple:
 
 ```yaml
-eventSummary: 'Programul Soros Computere pentru licee'
-eventSummary: "Conferința ROSE'93"
+eventSummary: 'Se desfașoară programul Computere pentru licee'
+eventSummary: 'Alexandru Rotaru înființează Asociația Româna a Utilizatorilor de Unix (GURU)'
 ```
