@@ -15,6 +15,8 @@ Telegraful electric a fost primul sistem care a permis transmiterea
 mesajelor text cu o viteza mai mare decât permitea transportul fizic
 la acea dată.
 
+<!-- truncate -->
+
 A fost folosit din anii 1840 până târziu în secolul 20.
 
 Cel mai cunoscut și răspândit a fost sistemul

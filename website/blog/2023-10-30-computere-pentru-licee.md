@@ -14,7 +14,11 @@ reportedBy: 'dancorl'
 
 În perioada 1993-1998 se desfășoară programul _Computere pentru
 licee_ finanțat prin Fundația Soros România si coordonat de Nicolai
-Sandu, care a dus la dezvoltarea unei rețele a liceelor. Această rețea
+Sandu, care a dus la dezvoltarea unei rețele a liceelor.
+
+<!-- truncate -->
+
+Această rețea
 a funcționat inițial prin dial-up (linie comutată) pentru email cu
 protocolul UUCP si apoi on-line, prin TCP/IP.
 

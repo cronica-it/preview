@@ -12,7 +12,10 @@ reportedBy: 'ilg-ul'
 ---
 
 În 1971, România obține din Franța licența pentru calculatorul IRIS 50,
-care va deveni Felix C-256, si începe fabricația la Fabrica de Calculatoare Electronice, din București.
+care va deveni **Felix C-256**, si începe fabricația la
+Fabrica de Calculatoare Electronice, din București.
+
+<!-- truncate -->
 
 Referințe:
 

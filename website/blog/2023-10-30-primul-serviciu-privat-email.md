@@ -14,6 +14,8 @@ reportedBy: 'ilg-ul'
 In octombrie 1992 a fost dat în folosință primul serviciu privat de
 **Internet eMail**, folosind protocolul **UUCP**.
 
+<!-- truncate -->
+
 Serviciul a fost oferit inițial promoțional de firma **Adcon Telemetry SRL**,
 urmând a deveni un serviciu comercial
 după finalizarea procedurilor de obținere a licențelor de furnizare
