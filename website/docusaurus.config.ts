@@ -46,6 +46,8 @@ const config: Config = {
           // Remove this to remove the "edit this page" links.
           editUrl:
             'https://github.com/cronica-it/preview/edit/master/website/',
+            blogSidebarTitle: 'All posts',
+            blogSidebarCount: 'ALL',
         },
         theme: {
           customCss: './src/css/custom.css',
