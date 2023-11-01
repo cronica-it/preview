@@ -71,7 +71,7 @@ authors: [jmarcey, slorber]
 ## `tags`
 
 Proprietatea `tags` definește un array de cuvinte cheie asociate articolului,
-folosite pentru grupare.
+folosite pentru grupare. Sunt cuvinte fără diacritice.
 
 Exemplu:
 
@@ -79,7 +79,19 @@ Exemplu:
 tags: [cronologie, asociatii]
 ```
 
-TODO: De definit lista de cuvinte cheie acceptate.
+Pentru a fi listate in tabelela cu cronologie, articolele trebuie să aibă
+tag-ul `cronologie`.
+
+Alte cuvinte folosite pentru grupare sunt:
+
+- asociatii
+- calculatoare
+- comunicatii
+- conferinte
+- international
+- internet
+- organizatii
+- website
 
 ## `date`
 
