@@ -6,7 +6,7 @@ tags: [cronologie, calculatoare]
 date: 2023-11-01T07:52
 
 eventDate: '1971'
-eventSummary: 'Licența pentru Felix C-256'
+eventSummary: 'România obține licența pentru Felix C-256'
 
 ---
 
