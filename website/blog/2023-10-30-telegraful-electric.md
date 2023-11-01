@@ -7,7 +7,6 @@ date: 2023-10-30T07:35
 
 eventDate: '1837'
 eventSummary: 'Telegraful electric Morse (cu fir)'
-reportedBy: 'ilg-ul'
 
 ---
 

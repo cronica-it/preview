@@ -7,7 +7,6 @@ date: 2023-11-01T07:52
 
 eventDate: '1971'
 eventSummary: 'Licența pentru Felix C-256'
-reportedBy: 'ilg-ul'
 
 ---
 

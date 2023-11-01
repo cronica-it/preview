@@ -7,7 +7,6 @@ date: 2023-10-30T08:38
 
 eventDate: '1992-10'
 eventSummary: 'Primul serviciu privat de Internet eMail'
-reportedBy: 'ilg-ul'
 
 ---
 
