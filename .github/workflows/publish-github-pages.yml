@@ -13,10 +13,10 @@ on:
       - '**'
     # ... any of these files changes ...
     paths:
-      - 'website/blog'
-      - 'website/docs'
-      - 'website/src'
-      - 'website/static'
+      - 'website/blog/**'
+      - 'website/docs/**'
+      - 'website/src/**'
+      - 'website/static/**'
       - 'website/*.js'
       - 'website/*.ts'
       - 'website/*.json'
