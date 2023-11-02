@@ -30,13 +30,27 @@
 }
 
 table.chronology tr {
-  line-height: 0.8em;
+  line-height: 1em;
 }
 
 table.chronology {
-  margin-bottom: 0;
+  margin-bottom: 0.2em;
 }
 
 p.chronology_length {
   font-size: 0.9em;
+}
+
+div.container {
+  text-align: left;
+}
+
+div.footer__copyright {
+  text-align: left;
+}
+
+header.hero {
+  padding-top: 1em;
+  padding-left: 1em;
+  padding-bottom: 0;
 }
