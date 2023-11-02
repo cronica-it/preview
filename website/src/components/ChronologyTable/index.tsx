@@ -11,9 +11,9 @@ export type ChronologyEvent = {
 
 function ChronologyRow({interval, description}: ChronologyEvent) {
   return (
-    <tr class="cronology">
-      <td class="cronology">{interval}</td>
-      <td class="cronology">{description}</td>
+    <tr class="chronology">
+      <td class="chronology">{interval}</td>
+      <td class="chronology">{description}</td>
     </tr>
   )
 }
@@ -26,8 +26,8 @@ export function ChronologyTable({ items }): JSX.Element {
         <table class="chronology">
           <thead>
             <tr>
-              <td class="cronology">Dată</td>
-              <td class="cronology">Eveniment</td>
+              <td class="chronology">Dată</td>
+              <td class="chronology">Eveniment</td>
             </tr>
           </thead>
           <tbody>
