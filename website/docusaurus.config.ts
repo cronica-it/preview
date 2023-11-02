@@ -2,6 +2,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
+const isPreview = true;
+
 const config: Config = {
   title: 'Cronica IT',
   tagline: 'O încercare de reconstituire a istoriei IT&C',
@@ -11,12 +13,12 @@ const config: Config = {
   url: 'https://cronica-it.github.io/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/preview/',
+  baseUrl: isPreview ? '/preview/' : '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'cronica-it', // Usually your GitHub org/user name.
-  projectName: 'preview', // Usually your repo name.
+  projectName: isPreview ? 'preview' : 'cronica-it.github.io', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -38,14 +40,14 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/cronica-it/preview/edit/master/website/',
+            isPreview ? 'https://github.com/cronica-it/preview/edit/master/website/' : 'https://github.com/cronica-it/cronica-it.github.io/edit/master/website/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/cronica-it/preview/edit/master/website/',
+            isPreview ? 'https://github.com/cronica-it/preview/edit/master/website/' : 'https://github.com/cronica-it/cronica-it.github.io/edit/master/website/',
             blogSidebarTitle: 'All posts',
             blogSidebarCount: 'ALL',
         },
@@ -75,7 +77,7 @@ const config: Config = {
         },
         {to: '/blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/cronica-it/preview',
+          href: isPreview ? 'https://github.com/cronica-it/preview' : 'https://github.com/cronica-it/cronica-it.github.io',
           label: 'GitHub',
           position: 'right',
         },
