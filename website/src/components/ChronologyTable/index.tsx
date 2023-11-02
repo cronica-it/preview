@@ -38,6 +38,7 @@ export function ChronologyTable({ items }): JSX.Element {
             }
           </tbody>
         </table>
+        <p class="chronology_length">({items.length} evenimente)</p>
       </div>
     </section>
   );

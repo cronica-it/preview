@@ -32,3 +32,11 @@
 table.chronology tr {
   line-height: 0.8em;
 }
+
+table.chronology {
+  margin-bottom: 0;
+}
+
+p.chronology_length {
+  font-size: 0.9em;
+}
