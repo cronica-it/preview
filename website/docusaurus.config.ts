@@ -4,7 +4,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'Cronica IT',
-  tagline: 'O incercare de reconstituire a istoriei IT&C',
+  tagline: 'O încercare de reconstituire a istoriei IT&C',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
