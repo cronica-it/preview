@@ -23,7 +23,7 @@ export function HomepageChronology({ items }): JSX.Element {
     <section className={styles.chronology}>
       <div className="container">
         <Heading as="h3">Evenimente, în ordine invers cronologică</Heading>
-        <table>
+        <table class="chronology">
           <thead>
             <tr>
               <td>Dată</td>
