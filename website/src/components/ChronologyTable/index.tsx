@@ -18,7 +18,7 @@ function ChronologyRow({interval, description}: ChronologyEvent) {
   )
 }
 
-export function HomepageChronology({ items }): JSX.Element {
+export function ChronologyTable({ items }): JSX.Element {
   return (
     <section className={styles.chronology}>
       <div className="container">

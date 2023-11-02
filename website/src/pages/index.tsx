@@ -2,7 +2,7 @@ import clsx from 'clsx';
 import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
-import { HomepageChronology, ChronologyEvent } from '@site/src/components/HomepageChronology';
+import { ChronologyTable, ChronologyEvent } from '@site/src/components/ChronologyTable';
 import Heading from '@theme/Heading';
 import logger from '@docusaurus/logger'
 
@@ -187,7 +187,7 @@ export default function Home(): JSX.Element {
       description={`${siteConfig.tagline}`}>
       <HomepageHeader />
       <main>
-        <HomepageChronology items={chronologyRows} />
+        <ChronologyTable items={chronologyRows} />
       </main>
     </Layout>
   );
