@@ -5,8 +5,8 @@ authors: ilg-ul
 tags: [international, comunicatii]
 date: 2023-10-30T07:35
 
-eventDate: '1837'
-eventSummary: 'Morse face primele transmisiuni telegrafice electrice (cu fir)'
+eventDate: '1837-05'
+eventSummary: 'Este patentat primul telegraf electric (cu fir)'
 
 ---
 
@@ -18,7 +18,8 @@ la acea dată.
 
 A fost folosit din anii 1840 până târziu în secolul 20.
 
-Cel mai cunoscut și răspândit a fost sistemul
+Primul sistem a fost patentat de Cooke și Wheatstone, in mai 1837,
+dar cel mai cunoscut și răspândit a fost sistemul
 inventat de
 [Samuel Morse](https://en.wikipedia.org/wiki/Samuel_Morse) in 1837 și
 folosit din 1838.
