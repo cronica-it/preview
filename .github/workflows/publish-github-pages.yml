@@ -5,7 +5,7 @@ name: GitHub Pages
 on:
   # Runs on pushes, if all conditions are met:
   push:
-    # ... on the xpack branch ...
+    # ... on the master branch ...
     branches:
       - 'master'
     # ... skip tags only ...
@@ -13,7 +13,13 @@ on:
       - '**'
     # ... any of these files changes ...
     paths:
-      - 'website/**'
+      - 'website/blog'
+      - 'website/docs'
+      - 'website/src'
+      - 'website/static'
+      - 'website/*.js'
+      - 'website/*.ts'
+      - 'website/*.json'
       - '.github/workflows/publish-github-pages.yml'
 
   # Allows you to run this workflow manually from the Actions tab
