@@ -10,7 +10,7 @@ eventSummary: 'Se desfășoară Conferința Națională de Învățământ Virtu
 
 ---
 
-Vineri, 27 Octobmbrie 2023, la Universitatea Politehnică București,
+Vineri, 27 Octobmbrie 2023, la Universitatea Politehnica București,
 a avut loc **Conferința Națională de Învățământ Virtual – CNIV 2023**,
 cu tema **30 de ani de INTERNET în România**,
 organizată de profesorul Radu Jugureanu.
