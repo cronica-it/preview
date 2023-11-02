@@ -66,6 +66,7 @@ const config: Config = {
         src: 'img/Felix_C-256_computer.jpg',
       },
       items: [
+        {to: '/despre', label: 'Despre', position: 'right'},
         {
           type: 'docSidebar',
           sidebarId: 'docuSidebar',
@@ -123,7 +124,7 @@ const config: Config = {
         //   ],
         // },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Cronica IT. Built with <a href=https://docusaurus.io>Docusaurus</a>.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Cronica IT. Built with Docusaurus.`,
     },
     prism: {
       theme: prismThemes.github,
