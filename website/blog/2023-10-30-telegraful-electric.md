@@ -2,7 +2,7 @@
 slug: telegraful-electric
 title: 'Telegraful electric'
 authors: ilg-ul
-tags: [cronologie, international, comunicatii]
+tags: [international, comunicatii]
 date: 2023-10-30T07:35
 
 eventDate: '1837'

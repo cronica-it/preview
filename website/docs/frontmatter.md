@@ -76,13 +76,10 @@ folosite pentru grupare. Sunt cuvinte fără diacritice.
 Exemplu:
 
 ```yml
-tags: [cronologie, asociatii]
+tags: [asociatii]
 ```
 
-Pentru a fi listate in tabelela cu cronologie, articolele trebuie să aibă
-tag-ul `cronologie`.
-
-Alte cuvinte folosite pentru grupare sunt:
+Cuvintele folosite pentru grupare sunt:
 
 - asociatii
 - calculatoare

@@ -2,7 +2,7 @@
 slug: primul-serviciu-privat-email
 title: 'Primul serviciu privat de eMail'
 authors: ilg-ul
-tags: [cronologie, internet]
+tags: [internet]
 date: 2023-10-30T08:38
 
 eventDate: '1992-10'

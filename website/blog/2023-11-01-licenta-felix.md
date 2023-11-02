@@ -2,7 +2,7 @@
 slug: licenta-felix
 title: 'Licența pentru Felix C-256'
 authors: ilg-ul
-tags: [cronologie, calculatoare]
+tags: [calculatoare]
 date: 2023-11-01T07:52
 
 eventDate: '1971'

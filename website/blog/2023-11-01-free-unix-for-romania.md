@@ -2,7 +2,7 @@
 slug: free-unix-for-romania
 title: 'Free Unix for Romania'
 authors: ilg-ul
-tags: [cronologie, organizatii]
+tags: [organizatii]
 date: 2023-11-01T09:21
 
 eventDate: '1992'

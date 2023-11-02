@@ -2,7 +2,7 @@
 slug: computere-pentru-licee
 title: 'Computere pentru licee'
 authors: dancorl
-tags: [cronologie, internet]
+tags: [internet]
 date: 2023-10-30T08:28
 
 eventDate: '1993'
