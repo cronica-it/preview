@@ -7,5 +7,6 @@ sidebar_position: 1
 Acest site este organizat în jurul unui blog generat static cu
 [Docusaurus](https://docusaurus.io).
 
-Tabelele de cronologie sunt generate folosind metadate suplimentare
+Tabelele de cronologie sunt generate folosind
+[metadate](/docs/metadate) suplimentare
 adăugate la fiecare articol.
