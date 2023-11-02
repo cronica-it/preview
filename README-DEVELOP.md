@@ -3,12 +3,12 @@
 ## Initial setup
 
 ```bash
-npx create-docusaurus@3.0.0-rc.1 website classic --typescript
+npx create-docusaurus@3.0.0 website classic --typescript
 ```
 
 ## Install dependencies
 
-```
+```bash
 cd website
 npm install
 ```
