@@ -19,8 +19,6 @@ organizată de profesorul Radu Jugureanu.
 
 ## Agenda
 
-Agenda conferinței a fost:
-
 | Ora  | Descriere   |
 | --- | :--- |
 |09:00-10:00|Înregistrarea participanților|
@@ -55,7 +53,7 @@ Agenda conferinței a fost:
 
 ## Lucrare
 
-Lucrarile participanților au fost grupate intro-o lucrare publicată la Editura ICI,
+Prezentările participanților au fost grupate intro-o lucrare publicată la Editura ICI,
 cu numele _30 de ani de Internet în România - Oameni, momente și imagini_,
 disponibilă [online](https://cniv.ro/documents/26/CNIV_Volum_Aniversar_2023_-_Versiune_Online.pdf).
 
