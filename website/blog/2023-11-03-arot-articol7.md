@@ -3,7 +3,7 @@ slug: arot-articol7
 title: 'Articol 7 IT Trends'
 authors: arot
 tags: [articole]
-date: 2023-11-03T22:06
+date: 2023-11-03T22:08
 
 ---
 
