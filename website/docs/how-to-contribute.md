@@ -70,6 +70,33 @@ Fiecare articol e bine să conțină referințe la alte pagini de web,
 lucrări publicate, articole de legislație, și orice alte documente
 externe acestui site.
 
+## Exemplu
+
+Un exemplu de articol scurt poate fi:
+
+```md title="2023-11-01-free-unix-for-romania.md"
+---
+slug: free-unix-for-romania
+title: 'Free Unix for Romania'
+authors: ilg-ul
+tags: [organizatii]
+date: 2023-11-01T09:21
+
+eventDate: '1992'
+eventSummary: 'Marius Hâncu fondează Free Unix for Romania'
+
+---
+
+În 1992, Marius Hâncu fondează organizația internațională non-profit
+**Free Unix for Romania**.
+
+<!-- truncate -->
+
+Referințe:
+
+- [Prezentare Marius Hâncu](http://linux.punct.info/freeunix.html)
+```
+
 ## Diacritice
 
 Articolele trebuie scrise în limba română, cu diacritice.
