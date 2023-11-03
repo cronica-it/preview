@@ -1,0 +1,34 @@
+---
+slug: arot-articol4
+title: 'Articol 4 IT Trends'
+authors: arot
+tags: [articole]
+date: 2023-11-03T22:05
+
+---
+
+Acest articol este al patrulea dintr-o serie apărută în revista IT Trends în data de ???.
+
+<!-- truncate -->
+
+---
+
+In anul 1994, dupa tabara nationala Unix pentru licee de la Eforie Sud si dupa lansarea  retelei liceelor din Romania, am avut in prima parte a anului doua evenimente internationale deosebite.
+
+Pe 25-29 Aprilie 1994 am participat impreuna cu Irina Athanasiu la conferinta OPEN SYSTEMS: SOLUTION FOR OPEN WORLD  desfasurata la Academia de Stat din Moscova fiind invitati de SUUG (Grupul de Unix din Rusia).  Pina cind am ajuns acolo, chiar daca citisem majoritatea lucrarilor, fiind in Comitetul International de Program al conferintei, nu am realizat cat de avansati erau cei din grupul lui Peter Brusilovsky la acel moment in dezvoltarea unor proiecte pe scara larga bazata pe platforme Unix. In fiecare seara profesorul Guy Bernard, de la Univ Paris Sud comenta cu noi acest miracol rusesc.
+
+Stiu ca in timpul conferintei l-am abordat pe Doug Michels si i-am spus ca SCO Unix nu are nici o sansa pe termen lung in fata Linux-ului. Atunci el a scos din geanta un disc cu o distributile “SCO Skunkware” pe care se aflau toate programele Free Software Foundation sub licenta GNU, compilate si functionale pe SCO Unix. Am inteles atunci  de fapt ne-a dat dreptate, fara sa recunoasca explicit acest lucru. CD-ul cu SCO Skunkware a fost distribuit de GURU in toate liceele din Romania care primisera prin fundatia SOROS calculatoare cu SCO Unix in 1993 si inceputul lui 1994, dupa care majoritatea administratorilor din licee au trecut serverele pe Linux.
+
+La Moscova in acel moment, simultan cu aceasta conferinta se desfasura expozitia de calculatoare Comtek 94 intr-o alta locatie, un fel de CERF rusesc. Acolo am dat peste un stand impresionant al firmei Sun Microsystems dar si peste doi colaboratori apropiati ai lui Scott McNealy si Bill Joy, care facusera istorie in lumea Unix-ului si nu numai.  Fiind prezenti fondatorii firmei Sun am intrebat cum se explica asa o prezenta la Moscova? Atunci cei de la SUUG ne-au condus la o cladire a Universitatii de Stat din Moscova (fostul Lomonosov) unde se gasea cel mai mare centru de dezvoltare al lui Sun Microsystems din afata Statelor Unite. Am vazut cum cei de acolo, sub coordonarea lui Ruslan Smelyansky dezvoltau cod pentru SPARC-uri si cum printr-o antena de satelit cu diametrul de 6m se testa acest cod on-line pe hardware functionind in centrul Sun Microsystems de la Mountain View. Noi am pus doar o singura intrebare: daca sunt interesati sa faca un Sunsite in Romania? Initial ne-au lasat sa intelegem ca nu este oportun asa ceva pentru Romania, tinind cont de potentialul de dezvoltare de la noi. Ulterior, peste un an, ne-am dat seama ca atunci chiar  i-am convins, pentru ca asa dupa cum stim in 1996 Sun Microsystems a infiintat Sunsite-ul de la Politehnica din Bucuresti.
+
+In primavara anului 1994 au inceput sa apara primele rapoarte despre Internet-ul din Romania, care tocmai implinise 1 an de existenta. Mentionez ca exemple raportul din 18 martie 1994 transmis de Eugenie Staicut in calitate de administrator din partea ICI al domeniului .ro , si cel transmis de GURU, ca asociatie independenta, initial in octombrie 1993 si apoi revizuit in aprilie 1994, si publicat in primul numar din 1994 al revistei Internet Society . “ISOC News, vol 3, no 1, martie1994”
+Foarte curind dupa asta, aveam sa-i cunosc pe citiva dintre cei care erau direct implicati in dezvoltariea Internet-ului.
+
+Pe 13-17 iunie 1994 la Praga s-a organizat INET 94, a 2-a conferinta internationala al “tinerei asociatii” Internet Society fondata in 1992, la Reston in Virginia.  Am avut sansa sa fiu invitat acolo de fundatia SOROS, atat la INET 94 cat si la workshop-ul:  din 5-11 Iunie 1994, desfasurat la Univeristatea Tehnica din Praga.
+
+In timpul workshop-ului de la Universitatea din Praga imi amintesc ca in fiecare zi comunicam cu alte persoane atat din tarile recent conectate la Internet cat si cu cei care conduceau tehnologic “ostilitatile”. S-au legat foarte multe prietenii, tinind cont ca eram peste 100 de participanti. Am fost uimit de larga raspindire in Internet a stivei TCP/IP Berkeley Sockets, cea aparuta odata cu  BSD-ul  in 1982 dar si de  implementarea la care lucra Alan Cox in Kernel-ul de Linux pentru noua stiva TCP/IP si de la care lumea de acolo astepta foarte mult. De multe ori, fiind venit din lumea Unix-ului, treceam de partea celor care prezentau diverse solutii, alteori, cum a fost in a 3-a seara, a trebuit sa rebootez serverul de la reteaua Novell de la hotelul Krystal unde locuiam, pentru ca multi dintre cei veniti din Africa sau Orient, ca sa studieze TCP/IP-ul, blocau cele 10 terminale de unde puteam comunica pe Internet.  Atunci am realizat pentru prima oara cit ne bazam in comunicarea noastra zilnica pe Internet, mai ales ca atunci nu existau telefoane mobile.
+
+In ultima zi a workshop-ului, coordonat de George Sadowsky , a sosit Vinton Cerf , ne-a adunat pe toti intr-o sala si ne-a spus sa ne uitam atent unii la altii si sa ne tinem minte, pentru data viitoare, care s-ar putea sa fie peste 20 ani, pentru ca asa au facut si ei in anii 70 la DARPA, cu 20 ani in urma. De altfel atunci am primit cadou o insigna cu Unix, 25 de ani de la aparitia acestuia la Bell Labs, din partea Usenix si am realizat inca odata ca toate evenimentele din tehnologie sunt strins legate intre ele si depind in ultima instanta de citiva oameni care neaparat trebuiau sa ajunga la conferintele noastre din Romania, pentru ca altfel cei care nu au vazut asa ceva nu vor intelege niciodata esentialul.
+
+Dupa workshop a inceput conferinta INET94, la Palatul Culturii din Praga. Atunci am invatat multe despre organizarea unui asemenea eveniment. La Praga organizarea a fost ireprosabila. Numarul de participanti la conferinta a fost peste 1000 si erau practic din toate zonele implicate in dezvoltarea Internet-ului.  Intr-o zi Antony Rutkowsky m-a prezentat lui Vinton Cerf spunindu-i ca eu reprezint asociatia care a publicat raportul despre Romania din ISOC News si apreciaza ca m-am referit pentru prima data la forme de “continut Romanesc” de pe Internet. Apoi cu George Soros am discutat intr-o seara la masa despre cum vede el evolutia Internet-ului in Europa Centrala si de Est.  Impreuna cu Jonathan Peizer, coordonatorul programului, i-am sugerat citeva idei, mai ales ca aflase de training-ul Unix tinut de noi pentru liceele din Romania. Cu Jon Postel si cu Esther Dyson am vorbit despre ICANN, iar pe John Quartermann l-am invitat in Romania, dupa ce i-am spus ca va avea ce sa vada la conferintele ROSE. De acolo m-am intors si mai hotarit sa pregatesc impreuna cu ceilalti colegi de la GURU asemenea evenimente in Romania, indiferent de greutatile pe care le vom intimpina.
+

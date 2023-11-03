@@ -1,0 +1,38 @@
+---
+slug: arot-articol2
+title: 'Articol 2 IT Trends'
+authors: arot
+tags: [articole]
+date: 2023-11-03T21:54
+
+---
+
+Acest articol este al doilea dintr-o serie apărută în revista IT Trends în data de ???.
+
+<!-- truncate -->
+
+---
+
+Afilierea la EurOpen nu era posibila decit daca cineva din partea GURU mergea personal sa confirme inscrierea. Primul eveniment important din calendarul anului 1992 in timpul caruia care se putea finaliza afilierea era conferinta “Open Forum '92” organizata la Royal Dutch Fairgrounds  din Utrecht  in 23-27 nov 1992 de catre UniForum, USENIX si EurOpen.
+
+Open Forum '92 era intr-adevar ceva grandios. Toate firmele importante erau reprezentate la nivel de CEO  (Unix Systems Laboratories prin Roel Piper; SCO prin Doug Michels sau Oracle prin Larry Elisson). Din primul moment am fost preluat de niste persoane foarte comunicative care m-au introdus direct in aceasta lume (Ellie Young si Eric Allman de la Usenix; Richard Jaross de la UniForum sau Mick Farmer si Hellen Gibbons de la EurOpen). De exemplu la standul Oracle se cinta jazz si am intrebat de ce fac ei asta (vorbim despre perioada in care se prezenta Oracle 7). Raspunsul a venit prompt: “noi am finalizat engine-ul de baze de date si acum ne ocupam de integrare verticala pe layere a aplicatiilor”. Evident nu au pomenit nimic despre Sybase, principalul lor competitor care urma sa devina in 1993  SQL Server la Microsoft. La standul Data General se gasea celebra serie de platforme AViiON iar la Sillicon Graphics si la Sun Microsystems erau expuse  cele mai rapide statii de grafice din lume.
+
+Prezentarile din sala de conferinte erau impecabile, dupa un program coordonat de nume celebre: Andrew Tanenbaum, Arno Penziasl, Doug Michaels, Charels Reill sau Roel Piper. Erau peste 100 speakeri din 17 tari. Se putea discuta orice cu acesti oameni, incepind cu ce a stat in spatele fiecarui proiect si terminind cu ce se va intimpla in tehnologie in urmatori 4-5 ani. O sala cu terminale era conectata la Internet si tot de acolo se realizau experimental demonstratii cu Tuxedo la Unix Systems Laboratories. Este prima data cind am vazut cum se distribuie tranzactiile de baze de date prin Internet pe mai multe servere aflate pe diverse continente si fusuri orare, chestiuni explicate si demonstrate direct de CEO-ul de la USL: Roel Piper. Atunci cind am intrebat care sunt cele mai bune sinteze scrise la acel moment despre Internet mi-au recomandat pe loc trei brosuri ale lui John Quartermann scrise impecabil si redactate de UniForum, pe care le pastrez si azi. Abia mai tirziu am aflat ca el a propus pentru prima oara in 1989 denumirea RIPE
+
+Imi amintesc de un grup aparte de irlandezi, care coordonau comitetele POSIX si care lucrau intr-un regim foarte ciudat. Se angajau la Microsoft cite 6 luni dupa care ieseau de acolo si dezvoltau un nou nucleu Unix care sa functioneze pe bibliotecile Microsoft-ului (ultimul lor produs era MKS Unix pentru MS-DOS si Windows dezvoltat sub coordonare lui Steve Walli). Acest grup mi-a cerut sa semnez o petitie prin care se solicita sa se instaleze un calculator intr-o celula a inchisorii din Dublin unde se afla un coleg de-al lor inchis pentru o cauza oarecare, dar care era de neinlocuit intr-un proiect la care lucrau acesti oameni. Tota atunci cei de la BSDi vazind ca ma pricep la Unix m-au rugat citeva ore sa-i ajut la un mini training pentru administrea platformelor BSD.
+
+Toti pe care i-am intilnit, mi-au explicat ca asa ceva trebuie sa organizam si noi in Romania, pentru ca oamenii sa inteleaga cum se dezvolta tehnologiile si ca or sa ne ajute. In special cei de la EuroOpen si Usenix ne-au promis din prima clipa ca vor aduce speakeri in Romania si ca vor munci cot la cot cu noi la organizare. Deja imi  imaginam cum o sa stau in Romania alaturi de Eric Allman sau Tom Christiansen si sa sortez volumele viitoarelor conferinte.
+
+Intr-una din zile am participat la board-ul EurOpen. Trebuie sa marturisesc ca nu eram foarte familiarizat cu Internet-ul si cu atat mai putin cu ceea ce insemnau costurile de operare ale unui nod Internet. Acolo am vazut toate astea pe viu. Am aflat in acea sedinta ca EUnet este de fapt reteaua dezvoltata de grupurile de Unix din Europa si ca era amplasata in toate marile univeristati de pe continent. Rectorii acestor universitati nu mai puteau suporta costurile cu telecomunicatiile. Toata problema era un fiasco financiar, mai ales ca EUnet functiona inca din 1988 ca backbone IP. Asa cum am mai povestit cu alta ocazie, in acea sedinta sa fondat EUnet BV si s-a votat ca EUnet sa se transforme intr-un operator comercial distribuit in toate tarile, sub forma unui holding de firme in care EurOpen sa fie actionar. Atunci am aflat, ca in calitate de reprezentant al unui grup de Unix proaspat asociat in EurOpen (GURU) vom beneficia de conexiune Internet gratuita de la EUnet Romania SRL, in calitate de actionar in acest holding. De altfel chiar am fost rugat de catre Martin Haberler, coordonatorul nodului EUnet din Viena, sa confirm daca prietenul meu Liviu Ionescu care aplicase pentru EUnet Romania este capabil sa tina o firma  in functiune in Romania, avind ca obiect de activitate “ furnizarea de Internet” fara ca sa dea faliment din primul an. Am spus evident DA si apoi am argumentat.
+
+Din Utrecht m-am intors cu un numar mare de contacte, cu multe carti si cu hotarirea clara de a porni o serie de conferinte cu tematica “Open Systems” in Romania.
+
+Ne-a luat circa 4 luni sa ne decidem cum sa se numeasca conferintele si cu greu am ajuns la ROSE (Romania Open Systems Event), la sigla conferintei si la sigla ascociatiei noastre ca membru in EurOpen. Dupa asta am construit un comitet de program international (impreuna cu EurOpen) si un comitet de organizare intern si am ales Cluj pentru prima conferinta (Rose'93). Primii invitati care au acceptat sa participe au fost Jeff Haemer din la univ din Boulder Clorado si Sergey Kusnetsov presedintele grupului de Unix din Rusia. Am incercat sa invitam citeva dintre firmele din Europa pe care le intilnisem la Utrecht in 92, pentru a avea ceva bani, La ROSE'93 am reusit acest lucru cu USL, SunSoft si Garmhausen & Partner. Totusi greutatile de abia cum urmau sa inceapa. Odata cu anul primei conferinte ROSE: 1993.
+
+Intre timp, in prima jumatate a anului 1993 numarul de distributii Linux pe discheta crestea de la o luna la alta si incepusem sa trimitem carti de la editura O'Reilly si Associates in univeristati, prin colaborare cu Free Unix for Romania. In plus la inceputul anului 1993 am inregistrat prin EUnet Romania domeiul guru.ro si am construit adrese de email pentru toti membrii. Instantaneu am inceput sa comunicam cu toti cei pe care ii cunoscusem la Utrecht ca si cum ne-am fi cunoscut dintotdeauna. Tot board-ul nostru avea acum zeci de contacte in toata lumea. Ulterior la Praga in 1994 la INET'94 am primit un fel de carte de telefon, cu adresele email de pe Internet inregistrate pina la jumatatea anului 1993 si tin minte ca figuram acolo alaturi de presedintele SUA, alaturi de Vinton Cerf sau Richard Stallman ori John Quarterman. Singura diferenta era ca adresele noastre erau cu 4 litere in timp ce ale lor cu 3 litere, pentru ca erau chiar de la inceput acolo pe Internet (adica din anii 80).
+
+De exemplu prin 2 mail-uri schimbate cu Antony Rutkowsky, director executiv al  ISOC in 1994, dar si vicepresedinte la SPRINT, am reusit sa aranjez un training in Reston Virginia pentru echipa tehnica de la Logic Telecom. Logic Telecom si RTNS (firma mixta Transpac - Romtelecom) au fost primii operatori de pachete comutate din Romania la inceputul anului 1993.
+
+Errata
+
+Numele este Michael Haberler
