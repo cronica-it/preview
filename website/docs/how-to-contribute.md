@@ -66,7 +66,7 @@ printr-o linie cu un conținut specific:
 
 ## Referințe
 
-Fiecare articol e bine să conțină referințe la alte pagini de web,
+Este recomandat ca fiecare articol să conțină referințe la alte pagini de web,
 lucrări publicate, articole de legislație, și orice alte documente
 externe acestui site.
 
