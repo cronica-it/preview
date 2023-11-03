@@ -70,6 +70,10 @@ Fiecare articol e bine să conțină referințe la alte pagini de web,
 lucrări publicate, articole de legislație, și orice alte documente
 externe acestui site.
 
+## Diacritice
+
+Articolele trebuie scrise în limba română, cu diacritice.
+
 ## Transmiterea articolelor
 
 Pentru cei obișnuiți cu GitHub, cea mai simpla soluție de
