@@ -1,5 +1,5 @@
 ---
-slug: 20-ani-internet
+slug: agora-20-ani-internet
 title: '20 de ani de Internet in Romania'
 authors: [ilg-ul]
 tags: [mesaj]
@@ -10,7 +10,10 @@ eventSummary: 'Agora Group organizează conferința "20 de ani de Internet in Ro
 
 ---
 
-Joi, 14 noiembrie 2013, a avut loc o nouă ediție a conferinței Programatica – Open Source. Evenimentul a fost organizat de Agora Group la Hotel Intercontinental, sala Rapsodia.
+Joi, 14 noiembrie 2013, a avut loc o nouă ediție a conferinței
+Programatica – Open Source, cu tema 20 de ani de Internet in Romania.
+Evenimentul a fost organizat de Agora Group la Hotel Intercontinental,
+sala Rapsodia.
 
 <!-- truncate -->
 
