@@ -1,7 +1,7 @@
 ---
 slug: telegrama
 title: 'Telegrama - serviciul de presă prin email'
-authors: [ilg-ul]
+authors: ilg-ul
 tags: [mesaj]
 date: 2023-11-03T22:20
 
