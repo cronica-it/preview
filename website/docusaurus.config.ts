@@ -6,7 +6,7 @@ const isPreview = true;
 
 const config: Config = {
   title: 'Cronica IT',
-  tagline: 'O încercare de reconstituire a istoriei IT&C',
+  tagline: 'O încercare de reconstituire a istoriei IT&C (preview)',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
