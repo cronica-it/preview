@@ -7,7 +7,7 @@ purposes, it is also possible to build it locally.
 
 In addition to `git` required to get the source files,
 the site is built with [docusaurus](https://docusaurus.io),
-which requires only `npm` to be available
+which requires only `node` >= 18 & `npm` to be available
 globally, all other dependencies being installed locally in the project.
 
 ## Get project sources
