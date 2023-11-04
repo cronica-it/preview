@@ -51,7 +51,7 @@ organizată de profesorul Radu Jugureanu.
 
 Prezentările participanților au fost grupate intr-o lucrare
 cu numele _30 de ani de Internet în România - Oameni, momente și imagini_, publicată la Editura ICI și
-disponibilă [online](https://cniv.ro/documents/26/CNIV_Volum_Aniversar_2023_-_Versiune_Online.pdf).
+disponibilă [on-line](https://cniv.ro/documents/26/CNIV_Volum_Aniversar_2023_-_Versiune_Online.pdf).
 
 ---
 
