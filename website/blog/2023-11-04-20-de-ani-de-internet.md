@@ -90,6 +90,7 @@ Liviu Iftode - Prof Universitatea Princeton (acum decedat)
 https://www.youtube.com/watch?v=uB3hp5T22XE
 Nick Sandru - soc.cult.romanians  (Newsgroup-ul emigratiei romane in anii 80'-90')
 
-## Referințe:
+## Referințe
 
 - [prwave.ro](https://www.prwave.ro/20-de-ani-de-internet-in-romania-evocati-la-programatica/)
+- [AgoraMedia pe YouTube](https://www.youtube.com/@AgoraMEDIAsa/videos)
