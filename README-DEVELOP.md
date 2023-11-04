@@ -12,7 +12,7 @@ globally, all other dependencies being installed locally in the project.
 
 ## Get project sources
 
-The project is hosted on GitHub:
+The open source project is hosted on GitHub:
 
 - <https://github.com/cronica-it/preview.git>
 
