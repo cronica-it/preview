@@ -4,14 +4,14 @@ ilg-ul:
   title: Site maintainer
   email: ilg@livius.net
   url: https://github.com/ilg-ul
-  image_url: https://github.com/ilg-ul.png
+  image_url: https://cronica-it.github.io/img/authors/ilg-ul.jpg
 
 dancorl:
   name: Alexandru Corlan
   title: Project lead
   email: alexandru@corlan.net
-  url: https://github.com/dancorl
-  image_url: https://github.com/dancorl.png
+  url: http://dan.corlan.net
+  image_url: https://cronica-it.github.io/img/authors/dancorl.jpg
 
 arot:
   name: Alexandru Rotaru
