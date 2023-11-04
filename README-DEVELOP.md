@@ -16,7 +16,8 @@ The open source project is hosted on GitHub:
 
 - <https://github.com/cronica-it/preview.git>
 
-To clone the stable branch (`master`), run the following commands in a
+To clone a clean version of the stable branch (`master`),
+run the following commands in a
 terminal (on Windows use the _Git Bash_ console):
 
 ```sh
