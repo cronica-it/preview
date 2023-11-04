@@ -41,6 +41,8 @@ command in the `website` folder:
 npm install -C ~/Work/cronica-it/preview.git/website
 ```
 
+Docusaurus 3 is pretty young and warnings might be observed.
+
 ## Start server
 
 To test the site locally, start a local web server on port 3000:
