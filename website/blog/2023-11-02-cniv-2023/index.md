@@ -57,7 +57,7 @@ disponibilă [online](https://cniv.ro/documents/26/CNIV_Volum_Aniversar_2023_-_V
 
 ![Radu Jugureanu](img/IMG_2693.jpeg)
 
-Referințe:
+## Referințe
 
 - [cniv.ro](https://cniv.ro/)
 - [lucrare](https://cniv.ro/documents/26/CNIV_Volum_Aniversar_2023_-_Versiune_Online.pdf)

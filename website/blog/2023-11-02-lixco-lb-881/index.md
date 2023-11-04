@@ -26,7 +26,7 @@ A fost comercializat sub forma de kit sau complet funcțional în special
 
 ![L/B881](img/lb881.jpg)
 
-Referințe:
+## Referințe
 
 - [retroit.ro](https://retroit.ro/l-b-881/)
 - [ilgthegeek.wordpress.com](https://ilgthegeek.wordpress.com/2010/11/14/history-lixco-lb881/)

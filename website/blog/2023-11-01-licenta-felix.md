@@ -16,6 +16,6 @@ Fabrica de Calculatoare Electronice, din București.
 
 <!-- truncate -->
 
-Referințe:
+## Referințe
 
 - [BOUCHER Henri; INFORMATIQUE NON AMERICAINE - Première partie](http://www.aconit.org/histoire/iga_boucher/pdf/Vol_E_700-745.pdf), pagina 195/333

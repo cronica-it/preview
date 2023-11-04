@@ -15,6 +15,6 @@ eventSummary: 'Marius Hâncu fondează Free Unix for Romania'
 
 <!-- truncate -->
 
-Referințe:
+## Referințe
 
 - [Prezentare Marius Hâncu](http://linux.punct.info/freeunix.html)

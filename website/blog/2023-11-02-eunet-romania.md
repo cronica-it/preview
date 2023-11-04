@@ -14,6 +14,6 @@ In Iunie 1993, Liviu Ionescu înființează firma **EUnet Romania SRL**.
 
 <!-- truncate -->
 
-Referințe:
+## Referințe
 
 - TODO
