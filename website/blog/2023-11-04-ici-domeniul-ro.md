@@ -33,10 +33,11 @@ Europa, conectivitatea TCP/IP directă cu Statele Unite nu era posibilă,
 datorită restricțiilor COCOM, si NSFNet nu accepta rutarea claselor de
 adrese din România și Bulgaria.
 
-Această situație a fost rezolvată, și, pe fondul negocierilor României
+Pe fondul negocierilor României
 pentru acordarea clauzei națiunii celei mai favorizate, restricția a fost
 ridicată și din 16 aprilie România a avut acces deplin în internet.
 
 ## Referințe
 
 - [prezentare Eugen Stăicuț](https://www.youtube.com/watch?v=grpiDxhkgmU)
+- [electrokits.ro](https://www.electrokits.ro/scurt-istoric-al-internetului-in-romania/)
