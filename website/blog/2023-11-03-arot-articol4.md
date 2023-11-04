@@ -8,7 +8,7 @@ date: 2023-11-03T22:05
 ---
 
 Acest articol este al patrulea dintr-o serie apărută în revista IT Trends
-în anul ???, și republicat în broșura
+în anul 2013, și republicat în broșura
 [De la Free Software la Internet](https://cronica-it.github.io/archive/assets/arot/Brosura_Alex_Rotaru_A5_Tipar.pdf).
 
 <!-- truncate -->
