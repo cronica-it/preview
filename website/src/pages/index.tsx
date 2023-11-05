@@ -141,9 +141,10 @@ const chronologyRows = ((ctx) => {
     const module = ctx(key);
     const { frontMatter } = module.metadata;
     // logger.info(frontMatter.eventDate);
-    if (frontMatter.eventDate !== undefined) {
-      chronologyModules.push(module);
+    if (frontMatter.eventDate === undefined) {
+      logger.error(`Missing eventDate: for event ${key}`)
     }
+    chronologyModules.push(module);
   })
 
   chronologyModules.sort((a, b) => {
