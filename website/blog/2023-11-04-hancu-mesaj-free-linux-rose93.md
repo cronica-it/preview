@@ -2,7 +2,7 @@
 slug: hancu-mesaj-free-unix-rose93
 title: 'Mesaj Marius Hâncu despre Free Unix for Romania la ROSE 1993'
 authors: hancu
-tags: [mesaj]
+tags: [mesaje]
 date: 2023-11-01T09:21
 
 ---

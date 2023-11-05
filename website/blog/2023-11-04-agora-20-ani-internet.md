@@ -2,7 +2,7 @@
 slug: agora-20-ani-internet
 title: '20 de ani de Internet in Romania'
 authors: ilg-ul
-tags: [mesaj]
+tags: [mesaje]
 date: 2023-11-03T22:20
 
 eventDate: '2013-11-14'
