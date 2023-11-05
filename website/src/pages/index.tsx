@@ -174,7 +174,7 @@ const chronologyRows = ((ctx) => {
   })
 
   // @ts-ignore
-})(require.context('../../blog', true, /.*.md/));
+})(require.context('../../events', true, /.*.md/));
 
 // logger.info(chronologyRows.length);
 // chronologyRows.forEach((x) => { logger.info(x) })

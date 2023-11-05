@@ -31,6 +31,34 @@ const config: Config = {
     locales: ['en'],
   },
 
+  plugins: [
+    [
+      '@docusaurus/plugin-content-blog',
+      {
+        /**
+         * Required for any multi-instance plugin
+         */
+        id: 'events-blog',
+        /**
+         * URL route for the blog section of your site.
+         * *DO NOT* include a trailing slash.
+         */
+        routeBasePath: 'events',
+        /**
+         * Path to data on filesystem relative to site dir.
+         */
+        path: './events',
+        authorsMapPath: '../blog/authors.yml',
+        showReadingTime: true,
+        // Please change this to your repo.
+        // Remove this to remove the "edit this page" links.
+        editUrl:
+          isPreview ? 'https://github.com/cronica-it/preview/edit/master/website/' : 'https://github.com/cronica-it/cronica-it.github.io/edit/master/website/',
+          blogSidebarTitle: 'All posts',
+          blogSidebarCount: 'ALL',
+    },
+    ],
+  ],
   presets: [
     [
       'classic',
@@ -75,6 +103,7 @@ const config: Config = {
           position: 'right',
           label: 'Docu',
         },
+        {to: '/events', label: 'Evenimente', position: 'left'},
         {to: '/blog', label: 'Blog', position: 'left'},
         {
           href: isPreview ? 'https://github.com/cronica-it/preview' : 'https://github.com/cronica-it/cronica-it.github.io',
