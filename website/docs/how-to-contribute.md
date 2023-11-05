@@ -111,9 +111,10 @@ transmiterea a fișierelor prin eMail se pot de asemenea folosi.
 
 ## GDPR
 
-Suplimentar, autorii trebuie să furnizeze cateva informații de
-identificare, cum ar fi nume, adresa de email, adresă de de web,
-fotografie.
+Suplimentar, cine dorește să publice articole, trebuie să furnizeze
+și cateva informații de identificare, cum ar fi nume sau/și fotografie,
+opțional adresa de email, adresă de de web, și să își asume răspunderea
+pentru informațiile publicate.
 
 In conformitate cu GDPR, este nevoie și de o declarație că este de
 acord ca aceste date să fie utilizate pe site, în condițiile
