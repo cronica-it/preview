@@ -2,7 +2,7 @@
 slug: cniv-2023
 title: "CNIV 2023"
 authors: ilg-ul
-tags: [calculatoare]
+tags: [conferinte]
 date: 2023-11-02T20:15
 
 eventDate: '2023-11-27'
