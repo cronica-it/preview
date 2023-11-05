@@ -59,6 +59,6 @@ Diferă de câmpul `title`, care este numele scurt al evenimentului.
 Exemple:
 
 ```yaml
-eventSummary: 'Se desfașoară programul Computere pentru licee'
-eventSummary: 'Alexandru Rotaru înființează Asociația Româna a Utilizatorilor de Unix (GURU)'
+eventSummary: 'Se desfașoară programul "Computere pentru licee"'
+eventSummary: 'Alexandru Rotaru înființează "Grupul Utilizatorilor Români de Unix" (GURU)'
 ```
