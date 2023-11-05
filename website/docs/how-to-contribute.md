@@ -47,8 +47,8 @@ linițe, de exemplu:
 ## Preambului articolului
 
 Deși nu există un standard foarte strict, majoritatea blog-urilor
-folosesc un preambul ([frontmatter](frontmatter)) cu diverse [metadate](metadate), reprezentate
-ca proprietăți în YML.
+folosesc un preambul ([frontmatter](frontmatter)) cu diverse
+[metadate](metadate), reprezentate ca proprietăți în YML.
 
 ## Sumarul articolului
 
@@ -109,6 +109,13 @@ a contribui articole sau actualizări este cu un Pull Request.
 Pentru cei care nu au experiență cu GitHub, metodele tradiționale de
 transmiterea a fișierelor prin eMail se pot de asemenea folosi.
 
+## GDPR
+
 Suplimentar, autorii trebuie să furnizeze cateva informații de
 identificare, cum ar fi nume, adresa de email, adresă de de web,
 fotografie.
+
+In conformitate cu GDPR, este nevoie și de o declarație că
+este de acord ca aceste date să fie utilizate pe site, în condițiile
+în care noi ne angajăm să nu le folosim în alte scopuri;
+în plus acest acord poate fi retras ulteroor.
