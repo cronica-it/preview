@@ -9,6 +9,7 @@
 - carte Radu Jugureanu
 - povesti Nicolai Sandu
 - PDF-uri politehnica (http://www.csit-sun.pub.ro/research/history/)
+- CERF'97 - https://www.byte.ro/byte97-07/masa.html
 
 ## Mihu
 
