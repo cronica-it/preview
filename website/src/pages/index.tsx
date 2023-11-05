@@ -140,7 +140,7 @@ const chronologyRows = ((ctx) => {
   keys.forEach((key) => {
     const module = ctx(key);
     const { frontMatter } = module.metadata;
-    logger.info(frontMatter.eventDate);
+    // logger.info(frontMatter.eventDate);
     if (frontMatter.eventDate !== undefined) {
       chronologyModules.push(module);
     }
