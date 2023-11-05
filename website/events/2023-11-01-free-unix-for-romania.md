@@ -17,4 +17,4 @@ eventSummary: 'Marius Hâncu fondează Free Unix for Romania'
 
 ## Referințe
 
-- [Prezentare Marius Hâncu](hancu-mesaj-free-unix-rose93)
+- [Prezentare Marius Hâncu](../blog/hancu-mesaj-free-unix-rose93)
