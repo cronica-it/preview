@@ -6,6 +6,9 @@
 - GTS Telekom
 - EUnet 1 an, publicat local
 - alte articole de pe http://linux.punct.info
+- carte Radu Jugureanu
+- povesti Nicolai Sandu
+- PDF-uri politehnica (http://www.csit-sun.pub.ro/research/history/)
 
 ## Mihu
 
