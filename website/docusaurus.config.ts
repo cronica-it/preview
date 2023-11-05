@@ -54,7 +54,7 @@ const config: Config = {
         // Remove this to remove the "edit this page" links.
         editUrl:
           isPreview ? 'https://github.com/cronica-it/preview/edit/master/website/' : 'https://github.com/cronica-it/cronica-it.github.io/edit/master/website/',
-          blogSidebarTitle: 'All posts',
+          blogSidebarTitle: 'Evenimente',
           blogSidebarCount: 'ALL',
     },
     ],
@@ -76,7 +76,7 @@ const config: Config = {
           // Remove this to remove the "edit this page" links.
           editUrl:
             isPreview ? 'https://github.com/cronica-it/preview/edit/master/website/' : 'https://github.com/cronica-it/cronica-it.github.io/edit/master/website/',
-            blogSidebarTitle: 'All posts',
+            blogSidebarTitle: 'Articole',
             blogSidebarCount: 'ALL',
         },
         theme: {
@@ -103,8 +103,46 @@ const config: Config = {
           position: 'right',
           label: 'Docu',
         },
-        {to: '/events', label: 'Evenimente', position: 'left'},
-        {to: '/blog', label: 'Blog', position: 'left'},
+        // {to: '/events', label: 'Evenimente', position: 'left'},
+        {
+          type: 'dropdown',
+          label: 'Evenimente',
+          position: 'left',
+          items: [
+            {
+              label: 'Toate',
+              to: '/events'
+            },
+            {
+              label: 'Arhiva',
+              to: '/events/archive'
+            },
+            {
+              label: 'Tags',
+              to: '/events/tags'
+            }
+          ]
+        },
+        // {to: '/blog', label: 'Blog', position: 'left'},
+        {
+          type: 'dropdown',
+          label: 'Blog',
+          position: 'left',
+          items: [
+            {
+              label: 'Toate',
+              to: '/blog'
+            },
+            {
+              label: 'Arhiva',
+              to: '/blog/archive'
+            },
+            {
+              label: 'Tags',
+              to: '/blog/tags'
+            }
+          ]
+        },
         {
           href: isPreview ? 'https://github.com/cronica-it/preview' : 'https://github.com/cronica-it/cronica-it.github.io',
           label: 'GitHub',
