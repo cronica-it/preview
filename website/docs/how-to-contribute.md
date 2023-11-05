@@ -119,4 +119,4 @@ pentru informațiile publicate.
 In conformitate cu GDPR, este nevoie și de o declarație că este de
 acord ca aceste date să fie utilizate pe site, în condițiile
 în care noi ne angajăm să nu le folosim în alte scopuri;
-în plus, acest acord poate fi retras ulteroor.
+în plus, acest acord poate fi retras ulterior.
