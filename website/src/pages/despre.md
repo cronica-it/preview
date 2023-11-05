@@ -8,7 +8,12 @@ title: Despre noi
 **Cronica IT** este un proiect privat apărut la inițiativa lui
 Alexandru Corlan și Liviu Ionescu.
 
-Toate articolele sunt proprietatea autorilor.
+Toate articolele originale sunt proprietatea autorilor, și pot fi citate
+numai cu menționarea clară a autorului și a sursei.
+
+Asemenea unui muzeu, în scopuri de prezervare a istoriei,
+pentru informare și cercetare, unele articole vor prelua conținutul
+altor articole on-line, cu menționarea clară a autorului și a sursei.
 
 Dacă aveți informații cu privire la alte evenimente sau
 realizări semnificative,
