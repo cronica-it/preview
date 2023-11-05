@@ -6,7 +6,8 @@ title: Despre noi
 # Despre noi
 
 **Cronica IT** este un proiect privat apărut la inițiativa lui
-Alexandru Corlan și Liviu Ionescu.
+Alexandru Corlan și Liviu Ionescu,
+și susținut de Grupul Utilizatorilor de Unix (GURU).
 
 Toate articolele originale sunt proprietatea autorilor, și pot fi citate
 numai cu menționarea clară a autorului și a sursei.
