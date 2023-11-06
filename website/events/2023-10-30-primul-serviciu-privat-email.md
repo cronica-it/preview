@@ -6,7 +6,7 @@ tags: [internet]
 date: 2023-10-30T08:38
 
 eventDate: '1992-10'
-eventSummary: 'Începe să funcționeze primul serviciu privat de Internet eMail'
+eventSummary: 'Liviu Ionescu pornește primul serviciu privat de Internet eMail'
 
 ---
 
