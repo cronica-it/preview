@@ -6,7 +6,7 @@ tags: [conferinte]
 date: 2023-11-06T09:25
 
 eventDate: '2023-10-25'
-eventSummary: 'ANISP organizează RITE 2023 "30 de ani de Internet în România"'
+eventSummary: 'ANISP organizează "RITE 2023 - 30 de ani de Internet în România"'
 
 ---
 

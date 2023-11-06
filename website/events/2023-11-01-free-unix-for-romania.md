@@ -6,7 +6,7 @@ tags: [organizatii]
 date: 2023-11-01T09:21
 
 eventDate: '1992'
-eventSummary: 'Marius Hâncu fondează Free Unix for Romania'
+eventSummary: 'Marius Hâncu fondează "Free Unix for Romania"'
 
 ---
 
