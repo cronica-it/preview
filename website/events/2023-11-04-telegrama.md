@@ -25,3 +25,4 @@ a fost preluat de Ion Vaciu, directorul publicației _Comunicatii Mobile_.
 ## Referințe
 
 - [Ștefan Niculescu Maier, de la Washington](https://ziaristii.com/exclusiv-stefan-niculescu-maier-de-la-washington-despre-moartea-colegului-sau-de-complot-anti-ceausist-mihai-creanga/)
+- [Interviu Telegrama 2023](https://www.youtube.com/watch?v=M5sL2wEWtbM)
