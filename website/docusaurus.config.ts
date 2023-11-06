@@ -1,5 +1,5 @@
-import {themes as prismThemes} from 'prism-react-renderer';
-import type {Config} from '@docusaurus/types';
+import { themes as prismThemes } from 'prism-react-renderer';
+import type { Config } from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const isPreview = true;
@@ -54,9 +54,9 @@ const config: Config = {
         // Remove this to remove the "edit this page" links.
         editUrl:
           isPreview ? 'https://github.com/cronica-it/preview/edit/master/website/' : 'https://github.com/cronica-it/cronica-it.github.io/edit/master/website/',
-          blogSidebarTitle: 'Evenimente',
-          blogSidebarCount: 'ALL',
-    },
+        blogSidebarTitle: 'Evenimente',
+        blogSidebarCount: 'ALL',
+      },
     ],
   ],
   presets: [
@@ -76,9 +76,9 @@ const config: Config = {
           // Remove this to remove the "edit this page" links.
           editUrl:
             isPreview ? 'https://github.com/cronica-it/preview/edit/master/website/' : 'https://github.com/cronica-it/cronica-it.github.io/edit/master/website/',
-            blogSidebarTitle: 'Articole',
-            blogSidebarCount: 'ALL',
-        },
+          blogSidebarTitle: 'Articole',
+          blogSidebarCount: 'ALL',
+         },
         theme: {
           customCss: './src/css/custom.css',
         },
@@ -96,7 +96,7 @@ const config: Config = {
         src: 'img/Felix_C-256_computer.jpg',
       },
       items: [
-        {to: '/despre', label: 'Despre', position: 'right'},
+        { to: '/despre', label: 'Despre', position: 'right' },
         {
           type: 'docSidebar',
           sidebarId: 'docuSidebar',
