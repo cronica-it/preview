@@ -90,7 +90,7 @@ const config: Config = {
     // Replace with your project's social card
     // image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: 'Cronica IT',
+      title: 'Cronica IT&C',
       logo: {
         alt: 'Felix_C-256',
         src: 'img/Felix_C-256_computer.jpg',
@@ -193,7 +193,7 @@ const config: Config = {
         //   ],
         // },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Cronica IT. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Cronica IT&C. Built with Docusaurus.`,
     },
     prism: {
       theme: prismThemes.github,

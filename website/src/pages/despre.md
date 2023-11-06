@@ -5,7 +5,7 @@ title: Despre noi
 
 # Despre noi
 
-**Cronica IT** este un proiect privat apărut la inițiativa lui
+**Cronica IT&C** este un proiect privat apărut la inițiativa lui
 Alexandru Corlan și Liviu Ionescu,
 și susținut de Grupul Utilizatorilor de Unix (GURU).
 
