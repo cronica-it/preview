@@ -1,13 +1,13 @@
 ---
 slug: hancu-mesaj-free-unix-rose93
-title: 'Mesaj Marius Hâncu despre Free Unix for Romania la ROSE 1993'
+title: "Mesajul lui Marius Hâncu despre Free Unix for Romania la ROSE'93"
 authors: hancu
 tags: [mesaje]
 date: 2023-11-01T09:21
 
 ---
 
-Pentru conferința ROSE'93, Marius Hâncu a trimis următorul mesaj.
+Pentru conferința ROSE'93, Marius Hâncu a trimis mesajul de mai jos.
 
 <!-- truncate -->
 
@@ -394,3 +394,7 @@ Craiova
 tel (94) 145724 /116, 169
 fax: (94) 162455
 ```
+
+## Referințe
+
+- [ROSE'93](/events/rose-93/)
