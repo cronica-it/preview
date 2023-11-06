@@ -4,7 +4,7 @@ sidebar_position: 4
 
 # Cum contribui noi articole?
 
-Cei care cunosc evenimente din istoria industriei de IT și doresc
+Cei care cunosc evenimente din istoria industriei de IT&C și doresc
 să la împărtășeacă cu alții, o pot face relativ ușor, publicând
 articole pe acest site.
 
