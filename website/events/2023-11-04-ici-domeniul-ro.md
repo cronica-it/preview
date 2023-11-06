@@ -6,7 +6,7 @@ tags: [internet]
 date: 2023-11-04T20:28
 
 eventDate: '1992-02'
-eventSummary: 'ICI începe sa administreze domeniul .ro'
+eventSummary: 'ICI începe să administreze domeniul .ro'
 
 ---
 
