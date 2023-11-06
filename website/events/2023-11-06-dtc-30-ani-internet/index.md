@@ -1,6 +1,6 @@
 ---
 slug: dtc-30-ani-internet
-title: "Gala Campionilor: 30 de ani de internet"
+title: "Gala Campionilor: 30 de ani de Internet în România"
 authors: ilg-ul
 tags: [conferinte]
 date: 2023-11-06T08:35
