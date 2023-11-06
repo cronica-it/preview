@@ -144,6 +144,9 @@ const chronologyRows = ((ctx) => {
     if (frontMatter.eventDate === undefined) {
       logger.error(`Missing eventDate: for event ${key}`)
     }
+    if (frontMatter.eventSummary === undefined) {
+      logger.error(`Missing eventSummary: for event ${key}`)
+    }
     chronologyModules.push(module);
   })
 
