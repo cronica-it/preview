@@ -5,7 +5,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 const isPreview = true;
 
 const config: Config = {
-  title: 'Cronica IT',
+  title: 'Cronica IT&C',
   tagline: 'O încercare de reconstituire a istoriei IT&C (preview)',
   favicon: 'img/favicon.ico',
 
