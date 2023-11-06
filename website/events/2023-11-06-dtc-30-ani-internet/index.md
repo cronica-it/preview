@@ -52,4 +52,4 @@ Foto: Cristi Chivu
 
 ## Referințe
 
-- [comunic.ro](https://comunic.ro/30-ani-de-internet-in-romania/)
+- [comunic.ro - GALA CAMPIONILOR: 30 DE ANI DE INTERNET ÎN ROMÂNIA](https://comunic.ro/30-ani-de-internet-in-romania/)

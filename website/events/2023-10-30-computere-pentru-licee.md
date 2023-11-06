@@ -23,5 +23,5 @@ protocolul UUCP si apoi on-line, prin TCP/IP.
 
 ## Referințe
 
-- [Istoria internetului in Romania](https://economie.hotnews.ro/stiri-20_ani_internet-15969144-istoria-internetului-romania-alexandru-rotaru-nu-pot-spun-inventat-noi-ceva-plus-aici-romania-doar-majoritatea-noutatilor-adoptat-printre-primii.htm)
-- [Cum s-au informatizat liceele Romaniei](https://economie.hotnews.ro/stiri-20_ani_internet-16073721-cum-informatizat-liceele-romaniei-poveste-finantisti-controversati-multa-munca-glume-despre-romani-unguri.htm)
+- [hotnews.ro - Istoria internetului in Romania](https://economie.hotnews.ro/stiri-20_ani_internet-15969144-istoria-internetului-romania-alexandru-rotaru-nu-pot-spun-inventat-noi-ceva-plus-aici-romania-doar-majoritatea-noutatilor-adoptat-printre-primii.htm)
+- [hotnews.ro - Cum s-au informatizat liceele Romaniei](https://economie.hotnews.ro/stiri-20_ani_internet-16073721-cum-informatizat-liceele-romaniei-poveste-finantisti-controversati-multa-munca-glume-despre-romani-unguri.htm)

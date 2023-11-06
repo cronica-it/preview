@@ -28,6 +28,6 @@ A fost comercializat sub forma de kit sau complet funcțional în special
 
 ## Referințe
 
-- [retroit.ro](https://retroit.ro/l-b-881/)
-- [ilgthegeek.wordpress.com](https://ilgthegeek.wordpress.com/2010/11/14/history-lixco-lb881/)
-- [tehnium-azi.ro](https://www.tehnium-azi.ro/forums/topic/7187-computer-lb881-publicat-in-tehnium/)
+- [retroit.ro - Microcalculatorul L/B 881](https://retroit.ro/l-b-881/)
+- [ilgthegeek.wordpress.com - History: Lixco L/B881, the first Romanian commercial microcomputer](https://ilgthegeek.wordpress.com/2010/11/14/history-lixco-lb881/)
+- [tehnium-azi.ro - Computer LB881 - publicat in Tehnium](https://www.tehnium-azi.ro/forums/topic/7187-computer-lb881-publicat-in-tehnium/)
