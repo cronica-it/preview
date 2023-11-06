@@ -112,11 +112,11 @@ transmiterea a fișierelor prin eMail se pot de asemenea folosi.
 ## GDPR
 
 Suplimentar, cine dorește să publice articole, trebuie să furnizeze
-și cateva informații de identificare, cum ar fi nume sau/și fotografie,
-opțional adresa de email, adresă de de web, și să își asume răspunderea
+și cateva informații de identificare, cum ar fi numele complet și,
+opțional, adresa de email, adresă de web, fotografie, și să își asume răspunderea
 pentru informațiile publicate.
 
 In conformitate cu GDPR, este nevoie și de o declarație că este de
 acord ca aceste date să fie utilizate pe site, în condițiile
-în care noi ne angajăm să nu le folosim în alte scopuri;
+în care Cronica IT&C se angajează să nu le folosească în alte scopuri;
 în plus, acest acord poate fi retras ulterior.
