@@ -1,6 +1,6 @@
 ---
 slug: arot-relatari-inceput-internet
-title: 'Relatari din perioada de inceput a Internet-ului in Romania.'
+title: 'Adi Rotaru - Relatari din perioada de inceput a Internet-ului in Romania.'
 authors: arot
 tags: [articole]
 date: 2023-11-06T21:37
