@@ -6,7 +6,7 @@ tags: [conferinte]
 date: 2023-11-02T20:15
 
 eventDate: '2023-11-27'
-eventSummary: 'Se desfășoară Conferința Națională de Învățământ Virtual – CNIV 2023'
+eventSummary: 'Radu Jugureanu organizează Conferința Națională de Învățământ Virtual – CNIV 2023'
 
 ---
 
