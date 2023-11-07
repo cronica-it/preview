@@ -1,5 +1,5 @@
 ---
-slug: independent-100
+slug: calculator-independent-100
 title: 'Calculatorul Independent 100'
 authors: ilg-ul
 tags: [calculatoare]
@@ -11,7 +11,7 @@ eventSummary: 'Este lansat calculatorul Independent 100'
 ---
 
 **Independent** este o serie de minicalculatoare românești care a fost
-lansată în 1977 la Timișoara,
+lansată în 1977,
 la 100 de ani de la obţinerea independenţei ţării.
 
 <!-- truncate -->
@@ -21,3 +21,5 @@ Designul era de concepţie originală, fiind dinamic microprogramat, ceea ce teo
 ## Referințe
 
 - [ro.wikipedia.org - Independent](https://ro.wikipedia.org/wiki/Independent)
+- [ro.wikipedia.org - Cronologie a informaticii românești](https://ro.wikipedia.org/wiki/Cronologie_a_informaticii_românești)
+- [ro.wikipedia.org - Istoria informaticii în România](https://ro.wikipedia.org/wiki/Istoria_informaticii_în_România)
