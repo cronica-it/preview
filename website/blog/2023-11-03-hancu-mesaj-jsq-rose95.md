@@ -7,7 +7,7 @@ date: 2023-11-03T22:20
 
 ---
 
-După conferința ROSE'95, Marius Hâncu a postat următorul mesaj
+După conferința ROSE'95, Marius Hâncu a postat mesajul de mai jos
 pe `comp.os.linux.advocacy`.
 
 <!-- truncate -->

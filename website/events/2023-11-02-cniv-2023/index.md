@@ -11,7 +11,7 @@ eventSummary: 'Radu Jugureanu organizează "CNIV 2023 - 30 de ani de Internet î
 ---
 
 Vineri, 27 Octobmbrie 2023, la Universitatea Politehnica București,
-a avut loc **Conferința Națională de Învățământ Virtual – CNIV 2023**,
+are loc **Conferința Națională de Învățământ Virtual – CNIV 2023**,
 cu tema **30 de ani de INTERNET în România**,
 organizată de profesorul Radu Jugureanu.
 
@@ -49,7 +49,7 @@ organizată de profesorul Radu Jugureanu.
 
 ## Carte
 
-Prezentările participanților au fost grupate intr-o lucrare
+Prezentările participanților sunt grupate intr-o lucrare
 cu numele _30 de ani de Internet în România - Oameni, momente și imagini_, publicată la Editura ICI și
 disponibilă [on-line](https://cniv.ro/documents/26/CNIV_Volum_Aniversar_2023_-_Versiune_Online.pdf).
 

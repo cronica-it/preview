@@ -6,7 +6,8 @@ tags: [organizatii]
 date: 2023-11-01T09:21
 
 eventDate: '1992'
-eventSummary: 'Marius Hâncu fondează "Free Unix for Romania"'
+eventEndDate: '1995'
+eventSummary: 'Marius Hâncu coordonează programul "Free Unix for Romania"'
 
 ---
 
@@ -17,7 +18,9 @@ eventSummary: 'Marius Hâncu fondează "Free Unix for Romania"'
 
 In septembrie 1994, conducerea organizației este preluată de Ted Lungu.
 
-Ultimul raport este din 1995.
+Ultimul raport cunoscut este din 1995.
+
+În 2023,
 
 ## Referințe
 
@@ -30,4 +33,4 @@ Ultimul raport este din 1995.
 - [Raportul lui Marius Hâncu din 1994 despre cărțile trimise în România și Moldova](/blog/hancu-soros-books/)
 - [Mesajul din 1994 în care Marius Hâncu îl introduce pe Ted Lungu](/blog/hancu-mesaj-ted-lungu/)
 - [Raportul lui Marius Hâncu din 1995 despre donațiile pentru Free Unix for Romania](/blog/hancu-donation-drive)
-- [comunic.ro - Marius HÂNCU @ GALA 30 de ani de Internet](https://comunic.ro/marius-hancu-gala-30-de-ani-de-internet-ro-free-unix-for-romania-movement-managed-to-associate-people-of-great-talents-who-forgot-their-personal-interest-in-the-interest-of-a-modern-romania-i/)
+- [comunic.ro - Marius Hâncu @ GALA 30 de ani de Internet](https://comunic.ro/marius-hancu-gala-30-de-ani-de-internet-ro-free-unix-for-romania-movement-managed-to-associate-people-of-great-talents-who-forgot-their-personal-interest-in-the-interest-of-a-modern-romania-i/)
