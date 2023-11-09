@@ -4,6 +4,10 @@ sidebar_position: 3
 
 # Front matter
 
+Prin **front matter** se înțelege o listă de proprietăți asociate cu
+un articol. Formatul este YML și secțiunea front matter este delimitată
+de linii cu trei liniuțe (`---`).
+
 Lista completă a proprietăților din front matter este in secțiunea
 [Markdown front matter](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog#markdown-front-matter).
 
@@ -20,7 +24,9 @@ separate prin liniuțe și/sau slash-uri.
 Exemplu:
 
 ```yml
+---
 slug: 2023/de-ce-cronica-it
+---
 ```
 
 ## `title`
@@ -35,17 +41,20 @@ Proprietatea `authors` defineste autorul sau autorii articolului.
 Pentru un sigur autor, formatul este:
 
 ```yml
+---
 authors:
   name: Joel Marcey
   title: Co-creator of Docusaurus 1
   url: https://github.com/JoelMarcey
   image_url: https://github.com/JoelMarcey.png
   email: jimarcey@gmail.com
+---
 ```
 
 Pentru mai mulți autori, formatul este de array:
 
 ```yml
+---
 authors:
   - name: Joel Marcey
     title: Co-creator of Docusaurus 1
@@ -56,6 +65,7 @@ authors:
     title: Docusaurus maintainer
     url: https://sebastienlorber.com
     image_url: https://github.com/slorber.png
+---
 ```
 
 Este posibilă memorarea globală a datelor despre autori
@@ -64,7 +74,13 @@ Este posibilă memorarea globală a datelor despre autori
 Exemple:
 
 ```yml
+---
 authors: jmarcey
+---
+
+sau, pentru autori multipli:
+
+```yml
 authors: [jmarcey, slorber]
 ```
 
@@ -76,7 +92,9 @@ folosite pentru grupare. Sunt cuvinte fără diacritice.
 Exemplu:
 
 ```yml
+---
 tags: [asociatii]
+---
 ```
 
 Cuvintele folosite pentru grupare sunt:
@@ -100,5 +118,7 @@ publicat articolul pe blog.
 Exemplu:
 
 ```yml
+---
 date: 2021-09-13T10:00
+---
 ```
