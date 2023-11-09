@@ -33,6 +33,7 @@ const config: Config = {
 
   plugins: [
     [
+      // https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog
       '@docusaurus/plugin-content-blog',
       {
         /**
@@ -49,6 +50,7 @@ const config: Config = {
          */
         path: './events',
         authorsMapPath: '../blog/authors.yml',
+        exclude: [ '**/README.md' ],
         showReadingTime: true,
         // Please change this to your repo.
         // Remove this to remove the "edit this page" links.
