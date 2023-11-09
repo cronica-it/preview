@@ -139,15 +139,19 @@ const chronologyRows = ((ctx) => {
   // Keep only posts with eventDate.
   keys.forEach((key) => {
     const module = ctx(key);
-    const { frontMatter } = module.metadata;
-    // logger.info(frontMatter.eventDate);
-    if (frontMatter.eventDate === undefined) {
-      logger.error(`Missing eventDate: for event ${key}`)
+    if (module.metadata === undefined || module.metadata.frontMatter === undefined) {
+      logger.info(`${key} has no frontMatter, ignored`);
+    } else {
+      const { frontMatter } = module.metadata;
+      // logger.info(frontMatter.eventDate);
+      if (frontMatter.eventDate === undefined) {
+        logger.error(`Missing eventDate: for event ${key}`)
+      }
+      if (frontMatter.eventSummary === undefined) {
+        logger.error(`Missing eventSummary: for event ${key}`)
+      }
+      chronologyModules.push(module);
     }
-    if (frontMatter.eventSummary === undefined) {
-      logger.error(`Missing eventSummary: for event ${key}`)
-    }
-    chronologyModules.push(module);
   })
 
   chronologyModules.sort((a, b) => {
