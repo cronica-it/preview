@@ -272,5 +272,5 @@ Microwave Atmospheric Science Group, 4800 Oak Grove Dr, Pasadena CA,
 
 ## Referințe
 
-- [ROSE'94](/events/rose-94/)
-- [Mesajul în care Marius Hâncu îl introduce pe Ted Lungu](/blog/hancu-mesaj-ted-lungu/)
+- [ROSE'94](/events/1994/rose/)
+- [Mesajul în care Marius Hâncu îl introduce pe Ted Lungu](/blog/2023/hancu-mesaj-ted-lungu/)
