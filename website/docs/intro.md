@@ -11,7 +11,7 @@ Tabelele de cronologie sunt generate folosind
 [metadate](/docs/metadate) suplimentare
 adăugate la fiecare articol.
 
-Formatul articolelor este relativ standard pentru site-urile moderne,
+Formatul articolelor este relativ standard pentru site-urile moderne;
 corpul articolului este markdown, precedat de câteva proprietăți în
 format YML.
 

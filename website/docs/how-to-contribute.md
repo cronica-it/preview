@@ -8,17 +8,19 @@ Cei care cunosc evenimente din istoria industriei de IT&C și doresc
 să la împărtășeacă cu alții, o pot face relativ ușor, publicând
 articole pe acest site.
 
-## Articole vs. amintiri personale
+## Evenimente vs. articole de blog
 
-Pentru articolele care urmeaza să facă parte din cronologia oficială,
+Sursa datelor listate în cronologie este în secțiunea **Evenimente**.
+
+Pentru articolele de tip eveniment
 este recomandat un **limbaj profesional**, clar și concis, cu repere în timp,
 nume de persoane, referințe, și în general informații cu valoare științifică.
 
 Pe lângă acestea, amintirile personale sunt de asemenea apreciate, ca
-articole separate, care nu vor face parte directă din cronologie, dar vor
+articole de blog, care nu vor face parte directă din cronologie, dar vor
 fi menționate ca referințe în cronologie.
 
-Limbajul articolelor de amintiri este personal, la persoana întâia
+Limbajul articolelor de blog este personal, la persoana întâia
 sau în orice format dorește autorul.
 
 ## Articole simple vs. articole cu poze și alte documente atașate
@@ -34,14 +36,14 @@ poze și/sau alte documente atașate, articolele vor fi memorate
 
 ## Convenția de nume pentru fișiere/foldere
 
-Convenția de nume pentru articolele de blog este în general
-un string care începe cu data cand articolul a fost scris si
+Convenția de nume pentru evenimnte și articolele de blog este în general
+un string care începe cu anul si
 este urmat de un nume scurt, posibil mai multe cuvinte separate de
 linițe, de exemplu:
 
 ```
-2023-11-02-cniv-2023 <-- folder
-2023-11-01-free-unix-for-romania.md <-- fișier
+2023-cniv <-- folder
+2023-free-unix-for-romania.md <-- fișier
 ```
 
 ## Preambului articolului
@@ -74,9 +76,9 @@ externe acestui site.
 
 Un exemplu de articol scurt poate fi:
 
-```md title="2023-11-01-free-unix-for-romania.md"
+```md title="2023-free-unix-for-romania.md"
 ---
-slug: free-unix-for-romania
+slug: 1992/free-unix-for-romania
 title: 'Free Unix for Romania'
 authors: ilg-ul
 tags: [organizatii]

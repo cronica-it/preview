@@ -14,13 +14,13 @@ Proprietățile utilizate în mod curent sunt listate mai jos.
 Proprietatea `slug` definește în mod explicit un string unic ce va fi folosit
 in URL-ul articolului.
 
-De regula este o succesiune de cuvinte, fără diacritice, separate prin
-liniuțe și/sau slash-uri.
+De regula este anul urmat de o succesiune de cuvinte, fără diacritice,
+separate prin liniuțe și/sau slash-uri.
 
 Exemplu:
 
 ```yml
-slug: de-ce-cronica-it
+slug: 2023/de-ce-cronica-it
 ```
 
 ## `title`
@@ -90,10 +90,12 @@ Cuvintele folosite pentru grupare sunt:
 - organizatii
 - website
 
+Lista actuala se poate obține direct din site, intrarea **Tags**.
+
 ## `date`
 
-Proprietatea `date` definește data si ora (UTC) când a fost publicat
-articolul pe blog.
+Proprietatea `date` definește data si ora (raportată la UTC) când a fost
+publicat articolul pe blog.
 
 Exemplu:
 
