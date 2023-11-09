@@ -1,12 +1,18 @@
 # README
 
-Acest folder conține lista evenimentelor, ca fișiere markdown
+Acest folder conține lista evenimentelor, din care se generează
+programatic tabela de cronologie.
+
+Evenimentele sunt fișiere markdown
 (`.md`) sau sub-foldere în care există un fișier `index.md`.
 
-Pentru a simplifica navigarea, numele vor fi prefixate cu anul evenimentului.
+Pentru a simplifica navigarea, numele fișierelor sau folder-elor
+trebuie să fie prefixate cu
+anul evenimentului (4 cifre).
 
-Restul numelui este o succesiune de cuvinte cu
+În continuarea numelui este o succesiune de cuvinte cu
 litere mici separate prin liniuțe.
 
-Data când articolul a fost adăugat este în câmpul `date:` din front matter,
+Data când articolul a fost adăugat în site
+este memorată în câmpul `date:` din front matter,
 în format ISO și raportată la UTC.
