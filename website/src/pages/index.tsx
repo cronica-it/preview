@@ -61,7 +61,7 @@ const compareDates = ((aEventDate, bEventDate) => {
 })
 
 const monthNames = [
-  '',
+  '???',
   'Ianuarie',
   'Februarie',
   'Martie',
