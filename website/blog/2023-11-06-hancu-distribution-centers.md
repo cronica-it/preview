@@ -1,5 +1,5 @@
 ---
-slug: hancu-distribution-centers
+slug: 2023/hancu-distribution-centers
 title: 'Raportul lui Marius Hâncu despre punctele de distribuție'
 authors: hancu
 tags: [mesaje]

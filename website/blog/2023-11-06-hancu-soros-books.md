@@ -1,5 +1,5 @@
 ---
-slug: hancu-soros-books
+slug: 2023/hancu-soros-books
 title: 'Raportul lui Marius Hâncu despre cărțile trimise în România și Moldova'
 authors: hancu
 tags: [mesaje]

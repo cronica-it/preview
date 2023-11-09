@@ -1,5 +1,5 @@
 ---
-slug: hancu-mesaj-jsq-rose95
+slug: 2023/hancu-mesaj-jsq-rose95
 title: "Mesajul lui Marius Hâncu despre ROSE'95"
 authors: hancu
 tags: [mesaje]

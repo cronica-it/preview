@@ -1,5 +1,5 @@
 ---
-slug: hancu-interviu-revista-open
+slug: 2023/hancu-interviu-revista-open
 title: 'Interviul acordat de Marius Hâncu revistei OPEN'
 tags: [mesaje]
 date: 2023-11-06T21:55

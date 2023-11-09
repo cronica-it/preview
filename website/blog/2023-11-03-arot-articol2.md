@@ -1,5 +1,5 @@
 ---
-slug: arot-articol-it-trends-2
+slug: 2023/arot-articol-it-trends-2
 title: 'Adi Rotaru - Articol IT Trends - Capitol 2'
 authors: arot
 tags: [articole]

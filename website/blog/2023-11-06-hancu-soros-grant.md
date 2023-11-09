@@ -1,5 +1,5 @@
 ---
-slug: hancu-soros-grant
+slug: 2023/hancu-soros-grant
 title: 'Raportul lui Marius Hâncu despre grantul Soros'
 authors: hancu
 tags: [mesaje]

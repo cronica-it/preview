@@ -1,5 +1,5 @@
 ---
-slug: arot-relatari-inceput-internet
+slug: 2023/arot-relatari-inceput-internet
 title: 'Adi Rotaru - Relatari din perioada de inceput a Internet-ului in Romania.'
 authors: arot
 tags: [articole]
