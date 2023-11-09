@@ -1,5 +1,5 @@
 ---
-slug: cniv-2023
+slug: 2023/cniv
 title: "CNIV 2023"
 authors: ilg-ul
 tags: [conferinte]

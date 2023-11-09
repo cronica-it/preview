@@ -1,5 +1,5 @@
 ---
-slug: licenta-felix
+slug: 1971/licenta-felix
 title: 'Licența pentru Felix C-256'
 authors: ilg-ul
 tags: [calculatoare]

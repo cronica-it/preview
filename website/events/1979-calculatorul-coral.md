@@ -1,5 +1,5 @@
 ---
-slug: calculatorul-coral
+slug: 1979/calculatorul-coral
 title: 'Calculatorul Coral'
 authors: ilg-ul
 tags: [calculatoare]

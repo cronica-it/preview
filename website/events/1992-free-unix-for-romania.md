@@ -1,5 +1,5 @@
 ---
-slug: free-unix-for-romania
+slug: 1992/free-unix-for-romania
 title: 'Free Unix for Romania'
 authors: ilg-ul
 tags: [organizatii]

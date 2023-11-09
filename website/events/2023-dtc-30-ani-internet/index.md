@@ -1,5 +1,5 @@
 ---
-slug: dtc-30-ani-internet
+slug: 2023/dtc-30-ani-internet
 title: "Gala Campionilor: 30 de ani de Internet în România"
 authors: ilg-ul
 tags: [conferinte]

@@ -1,5 +1,5 @@
 ---
-slug: telegrama
+slug: 1995/telegrama
 title: 'Telegrama - serviciul de presă prin email'
 authors: ilg-ul
 tags: [presa, servicii, internet]

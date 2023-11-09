@@ -1,5 +1,5 @@
 ---
-slug: agora-20-ani-internet
+slug: 2013/agora-20-ani-internet
 title: 'Agora - 20 de ani de Internet in Romania'
 authors: ilg-ul
 tags: [conferinte]

@@ -1,5 +1,5 @@
 ---
-slug: rite-2023
+slug: 2023/rite
 title: "RITE 2023 - 30 de ani de Internet în România"
 authors: ilg-ul
 tags: [conferinte]

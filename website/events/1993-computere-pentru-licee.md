@@ -1,5 +1,5 @@
 ---
-slug: computere-pentru-licee
+slug: 1993/computere-pentru-licee
 title: 'Computere pentru licee'
 authors: ilg-ul
 tags: [internet, educatie]

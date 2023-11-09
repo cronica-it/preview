@@ -1,5 +1,5 @@
 ---
-slug: calculator-independent-100
+slug: 1977/calculator-independent-100
 title: 'Calculatorul Independent 100'
 authors: ilg-ul
 tags: [calculatoare]

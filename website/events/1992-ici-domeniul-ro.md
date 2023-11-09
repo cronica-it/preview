@@ -1,5 +1,5 @@
 ---
-slug: ici-domeniul-ro
+slug: 1992/ici-domeniul-ro
 title: 'Domeniul .ro'
 authors: ilg-ul
 tags: [internet]

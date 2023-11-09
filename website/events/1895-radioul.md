@@ -1,5 +1,5 @@
 ---
-slug: radioul
+slug: 1895/radioul
 title: 'Radioul lui Marconi'
 authors: ilg-ul
 tags: [international, comunicatii]

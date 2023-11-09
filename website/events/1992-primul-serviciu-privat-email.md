@@ -1,5 +1,5 @@
 ---
-slug: primul-serviciu-privat-email
+slug: 1992/primul-serviciu-privat-email
 title: 'Primul serviciu privat de eMail'
 authors: ilg-ul
 tags: [internet]

@@ -1,5 +1,5 @@
 ---
-slug: telegraful-electric
+slug: 1837/telegraful-electric
 title: 'Telegraful electric'
 authors: ilg-ul
 tags: [international, comunicatii]

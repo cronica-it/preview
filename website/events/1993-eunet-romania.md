@@ -1,5 +1,5 @@
 ---
-slug: eunet-romania
+slug: 1993/eunet-romania
 title: "EUnet Romania"
 authors: ilg-ul
 tags: [firme, internet]
