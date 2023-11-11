@@ -16,4 +16,4 @@ corpul articolului este markdown, precedat de câteva proprietăți în
 format YML.
 
 Informații despre cum trebuie procedat pentru a adăuga noi articole
-sunt disponibile în pagina [Cum contribui noi articole?](how-to-contribute).
+sunt disponibile în pagina [Cum contribui noi articole?](/docs/how-to-contribute).

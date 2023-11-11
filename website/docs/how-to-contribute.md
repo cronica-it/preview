@@ -49,8 +49,8 @@ linițe, de exemplu:
 ## Preambului articolului
 
 Deși nu există un standard foarte strict, majoritatea blog-urilor
-folosesc un preambul ([frontmatter](frontmatter)) cu diverse
-[metadate](metadate), reprezentate ca proprietăți în YML.
+folosesc un preambul ([frontmatter](/docs/frontmatter)) cu diverse
+[metadate](/docs/metadate), reprezentate ca proprietăți în YML.
 
 ## Sumarul articolului
 
