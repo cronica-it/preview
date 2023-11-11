@@ -85,7 +85,7 @@ numele articolului, de exmplu:
 
 ## Exemplu
 
-Un exemplu de articol scurt poate fi:
+Un exemplu de articol scurt, dar cu multe referințe, poate fi:
 
 ```md title="2023-free-unix-for-romania.md"
 ---
@@ -96,18 +96,34 @@ tags: [organizatii]
 date: 2023-11-01T09:21
 
 eventDate: '1992'
-eventSummary: 'Marius Hâncu fondează Free Unix for Romania'
+eventEndDate: '1995'
+eventSummary: 'Marius Hâncu coordonează programul "Free Unix for Romania"'
 
 ---
 
-În 1992, Marius Hâncu fondează organizația internațională non-profit
+În toamna lui 1992, Marius Hâncu fondează organizația internațională non-profit
 **Free Unix for Romania**.
 
 <!-- truncate -->
 
+In septembrie 1994, conducerea organizației este preluată de Ted Lungu.
+
+Ultimul raport cunoscut este din 1995.
+
+În 2023,
+
 ## Referințe
 
-- [Prezentare Marius Hâncu](http://linux.punct.info/freeunix.html)
+- [Prezentare lui Marius Hâncu la ROSE'93](/blog/2023/hancu-mesaj-free-unix-rose93/)
+- [Raportul lui Marius Hâncu din 1993 despre punctele de distribuție](/blog/2023/hancu-distribution-centers/)
+- [Raportul lui Marius Hâncu din 1993 despre grantul Soros](/blog/2023/hancu-soros-grant/)
+- [Mesajul lui Marius Hâncu despre Free Unix for Romania la ROSE'94](/blog/2023/hancu-mesaj-free-unix-rose94/)
+- [Mesajul lui Marius Hâncu despre ROSE'95](/blog/2023/hancu-mesaj-jsq-rose95/)
+- [Interviul acordat de Marius Hâncu revistei OPEN în 1994](/blog/2023/hancu-interviu-revista-open/)
+- [Raportul lui Marius Hâncu din 1994 despre cărțile trimise în România și Moldova](/blog/2023/hancu-soros-books/)
+- [Mesajul din 1994 în care Marius Hâncu îl introduce pe Ted Lungu](/blog/2023/hancu-mesaj-ted-lungu/)
+- [Raportul lui Marius Hâncu din 1995 despre donațiile pentru Free Unix for Romania](/blog/2023/hancu-donation-drive)
+- [comunic.ro - Marius Hâncu @ GALA 30 de ani de Internet](https://comunic.ro/marius-hancu-gala-30-de-ani-de-internet-ro-free-unix-for-romania-movement-managed-to-associate-people-of-great-talents-who-forgot-their-personal-interest-in-the-interest-of-a-modern-romania-i/)
 ```
 
 ## Diacritice
