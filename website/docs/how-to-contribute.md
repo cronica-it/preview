@@ -72,6 +72,17 @@ Este recomandat ca fiecare articol să conțină referințe la alte pagini de we
 lucrări publicate, articole de legislație, și orice alte documente
 externe acestui site.
 
+În cazul URL-urilor, textul este bine să conțină numele site-ului și
+numele articolului, de exmplu:
+
+```
+## Referințe
+
+- [retroit.ro - Microcalculatorul L/B 881](https://retroit.ro/l-b-881/)
+- [ilgthegeek.wordpress.com - History: Lixco L/B881, the first Romanian commercial microcomputer](https://ilgthegeek.wordpress.com/2010/11/14/history-lixco-lb881/)
+- [tehnium-azi.ro - Computer LB881 - publicat in Tehnium](https://www.tehnium-azi.ro/forums/topic/7187-computer-lb881-publicat-in-tehnium/)
+```
+
 ## Exemplu
 
 Un exemplu de articol scurt poate fi:
