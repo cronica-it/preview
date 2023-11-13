@@ -5,16 +5,32 @@ title: Despre noi
 
 # Despre noi
 
-**Cronica IT&C** este un proiect privat apărut la inițiativa lui
-Alexandru Corlan și Liviu Ionescu,
-și susținut de Grupul Utilizatorilor de Unix (GURU).
+**Cronica IT&C** este un proiect privat, non-profit, inițiat de
+Grupul Utilizatorilor Români de de Unix (GURU).
+
+## Scopul proiectului
+
+Proiectul își propune prezervarea pe termen lung a istoriei industriei IT&C,
+prezentată în context internațional.
+
+## Conținut
+
+Cronologia în sine este formată din **Evenimente** datate, descrise
+prin articole mai scurte sau mai lungi.
+
+Suplimentar, în secțiunea **Blog** sunt publicate articole cu amintiri
+personale ale celor implicați în diverse evenimente.
+
+## Drepturi de autor
 
 Toate articolele originale sunt proprietatea autorilor, și pot fi citate
 numai cu menționarea clară a autorului și a sursei.
 
 Asemenea unui muzeu, în scopuri de prezervare a istoriei,
-pentru informare și cercetare, unele articole vor prelua conținutul
+pentru informare și cercetare, unele articole pot prelua conținutul
 altor articole on-line, cu menționarea clară a autorului și a sursei.
+
+## Contribuții
 
 Dacă aveți informații cu privire la alte evenimente sau
 realizări semnificative,
