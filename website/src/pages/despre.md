@@ -5,7 +5,7 @@ title: Despre noi
 
 # Despre noi
 
-**Cronica IT&C** este un proiect privat, non-profit, inițiat de
+**Cronica IT&C** este un proiect non-guvernamental, non-profit, inițiat de
 Grupul Utilizatorilor Români de de Unix (GURU).
 
 ## Scopul proiectului
