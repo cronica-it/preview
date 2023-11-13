@@ -6,17 +6,17 @@ title: Despre noi
 # Despre noi
 
 **Cronica IT&C** este un proiect non-guvernamental, non-profit, inițiat de
-Grupul Utilizatorilor Români de de Unix (GURU).
+Grupul Utilizatorilor Români de Unix (GURU).
 
 ## Scopul proiectului
 
-Proiectul își propune reconstituirea și prezervarea pe termen lung
-a istoriei industriei IT&C, prezentată în context internațional.
+Proiectul își propune **reconstituirea și prezervarea pe termen lung
+a istoriei industriei IT&C**, prezentată în context internațional.
 
 ## Conținut
 
 Cronologia în sine este formată din **Evenimente** datate, descrise
-prin articole mai scurte sau mai lungi.
+prin articole mai mult sau mai puțin detaliate.
 
 Suplimentar, în secțiunea **Blog** sunt publicate articole cu amintiri
 personale ale celor implicați în diverse evenimente.
