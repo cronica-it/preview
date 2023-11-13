@@ -10,8 +10,8 @@ Grupul Utilizatorilor Români de de Unix (GURU).
 
 ## Scopul proiectului
 
-Proiectul își propune prezervarea pe termen lung a istoriei industriei IT&C,
-prezentată în context internațional.
+Proiectul își propune reconstituirea și prezervarea pe termen lung
+a istoriei industriei IT&C, prezentată în context internațional.
 
 ## Conținut
 
