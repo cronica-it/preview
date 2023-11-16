@@ -6,7 +6,7 @@ tags: [firme, internet]
 date: 2023-11-16T19:42
 
 eventDate: '2004'
-eventSummary: 'GTS Telecom este noul nume al KPNQwest România'
+eventSummary: 'GTS Telecom este noul nume al firmei KPNQwest România'
 
 ---
 

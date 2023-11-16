@@ -6,7 +6,7 @@ tags: []
 date: 2023-11-02T20:15
 
 eventDate: '2023-09-21'
-eventSummary: 'GTS Telecom serbează 30 de ani de activitate"'
+eventSummary: 'GTS Telecom serbează 30 de ani de activitate'
 
 ---
 

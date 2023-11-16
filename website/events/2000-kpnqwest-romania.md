@@ -6,7 +6,7 @@ tags: [firme, internet]
 date: 2023-11-16T19:38
 
 eventDate: '2000'
-eventSummary: 'KPNQwest România este noul nume al EUnet Romania'
+eventSummary: 'KPNQwest România este noul nume al firmei EUnet Romania'
 
 ---
 
