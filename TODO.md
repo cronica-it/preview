@@ -3,8 +3,9 @@
 ## Articole
 
 - 30 ani internet (Comunicatii Mobile)
-- GTS Telekom
+- GTS Telecom - completări Răzvan
 - EUnet 1 an, publicat local
+- EUnet - autorizație
 - alte articole de pe http://linux.punct.info
 - carte Radu Jugureanu
 - povesti Nicolai Sandu
@@ -22,7 +23,7 @@ http://www.marketwatch.ro/articol/4129/Traian_(Dorin)_Mihu_-_ani_oameni_fapte_(I
 
 ## marketwatch.ro
 
-De discutat pentru o colaborare si preluare a articolelor.
+De discutat pentru o colaborare și preluare a articolelor.
 
 - http://www.marketwatch.ro/contact/
 
@@ -46,7 +47,6 @@ Românești:
 - https://www.elforum.info/topic/140304-coral-independent-pdp11-felix-cfelix-m-robotron-emulator-unitate-de-banda-magnetica-pe-9-piste/
 - https://retroit.ro/en/prima-pag/
 - https://muzeuldecalculatoare.ro (Cluj?)
-
 
 Străine:
 
