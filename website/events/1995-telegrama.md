@@ -6,7 +6,7 @@ tags: [presa, servicii, internet]
 date: 2023-11-03T22:20
 
 eventDate: '1995'
-eventSummary: 'Ștefan Niculescu Maier crează serviciul de presă Telegrama'
+eventSummary: 'Ștefan Niculescu Maier crează serviciul de presă "Telegrama"'
 
 ---
 
@@ -19,7 +19,8 @@ Buletinele informative erau trimise prin EUnet Mail.
 
 Principala audiență era comunitatea românească din străinătate.
 
-Din 1998, când Ștefan a plecat la post la Ambasada României la Washington, în mandatul președintelui Emil Constantinescu, serviciul Telegrama
+Din 1998, când Ștefan a plecat la post la Ambasada României la Washington,
+în mandatul președintelui Emil Constantinescu, serviciul Telegrama
 a fost preluat de Ion Vaciu, directorul publicației _Comunicatii Mobile_.
 
 ## Referințe
