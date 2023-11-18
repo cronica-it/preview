@@ -26,8 +26,8 @@ export function ChronologyTable({ items }): JSX.Element {
         <table class="chronology">
           <thead>
             <tr>
-              <td class="chronology">Dată</td>
-              <td class="chronology">Eveniment</td>
+              <td class="chronology">Date</td>
+              <td class="chronology">Evenimente</td>
             </tr>
           </thead>
           <tbody>
