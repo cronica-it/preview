@@ -135,7 +135,7 @@ De preferință, articolele trebuie scrise în limba română, cu diacritice.
 
 În cazul în care textul primit nu are diacritice, și autorul nu îl poate
 corecta, articolul va fi editat înainte de publicare și
-cel puțin titlul și prima frază vor conține diacriticele corecte.
+cel puțin titlurile și prima frază vor conține diacriticele corecte.
 
 ## Transmiterea articolelor
 
