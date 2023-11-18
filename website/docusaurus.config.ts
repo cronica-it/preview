@@ -98,13 +98,6 @@ const config: Config = {
         src: 'img/Felix_C-256_computer.jpg',
       },
       items: [
-        { to: '/despre', label: 'Despre', position: 'right' },
-        {
-          type: 'docSidebar',
-          sidebarId: 'docuSidebar',
-          position: 'right',
-          label: 'Docu',
-        },
         // {to: '/events', label: 'Evenimente', position: 'left'},
         {
           type: 'dropdown',
@@ -146,8 +139,24 @@ const config: Config = {
           ]
         },
         {
-          href: isPreview ? 'https://github.com/cronica-it/preview' : 'https://github.com/cronica-it/cronica-it.github.io',
+          label: 'Despre',
+          to: '/despre',
+          position: 'right'
+        },
+        {
+          label: 'Arhiva',
+          href: 'https://cronica-it.github.io/archive/',
+          position: 'right',
+        },
+        {
+          label: 'Docu',
+          type: 'docSidebar',
+          sidebarId: 'docuSidebar',
+          position: 'right',
+        },
+        {
           label: 'GitHub',
+          href: isPreview ? 'https://github.com/cronica-it/preview' : 'https://github.com/cronica-it/cronica-it.github.io',
           position: 'right',
         },
       ],
