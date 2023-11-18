@@ -3,10 +3,9 @@
 Acest folder conține lista evenimentelor, din care se generează
 programatic tabela de cronologie.
 
-Evenimentele sunt fișiere markdown
-(`.md`) sau sub-foldere în care există un fișier `index.md`.
+Evenimentele sunt sub-foldere în care există un fișier `index.md`.
 
-Pentru a simplifica navigarea, numele fișierelor sau folder-elor
+Pentru a simplifica navigarea, numele folder-elor
 trebuie să fie prefixate cu
 anul evenimentului (4 cifre).
 
