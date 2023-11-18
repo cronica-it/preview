@@ -15,6 +15,8 @@ Sursa datelor listate în cronologie este în secțiunea **Evenimente**.
 Pentru articolele de tip eveniment
 este recomandat un **limbaj profesional**, clar și concis, cu repere în timp,
 nume de persoane, referințe, și în general informații cu valoare științifică.
+Ca un punct de reper, aceste articole trebuie să îndeplinească și
+condițiile de publicare pe Wikipedia.
 
 Pe lângă acestea, amintirile personale sunt de asemenea apreciate, ca
 articole de blog, care nu vor face parte directă din cronologie, dar vor
@@ -23,27 +25,30 @@ fi menționate ca referințe în cronologie.
 Limbajul articolelor de blog este personal, la persoana întâia
 sau în orice format dorește autorul.
 
-## Articole simple vs. articole cu poze și alte documente atașate
+## Articole cu poze și alte documente atașate
 
-Articolele obișnuite, ce conțin un text simplu,
-se pot memora direct în fișiere, fiecare articol într-un fișier cu
-extensia `.md` (markdown).
+Articolele sunt memorate ca sub-foldere, în care conținutul
+este într-un fișier cu nume fix, `index.md`.
 
 Dacă articolul este însoțit de
-poze și/sau alte documente atașate, articolele vor fi memorate
-în foldere separate, cu textul în fișierul `index.md` si pozele
-într-un subfolder `img`.
+poze și/sau alte documente atașate, acestea vor fi memorate
+în foldere separate, de exemplu pozele pot sta
+într-un sub-folder `img`.
 
-## Convenția de nume pentru fișiere/foldere
+Deși Docusaurus permite și memorarea articolelor simple în direct
+în fișiere cu terminația `.md`, din motive de consistență, toate
+articolele vor fi memorate în sub-foldere.
 
-Convenția de nume pentru evenimnte și articolele de blog este în general
+## Convenția de nume pentru foldere
+
+Convenția de nume pentru evenimente și articolele de blog este în general
 un string care începe cu anul si
 este urmat de un nume scurt, posibil mai multe cuvinte separate de
 linițe, de exemplu:
 
 ```
-2023-cniv <-- folder
-2023-free-unix-for-romania.md <-- fișier
+2023-cniv
+2023-free-unix-for-romania
 ```
 
 ## Preambului articolului
@@ -87,7 +92,7 @@ numele articolului, de exmplu:
 
 Un exemplu de articol scurt, dar cu multe referințe, poate fi:
 
-```md title="2023-free-unix-for-romania.md"
+```md title="1992-free-unix-for-romania/index.md"
 ---
 slug: 1992/free-unix-for-romania
 title: 'Free Unix for Romania'
@@ -110,8 +115,6 @@ In septembrie 1994, conducerea organizației este preluată de Ted Lungu.
 
 Ultimul raport cunoscut este din 1995.
 
-În 2023,
-
 ## Referințe
 
 - [Prezentare lui Marius Hâncu la ROSE'93](/blog/2023/hancu-mesaj-free-unix-rose93/)
@@ -128,7 +131,11 @@ Ultimul raport cunoscut este din 1995.
 
 ## Diacritice
 
-Articolele trebuie scrise în limba română, cu diacritice.
+De preferință, articolele trebuie scrise în limba română, cu diacritice.
+
+În cazul în care textul primit nu are diacritice, și autorul nu îl poate
+corecta, articolul va fi editat înainte de publicare și
+cel puțin titlul și prima frază vor conține diacriticele corecte.
 
 ## Transmiterea articolelor
 

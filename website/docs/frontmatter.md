@@ -6,7 +6,7 @@ sidebar_position: 3
 
 Prin **front matter** se înțelege o listă de proprietăți asociate cu
 un articol. Formatul este YML și secțiunea front matter este delimitată
-de linii cu trei liniuțe (`---`).
+de linii compuse dintr-un bloc de trei liniuțe (`---`).
 
 Lista completă a proprietăților din front matter este in secțiunea
 [Markdown front matter](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog#markdown-front-matter).
@@ -114,6 +114,9 @@ Lista actuala se poate obține direct din site, intrarea **Tags**.
 
 Proprietatea `date` definește data si ora (raportată la UTC) când a fost
 publicat articolul pe blog.
+
+Suffixul `Z` pentru UTC este adăugat automat de Docusaurus și nu trebuie
+folosit.
 
 Exemplu:
 
