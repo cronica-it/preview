@@ -140,10 +140,10 @@ cel puțin titlurile și prima frază vor conține diacriticele corecte.
 ## Transmiterea articolelor
 
 Pentru cei obișnuiți cu GitHub, cea mai simpla soluție de
-a contribui articole sau actualizări este cu un Pull Request.
+a contribui articole sau actualizări este cu un **Pull Request**.
 
 Pentru cei care nu au experiență cu GitHub, metodele tradiționale de
-transmiterea a fișierelor prin eMail se pot de asemenea folosi.
+transmiterea a fișierelor prin eMail pot fi de asemenea folosite.
 
 ## GDPR
 
