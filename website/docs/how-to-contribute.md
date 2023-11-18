@@ -149,8 +149,8 @@ transmiterea a fișierelor prin eMail pot fi de asemenea folosite.
 
 Suplimentar, cine dorește să publice articole, trebuie să furnizeze
 și cateva informații de identificare, cum ar fi numele complet și,
-opțional, adresa de email, adresă de web, fotografie, și să își asume răspunderea
-pentru informațiile publicate.
+opțional, adresa de email, adresă de web, fotografie, și să își asume
+răspunderea pentru informațiile publicate.
 
 In conformitate cu GDPR, este nevoie și de o declarație că este de
 acord ca aceste date să fie utilizate pe site, în condițiile
