@@ -20,7 +20,8 @@ In septembrie 1994, conducerea organizației este preluată de Ted Lungu.
 
 Ultimul raport cunoscut este din 1995.
 
-În 2023,
+În 2023, Marius Hâncu a trimis un material la
+[GALA 30 de ani de Internet](/events/2023/dtc-30-ani-internet).
 
 ## Referințe
 
