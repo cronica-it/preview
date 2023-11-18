@@ -144,14 +144,14 @@ const config: Config = {
           position: 'right'
         },
         {
-          label: 'Arhiva',
-          href: 'https://cronica-it.github.io/archive/',
-          position: 'right',
-        },
-        {
           label: 'Docu',
           type: 'docSidebar',
           sidebarId: 'docuSidebar',
+          position: 'right',
+        },
+        {
+          label: 'Arhiva',
+          href: 'https://cronica-it.github.io/archive/',
           position: 'right',
         },
         {
