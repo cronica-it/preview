@@ -151,7 +151,7 @@ const config: Config = {
         },
         {
           label: 'Arhiva',
-          href: 'https://cronica-it.github.io/archive/',
+          href: 'https://cronica-it.github.io/arhiva/',
           position: 'right',
         },
         {
