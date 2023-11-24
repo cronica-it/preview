@@ -9,7 +9,7 @@ date: 2023-11-03T21:54
 
 Acest articol este al doilea dintr-o serie apărută în revista IT Trends
 în anul 2013, și republicat în broșura
-[De la Free Software la Internet](https://cronica-it.github.io/archive/assets/arot/Brosura_Alex_Rotaru_A5_Tipar.pdf).
+[De la Free Software la Internet](https://cronica-it.github.io/arhiva/assets/2013/arot-brosura-a5-tipar.pdf).
 
 <!-- truncate -->
 
@@ -49,4 +49,4 @@ De exemplu prin 2 mail-uri schimbate cu Antony Rutkowsky, director executiv al I
 
 ## Referințe
 
-- [De la Free Software la Internet](https://cronica-it.github.io/archive/assets/arot/Brosura_Alex_Rotaru_A5_Tipar.pdf)
+- [De la Free Software la Internet](https://cronica-it.github.io/arhiva/assets/2013/arot-brosura-a5-tipar.pdf)

@@ -9,7 +9,7 @@ date: 2023-11-03T21:19
 
 Acest articol este primul dintr-o serie apărută în revista IT Trends
 în anul 2013, și republicat în broșura
-[De la Free Software la Internet](https://cronica-it.github.io/archive/assets/arot/Brosura_Alex_Rotaru_A5_Tipar.pdf).
+[De la Free Software la Internet](https://cronica-it.github.io/arhiva/assets/2013/arot-brosura-a5-tipar.pdf).
 
 <!-- truncate -->
 
@@ -48,4 +48,4 @@ Abia de aici încolo urma să se producă o întreagă transformare. Dar despre 
 
 ## Referințe
 
-- [De la Free Software la Internet](https://cronica-it.github.io/archive/assets/arot/Brosura_Alex_Rotaru_A5_Tipar.pdf)
+- [De la Free Software la Internet](https://cronica-it.github.io/arhiva/assets/2013/arot-brosura-a5-tipar.pdf)

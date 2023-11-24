@@ -9,7 +9,7 @@ date: 2023-11-03T22:08
 
 Acest articol este al șaptelea dintr-o serie apărută în revista IT Trends
 în anul 2013, și republicat în broșura
-[De la Free Software la Internet](https://cronica-it.github.io/archive/assets/arot/Brosura_Alex_Rotaru_A5_Tipar.pdf).
+[De la Free Software la Internet](https://cronica-it.github.io/arhiva/assets/2013/arot-brosura-a5-tipar.pdf).
 
 <!-- truncate -->
 
@@ -48,4 +48,4 @@ O prezentare post factum a conferinței, dar și a impresiilor personale despre 
 
 ## Referințe
 
-- [De la Free Software la Internet](https://cronica-it.github.io/archive/assets/arot/Brosura_Alex_Rotaru_A5_Tipar.pdf)
+- [De la Free Software la Internet](https://cronica-it.github.io/arhiva/assets/2013/arot-brosura-a5-tipar.pdf)

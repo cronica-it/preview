@@ -9,7 +9,7 @@ date: 2023-11-03T22:07
 
 Acest articol este al șaselea dintr-o serie apărută în revista IT Trends
 în anul 2013, și republicat în broșura
-[De la Free Software la Internet](https://cronica-it.github.io/archive/assets/arot/Brosura_Alex_Rotaru_A5_Tipar.pdf).
+[De la Free Software la Internet](https://cronica-it.github.io/arhiva/assets/2013/arot-brosura-a5-tipar.pdf).
 
 <!-- truncate -->
 
@@ -43,4 +43,4 @@ viitoarele servicii de acces la Internet on-line. În parelel cu aceste dezvolt�
 
 ## Referințe
 
-- [De la Free Software la Internet](https://cronica-it.github.io/archive/assets/arot/Brosura_Alex_Rotaru_A5_Tipar.pdf)
+- [De la Free Software la Internet](https://cronica-it.github.io/arhiva/assets/2013/arot-brosura-a5-tipar.pdf)

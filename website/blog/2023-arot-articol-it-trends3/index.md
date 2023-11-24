@@ -9,7 +9,7 @@ date: 2023-11-03T22:03
 
 Acest articol este al treilea dintr-o serie apărută în revista IT Trends
 în anul 2013, și republicat în broșura
-[De la Free Software la Internet](https://cronica-it.github.io/archive/assets/arot/Brosura_Alex_Rotaru_A5_Tipar.pdf).
+[De la Free Software la Internet](https://cronica-it.github.io/arhiva/assets/2013/arot-brosura-a5-tipar.pdf).
 
 <!-- truncate -->
 
@@ -40,4 +40,4 @@ Am realizat cât de mult au contat toate acestea când am avut șansa să ne în
 
 ## Referințe
 
-- [De la Free Software la Internet](https://cronica-it.github.io/archive/assets/arot/Brosura_Alex_Rotaru_A5_Tipar.pdf)
+- [De la Free Software la Internet](https://cronica-it.github.io/arhiva/assets/2013/arot-brosura-a5-tipar.pdf)
