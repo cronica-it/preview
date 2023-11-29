@@ -9,7 +9,6 @@
 - alte articole de pe http://linux.punct.info
 - carte Radu Jugureanu
 - povesti Nicolai Sandu
-- PDF-uri politehnica (http://www.csit-sun.pub.ro/research/history/)
 - CERF'97 - https://www.byte.ro/byte97-07/masa.html
 
 ## Mihu
@@ -47,6 +46,8 @@ Românești:
 - https://www.elforum.info/topic/140304-coral-independent-pdp11-felix-cfelix-m-robotron-emulator-unitate-de-banda-magnetica-pe-9-piste/
 - https://retroit.ro/en/prima-pag/
 - https://muzeuldecalculatoare.ro (Cluj?)
+- http://www.ionivan.ro
+
 
 Străine:
 
