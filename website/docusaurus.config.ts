@@ -49,7 +49,7 @@ const config: Config = {
          * Path to data on filesystem relative to site dir.
          */
         path: './events',
-        authorsMapPath: '../blog/authors.yml',
+        authorsMapPath: '../authors.yml',
         exclude: [ '**/README.md' ],
         showReadingTime: true,
         // Please change this to your repo.
@@ -80,7 +80,8 @@ const config: Config = {
             isPreview ? 'https://github.com/cronica-it/preview/edit/master/website/' : 'https://github.com/cronica-it/cronica-it.github.io/edit/master/website/',
           blogSidebarTitle: 'Articole',
           blogSidebarCount: 'ALL',
-         },
+          authorsMapPath: '../authors.yml',
+        },
         theme: {
           customCss: './src/css/custom.css',
         },
