@@ -1,7 +1,7 @@
 ---
 slug: 1994/rose
 title: "Conferința ROSE'94, București"
-authors: [arot, ilg-ul]
+authors: [arot]
 tags: [conferinte, autor:arot]
 date: 2023-11-01T09:07
 
