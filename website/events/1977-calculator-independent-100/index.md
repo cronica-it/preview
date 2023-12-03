@@ -1,7 +1,7 @@
 ---
 slug: 1977/calculator-independent-100
 title: 'Calculatorul Independent 100'
-authors: ilg-ul
+authors: [ilg-ul]
 tags: [calculatoare]
 date: 2023-11-01T07:52
 

@@ -1,7 +1,7 @@
 ---
 slug: 1993/eunet-romania
 title: "EUnet Romania"
-authors: ilg-ul
+authors: [ilg-ul]
 tags: [firme, internet]
 date: 2023-11-01T17:42
 

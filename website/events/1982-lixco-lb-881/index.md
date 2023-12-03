@@ -1,7 +1,7 @@
 ---
 slug: 1982/lixco-lb-881
 title: "Microcalculatorul Lixco L/B 881"
-authors: ilg-ul
+authors: [ilg-ul]
 tags: [calculatoare]
 date: 2023-11-02T16:45
 

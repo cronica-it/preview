@@ -1,7 +1,7 @@
 ---
 slug: 2000/kpnqwest-romania
 title: "KPNQwest Romania"
-authors: ilg-ul
+authors: [ilg-ul]
 tags: [firme, internet]
 date: 2023-11-16T19:38
 

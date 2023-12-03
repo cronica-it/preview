@@ -1,7 +1,7 @@
 ---
 slug: 2023/cniv
 title: "CNIV 2023"
-authors: ilg-ul
+authors: [ilg-ul]
 tags: [conferinte]
 date: 2023-11-02T20:15
 

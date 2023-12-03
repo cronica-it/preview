@@ -1,7 +1,7 @@
 ---
 slug: 2023/de-ce-cronica-it
 title: 'De ce Cronica IT&C'
-authors: ilg-ul
+authors: [ilg-ul]
 tags: [website]
 date: 2023-10-29T09:00
 

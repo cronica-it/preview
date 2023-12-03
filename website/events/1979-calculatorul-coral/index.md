@@ -1,7 +1,7 @@
 ---
 slug: 1979/calculatorul-coral
 title: 'Calculatorul Coral'
-authors: ilg-ul
+authors: [ilg-ul]
 tags: [calculatoare]
 date: 2023-11-07T08:29
 

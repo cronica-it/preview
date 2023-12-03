@@ -1,7 +1,7 @@
 ---
 slug: 1995/telegrama
 title: 'Telegrama - serviciul de presă prin email'
-authors: ilg-ul
+authors: [ilg-ul]
 tags: [presa, servicii, internet]
 date: 2023-11-03T22:20
 

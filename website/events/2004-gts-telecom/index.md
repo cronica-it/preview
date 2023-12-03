@@ -1,7 +1,7 @@
 ---
 slug: 2004/gts-telecom
 title: "GTS Telecom"
-authors: ilg-ul
+authors: [ilg-ul]
 tags: [firme, internet]
 date: 2023-11-16T19:42
 

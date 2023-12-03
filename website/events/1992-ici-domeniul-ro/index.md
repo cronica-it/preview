@@ -1,7 +1,7 @@
 ---
 slug: 1992/ici-domeniul-ro
 title: 'Domeniul .ro'
-authors: ilg-ul
+authors: [ilg-ul]
 tags: [internet]
 date: 2023-11-04T20:28
 

@@ -1,7 +1,7 @@
 ---
 slug: 2013/agora-20-ani-internet
 title: 'Agora - 20 de ani de Internet in Romania'
-authors: ilg-ul
+authors: [ilg-ul]
 tags: [conferinte]
 date: 2023-11-03T22:20
 

@@ -1,7 +1,7 @@
 ---
 slug: 1993/computere-pentru-licee
 title: 'Computere pentru licee'
-authors: ilg-ul
+authors: [ilg-ul]
 tags: [internet, educatie]
 date: 2023-10-30T08:28
 

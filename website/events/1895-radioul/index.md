@@ -1,7 +1,7 @@
 ---
 slug: 1895/radioul
 title: 'Radioul lui Marconi'
-authors: ilg-ul
+authors: [ilg-ul]
 tags: [international, comunicatii]
 date: 2023-10-30T07:35
 

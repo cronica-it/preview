@@ -1,7 +1,7 @@
 ---
 slug: 2023/hancu-distribution-centers
 title: 'Raportul lui Marius Hâncu despre punctele de distribuție'
-authors: hancu
+authors: [hancu]
 tags: [mesaje, autor:hancu]
 date: 2023-11-06T21:55
 
