@@ -2,7 +2,7 @@
 slug: 2023/hancu-mesaj-ted-lungu
 title: 'Mesajul în care Marius Hâncu îl introduce pe Ted Lungu'
 authors: hancu
-tags: [mesaje]
+tags: [mesaje, autor:hancu]
 date: 2023-11-06T21:01
 
 ---

@@ -2,7 +2,7 @@
 slug: 1995/rose
 title: "Conferința ROSE'95, București"
 authors: arot
-tags: [conferinte]
+tags: [conferinte, autor:arot]
 date: 2023-11-01T09:10
 
 eventDate: '1995-11-01'

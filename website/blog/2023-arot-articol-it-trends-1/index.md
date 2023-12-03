@@ -2,7 +2,7 @@
 slug: 2023/arot-articol-it-trends-1
 title: 'Adi Rotaru - Articol IT Trends - Capitol 1'
 authors: arot
-tags: [articole]
+tags: [articole, autor:arot]
 date: 2023-11-03T21:19
 
 ---

@@ -2,7 +2,7 @@
 slug: 2023/hancu-donation-drive
 title: 'Raportul lui Marius Hâncu despre donațiile pentru Free Unix for Romania'
 authors: hancu
-tags: [mesaje]
+tags: [mesaje, autor:hancu]
 date: 2023-11-06T21:21
 
 ---
