@@ -1,7 +1,7 @@
 ---
 slug: 1993/rose
 title: "Conferința ROSE'93, Cluj-Napoca"
-authors: arot
+authors: [arot, ilg-ul]
 tags: [conferinte, autor:arot]
 date: 2023-11-01T09:01
 
