@@ -95,5 +95,5 @@ Nick Sandru - soc.cult.romanians  (Newsgroup-ul emigratiei romane in anii 80'-90
 
 ## Referințe
 
-- [prwave.ro](https://www.prwave.ro/20-de-ani-de-internet-in-romania-evocati-la-programatica/)
+- [prwave.ro - 20 de ani de Internet in Romania](https://www.prwave.ro/20-de-ani-de-internet-in-romania-evocati-la-programatica/)
 - [AgoraMedia pe YouTube](https://www.youtube.com/@AgoraMEDIAsa/videos)
