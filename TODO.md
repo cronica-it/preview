@@ -7,7 +7,8 @@
 - EUnet 1 an, publicat local
 - EUnet - autorizație
 - alte articole de pe http://linux.punct.info
-- carte Radu Jugureanu
+- carte Radu Jugureanu ICI
+- PDF Radu Jugureanu academia.edu: - https://www.academia.edu/attachments/58679853/download_file?s=portfolio
 - povesti Nicolai Sandu
 - CERF'97 - https://www.byte.ro/byte97-07/masa.html
 
@@ -26,10 +27,6 @@ De discutat pentru o colaborare și preluare a articolelor.
 
 - http://www.marketwatch.ro/contact/
 
-## Felix M18-118.pdf
-
-De arhivat articol.
-
 ## Carte Viorel Darie
 
 - https://www.vioreldarie.ro/Creatii/Amintiri%20din%20epoca%20FELIX%20a%20calculatoarelor%20romanesti.pdf
@@ -41,6 +38,8 @@ De discutat si arhivat carte.
 Românești:
 
 - https://rite.org.ro/istoria-internetului/
+- https://economie.hotnews.ro/20_ani_internet
+- https://economie.hotnews.ro/stiri-20_ani_internet-15969144-istoria-internetului-romania-alexandru-rotaru-nu-pot-spun-inventat-noi-ceva-plus-aici-romania-doar-majoritatea-noutatilor-adoptat-printre-primii.htm
 - https://anticariatlogos.ro/product/structura-si-programarea-calculatorului-felix-c-256-mihai-draganescu/
 - https://www.seprom.ro/index.php/servicii-speciale/felix-coral
 - https://www.elforum.info/topic/140304-coral-independent-pdp11-felix-cfelix-m-robotron-emulator-unitate-de-banda-magnetica-pe-9-piste/
