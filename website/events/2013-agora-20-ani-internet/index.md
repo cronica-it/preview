@@ -10,9 +10,9 @@ eventSummary: 'Agora Group organizează conferința "20 de ani de Internet in Ro
 
 ---
 
-Joi, 14 noiembrie 2013, a avut loc o nouă ediție a conferinței
+Joi, 14 noiembrie 2013, are loc o nouă ediție a conferinței
 Programatica – Open Source, cu tema 20 de ani de Internet in Romania.
-Evenimentul a fost organizat de Agora Group la Hotel Intercontinental,
+Evenimentul este organizat de Agora Group, la Hotel Intercontinental,
 sala Rapsodia.
 
 <!-- truncate -->
