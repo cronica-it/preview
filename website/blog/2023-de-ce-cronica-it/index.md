@@ -20,7 +20,7 @@ insoțite de metadate pentru cronologie.
 In data de 27 octombrie 2023, la evenimentul CNIV 2023, idea unui site
 web dedicat cronolgiei industriei IT&C
 a fost discutată cu Adi Rotaru, și astfel s-a conturat propunerea
-realizării site-ului **Cronica IT**, ca o inițiativă a Grupului
+realizării site-ului **Cronica IT&C**, ca o inițiativă a Grupului
 Utilizatorilor Români de Unix.
 
 Două zile mai târziu a apărut un prim preview al acestui site.
