@@ -10,7 +10,7 @@ eventSummary: 'ANISP organizează "RITE 2023 - 30 de ani de Internet în Români
 
 ---
 
-Asociația Națională a Internet Service Providerilor din România organizează Romanian Internet Technologies Event (RITE), un eveniment menit să faciliteze interacțiunea între furnizorii de servicii de internet, dezvoltatorii de conținut pentru internet și diferiți utilizatori de internet.
+Asociația Națională a Internet Service Providerilor din România (ANISP) organizează Romanian Internet Technologies Event (RITE), un eveniment menit să faciliteze interacțiunea între furnizorii de servicii de internet, dezvoltatorii de conținut pentru internet și diferiți utilizatori de internet.
 
 <!-- truncate -->
 
