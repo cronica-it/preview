@@ -24,3 +24,16 @@ hancu:
 gserban:
   name: Gheorghe Șerban
   image_url: https://cronica-it.github.io/img/authors/gserban.jpg
+
+ivaciu:
+  name: Ion Vaciu
+  image_url: https://cronica-it.github.io/img/authors/ivaciu.jpg
+
+radujugu:
+  name: Radu Jugureanu
+  image_url: https://cronica-it.github.io/img/authors/radujugu.jpg
+
+smaier:
+  name: Ștefan Niculescu Maier
+  image_url: https://cronica-it.github.io/img/authors/smaier.jpg
+
