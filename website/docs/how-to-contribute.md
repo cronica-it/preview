@@ -143,7 +143,7 @@ Pentru cei obișnuiți cu GitHub, cea mai simpla soluție de
 a contribui articole sau actualizări este cu un **Pull Request**.
 
 Pentru cei care nu au experiență cu GitHub, metodele tradiționale de
-transmiterea a fișierelor prin eMail pot fi de asemenea folosite.
+transmiterea a fișierelor prin e-mail pot fi de asemenea folosite.
 
 ## GDPR
 
