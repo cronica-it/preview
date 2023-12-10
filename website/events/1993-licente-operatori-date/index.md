@@ -2,7 +2,7 @@
 slug: 1993/licente-operatori-date
 title: 'Primele licențe de operatori de date'
 authors: [arot]
-tags: [licente, firme, comunicatii, autor:arot]
+tags: [licente, firme, comunicatii, autor:alexandru.rotaru]
 
 eventDate: '1993-07-06'
 eventSummary: 'Se atribuie primele licențe de operatori de date'

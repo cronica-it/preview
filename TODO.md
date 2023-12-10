@@ -35,6 +35,13 @@ De discutat si arhivat carte.
 
 ## Alte Link-uri
 
+Copiate local:
+
+- https://cs.pub.ro/Videos/Aniversare45CS/Brosura45CS.pdf
+- https://www.academia.edu/attachments/58679853/download_file?s=portfolio
+- https://cs.pub.ro/Videos/Aniversare45CS/Brosura45CS.pdf
+- http://www.csit-sun.pub.ro/research/history
+
 Românești:
 
 - https://rite.org.ro/istoria-internetului/
@@ -47,6 +54,11 @@ Românești:
 - https://muzeuldecalculatoare.ro (Cluj?)
 - http://www.ionivan.ro
 
+- https://www.facebook.com/ICIBucuresti/posts/3488728511216217/
+
+- PDF - Istoria_informaticii_romanesti - https://www.researchgate.net/profile/Marin-Vlada/publication/349835992_Istoria_informaticii_romanesti_Aparitie_dezvoltare_si_impact_vol_IV_2020/links/60434dd5299bf1e0785b3f95/Istoria-informaticii-romanesti-Aparitie-dezvoltare-si-impact-vol-IV-2020.pdf
+
+- https://www.cs.rutgers.edu/news-events/highlights/highlight-item/9126-587-in-memory-of-prof-liviu-iftode-1959-2017
 
 Străine:
 

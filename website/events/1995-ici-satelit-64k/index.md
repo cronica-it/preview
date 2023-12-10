@@ -2,7 +2,7 @@
 slug: 1995/ici-satelit-64k
 title: 'Legătura satelit ICI'
 authors: [arot, ilg-ul]
-tags: [internet, autor:arot]
+tags: [internet, autor:alexandru.rotaru]
 
 eventDate: '1995'
 eventSummary: 'ICI instalează prima legătura prin satelit'

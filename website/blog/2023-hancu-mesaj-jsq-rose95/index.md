@@ -2,7 +2,7 @@
 slug: 2023/hancu-mesaj-jsq-rose95
 title: "Mesajul lui Marius Hâncu despre ROSE'95"
 authors: [hancu]
-tags: [mesaje, autor:hancu]
+tags: [mesaje, autor:marius.hancu]
 date: 2023-11-03T22:20
 
 ---

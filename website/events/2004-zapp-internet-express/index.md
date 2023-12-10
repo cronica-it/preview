@@ -2,7 +2,7 @@
 slug: 2004/zapp-internet-express
 title: "Zapp Internet Express"
 authors: [gserban, ilg-ul]
-tags: [firme, internet, autor:gserban]
+tags: [firme, internet, autor:gheorghe.serban]
 date: 2023-11-29T08:44
 
 eventDate: '2004-10-27'

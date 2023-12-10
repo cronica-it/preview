@@ -2,7 +2,7 @@
 slug: 2023/cniv
 title: "CNIV 2023"
 authors: [radujugu, ilg-ul]
-tags: [conferinte, autor:radujugu]
+tags: [conferinte, autor:radu.jugureanu]
 date: 2023-11-02T20:15
 
 eventDate: '2023-11-27'

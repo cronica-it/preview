@@ -2,7 +2,7 @@
 slug: 1995/telegrama
 title: 'Telegrama - serviciul de presă prin email'
 authors: [smaier, ivaciu]
-tags: [presa, servicii, internet, autor:smaier, autor:ivaciu]
+tags: [presa, servicii, internet, autor:stefan.maier, autor:ion.vaciu]
 date: 2023-11-03T22:20
 
 eventDate: '1995'

@@ -2,7 +2,7 @@
 slug: 1992/ici-domeniul-ro
 title: 'Domeniul .ro'
 authors: [arot, ilg-ul]
-tags: [internet, autor:arot]
+tags: [internet, autor:alexandru.rotaru]
 date: 2023-11-04T20:28
 
 eventDate: '1992-02-26'

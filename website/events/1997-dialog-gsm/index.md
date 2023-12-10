@@ -2,7 +2,7 @@
 slug: 1997/dialog-gsm
 title: 'Dialog - un nou serviciu GSM'
 authors: [arot, ilg-ul]
-tags: [gsm, firme, autor:arot]
+tags: [gsm, firme, autor:alexandru.rotaru]
 
 eventDate: '1997-04-21'
 eventSummary: 'Mobil Rom lansează serviciul Dialog'

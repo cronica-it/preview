@@ -2,7 +2,7 @@
 slug: 1993/roedu-net
 title: 'roedu.net '
 authors: [arot, ilg-ul]
-tags: [internet, autor:arot]
+tags: [internet, autor:alexandru.rotaru]
 
 eventDate: '1993-11'
 eventSummary: 'roedu.net se conectează pe linie dedicată'

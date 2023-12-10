@@ -2,7 +2,7 @@
 slug: 1992/guru
 title: "GURU - Grupul Utilizatorilor Români de Unix"
 authors: [arot]
-tags: [asociatii, autor:arot]
+tags: [asociatii, autor:alexandru.rotaru]
 date: 2023-11-01T12:46
 
 eventDate: '1992'

@@ -2,7 +2,7 @@
 slug: 1997/connex-gsm
 title: 'Connex - primul serviciu GSM'
 authors: [arot, ilg-ul]
-tags: [gsm, firme, autor:arot]
+tags: [gsm, firme, autor:alexandru.rotaru]
 
 eventDate: '1997-04-15'
 eventSummary: 'MobiFon lansează brandul Connex'

@@ -2,7 +2,7 @@
 slug: 1991/email-academic
 title: 'Acces e-mail în mediul academic'
 authors: [arot, ilg-ul]
-tags: [internet, autor:arot]
+tags: [internet, autor:alexandru.rotaru]
 
 eventDate: '1991'
 eventSummary: 'Se efectuează primele legături de e-mail'

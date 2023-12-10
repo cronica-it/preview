@@ -2,7 +2,7 @@
 slug: 1993/rnc-internet
 title: 'RNC - access total Internet'
 authors: [arot, ilg-ul]
-tags: [internet, autor:arot]
+tags: [internet, autor:alexandru.rotaru]
 
 eventDate: '1993'
 eventSummary: 'RNC asigură conectivitate totală Internet'
