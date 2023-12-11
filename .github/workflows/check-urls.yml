@@ -25,8 +25,8 @@ jobs:
 
       - name: 'Install project dependencies'
         timeout-minutes: 1440
-        run: npm install
+        run: npm install -C website
 
       - name: 'Check URLs'
         timeout-minutes: 1440
-        run: npm run check-urls
+        run: npm run check-urls -C website
