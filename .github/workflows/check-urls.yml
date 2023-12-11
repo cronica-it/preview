@@ -1,0 +1,32 @@
+# https://docs.github.com/en/rest/reference/actions#create-a-workflow-dispatch-event
+
+name: 'Check for broken URLs'
+
+on:
+  workflow_dispatch:
+    inputs:
+      xpm_version:
+        description: 'The version of xpm to install'
+        required: false
+        type: string
+        default: 'latest'
+
+jobs:
+
+  linux-x64:
+    name: 'Linux x64 test'
+    runs-on: ubuntu-22.04
+
+    steps:
+      - name: 'Checkout project'
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 3
+
+      - name: 'Install project dependencies'
+        timeout-minutes: 1440
+        run: npm install
+
+      - name: 'Check URLs'
+        timeout-minutes: 1440
+        run: npm run check-urls
