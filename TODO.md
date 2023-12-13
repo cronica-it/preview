@@ -2,15 +2,15 @@
 
 ## Articole
 
-- 30 ani internet (Comunicatii Mobile)
+- 30 ani Internet (Comunicatii Mobile)
 - GTS Telecom - completări Răzvan
 - EUnet 1 an, publicat local
 - EUnet - autorizație
 - alte articole de pe http://linux.punct.info
-- carte Radu Jugureanu ICI
-- PDF Radu Jugureanu academia.edu: - https://www.academia.edu/attachments/58679853/download_file?s=portfolio
 - povesti Nicolai Sandu
-- CERF'97 - https://www.byte.ro/byte97-07/masa.html
+- preluat inteviu Lix http://nini.qsl.ro/node/32
+- preluat poveste Sandra Pralong de la cniv
+- povesti Dan Garlasu
 
 ## Mihu
 
@@ -53,6 +53,7 @@ Românești:
 - https://retroit.ro/en/prima-pag/
 - https://muzeuldecalculatoare.ro (Cluj?)
 - http://www.ionivan.ro
+- https://sites.google.com/site/georgechirtoaca/home
 
 - https://www.facebook.com/ICIBucuresti/posts/3488728511216217/
 
