@@ -35,8 +35,18 @@ script_name="$(basename $0)"
 script_base="create-event" # $(echo "${script_name}" | sed -e 's/\(.*\)[.]mac[.]command/\1/')
 # echo "${script_base}"
 
-export CRONICA_IT_AUTHORS="arot"
-export CRONICA_IT_TAGS="autor:alexandru.rotaru"
-export CRONICA_IT_LINKS="- [hotnews.ro - Istoria internetului in Romania](https://economie.hotnews.ro/stiri-20_ani_internet-15969144-istoria-internetului-romania-alexandru-rotaru-nu-pot-spun-inventat-noi-ceva-plus-aici-romania-doar-majoritatea-noutatilor-adoptat-printre-primii.htm)"
+# export CRONICA_IT_AUTHORS="arot"
+# export CRONICA_IT_AUTHORS="radujugu"
+# export CRONICA_IT_AUTHORS="ntapus"
+
+# export CRONICA_IT_TAGS="autor:alexandru.rotaru"
+# export CRONICA_IT_TAGS="autor:radu.jugureanu"
+# export CRONICA_IT_TAGS="internet, educatie, autor:nicolae.tapus"
+export CRONICA_IT_TAGS="internet"
+
+# export CRONICA_IT_LINKS="- [hotnews.ro - Istoria internetului in Romania](https://economie.hotnews.ro/stiri-20_ani_internet-15969144-istoria-internetului-romania-alexandru-rotaru-nu-pot-spun-inventat-noi-ceva-plus-aici-romania-doar-majoritatea-noutatilor-adoptat-printre-primii.htm)"
+# export CRONICA_IT_LINKS="- [academia.edu - Istoria informatizării în mediul preuniversitar românesc 1985-2018](https://www.academia.edu/43375781/Istoria_informatizării_în_mediul_preuniversitar_românesc_1985_2018)"
+# export CRONICA_IT_LINKS="- [cniv.ro - Nicolae Tăpuș - Rolul Universității Politehnica din București la Dezvoltarea Internetului în România](https://cniv.ro/documents/26/CNIV_Volum_Aniversar_2023_-_Versiune_Online_DPxioQg.pdf)"
+export CRONICA_IT_LINKS="- [internetsociety.org - A Brief History of the Internet](https://www.internetsociety.org/internet/history-internet/brief-history-internet/)"
 
 bash "${script_folder}/${script_base}.sh"
