@@ -354,11 +354,11 @@ Other manuals in /usr/pub/BOOKS:
 
 /usr/pub/BOOKS (docs in electronic form):
 emacs-manual-6.0.dvi.gz - manual for super-editor emacs, dvi format
-zen.ps.gz		- Zen and the internet, postscript format
+zen.ps.gz		- Zen and the Internet, postscript format
 zen.txt 		- ", in text format
 neur-intro.ps.gz	- Introduction to Neural Networks, postscript format
 			(130 pagini)
-packet_radio.tar.z	- docs on packet radio acces to internet
+packet_radio.tar.z	- docs on packet radio acces to Internet
 ======================================================================
 Books donated to the Computers Chair library in the Dept. of Computers
 and Automation of the University "Politehnica" Bucharest:
@@ -777,7 +777,7 @@ Bucharest, Romania
 
 Tel: (40 1) 6 15 04 00 int. 284
 
-contact person: Daniela Popescu , GURU founding member
+contact person: Daniela Popescu, GURU founding member
 386 BSD evaluation center at GURU Romania
 386 BSD installed
 home phone: (40 1) 6 59 92 17
@@ -798,7 +798,7 @@ email: estaicut%roearn.bitnet@utcs.utoronto.ca
        phone:6656060/251, 145
 Contact persons: Eugen Staicut and Radu Bercaru
 - linux SLS 0.98.5 (Dec 1992), 30 diskettes     - received	- operational
-- Zen and the internet - brochure		- received
+- Zen and the Internet - brochure		- received
 ======================================================================
 The Library of the
 Central Institute of Informatics
@@ -876,7 +876,7 @@ Bucharest, Romania
 Lt. maj. ing. Afteni T. Mihai
 tel 6310150 /101
 
-- linux SLS 0.99pl13 , 30 diskettes     	- received
+- linux SLS 0.99pl13, 30 diskettes     	- received
 - how-to documents
 ======================================================================
 Radu & Dan Corlan

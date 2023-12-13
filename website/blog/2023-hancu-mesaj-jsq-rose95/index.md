@@ -1,13 +1,13 @@
 ---
 slug: 2023/hancu-mesaj-jsq-rose95
-title: "Mesajul lui Marius Hâncu despre ROSE'95"
+title: "Mesajul lui Marius Hâncu despre ROSE '95"
 authors: [hancu]
 tags: [mesaje, autor:marius.hancu]
 date: 2023-11-03T22:20
 
 ---
 
-După conferința ROSE'95, Marius Hâncu a postat mesajul de mai jos
+După conferința ROSE '95, Marius Hâncu a postat mesajul de mai jos
 pe `comp.os.linux.advocacy`.
 
 <!-- truncate -->
@@ -458,4 +458,4 @@ e-mail: hancu@cam.org
 
 ## Referințe
 
-- [ROSE'95](/events/1995/rose/)
+- [ROSE '95](/events/1995/rose/)

@@ -298,7 +298,7 @@ Polytechnique, Universite de Montreal. Multi dintre studentii lor
 graduati lucreaza in cadrul proiectului nostru.
 
 R: Stiu din prezentarea Free UNIX facuta la
-ROSE'93 ca ati lucrat pentru o perioada in Japonia.
+ROSE '93 ca ati lucrat pentru o perioada in Japonia.
 Considerati experinta japoneza ca pe o etapa aparte din viata
 dumneavoastra profesionala?
 
@@ -665,7 +665,7 @@ deveni o alternativa viabila pentru utilizatori?
 
 M.H.: Lasand modestia la parte, as dori sa citez titlul
 mesajului meu pentru prima Conferinta pentru Sisteme Deschise
-ROSE'93 de la Cluj: "Free Unix for Romania: lucrand pentru ca
+ROSE '93 de la Cluj: "Free Unix for Romania: lucrand pentru ca
 programatorii sa aiba libertatea alegerii" (programelor pe care le
 folosesc). Deci consider free software in mod categoric ca o
 alternativa viabila. Un exemplu: din aproximativ 15 servere de pe

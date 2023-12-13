@@ -1,19 +1,19 @@
 ---
 slug: 2023/hancu-mesaj-free-unix-rose93
-title: "Mesajul lui Marius Hâncu despre Free Unix for Romania la ROSE'93"
+title: "Mesajul lui Marius Hâncu despre Free Unix for Romania la ROSE '93"
 authors: [hancu]
 tags: [mesaje, autor:marius.hancu]
 date: 2023-11-01T09:21
 
 ---
 
-Pentru conferința ROSE'93, Marius Hâncu a trimis mesajul de mai jos.
+Pentru conferința ROSE '93, Marius Hâncu a trimis mesajul de mai jos.
 
 <!-- truncate -->
 
 ```
 [Presented on my behalf at the First Romanian Open Systems Conference and
-Exhibition, ROSE'93, Cluj, Oct. 1993]
+Exhibition, ROSE '93, Cluj, Oct. 1993]
 
 
 
@@ -37,7 +37,7 @@ University of Toronto, Bell-Northern Research Ottawa and Hitachi Central
 Research Laboratory, Tokyo, Japan.
 
 It is my pleasure to address the Romanian Open Systems Conference and
-Exhibition, ROSE'93. I would like first of all to thank the presenter
+Exhibition, ROSE '93. I would like first of all to thank the presenter
 of my message, Professor Mircea Bodea, and the organizers, especially
 Alexandru Rotaru, the Chaiman of GURU, for inviting me to contribute this
 address as the initiator and coordinator of FREE UNIX FOR ROMANIA.
@@ -168,7 +168,7 @@ community aware of the features of linux. Two companies, System Plus
 International (of Bucharest)  and Berg Computers (of Timisoara) have
 started to distribute freely linux together with some of their
 systems. System Plus International also exhibited a linux-based system
-at CERF'93, increasing the awareness. We would like to hope that other
+at CERF '93, increasing the awareness. We would like to hope that other
 companies will support the distribution of free software in Romania.
 This can only increase the level of programming expertise, as many
 programmers prefer to work on their own systems, at home. From the
@@ -397,4 +397,4 @@ fax: (94) 162455
 
 ## Referințe
 
-- [ROSE'93](/events/1993/rose/)
+- [ROSE '93](/events/1993/rose/)

@@ -1,13 +1,13 @@
 ---
 slug: 2023/hancu-mesaj-free-unix-rose94
-title: "Mesajul lui Marius Hâncu despre Free Unix for Romania la ROSE'94"
+title: "Mesajul lui Marius Hâncu despre Free Unix for Romania la ROSE '94"
 authors: [hancu]
 tags: [mesaje, autor:marius.hancu]
 date: 2023-11-06T20:59
 
 ---
 
-Pentru conferința ROSE'94, Marius Hâncu a trimis mesajul de mai jos.
+Pentru conferința ROSE '94, Marius Hâncu a trimis mesajul de mai jos.
 
 <!-- truncate -->
 
@@ -64,7 +64,7 @@ provided tools and applications for these systems and for variations of
 
 At the time of this writing, Marius Hancu, Alexandru Rotaru and Irina
 Athanasiu are working to ensure the participation of Richard Stallman
-and of Linus Torvalds at the ROSE'94 conference in the free software
+and of Linus Torvalds at the ROSE '94 conference in the free software
 section. We just hope our efforts will prove fruitful. This would be a
 great event for the Romanian software community.
 
@@ -252,7 +252,7 @@ hope that more Romanian universities will follow the example of the
 Politehnica University of Bucharest, by connecting themselves to
 Internet. And we also hope that the Romanian government and other
 national and international organizations will help the PUB to remain
-connected to internet.
+connected to Internet.
 
 Finally, we wish success to the participants to this conference and
 exhibition.
@@ -272,5 +272,5 @@ Microwave Atmospheric Science Group, 4800 Oak Grove Dr, Pasadena CA,
 
 ## Referințe
 
-- [ROSE'94](/events/1994/rose/)
+- [ROSE '94](/events/1994/rose/)
 - [Mesajul în care Marius Hâncu îl introduce pe Ted Lungu](/blog/2023/hancu-mesaj-ted-lungu/)

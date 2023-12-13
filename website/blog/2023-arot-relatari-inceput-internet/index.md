@@ -55,7 +55,7 @@ la evolutia domeniului, inclusiv a Internet-ului ca inceput in Romania.
 
 Cei care au initiat GURU erau dintre cei care utlizasera Unix-ul
 inainte de 1989, prin formele lui incipiente in Romania: AT&T Unix pe
-Coral 4030 , sistemul U, devoltat integral in Romania pe M216 sau alte
+Coral 4030, sistemul U, devoltat integral in Romania pe M216 sau alte
 versiuni de tip SCO / Xenix aparute in putinele locuri unde asa ceva
 putea sa apara (ITC, Fabrica de Calculatoare, ICI, IIRUC).
 
@@ -172,8 +172,7 @@ Urmarea a venit la citeva saptamini. Astfel la inceputul lui 1993 a
 aparut EUnet Romania SRL, un punct de acces la Internet conectat prin
 dial-up pe UUCP la nodul EUnet Viena. Ulterior, la scurt timp, tot in
 1993 conexiunea s-a mutat prin dial-up la Amsterdam apoi on-line prin
-Transpac la EUnet Franta in Paris, folodind un circuit on-line X25 la
-numai 64Kbps.
+Transpac la EUnet Franta in Paris, folodind un circuit on-line X.25 la 64Kbps.
 
 Free Software for Romania
 -------------------------
@@ -260,7 +259,7 @@ ROMPAC, Logic Telecom, Politehnica si terminind cu fundatia SOROS) cit
 si partenerii internationali ai fiecaruia.
 
 
-Conferintele ROSE'93, reteaua scolilor si reteaua fundatiei SOROS
+Conferintele ROSE '93, reteaua scolilor si reteaua fundatiei SOROS
 -----------------------------------------------------------------
 
 Dupa asta, spre toamna anului 1993, am considerat la nivelul board-ului
@@ -270,7 +269,7 @@ aduca in fata publicului din Romania (in special elevi si studenti)
 citeva dintre numele de marca din IT.
 
 Si pentru ca am vrut sa incepem acest lucru in alt loc decit din
-Bucuresti, am organizat ROSE'93 la Cluj.
+Bucuresti, am organizat ROSE '93 la Cluj.
 
 In acea vreme existau greutati logistice imense privind obtinerea unor
 bani in valuta din banca pentru a-i folosi la plata transportului
@@ -280,9 +279,9 @@ imprumuta o suma de bani in dolari pentru biletul de avion al unui
 invitat din Statele Unite. Surprinzator, cei de la SOROS ne-au
 imprumutat pe loc cu suma necesara si asa a fost posibil ca primul
 membru Usenix, dl Jeff Haemer, unul dintre proiectantii sistemului AIX,
-sa vina la ROSE'93 la Cluj.
+sa vina la ROSE '93 la Cluj.
 
-Dupa conferinta ROSE'93 a intervenit din nou jocul intimplarilor.
+Dupa conferinta ROSE '93 a intervenit din nou jocul intimplarilor.
 Atunci cind am restituit banii la Fundatia Soros, prin intermediul
 D-lui Sandu Micolai, pe atunci coordonator al programului de dotare cu
 calculatoarea a scolilor din Romania, m-am cunoscut cu Jonathan Peizer,
@@ -370,7 +369,7 @@ Palatul Copiilor si din membrii lotului international de informatica
 pregatit de prof. Stelian Niculescu.
 
 b) a fost tot mai mult nevoie de Internet on-line, astfel incit in
-1994, la ROSE'94, chiar daca Internet-ul era asigurat doar prin
+1994, la ROSE '94, chiar daca Internet-ul era asigurat doar prin
 dial-up, ne-am propus sa remediem aceata situatie.
 
 In  anul 1994, impreuna cu Palatul Copiilor din Bucuresti am solicitat
@@ -384,10 +383,10 @@ telecomunicatii pentru deservirea pe dial-up a elevilor de la cercurile
 de informatica.
 
 Evident acest nod incipient de telecomunicatii pentru elevi a capatat
-si un nume: PC-Net, dupa care pina la inceperea lui ROSE'95 a acordat
+si un nume: PC-Net, dupa care pina la inceperea lui ROSE '95 a acordat
 gratuit mii de conturi uucp elevilor dar si altor persoane private.
 
-Asadar primul stand PC-Net a fost organizat la ROSE'95, iar primii
+Asadar primul stand PC-Net a fost organizat la ROSE '95, iar primii
 administratori ai acetei retele au provenit tot de la GURU, acestia
 fiind: Dragos Danetti, Daniel Dumitriu si in special Razvan Stanescu
 (Pappy). Acestia impreuna cu citiva tineri din lotul international de
@@ -415,7 +414,7 @@ Cerf, unul dintre co-autorii TCP/IP-ului sau John Quarterman, un
 binecunoscut statistician al Intertnet-ului, cu multiple contributii in
 descrierea fenomenleor de evolutie ale Internetului pe plan mondial. La
 sfirsit atasez citeva impresii ale lui John Quarterman din 1995, scrise
-in timpul conferintei ROSE'95, despre comunicatea Unix din Romania dar
+in timpul conferintei ROSE '95, despre comunicatea Unix din Romania dar
 si despre telecomunicatii sau despre cum eram noi romanii vazuti la
 acea vreme.
 
@@ -452,7 +451,7 @@ incepuse prin cele 4 noduri din Bucuresti si din tara sa conecteze la
 Internet gratuit firme Acest lucru cit si nevoia de a se concura corect
 pe piata, au condus la o presiune uriasa, culminind cu o conferinta de
 presa a tuturor furnizorilor Internet in 1996, in cadrul mesei rotunde
-de la ROSE'96. In urma acestei dezbateri, George Soros aflind
+de la ROSE '96. In urma acestei dezbateri, George Soros aflind
 detaliile, prin Jonathan Peizer care a fost prezent la dezbatere, s-a
 decis sa infiinteze firma DNT in Romania, avind ca actionar Open
 Society Institute de la New York. In acest fel fundatia SOROS devenea

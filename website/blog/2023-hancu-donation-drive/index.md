@@ -208,7 +208,7 @@ Sanda Graetz		50 diskettes April 20   U of Duesseldorf
 
 Timothy E. Neto		31 diskettes	Sept. 1, 93	Boeing
 Adrian Weissman         10 diskettes    Sept. 27, 93    Jerusalem
-Nick Sandru		1 tape		Nov. , 93	Denmark
+Nick Sandru		1 tape		Nov., 93	Denmark
 
 Edward Nicolescu	50 diskettes    Dec 10, 1993	Cornell U
 Ted Lungu               30 diskettes    Dec 27, 1993    JPL/NASA
@@ -422,7 +422,7 @@ smalltalk-tutorial
 swi-prolog	-- dutch prolog
 tcp-ip-admin
 tcp-ip-intro
-zen		-- Zen and the internet book
+zen		-- Zen and the Internet book
 
 interviews	-- X interface programs (src, Sun, linux)
 interviews/fresco
@@ -453,10 +453,10 @@ lin-reg  	-- linear regression program
 mentat   	-- Easy-to-use Object-Oriented Parallel Processing System
 		   uvacs.cs.virginia.edu
 perl     	-- perl language
-scheme-c 	-- Scheme->C , gatekeeper.dec.com
+scheme-c 	-- Scheme->C, gatekeeper.dec.com
 scm-scheme 	-- Scheme for PC si Unix, altdorf.ai.mit.edu
 sml-nj   	-- SML language for Sun
-zen   		-- Zen and the internet, booklet  phoebus.nisc.sri.com
+zen   		-- Zen and the Internet, booklet  phoebus.nisc.sri.com
 
 
 ----
@@ -655,7 +655,7 @@ Nicoleta Enescu		full khoros tape	Tampere U		Buc
 			(powerful image processing)
 
 Virgil Adumitroaie	- linux doc set		U of Buffalo		Iasi
-			- internet doc set
+			- Internet doc set
 
 Dan Cristea		Complete linux tape	Univ d'Orsay Paris 11	Iasi
 			- Slackware linux 1.1.2
@@ -705,7 +705,7 @@ Petru Eles 		Tape with:		Linkvping U		Tms
 & Alexa Doboli
 			- Modula-2*, parallel language
 			- NESL, data-parallel language, CMU
-			- Mosaic, internet-based hypertext viewer
+			- Mosaic, Internet-based hypertext viewer
 			- occam -> C compiler
 			- PNS (Petri net simulation tool)
 
