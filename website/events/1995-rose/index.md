@@ -1,27 +1,27 @@
 ---
 slug: 1995/rose
-title: "Conferința ROSE'95, București"
+title: "Conferința ROSE '95, București"
 authors: [arot]
 tags: [conferinte, autor:alexandru.rotaru]
 date: 2023-11-01T09:10
 
 eventDate: '1995-11-01'
 eventEndDate: '1995-11-04'
-eventSummary: "GURU organizează conferința ROSE'95, la București"
+eventSummary: "GURU organizează conferința ROSE '95, la București"
 
 ---
 
-La București are loc conferința ROSE'95, organizată de Grupul Utilizatorilor
+La București are loc conferința ROSE '95, organizată de Grupul Utilizatorilor
 Români de Unix (GURU), condus de Alexandru Rotaru.
 
 <!-- truncate -->
 
 Programul conferinței, în engleză, a fost:
 
-## ROSE'95
+## ROSE '95
 
 ROSE (Romanian Open Systems Event) is the Romanian Conference on
-Open Systems. ROSE'95 was the 3rd of one, on November 1-4 1995, Bucharest, Romania.
+Open Systems. ROSE '95 was the 3rd of one, on November 1-4 1995, Bucharest, Romania.
 
 It's program:
 
@@ -225,4 +225,4 @@ NOTE: Other possible subjects for open discussions will be announced, during the
 
 ## Referințe
 
-- [mesaj Marius Hâncu despre ROSE'95](/blog/2023/hancu-mesaj-jsq-rose95)
+- [mesaj Marius Hâncu despre ROSE '95](/blog/2023/hancu-mesaj-jsq-rose95)

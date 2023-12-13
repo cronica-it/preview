@@ -2,10 +2,10 @@
 slug: 1996/ici-fibra-optica
 title: 'Legătură fibră optică ICI'
 authors: [arot, ilg-ul]
-tags: [internet, autor:alexandru.rotaru]
+tags: [internet, ici, autor:alexandru.rotaru]
 
 eventDate: '1996-10'
-eventSummary: 'ICI instalează prima legătură terestră digitală'
+eventSummary: 'La ICI este instalată o legătură terestră digitală'
 
 ---
 

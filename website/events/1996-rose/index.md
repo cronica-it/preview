@@ -1,24 +1,24 @@
 ---
 slug: 1996/rose
-title: "Conferința ROSE'96, București"
+title: "Conferința ROSE '96, București"
 authors: [arot]
 tags: [conferinte, autor:alexandru.rotaru]
 date: 2023-11-01T09:17
 
 eventDate: '1996-10-30'
 eventEndDate: '1996-11-02'
-eventSummary: "GURU organizează conferința ROSE'96, la București"
+eventSummary: "GURU organizează conferința ROSE '96, la București"
 
 ---
 
-La București are loc conferința ROSE'96, organizată de Grupul Utilizatorilor
+La București are loc conferința ROSE '96, organizată de Grupul Utilizatorilor
 Români de Unix (GURU), condus de Alexandru Rotaru.
 
 <!-- truncate -->
 
 Programul conferinței, în engleză, a fost:
 
-## ROSE'96 Romanian Open Systems Event
+## ROSE '96 Romanian Open Systems Event
 
 30 October - 2 November
 Bucharest, Romania

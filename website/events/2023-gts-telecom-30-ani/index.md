@@ -2,16 +2,16 @@
 slug: 2023/gts-telecom-30-ani
 title: "GTS 30 de ani"
 authors: [ilg-ul]
-tags: [aniversari]
+tags: [aniversari, firme]
 date: 2023-11-02T20:15
 
 eventDate: '2023-09-21'
-eventSummary: 'GTS Telecom serbează 30 de ani de activitate'
+eventSummary: 'GTS Telecom aniversează 30 de ani de activitate'
 
 ---
 
 Joi, 21 Septembrie 2023, la Kong Restaurant,
-GTS Telecom serbează 30 de ani de activitate în România.
+GTS Telecom aniversează 30 de ani de activitate în România.
 
 <!-- truncate -->
 
@@ -27,4 +27,4 @@ GTS Telecom serbează 30 de ani de activitate în România.
 
 ## Referințe
 
-- ...
+- TODO

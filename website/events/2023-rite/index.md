@@ -2,7 +2,7 @@
 slug: 2023/rite
 title: "RITE 2023 - 30 de ani de Internet în România"
 authors: [ilg-ul]
-tags: [conferinte]
+tags: [conferinte, internet]
 date: 2023-11-06T09:25
 
 eventDate: '2023-10-25'
@@ -10,11 +10,11 @@ eventSummary: 'ANISP organizează "RITE 2023 - 30 de ani de Internet în Români
 
 ---
 
-Asociația Națională a Internet Service Providerilor din România (ANISP) organizează Romanian Internet Technologies Event (RITE), un eveniment menit să faciliteze interacțiunea între furnizorii de servicii de internet, dezvoltatorii de conținut pentru internet și diferiți utilizatori de internet.
+Asociația Națională a Internet Service Providerilor din România (ANISP) organizează Romanian Internet Technologies Event (RITE), un eveniment menit să faciliteze interacțiunea între furnizorii de servicii de Internet, dezvoltatorii de conținut pentru Internet și diferiți utilizatori de Internet.
 
 <!-- truncate -->
 
-Ediția RITE din acest an tratează tema “30 de ani de Internet în România” și abordează subiecte precum: tehnologiile Internetului, evoluția conținutului de internet (de la date simple, nestructurate și accesibile până la media în cloud de astăzi, bazată pe tehnologia de containere), OpenAI, realitatea virtuală etc.
+Ediția RITE din acest an tratează tema "30 de ani de Internet în România" și abordează subiecte precum: tehnologiile Internetului, evoluția conținutului de Internet (de la date simple, nestructurate și accesibile până la media în cloud de astăzi, bazată pe tehnologia de containere), OpenAI, realitatea virtuală etc.
 
 ## Referințe
 

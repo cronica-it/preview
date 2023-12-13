@@ -25,11 +25,11 @@ Ultimul raport cunoscut este din 1995.
 
 ## Referințe
 
-- [Prezentare lui Marius Hâncu la ROSE'93](/blog/2023/hancu-mesaj-free-unix-rose93/)
+- [Prezentare lui Marius Hâncu la ROSE '93](/blog/2023/hancu-mesaj-free-unix-rose93/)
 - [Raportul lui Marius Hâncu din 1993 despre punctele de distribuție](/blog/2023/hancu-distribution-centers/)
 - [Raportul lui Marius Hâncu din 1993 despre grantul Soros](/blog/2023/hancu-soros-grant/)
-- [Mesajul lui Marius Hâncu despre Free Unix for Romania la ROSE'94](/blog/2023/hancu-mesaj-free-unix-rose94/)
-- [Mesajul lui Marius Hâncu despre ROSE'95](/blog/2023/hancu-mesaj-jsq-rose95/)
+- [Mesajul lui Marius Hâncu despre Free Unix for Romania la ROSE '94](/blog/2023/hancu-mesaj-free-unix-rose94/)
+- [Mesajul lui Marius Hâncu despre ROSE '95](/blog/2023/hancu-mesaj-jsq-rose95/)
 - [Interviul acordat de Marius Hâncu revistei OPEN în 1994](/blog/2023/hancu-interviu-revista-open/)
 - [Raportul lui Marius Hâncu din 1994 despre cărțile trimise în România și Moldova](/blog/2023/hancu-soros-books/)
 - [Mesajul din 1994 în care Marius Hâncu îl introduce pe Ted Lungu](/blog/2023/hancu-mesaj-ted-lungu/)

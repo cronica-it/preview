@@ -1,52 +1,52 @@
 ---
 slug: 1993/rose
-title: "Conferința ROSE'93, Cluj-Napoca"
+title: "Conferința ROSE '93, Cluj-Napoca"
 authors: [arot]
 tags: [conferinte, autor:alexandru.rotaru]
 date: 2023-11-01T09:01
 
 eventDate: '1993-09-30'
 eventEndDate: '1993-10-01'
-eventSummary: "GURU organizează conferința ROSE'93, la Cluj-Napoca"
+eventSummary: "GURU organizează conferința ROSE '93, la Cluj-Napoca"
 
 ---
 
-La Cluj-Napoca are loc conferința ROSE'93, organizată de Grupul Utilizatorilor
+La Cluj-Napoca are loc conferința ROSE '93, organizată de Grupul Utilizatorilor
 Români de Unix (GURU), condus de Alexandru Rotaru.
 
 <!-- truncate -->
 
 Programul conferinței, în engleză, a fost:
 
-## ROSE'93 - general overview
+## ROSE '93 - general overview
 
-ROSE'93 was organised on two tracks:
+ROSE '93 was organised on two tracks:
 
 - technical conference hall
 - demonstration area of the companies (18 companies)
 
-ROSE'93 had 230 participants (this means proceeding owners) but arround 400 visiting participants in the 2 days.
+ROSE '93 had 230 participants (this means proceeding owners) but arround 400 visiting participants in the 2 days.
 
 The official languages of the conference were Romanian and English and all Romanian and French presentations were simultaneously translated into English.
 
 Most of the debates were continued in the demonstration area.
 
-The sessions of ROSE'93 were:
+The sessions of ROSE '93 were:
 
 - Invited papers session, chairman: Alexandru Rotaru, GURU
 - Networking papers session, chairman: Vince Hovanek, Sprint International
 - Technical papers session, chairman: Michael Beier, SunSoft
 - Free software session, chairman: Sergei Kuznetsov, SUUG
 
-We invited Mr. Richard Stallman president of FSF to talk at ROSE'93 by a satellite link from Washington DC. Unfortunately at the last moment Mr. Stallman had an accident and he could not reach Washington for ROSE'93. Instead of this, his message was presented during Free software session, and a printout of GNU Manifesto from FSF, received from him for ROSE'93, has been distributed.
+We invited Mr. Richard Stallman president of FSF to talk at ROSE '93 by a satellite link from Washington DC. Unfortunately at the last moment Mr. Stallman had an accident and he could not reach Washington for ROSE '93. Instead of this, his message was presented during Free software session, and a printout of GNU Manifesto from FSF, received from him for ROSE '93, has been distributed.
 
-ROSE'93 - list of participants from other countries
+ROSE '93 - list of participants from other countries
 
 Invited Papers
 
 - Norman Bryga, UNIX Systems Laboratories, Manager for East Europe
 _Some considerations about UNIX positioning_
-- Jeffrey S. Haemer, Canary Software, Inc. USA, President UniForum and USENIX representative at ROSE'93
+- Jeffrey S. Haemer, Canary Software, Inc. USA, President UniForum and USENIX representative at ROSE '93
 _Standards - A Overview of POSIX Standards_
 - Sergei Kuznetsov, Society of UNIX System User's Groups, Chairman, The Institute for Cybernetics Problems of Russian Academy of Science
 _Free Software in Russia_
@@ -85,11 +85,11 @@ _The VxWorks Real-Time Kernel_
 - Andre Germinet, Rene de Torsi France,
 _R-DBMS a Link to the Future_
 
-Internet Connections at ROSE'93
+Internet Connections at ROSE '93
 
-During ROSE'93 two Internet links were provided by EUnet Romania and LOGICnet (a branch from Sprint International). All the attendees could reach any of the Internet services directly from the Conference hall. Also full e-mail services have been provided. Mr. Vince Hovanek, responsable for Europe at Sprint International was the chairman of the "Networking" session of ROSE'93.
+During ROSE '93 two Internet links were provided by EUnet Romania and LOGICnet (a branch from Sprint International). All the attendees could reach any of the Internet services directly from the Conference hall. Also full e-mail services have been provided. Mr. Vince Hovanek, responsable for Europe at Sprint International was the chairman of the "Networking" session of ROSE '93.
 
-ROSE'93 list of participants from Romania
+ROSE '93 list of participants from Romania
 
 - Marina Girju, Mihai Pop, N.Popovici - PUB Communication Center
 _The Local Area Network at the PUB and the Central Communication Server_
@@ -128,7 +128,7 @@ Mr. Jeffrey S. Haemer gave two conferences in University "Politehnica" Bucharest
 - Why UNIX ? October 4, 14:00 - 17:00
 - POSIX October 5, 9:00 - 12:00
 
-ROSE'93 Sponsors and Support Teams
+ROSE '93 Sponsors and Support Teams
 
 - Banca "Dacia Felix"
 - Bull
@@ -168,13 +168,13 @@ The IIRUC branches from Bucharest and mainly from Cluj suceeded in organising th
 
 Special thanks to Mr. Adrian Ivanov, ITC Cluj and vice-chairman of GURU, who spended mostly all his time in helping to organise the whole event.
 
-We also thank to Mr. Liviu Iftode for sending a presentation about "the history of UNIX in Romania" which was presented during the 1st day of ROSE'93.
+We also thank to Mr. Liviu Iftode for sending a presentation about "the history of UNIX in Romania" which was presented during the 1st day of ROSE '93.
 
 If we forgot to mention somebody it is not because her (his) participation was not important for us.
 
-Alexandru Rotaru GURU Chairman
+Alexandru Rotaru GURU Chairman,
 Irina Athanasiu professor PUB
 
 ## Referințe
 
-- [Prezentare lui Marius Hâncu la ROSE'93](/blog/2023/hancu-mesaj-free-unix-rose93)
+- [Prezentare lui Marius Hâncu la ROSE '93](/blog/2023/hancu-mesaj-free-unix-rose93)

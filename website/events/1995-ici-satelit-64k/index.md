@@ -2,14 +2,15 @@
 slug: 1995/ici-satelit-64k
 title: 'Legătura satelit ICI'
 authors: [arot, ilg-ul]
-tags: [internet, autor:alexandru.rotaru]
+tags: [internet, ici, autor:alexandru.rotaru]
 
 eventDate: '1995'
-eventSummary: 'ICI instalează prima legătura prin satelit'
+eventSummary: 'La ICI este instalată o legătura prin satelit de 64kbps'
 
 ---
 
-In 1995, la ICI se pune in functiune prima legatură pe satelit.
+In 1995, la ICI se pune in functiune prima legatură pe satelit
+dedicată pentru Internet.
 
 <!-- truncate -->
 

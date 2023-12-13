@@ -2,7 +2,7 @@
 slug: 2013/agora-20-ani-internet
 title: 'Agora - 20 de ani de Internet in Romania'
 authors: [ilg-ul]
-tags: [conferinte]
+tags: [conferinte, internet]
 date: 2023-11-03T22:20
 
 eventDate: '2013-11-14'
@@ -23,7 +23,7 @@ Alina E. Popescu a descris evenimentul astfel (citat din articolul de pe prwave.
 
 În prima parte a evenimentului, dedicat proiectelor bazate pe tehnologii Open Source/Free Software, Cristian Iorga, Software Engineer, OTC Division Intel Software a prezentat proiectul Yocto. Apoi, Lucian Daia, Lead Software Engineer Zitec a explicat de ce toata lumea ar trebui să folosească aplicații în Cloud. În continuare, Tiberiu Turbureanu, Președintele Fundației Ceata, a prezentat activitatea și proiectele acestei organizații.
 
-Secțiunea “Comunitați Open Source” din cadrul conferinței a fost deschisă de către Prof. Dr. Mihai-Stanislav Jalobeanu cu descrierea proiectului Școala de Vară ”Informatica la Castel – Promovarea programelor libere în învățământul românesc”. Ulterior, Matei Oprea și Alex Morega au detaliat activitățile organizației ROSEdu iar Nicu Buculei, reprezentant al Asociației ProLinux, a evidențiat necesitatea unei comunități de FOSS.
+Secțiunea "Comunitați Open Source" din cadrul conferinței a fost deschisă de către Prof. Dr. Mihai-Stanislav Jalobeanu cu descrierea proiectului Școala de Vară "Informatica la Castel – Promovarea programelor libere în învățământul românesc". Ulterior, Matei Oprea și Alex Morega au detaliat activitățile organizației ROSEdu iar Nicu Buculei, reprezentant al Asociației ProLinux, a evidențiat necesitatea unei comunități de FOSS.
 
 În finalul acestei secțiuni Diana Cionoiu, prin intermediul unei transmisiuni live, a vorbit despre proiectul de free software în domeniul LTE – YATE.
 
@@ -33,7 +33,7 @@ Despre apariția Internetului și a rețelelor de comunicații în România au v
 
 și RoTLD, Liviu Ionescu, fondator Eunet, Nicolai Sandu, coordonator program Internet fundația SOROS (1991-1998), Mihai Bătrîneanu, fondator PC-Net, Ovidiu Crișan, fondator Kappa Servexim, primul operator Internet prin CATV, Gheorghe Rusu, co-fondator Intercomp SRL, Starnets, primul operator Internet prin VSAT și Sorin Marpozan, fondator Logic Telecom, Logic Telecom, operator național de pachete comutate.
 
-ar despre aplicații în mediul online au realizat prezentari: Mircea Bodea, profesor: Free Unix for Romania, Mihai-Stanislav Jalobeanu, profesor, istoria WWW de la Tim Berners-Lee și până azi, Liviu Iftode, profesor univ. Rutgers, "Internet of Cars", Horia Gligor, co-fondator GURU, relatări despre Richard Stallman și Phil Zimermann prezenți la conferința ROSE’94, Liviu Taloi, evoluția mediului on-line din 1995 și până în prezent și Radu Jugureanu, coordonator AEL SIVECO, conținut online pe Internet, evoluții notabile din 1993 și până azi.
+ar despre aplicații în mediul online au realizat prezentari: Mircea Bodea, profesor: Free Unix for Romania, Mihai-Stanislav Jalobeanu, profesor, istoria WWW de la Tim Berners-Lee și până azi, Liviu Iftode, profesor univ. Rutgers, "Internet of Cars", Horia Gligor, co-fondator GURU, relatări despre Richard Stallman și Phil Zimermann prezenți la conferința ROSE'94, Liviu Taloi, evoluția mediului on-line din 1995 și până în prezent și Radu Jugureanu, coordonator AEL SIVECO, conținut online pe Internet, evoluții notabile din 1993 și până azi.
 
 Acest eveniment a fost organizat cu sprijinul: Intel Software, ANISP, Microsoft, Zitec, SIVECO România.
 

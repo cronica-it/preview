@@ -1,26 +1,26 @@
 ---
 slug: 1994/rose
-title: "Conferința ROSE'94, București"
+title: "Conferința ROSE '94, București"
 authors: [arot]
 tags: [conferinte, autor:alexandru.rotaru]
 date: 2023-11-01T09:07
 
 eventDate: '1994-11-03'
 eventEndDate: '1994-11-05'
-eventSummary: "GURU organizează conferința ROSE'94, la București"
+eventSummary: "GURU organizează conferința ROSE '94, la București"
 
 ---
 
-La București are loc conferința ROSE'94, organizată de Grupul Utilizatorilor
+La București are loc conferința ROSE '94, organizată de Grupul Utilizatorilor
 Români de Unix (GURU), condus de Alexandru Rotaru.
 
 <!-- truncate -->
 
 După conferință, pe site-ul `guru.ro` a fost publicat următorul text în limba engleză:
 
-## ROSE'94 - The Romanian Open Systems Conference & Exhibition (Bucharest, 3-5th November 1994)
+## ROSE '94 - The Romanian Open Systems Conference & Exhibition (Bucharest, 3-5th November 1994)
 
-This year on 3-5th of November, GURU, Romanian UNIX User Group was the host for EurOpen GB Meeting. Just before this, GURU organized the International Open Systems Event - ROSE'94 (Conference & Exhibition).
+This year on 3-5th of November, GURU, Romanian UNIX User Group was the host for EurOpen GB Meeting. Just before this, GURU organized the International Open Systems Event - ROSE '94 (Conference & Exhibition).
 
 Some of the important speakers invited by GURU were: Richard Stallman, Elisabeth Zwicky, Philip Zimmermann and Chet Ramey. Unfortunately Elisabeth Zwicky was ill. So she could not come. Apart from missing her presence we regret that we had nobody from USENIX present at these events.
 
@@ -38,7 +38,7 @@ Two Romanian Computer publication groups and some newspapers were present. Up to
 
 There were more than 700 subscribed participants in the conference and more than 1500 visitors during the events. This number is very big for a Romanian conference especially on Open Systems, a subject which is not very familiar in Romania.
 
-GURU had some local technical support for organizing ROSE'94. All the organizers used pagers from a sponsor paging company and simultaneous translation was provided by another sponsor.
+GURU had some local technical support for organizing ROSE '94. All the organizers used pagers from a sponsor paging company and simultaneous translation was provided by another sponsor.
 
 Initially the conference was planned and announced for two days (3-4th November) but due to the large number of good submitted papers the Program Committee proposed to add a third day for the conference (3-5th November).
 

@@ -1,27 +1,34 @@
 ---
 slug: 1991/email-academic
 title: 'Acces e-mail în mediul academic'
-authors: [arot, ilg-ul]
-tags: [internet, autor:alexandru.rotaru]
+authors: [ilg-ul]
+tags: [internet, educatie, upb]
 
 eventDate: '1991'
-eventSummary: 'Se efectuează primele legături de e-mail'
+eventSummary: 'Nini Popovici efectuează primele legături de e-mail în Politehnică'
 
 ---
 
-In 1991 se efectuează primele legături de e-mail în mediul academic
+În 1991 devine funcțional primul sistem de poștă electronică din mediul academic
 și de cercetare.
 
 <!-- truncate -->
 
-Accesul la Internet din Romania se facea prin apel telefonic in alte tari
-(de regula Austria, Germania sau Olanda); adresele de e-mail erau
-inregistrate in domeniile din aceste tari. Guvernul Romaniei aproba
-propunerea Academiei Române, Ministerului Invațământului și Științei
-și Comisiei Naționale de Informatică pentru conectarea la reteaua
-EARN (European Academic Research Network), cu primele noduri ICI,
-IFA si IPB.
+Incă din 1990, Universitatea Politehnica București, prin Nini Popovici,
+și Technische Universitat Darmstadt, au demarat un proiect pentru a stabili un
+sistem experimental de poștă electronică
+cu scopul de a asigura conectivitatea UPB la nivel internațional.
+
+Proiectul a devenit funcțional în 1991. La acea dată,
+accesul din Romania către alte țări se facea prin apel telefonic manual
+(cu operator); adresele de e-mail erau
+inregistrate in domeniile din aceste tari, de exemplu
+adresele din Politehnică erau de genul `nume@pi-bucuresti.th-darmstadt.de`.
+
+Inițial nu exista conectivitate între calculatoarele din Politehnică,
+și mesajele receptionate la centrul de calcul erau imprimate și transmise
+destinatarilor direct sau pe fax.
 
 ## Referințe
 
-- [hotnews.ro - Istoria internetului in Romania](https://economie.hotnews.ro/stiri-20_ani_internet-15969144-istoria-internetului-romania-alexandru-rotaru-nu-pot-spun-inventat-noi-ceva-plus-aici-romania-doar-majoritatea-noutatilor-adoptat-printre-primii.htm)
+- [cniv.ro - Nicolae Tăpuș - Rolul Universității Politehnica din București la Dezvoltarea Internetului în România](https://cniv.ro/documents/26/CNIV_Volum_Aniversar_2023_-_Versiune_Online_DPxioQg.pdf)

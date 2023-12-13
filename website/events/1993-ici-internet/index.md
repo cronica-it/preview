@@ -1,16 +1,16 @@
 ---
-slug: 1993/rnc-internet
-title: 'RNC - access total Internet'
+slug: 1993/ici-internet
+title: 'ICI - access total Internet'
 authors: [arot, ilg-ul]
-tags: [internet, autor:alexandru.rotaru]
+tags: [internet, ici, autor:alexandru.rotaru]
 
 eventDate: '1993'
-eventSummary: 'RNC asigură conectivitate totală Internet'
+eventSummary: 'ICI asigură conectivitate completă la Internet'
 
 ---
 
 In 1993 nodul național RNC (Rețeaua Națională de Cercetare) de la ICI asigură
-conectivitate totală la Internet.
+conectivitate TCP/IP completă la Internet.
 
 <!-- truncate -->
 

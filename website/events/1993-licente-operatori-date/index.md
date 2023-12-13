@@ -5,7 +5,7 @@ authors: [arot]
 tags: [licente, firme, comunicatii, autor:alexandru.rotaru]
 
 eventDate: '1993-07-06'
-eventSummary: 'Se atribuie primele licențe de operatori de date'
+eventSummary: 'Sunt atribuite primele licențe de operatori de date'
 
 ---
 

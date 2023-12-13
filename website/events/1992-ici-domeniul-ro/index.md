@@ -2,15 +2,16 @@
 slug: 1992/ici-domeniul-ro
 title: 'Domeniul .ro'
 authors: [arot, ilg-ul]
-tags: [internet, autor:alexandru.rotaru]
+tags: [internet, ici, autor:alexandru.rotaru]
 date: 2023-11-04T20:28
 
 eventDate: '1992-02-26'
-eventSummary: 'ICI începe să administreze domeniul .ro'
+eventSummary: 'ICI începe să administreze DNS-ul pentru domeniul .ro'
 
 ---
 
-În februarie 1992, ICI începe să administreze DNS-ul pentru domeniul `.ro`.
+În februarie 1992, ICI obtine de la RIPE autorizarea să
+administreze DNS-ul pentru domeniul `.ro`.
 
 <!-- truncate -->
 
@@ -36,7 +37,7 @@ moment ICI a inceput sa inregistreze nume de domenii `.ro`.
 Primul nume de domeniu a fost `rnc.ro`.
 Serviciul de inregistrare a fost gratuit pana in 1995.
 
-Este instalat primul nameserver primar pentru domeniul ”.ro” (roearn.ici.ro).
+Este instalat primul nameserver primar pentru domeniul ".ro" (roearn.ici.ro).
 
 Inițial a existat propunerea folosirii de subdomenii, ca în UK, și ICI ar
 fi folosit `ici.ac.ro`, dar după discuții cu colegii de la rețelele din
@@ -49,7 +50,7 @@ Primele domenii înregistrate pentru rețeaua academică și de cercetare au fos
 Imediat au fost înregistrate și primele domenii pentru utilizatorii din mediul
 privat (`eunet.ro`, `adcon.ro`, `guru.ro`, `iiruc.ro`, `soros.ro`).
 
-## Acces deplin în internet
+## Acces deplin în Internet
 
 Deși domeniul a fost înregistrat în februarie, și serviciile de email au
 început să funcționeze imediat prin servere relay din diverse noduri din
@@ -59,7 +60,7 @@ adrese din România și Bulgaria.
 
 Pe fondul negocierilor României
 pentru acordarea clauzei națiunii celei mai favorizate, restricția a fost
-ridicată și din 16 aprilie România a avut acces deplin în internet.
+ridicată și din 16 aprilie România a avut acces deplin în Internet.
 
 ## Referințe
 

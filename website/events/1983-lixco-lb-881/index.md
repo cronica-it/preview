@@ -1,16 +1,16 @@
 ---
-slug: 1982/lixco-lb-881
+slug: 1983/lixco-lb-881
 title: "Microcalculatorul Lixco L/B 881"
 authors: [ilg-ul]
 tags: [calculatoare]
 date: 2023-11-02T16:45
 
-eventDate: '1982'
+eventDate: '1983'
 eventSummary: 'Lixco lansează microcalculatorul L/B 881'
 
 ---
 
-In 1982, **Lixco** lansează **L/B 881**, primul microcalculator de
+In 1983, **Lixco** lansează **L/B 881**, primul microcalculator de
 concepție și realizare privată din România.
 
 <!-- truncate -->
@@ -26,8 +26,11 @@ A fost comercializat sub forma de kit sau complet funcțional în special
 
 ![L/B881](img/lb881.jpg)
 
+Microcalculatorul a fost preluat și introdus în producție la ITCI-CCAB sub numele de CE 119.
+
 ## Referințe
 
 - [retroit.ro - Microcalculatorul L/B 881](https://retroit.ro/l-b-881/)
 - [ilgthegeek.wordpress.com - History: Lixco L/B881, the first Romanian commercial microcomputer](https://ilgthegeek.wordpress.com/2010/11/14/history-lixco-lb881/)
 - [tehnium-azi.ro - Computer LB881 - publicat in Tehnium](https://www.tehnium-azi.ro/forums/topic/7187-computer-lb881-publicat-in-tehnium/)
+- [qsl.ro - Interviu cu Nicoara Paulian (Lix) YO3NP](http://nini.qsl.ro/node/32)
