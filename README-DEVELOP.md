@@ -53,3 +53,9 @@ npm start -C ~/Work/cronica-it/preview.git/website
 
 The script also starts a browser pointing to the local server,
 and is updated automatically after each build.
+
+## Bug reports
+
+### blc rate limit
+
+- <https://github.com/stevenvachon/broken-link-checker/discussions/262>
