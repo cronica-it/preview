@@ -6,7 +6,7 @@ tags: [conferinte, autor:alexandru.rotaru]
 
 ---
 
-GURU că susținător al programului "Computere pentru licee" (suport logistic și training) 1993-1996.
+GURU ca susținător al programului "Computere pentru licee" (suport logistic și training) 1993-1996.
 
 <!-- truncate -->
 
