@@ -1,6 +1,6 @@
 ---
 slug: 2023/agora-cerf-97-internet
-title: 'Internet în România'
+title: 'CERF '97 - Internet în România'
 authors: [ilg-ul]
 tags: [internet]
 date: 2023-12-12T07:51:03
@@ -13,7 +13,7 @@ La CERF '97, în cadrul programului de seminarii și conferinte, organizate de C
 
 Organizare evenimentului a beneficiat de ajutorul domnului Iosif Fettich, director Netsoft Srl, și de îndrumarea d-nei prof.dr. Irina Athanasiu.
 
-În continuare este transcriptul discutiilor:
+Transcriptul discuțiilor este redat în continuare:
 
 Darvas Attila: Subiectul ultimei mese rotunde este Internetul. Subiectul este, cred, de mare interes și multumesc invitatilor și publicului ca ne-au onorat cu prezenta. În continuare, dau cuvântul d-nei prof.dr. Irina Athanasiu, pe care o rog sa conduca discutiile.
 
