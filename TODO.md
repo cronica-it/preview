@@ -4,18 +4,18 @@
 
 - 30 ani Internet (Comunicatii Mobile)
 - GTS Telecom - completări Răzvan
-- EUnet 1 an, publicat local
 - EUnet - autorizație
 - alte articole de pe http://linux.punct.info
 - povesti Nicolai Sandu
 - preluat inteviu Lix http://nini.qsl.ro/node/32
 - preluat poveste Sandra Pralong de la cniv
 - povesti Dan Garlasu
+- https://www.scribd.com/document/512100387/Volumul-V-by-Marin-Vlada-coord-2021
 
 ## Mihu
 
 3 articole scrise de Traian Mihu. Ele descriu cum a inceput
-industria de calculatoare (adica productia Felix-ului si Fabrica) inclusiv licenta de francezi:
+industria de calculatoare (adica productia Felix-ului si Fabrica) inclusiv licenta de la francezi:
 
 http://www.marketwatch.ro/articol/3954/Traian_(Dorin)_Mihu_-_ani_oameni_fapte_(I)_-_perioada_1970-1980/
 http://www.marketwatch.ro/articol/4059/Traian_(Dorin)_Mihu_-_ani_oameni_fapte_(II)_-_perioada_1980-1990/
@@ -29,7 +29,7 @@ De discutat pentru o colaborare și preluare a articolelor.
 
 ## Carte Viorel Darie
 
-- https://www.vioreldarie.ro/Creatii/Amintiri%20din%20epoca%20FELIX%20a%20calculatoarelor%20romanesti.pdf
+- https://www.vioreldarie.ro
 
 De discutat si arhivat carte.
 
@@ -41,9 +41,11 @@ Copiate local:
 - https://www.academia.edu/attachments/58679853/download_file?s=portfolio
 - https://cs.pub.ro/Videos/Aniversare45CS/Brosura45CS.pdf
 - http://www.csit-sun.pub.ro/research/history
+- https://www.vioreldarie.ro/Creatii/Amintiri%20din%20epoca%20FELIX%20a%20calculatoarelor%20romanesti.pdf
 
 Românești:
 
+- https://ro.wikipedia.org/wiki/Istoria_informaticii_în_România
 - https://rite.org.ro/istoria-internetului/
 - https://economie.hotnews.ro/20_ani_internet
 - https://economie.hotnews.ro/stiri-20_ani_internet-15969144-istoria-internetului-romania-alexandru-rotaru-nu-pot-spun-inventat-noi-ceva-plus-aici-romania-doar-majoritatea-noutatilor-adoptat-printre-primii.htm
@@ -56,9 +58,13 @@ Românești:
 - https://sites.google.com/site/georgechirtoaca/home
 - https://muzeu.unibuc.ro/ro/arhiva-digitala-a-muzeului-universitatii-din-bucuresti-admub/
 
+- https://ro.wikipedia.org/wiki/Istoria_informaticii_în_România
+
 - https://www.facebook.com/ICIBucuresti/posts/3488728511216217/
 
 - PDF - Istoria_informaticii_romanesti - https://www.researchgate.net/profile/Marin-Vlada/publication/349835992_Istoria_informaticii_romanesti_Aparitie_dezvoltare_si_impact_vol_IV_2020/links/60434dd5299bf1e0785b3f95/Istoria-informaticii-romanesti-Aparitie-dezvoltare-si-impact-vol-IV-2020.pdf
+
+- https://www.agir.ro/carte/un-institut-pentru-istorie-semicentenarul-institutului-pentru-tehnica-de-calcul-1968-2018-123155.html
 
 - https://www.cs.rutgers.edu/news-events/highlights/highlight-item/9126-587-in-memory-of-prof-liviu-iftode-1959-2017
 
