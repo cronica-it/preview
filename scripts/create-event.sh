@@ -82,6 +82,7 @@ echo "slug: ${event_year}/${slug}" >>"${tmp_file_path}"
 echo "title: 'TODO'" >>"${tmp_file_path}"
 echo "authors: [${authors}]" >>"${tmp_file_path}"
 echo "tags: [${tags}]" >>"${tmp_file_path}"
+echo "date: ${date}" >>"${tmp_file_path}"
 echo >>"${tmp_file_path}"
 echo "eventDate: '${event_date}'" >>"${tmp_file_path}"
 if [ -n "${event_end_date}" ]
