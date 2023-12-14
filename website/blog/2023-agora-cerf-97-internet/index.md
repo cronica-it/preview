@@ -1,6 +1,6 @@
 ---
 slug: 2023/agora-cerf-97-internet
-title: 'CERF '97 - Internet în România'
+title: "CERF '97 - Internet în România"
 authors: [ilg-ul]
 tags: [internet]
 date: 2023-12-12T07:51:03
