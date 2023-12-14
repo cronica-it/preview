@@ -3,6 +3,7 @@ slug: 1961/teorie-comutare-pachete
 title: 'Primul articol despre teoria comutării de pachete'
 authors: [ilg-ul]
 tags: [internet]
+date: 2023-12-13T22:03:45
 
 eventDate: '1961-07'
 eventSummary: 'Leonard Kleinrock publică primul articol

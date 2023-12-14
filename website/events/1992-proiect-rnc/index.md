@@ -3,6 +3,7 @@ slug: 1992/proiect-rnc
 title: 'Proiect cadru RNC'
 authors: [ntapus, ilg-ul]
 tags: [internet, cercetare, ici, autor:nicolae.tapus]
+date: 2023-12-13T18:49:54
 
 eventDate: '1992'
 eventSummary: 'Este proiectată „Rețeaua Națională de Cercetare” (RNC)'

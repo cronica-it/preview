@@ -3,6 +3,7 @@ slug: 1988/seminar-calculatoare-invatamant
 title: 'Seminarul științific „Utilizarea calculatoarelor electronice în procesul de învățământ”'
 authors: [radujugu]
 tags: [conferinte, educatie, autor:radu.jugureanu]
+date: 2023-12-11T12:09:04
 
 eventDate: '1988-05-26'
 eventEndDate: '1988-05-27'

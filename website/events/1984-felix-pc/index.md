@@ -3,6 +3,7 @@ slug: 1984/felix-pc
 title: 'Calculatorul Felix-PC'
 authors: [ntapus]
 tags: [calculator, autor:nicolae.tapus]
+date: 2023-12-11T19:17:36
 
 eventDate: '1984'
 eventSummary: 'Este lansat calculatorul Felix-PC'

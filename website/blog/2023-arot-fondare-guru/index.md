@@ -3,6 +3,7 @@ slug: 2023/arot-fondare-guru
 title: 'Fondarea asociației GURU'
 authors: [arot]
 tags: [asociatii, autor:alexandru.rotaru]
+date: 2023-12-11T23:09:40
 
 ---
 

@@ -3,6 +3,7 @@ slug: 1962/galactic-network
 title: 'Primele notițe despre interconectarea calculatoarelor'
 authors: [ilg-ul]
 tags: [internet]
+date: 2023-12-13T21:55:39
 
 eventDate: '1962-08'
 eventSummary: 'Licklider descrie conceptul de „Galactic Network”'

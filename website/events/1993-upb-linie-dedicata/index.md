@@ -3,6 +3,7 @@ slug: 1993/upb-linie-dedicata
 title: 'TODO'
 authors: [ntapus, ilg-ul]
 tags: [internet, educatie, upb, autor:nicolae.tapus]
+date: 2023-12-13T17:07:27
 
 eventDate: '1993-06'
 eventSummary: 'La Politehnică este instalată o linie dedicată cu Düsseldorf'

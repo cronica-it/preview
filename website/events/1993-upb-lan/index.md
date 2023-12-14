@@ -3,6 +3,7 @@ slug: 1993/upb-lan
 title: 'Rețeaua locală din Politehnică'
 authors: [ntapus, ilg-ul]
 tags: [internet, educatie, upb, autor:nicolae.tapus]
+date: 2023-12-13T16:35:40
 
 eventDate: '1993-06'
 eventSummary: 'La Politehnică este dată în folosință prima rețea locală (LAN)'

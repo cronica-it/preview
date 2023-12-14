@@ -3,6 +3,7 @@ slug: 2023/arot-computere-licee
 title: 'Adi Rotaru - Computere pentru licee'
 authors: [arot]
 tags: [conferinte, autor:alexandru.rotaru]
+date: 2023-12-12T07:15:57
 
 ---
 

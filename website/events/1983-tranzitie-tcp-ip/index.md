@@ -3,6 +3,7 @@ slug: 1983/tranzitie-tcp-ip
 title: 'Tranziția de la NCP la TCP/IP'
 authors: [ilg-ul]
 tags: [internet]
+date: 2023-12-13T22:11:23
 
 eventDate: '1983-01-01'
 eventSummary: 'ARPANET trece de la NCP la TCP/IP'

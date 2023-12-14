@@ -3,6 +3,7 @@ slug: 1969/rfc
 title: 'Request for Comments'
 authors: [ilg-ul]
 tags: [internet]
+date: 2023-12-13T22:14:22
 
 eventDate: '1969'
 eventSummary: 'Crocker inițiază metodologia de „Requests for Comments”'

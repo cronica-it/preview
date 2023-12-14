@@ -3,6 +3,7 @@ slug: 2023/robot-sah-labirint-atom
 title: 'Amintiri despre robotul românesc de şah LABIRINT 64 / ATOM 64'
 authors: [vdarie]
 tags: [sah]
+date: 2023-12-14T15:57:43
 
 ---
 

@@ -3,6 +3,7 @@ slug: 2023/arot-rose-95-96
 title: "Adi Rotaru - ROSE '95-96"
 authors: [arot]
 tags: [conferinte, autor:alexandru.rotaru]
+date: 2023-12-12T07:26:21
 
 ---
 

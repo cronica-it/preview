@@ -3,6 +3,7 @@ slug: 1993/ici-internet
 title: 'ICI - access total Internet'
 authors: [arot, ilg-ul]
 tags: [internet, ici, autor:alexandru.rotaru]
+date: 2023-12-10T12:10:51
 
 eventDate: '1993'
 eventSummary: 'ICI asigură conectivitate completă la Internet'

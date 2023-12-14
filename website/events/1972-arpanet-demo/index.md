@@ -3,6 +3,7 @@ slug: 1972/arpanet-demo
 title: 'Prima demonstrație cu ARPANET'
 authors: [ilg-ul]
 tags: [internet]
+date: 2023-12-13T22:06:20
 
 eventDate: '1972-10'
 eventSummary: 'Kahn face prima demonstrație cu ARPANET la ICCC'

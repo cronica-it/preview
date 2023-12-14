@@ -3,6 +3,7 @@ slug: 1970/ici
 title: 'Institutul Central de Informatica'
 authors: [ilg-ul]
 tags: [cercetare, informatica, ici]
+date: 2023-12-13T17:48:15
 
 eventDate: '1970'
 eventSummary: 'Este înființat Institutul Central de Informatică'

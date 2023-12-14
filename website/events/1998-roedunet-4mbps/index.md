@@ -3,6 +3,7 @@ slug: 1998/roedunet-4mbps
 title: 'Conexiune de 4 mbps la RoEduNet'
 authors: [ntapus, ilg-ul]
 tags: [internet, educatie, upb, autor:nicolae.tapus]
+date: 2023-12-13T18:31:31
 
 eventDate: '1998-12'
 eventSummary: 'La RoEduNet este instalată o nouă conexiune de 4 mbps'

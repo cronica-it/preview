@@ -3,6 +3,7 @@ slug: 1998/cisco-networking-academy
 title: 'Cisco Networking Academy în România'
 authors: [nicolaus]
 tags: [educatie, autor:nicolai.sandu]
+date: 2023-12-11T12:23:46
 
 eventDate: '1998-12'
 eventSummary: 'Cisco înființează Cisco Networking Academy în România'

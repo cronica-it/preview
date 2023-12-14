@@ -3,6 +3,7 @@ slug: 2001/roedunet-geant
 title: 'Conectare RoEduNet la GÉANT'
 authors: [ntapus]
 tags: [internet, educatie, upb, autor:nicolae.tapus]
+date: 2023-12-13T18:43:49
 
 eventDate: '2001'
 eventSummary: 'RoEduNet se conectează la GÉANT'
