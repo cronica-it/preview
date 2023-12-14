@@ -54,6 +54,7 @@ Românești:
 - https://muzeuldecalculatoare.ro (Cluj?)
 - http://www.ionivan.ro
 - https://sites.google.com/site/georgechirtoaca/home
+- https://muzeu.unibuc.ro/ro/arhiva-digitala-a-muzeului-universitatii-din-bucuresti-admub/
 
 - https://www.facebook.com/ICIBucuresti/posts/3488728511216217/
 
