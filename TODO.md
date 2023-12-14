@@ -27,12 +27,6 @@ De discutat pentru o colaborare și preluare a articolelor.
 
 - http://www.marketwatch.ro/contact/
 
-## Carte Viorel Darie
-
-- https://www.vioreldarie.ro
-
-De discutat si arhivat carte.
-
 ## Alte Link-uri
 
 Copiate local:
