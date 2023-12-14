@@ -60,6 +60,12 @@ and is updated automatically after each build.
 
 - <https://github.com/stevenvachon/broken-link-checker/discussions/262>
 
+## date:
+
+```sh
+ls -l -D %s | sed -e 's|.* \([0-9][0-9]*\) \([0-9].*\)$|echo \2 "      date:" $(date -r \1 -u "+%Y-%m-%dT%H:%M:%S")|' | bash | sort
+```
+
 ## Academia Română
 
 Ghilimelele folosite în limba română au codurile Unicode:
