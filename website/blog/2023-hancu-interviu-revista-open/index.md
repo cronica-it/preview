@@ -155,7 +155,7 @@ Universitatea din Kent, Anglia), Rom-Unix (administrata de Jean-
 Henry Berevoescu, Israel), focalizata desigur pe asistenta in
 domeniul Unix. In ultima perioada, am primit concursul lui
 Florin Radulescu, care a instalat primul gopher (server
-informational) de limba romana, la Universitatea "Politehnica"
+informational) de limba romana, la Universitatea „Politehnica”
 Bucuresti, din proprie initiativa. Gabriel Climescu a instalat si el
 un alt gopher in Elvetia, care schimba informatii cu cel din
 Bucuresti. Aceste gophere prezinta informatii turistice si de alta
@@ -188,10 +188,10 @@ asociatii profesionale si caritabile opereaza  pe baza de
 voluntariat.
 
 Intr-unul din primele apeluri am folosit ca motto o
-parafraza a John F. Kennedy: "Nu intreba ce poate face Romania
-pentru tine, intreaba-te ce poti face tu pentru Romania"
-(originalul era: "Don't ask what America can do for you, ask
-yourself what you can do for America"). Idealismul are inca o rol
+parafraza a John F. Kennedy: „Nu intreba ce poate face Romania
+pentru tine, intreaba-te ce poti face tu pentru Romania”
+(originalul era: „Don't ask what America can do for you, ask
+yourself what you can do for America”). Idealismul are inca o rol
 imens in rezolvarea problemelor lumii si in mod particular ale
 Romaniei.
 
@@ -235,7 +235,7 @@ recunoscatori. Sau cel putin asa speram noi ...
 
 In paralel cu activitatea didactica, am facut parte cu
 profesorul Mihut din echipa de service pentru firma daneza
-"Bruel & Kjaer", care la acea data era un lider mondial in
+„Bruel & Kjaer”, care la acea data era un lider mondial in
 domeniul aparaturii electronice de masura si control pentru
 domeniul sunetelor si al vibratiilor. Impreuna cu Gabriel Tach,
 subinginerul din echipa noastra, am facut sute de reparatii pentru
@@ -306,7 +306,7 @@ M.H.: Categoric aparte. Cand am revenit in Canada, am
 avut impresia ca vin de pe o alta planeta din multe puncte de
 vedere, pe care nu avem spatiul sa le detaliem aici, cred. Ca tinuta
 de viata, japonezii sunt modesti, frugali si extrem de disciplinati.
-Traiesc foarte mult pentru si prin colectivitate. "Kata", forma,
+Traiesc foarte mult pentru si prin colectivitate. „Kata”, forma,
 stilul, modul, maniera, au o importanta foarte mare in
 comportarea si filozofia de zi cu zi a japonezilor.
 
@@ -318,7 +318,7 @@ intre ei, pentru a-si ridica tara din ruine. Faptul ca unele firme
 erau in concurenta acerba reciproca nu i-a impiedicat sa faca asta,
 si cred ca aceasta 'coopetitie' (cooperare plus competitie) japoneza
 a precedat cu multi ani ceea ce vedem azi in Occident, de exemplu
-eforturile legate de introducerea unor standarde pentru "sisteme deschise".
+eforturile legate de introducerea unor standarde pentru „sisteme deschise”.
 
 Pe plan personal, am avut satisfactia sa lucrez ca
 cercetator vizitator la Laboratoarele Centrale de Cercetare ale
@@ -419,9 +419,9 @@ media nu se ridica inca la nivelul mediei din universitatile de aici.
 In privinta resurselor, exista, intr-adevar, un decalaj marcat. In
 timp ce studentii pe care i-am condus eu la diploma la Bucuresti
 au avut parte de conditii ideale, spun eu, ca urmare a contractului
-de service cu firma "Bruel & Kjaer", laboratoarele didactice aveau
+de service cu firma „Bruel & Kjaer”, laboratoarele didactice aveau
 o dotare foarte deficitara. Ceea ce conduce la situatia ca romanul
-"cunoaste multe numai din carti", o deficienta majora intr-o lume
+„cunoaste multe numai din carti”, o deficienta majora intr-o lume
 extrem de practica si de pretentioasa.
 
 Intr-un context mult mai general, acceptarea balcanismului
@@ -478,7 +478,7 @@ exista atat pentru profesionisti cat si pentru amatori/hackers, mai
 ales ca granitele  intre ele sunt greu de definit (cunosc profesori
 universitari renumiti care sunt etichetati de colegii lor ca hackers,
 avand in vedere cat de mult se preocupa de implementare si nu
-numai de "principii"). Efortul este considerabil de asemenea
+numai de „principii”). Efortul este considerabil de asemenea
 pentru cei care dezvolta free software, multi facand cu totul
 altceva la serviciu sau facultate decat in proiectul lor personal.
 
@@ -507,7 +507,7 @@ Cred ca in toate profesiile, pentru a ajunge la un nivel
 competitiv, in conditiile actuale, e necesar un efort considerabil.
 
  R: Cum priveste societatea occidentala aceasta
-minoritate? Ar putea fi integrati acesti "fanatici" in societate?
+minoritate? Ar putea fi integrati acesti „fanatici” in societate?
 Dar ei doresc aceasta integrare?
 
 M.H.: Greu de aplicat concluzii generale. Din punct de
@@ -550,7 +550,7 @@ Informatica (CNI) si Societatea Nationala de Informatica
 
 M.H.: Free UNIX for Romania a fost definita de la bun
 inceput si a operat in mare parte ca o organizatie de tip
-"grassroots", de la persoana-la-persoana, bazandu-ne in mare
+„grassroots”, de la persoana-la-persoana, bazandu-ne in mare
 masura pe entuziasmul amatorilor si profesionistilor din domeniul
 calculatoarelor. La acest nivel, succesul a fost remarcabil, am
 reusit practic ca in decursul unui an de zile sa acoperim toata
@@ -665,11 +665,11 @@ deveni o alternativa viabila pentru utilizatori?
 
 M.H.: Lasand modestia la parte, as dori sa citez titlul
 mesajului meu pentru prima Conferinta pentru Sisteme Deschise
-ROSE '93 de la Cluj: "Free Unix for Romania: lucrand pentru ca
-programatorii sa aiba libertatea alegerii" (programelor pe care le
+ROSE '93 de la Cluj: „Free Unix for Romania: lucrand pentru ca
+programatorii sa aiba libertatea alegerii” (programelor pe care le
 folosesc). Deci consider free software in mod categoric ca o
 alternativa viabila. Un exemplu: din aproximativ 15 servere de pe
-reteaua pub.ro a Universitatii "Politehnica" Bucuresti, 5 sau 6
+reteaua pub.ro a Universitatii „Politehnica” Bucuresti, 5 sau 6
 sunt linux si functioneaza foarte bine la un cost nul in materie de
 programe de sistem si aplicatii.
 
@@ -768,8 +768,8 @@ lor pare insa sa scada in timp ce apar alte categorii precum
 integratorii sau managerii de proiecte. Care mai este locul
 programatorilor in hatisul comercial actual?
 
-M.H.: Termenul "hatis" este bine ales. As mai adauga
-doar "hatisul comercial si juridic" actual. Profesia de programator e
+M.H.: Termenul „hatis” este bine ales. As mai adauga
+doar „hatisul comercial si juridic” actual. Profesia de programator e
 oarecum favorizata  in momentul actual, pe piata mondiala a
 muncii. Dar pentru a avea un rol determinant intr-o companie,
 sunt necesare multe alte cunostinte, legate de definirea sistemului,
@@ -897,7 +897,7 @@ utilizatori la anul de gratie 1994 intr-un singur an (cel putin in
 materie de free software ...). Introducerea retelelor de comunicatii
 academice si comerciale a avut un un rol important in acest scop.
 De exemplu, ultimul kernel 1.0, al linux, a fost prezent a doua zi
-la Universitatea "Politehnica" Bucuresti, trimis de noi. In plus,
+la Universitatea „Politehnica” Bucuresti, trimis de noi. In plus,
 facilitatile de ftp si telnet, prezente actualmente in mai multe
 locuri din tara permit importarea directa de programe in
 Romania, fara ajutorul nostru, din pacate deocamdata numai

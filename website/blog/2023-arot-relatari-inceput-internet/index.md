@@ -141,7 +141,7 @@ Pentru ca America era considerata cu 10 ani inaintea Europei in
 domeniul comercializarii infrastructurilor de tip backbone IP, primul
 presedinte al firmei EUnet BV a fost propus un american: Glenn Kowak.
 
-Dupa asta a urmat votul in EurOpen cit si splitarea "idealistilor" din
+Dupa asta a urmat votul in EurOpen cit si splitarea „idealistilor” din
 grupurile de Unix in doua categorii: cei care urmau sa intre in lumea
 comerciala (adica sa infiinteze branch-uri ale EUnet-ului din diverse
 tari) si ceilalti care au decis sa ramina in asociatiile de Unix ca
@@ -157,8 +157,8 @@ Romania, o sucurusala a firmei Adcon Telemetry din Viena, poate sa
 deschida sau nu nodul EUnet Romania. Liviu Ionescu, cel care a
 infiintat EUnet Romania, fiind membru GURU si totodata stiind ca acesta
 este un sustinator fara rezerve a sectorului privat, chiar daca lucrase
-inainte de 1989 la ITC, noi am spus in board-ul EurOpen; "DA, treaba
-asta o sa functioneze!".
+inainte de 1989 la ITC, noi am spus in board-ul EurOpen; „DA, treaba
+asta o sa functioneze!”.
 
 GURU a garantat in acest fel fata de EurOpen ca nodul EUnet in Romania
 poate functiona ca o companie privata, independenta. Am intarit faptul
@@ -179,7 +179,7 @@ Free Software for Romania
 
 In toamna anului 1992 si inceputul lui 1993, deci in primul an de viata
 al Linux-ului, un numar mare de romani din emigratie au infiintat
-miscarea "Free Software for Romania", condusa de Dl Marius Hancu de la
+miscarea „Free Software for Romania”, condusa de Dl Marius Hancu de la
 Universitatea din Montreal, cu scopul declarat de a introduce
 tehnologie noua sub forma de documentatii si free software in scolile
 si universitatile din Romania.
@@ -292,21 +292,21 @@ Jonathan ne-a intrebat direct ce sa faca ei ca acele donatii de
 calculatoare de la scolile din Romania sa fie folosite pentru
 comunicare.
 
-I-am raspuns instantaneu: "Conectati-le!".
+I-am raspuns instantaneu: „Conectati-le!”.
 
-"Bine dar cum?"
+„Bine dar cum?”
 
-Iar noi am raspuns: "Folosind Linux-ul, cel mai potrivit sistem de
+Iar noi am raspuns: „Folosind Linux-ul, cel mai potrivit sistem de
 operare pentru asa ceva, si cele 4 sedii ale fundatiei SOROS (din
 Bucuresti, Timisoara, Cluj si Iasi) pentru conectivitate
-internationala".
+internationala”.
 
-Totusi Jonathan, pe jumatate convins, ne-a mai pus o intebare: "Cine-i
+Totusi Jonathan, pe jumatate convins, ne-a mai pus o intebare: „Cine-i
 va invata pe cei din scoli sa minuiasca Linux-ul? dar Internet-ul
-pentru comunicare?"
+pentru comunicare?”
 
-Raspunsul a fost la fel de clar: "Noi cei de la GURU ca voluntari in
-taberele organizate de fundatie".
+Raspunsul a fost la fel de clar: „Noi cei de la GURU ca voluntari in
+taberele organizate de fundatie”.
 
 Prin discutia de mai sus si prin cele ce au urmat, practic s-a pus la
 punct atat planul din 1994 de dotare a scolilor cu servere Linux, dar

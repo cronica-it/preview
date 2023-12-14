@@ -53,13 +53,13 @@ Chairman: Nicolae Tapus
 - 14:45-15:00 Distributed Problem Solving System (Calin Sandru, Viorel Negru)
 - 15:00-15:15 Process Management Tool Based on MPI (Nicolae Tapus, Petru Lauric)
 - 15:15-15:30 Use of Message Passing Distributed Architecture in Optimization of a SMES (Bogdan Vasiliu, Irina Munteanu, Daniel Ioan, Gabriela Ciuprina)
-- 15:30-15:45 "EPILOG" A Language for Parallel Logic Programming Based on the Extended Andorra Model (Eneia Todoran, Kalman Pusztai)
+- 15:30-15:45 „EPILOG” A Language for Parallel Logic Programming Based on the Extended Andorra Model (Eneia Todoran, Kalman Pusztai)
 - 15:45-16:00 Parallel and Distributed Programming in Java Environment (Corneliu Barsan, Adrian Fanaru, Rusan Andrei, Lingureanu Sorin)
 - 16:00-16:15 Xterminal: An Object Oriented Text-based User Interface with Client-Server Architecture (Dragos Acostachioaie, Adrian Teohar)
 - 16:15-16:30 Data-Oriented Distributed Application Protocol Development (Romeo Dumitrescu, Ioan Jurca)
 - 16:30-17:00 Leading Network Technology in Perspective (Marc de Basquiat)
 - 17:00-17:30 Coffee break
-- 17:30-19:30 CISCO Technical Presentation: "Secure Routing" (Olivier Dupont)
+- 17:30-19:30 CISCO Technical Presentation: „Secure Routing” (Olivier Dupont)
 
 ### Thursday, 31 October
 

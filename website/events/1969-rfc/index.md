@@ -5,7 +5,7 @@ authors: [ilg-ul]
 tags: [internet]
 
 eventDate: '1969'
-eventSummary: 'Crocker inițiază metodologia de "Requests for Comments"'
+eventSummary: 'Crocker inițiază metodologia de „Requests for Comments”'
 
 ---
 

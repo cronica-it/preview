@@ -7,7 +7,7 @@ date: 2023-11-01T09:21
 
 eventDate: '1992'
 eventEndDate: '1995'
-eventSummary: 'Marius Hâncu coordonează programul "Free Unix for Romania"'
+eventSummary: 'Marius Hâncu coordonează programul „Free Unix for Romania”'
 
 ---
 

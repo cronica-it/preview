@@ -13,7 +13,7 @@ eventSummary: "Agora organizează CERF '97"
 
 <!-- truncate -->
 
-Cu această ocazie a avut loc o [masă rotundă](/blog/2023/agora-cerf-97-internet/), cu tema "Internet în România",
+Cu această ocazie a avut loc o [masă rotundă](/blog/2023/agora-cerf-97-internet/), cu tema „Internet în România”,
 la care au participat 20 furnizori de servicii Internet.
 
 

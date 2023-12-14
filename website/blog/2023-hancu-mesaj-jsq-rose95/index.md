@@ -111,8 +111,8 @@ Systems, Applications, Data Bases, and Internet Infrastructure
 and Resource Development.  The talk I gave was (supposed to be)
 in the last of those just named, and was essentially 45 minutes
 of the growth and demographic information selected from the longer
-talk of the previous month and countries (see "Five Countries
-in Two Weeks").  My talk actually got rescheduled twice, and
+talk of the previous month and countries (see „Five Countries
+in Two Weeks”).  My talk actually got rescheduled twice, and
 ended up on the last day, along with Esther Dyson's, which only
 got rescheduled once.
 
@@ -135,17 +135,17 @@ oddly reminiscent of the old UCB CSRG (University of California
 at Berkeley Computer Systems Group) talks about BSD (Berkeley
 Software Distributions) or even AT&T Bell Labs CSRG talks about
 Research UNIX. No marketing, no sales, no support, but technical
-quality and even binary compatibility (with SCO UNIX).  "I will
-make no promises and I will set no dates." He also works in a
+quality and even binary compatibility (with SCO UNIX).  „I will
+make no promises and I will set no dates.” He also works in a
 small team of about 10 or 20 people doing the core kernel work,
 plus perhaps as many as 100 people writing device drivers, and
 thousands more developing applications such as gcc.  Like BSD
 before it, Linux is a prime example of using the Internet to
 support a large software development project.
 
-More than slightly tongue in cheek, Linus also remarked: "In
+More than slightly tongue in cheek, Linus also remarked: „In
 1997 we'll probably have about 50 million users, and Bill Gates
-can kiss my ass. In 1998, the average dog will be running Linux."
+can kiss my ass. In 1998, the average dog will be running Linux.”
 How does Linus organize such a popular system, while giving it
 away and deriving no profit from it?  He's a lecturer at the
 University of Helsinki.  In addition to some teaching, his research
@@ -167,8 +167,8 @@ Traditional Media
 
 Linus was seen on Romanian TV on Saturday night, as was Alexander
 Rotaru, President of GURU; they also mentioned me, and I think
-I saw a shot of the closing panel.  Linus was also called "the
-Einstein of computing" by a local newspaper.
+I saw a shot of the closing panel.  Linus was also called „the
+Einstein of computing” by a local newspaper.
 
 Earlier, a Romanian Television reporter had asked me what I would
 tell the Romanian government.  This caught me a bit off guard,
@@ -182,14 +182,14 @@ The Romanian president's office and the Romanian immigration
 office used electronic mail recently to discuss a visit by the
 president to the United States.
 
-Anyway, what I said was, roughly:  "Don't impose unnecessary
+Anyway, what I said was, roughly:  „Don't impose unnecessary
 restrictions. Perhaps even consider removing some.  If, for example,
 there are regulations limiting international communications,
 those could beneficially be relaxed, since the Internet is by
 its nature international.  Positive things the government could
 do might be to fund sending people to IETF (Internet Engineering
 Task Force) meetings, and perhaps to assist GURU, which has already
-demonstrated it does good work by putting on this conference."
+demonstrated it does good work by putting on this conference.”
 One thing I didn't think to suggest at the time would be student
 scholarships for network study.
 
@@ -324,7 +324,7 @@ and new and restored hotels and restaurants.  For that matter,
 the electricity stays on all night.
 
 Much more could be said about the previous society (sometimes
-people omit that polite phrase and say "the communists") and
+people omit that polite phrase and say „the communists”) and
 when it changed. If you go there, you won't have to ask; everybody
 will tell you their war story (some go back as far as 1600) whenever
 they perceive you have a spare moment.  Some even say there was

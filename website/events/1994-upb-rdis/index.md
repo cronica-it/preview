@@ -5,7 +5,7 @@ authors: [ntapus, ilg-ul]
 tags: [internet, educatie, upb, autor:nicolae.tapus]
 
 eventDate: '1994-11-24'
-eventSummary: 'Este înființată "Rețeaua de Date a Învățământului Superior" (RDIS)'
+eventSummary: 'Este înființată „Rețeaua de Date a Învățământului Superior” (RDIS)'
 
 ---
 
@@ -21,9 +21,9 @@ urmă, prin linii analogice închiriate cu
 viteze de ordinul a 2400 bps. Rețeaua
 în plină expansiune reușește să obțină
 recunoaștere oficială, fiind denumită
-Rețeaua de Date a Învățământului
-Superior – RDIS ("Romanian Higher
-Education Network") prin Ordinul 8964 din 24.11.1994 al Ministrului Educației.
+„Rețeaua de Date a Învățământului
+Superior” – RDIS („Romanian Higher
+Education Network”) prin Ordinul 8964 din 24.11.1994 al Ministrului Educației.
 
 Un rol important în crearea RDIS l-a avut profesorul Paul Cristea, membru corespondent al Academiei Române și prof. T. Moisa, E. Stăicuț, N Popovici. (Cristea 1993), (Popovici 1996).
 

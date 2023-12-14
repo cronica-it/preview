@@ -5,7 +5,7 @@ authors: [ntapus, ilg-ul]
 tags: [internet, educatie, upb, autor:nicolae.tapus]
 
 eventDate: '1998-08-21'
-eventSummary: 'Este fondat "Oficiul pentru Administrarea și Operarea Infrastructurii de Comunicații de Date RoEduNet"'
+eventSummary: 'Este fondat „Oficiul pentru Administrarea și Operarea Infrastructurii de Comunicații de Date RoEduNet”'
 
 ---
 
@@ -15,7 +15,7 @@ Prin HG 515/21.08.1998, este fondat **Oficiul pentru Administrarea și Operarea 
 
 Primul director a fost Nicolae Popovici, urmat de Eduard Andrei, Octavian Rusu și Gheorghe Dinu. Este realizată
 prima rețea națională de comunicații de date pentru educație și cercetare de nivel național prin înființarea și dotarea cu echipamente de comunicații la nodul central U. Politehnica din București. și servere la cele 6 noduri regionale
-din universitățile: "A. I. Cuza" Iași, "Petru Maior" Tg. Mureș, Tehnică din Timișoara, Tehnică din Cluj- Napoca și din Craiova.
+din universitățile: „A. I. Cuza” Iași, „Petru Maior” Tg. Mureș, Tehnică din Timișoara, Tehnică din Cluj-Napoca și din Craiova.
 
 ## Referințe
 

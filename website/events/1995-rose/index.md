@@ -54,7 +54,7 @@ Lunch Break: 13:00-14:30
 SECTION: Security&Cryptography
 Chairman: Victor Valeriu Patriciu
 
-15:30-15:45 Security Enhancements for the Electronic Mail System (Monica Ioana Pietrosanu, Computer Science Department, "Politehnica" University of Bucharest)
+15:30-15:45 Security Enhancements for the Electronic Mail System (Monica Ioana Pietrosanu, Computer Science Department, „Politehnica” University of Bucharest)
 
 15:45-16:15 Open Systems Security (Horatiu Cirstea, Adrian Locusteanu, Florin Paunescu, Cristian Petculescu, Glossy S.A. - Global Services and Systems)
 
@@ -126,11 +126,11 @@ Chairman: Marian Dobre
 
 16:15-16:30 An Operational Semantics for NPL (Eneia Todoran, Department of Computer Engineering, Technical University of Cluj-Napoca)
 
-16:30-16:45 Using Unix Interprocess Communication to Extend "C" with Concurrency (Marian Dobre, Radu Rugina, Radu Ilie, "Politehnica" University of Bucharest)
+16:30-16:45 Using Unix Interprocess Communication to Extend „C” with Concurrency (Marian Dobre, Radu Rugina, Radu Ilie, „Politehnica” University of Bucharest)
 
-16:45-17:00 Teaching Parallel and Distributed Computing (Florian M. Boian, Alexandru Vancea, Horia F. Pop, "Babes-Bolyai" University of Cluj-Napoca )
+16:45-17:00 Teaching Parallel and Distributed Computing (Florian M. Boian, Alexandru Vancea, Horia F. Pop, „Babes-Bolyai” University of Cluj-Napoca )
 
-17:00-17:15 Using Parallel Genetic Algorithms for Solving the Min-Cut Problem (Godza Gavril "Politehnica" University of Bucharest (PUB), and Matteo Sonza Reorde, Maurizio Rebaudengo Politecnico di Torino)
+17:00-17:15 Using Parallel Genetic Algorithms for Solving the Min-Cut Problem (Godza Gavril „Politehnica” University of Bucharest (PUB), and Matteo Sonza Reorde, Maurizio Rebaudengo Politecnico di Torino)
 
 17:15-17:30 The RMC Protocol, The OOP Paradigm vs. SUN-RPC (Razvan Stanescu, New Line Software)
 
@@ -138,13 +138,13 @@ Chairman: Marian Dobre
 
 Chairman: Aurel Stanescu
 
-17:30-18:00 MDCIM An Implementation Model for Distributed Shop-Floor Control in Computer Integrated Manufacturing (F. Enescu, S. Constantinescu, A.M. Stanescu, Center of Human Resource Training ("Politehnica" University of Bucharest))
+17:30-18:00 MDCIM An Implementation Model for Distributed Shop-Floor Control in Computer Integrated Manufacturing (F. Enescu, S. Constantinescu, A.M. Stanescu, Center of Human Resource Training („Politehnica” University of Bucharest))
 
 18:00-18:30 Web Author & DeskView/X (Liviu Dudau, Romsym Data)
 
 18:30-18:45 Graphic User Interface for Xuser (Irina Parvan Constantinescu, Research Institute for Informatics)
 
-18:45-19:00 Unix Vision - An Object Oriented User Interface for UNIX (Zoran Constantinescu, Constantin Stanciu, "Politehnica" University of Bucharest)
+18:45-19:00 Unix Vision - An Object Oriented User Interface for UNIX (Zoran Constantinescu, Constantin Stanciu, „Politehnica” University of Bucharest)
 
 19:00-19:15 Exchange Data Bank accomplished by BMMC (Nicolae Fildan, Stock Exchange, Constanta (BMMC))
 
@@ -154,7 +154,7 @@ Chairman: Aurel Stanescu
 
 Chairman: Gerhard Stollner, Sergei Kuznetov
 
-9:00-9:15 Using WWW Services to On-Line Access DBMS-Managed Information (Octavian Stanga, Emilia Pecheanu, Luminita Dumitriu, Department of Computer Science University "Dunarea de Jos" of Galati)
+9:00-9:15 Using WWW Services to On-Line Access DBMS-Managed Information (Octavian Stanga, Emilia Pecheanu, Luminita Dumitriu, Department of Computer Science University „Dunarea de Jos” of Galati)
 
 9:15-9:30 VISUAL_PROJECT, Open System For Visual Designing of General Purpose Applications (Radu Comsa, MICS Software SRL Suceava)
 
@@ -188,11 +188,11 @@ Chairman: John Quarterman, Alexandru Rotaru
 
 14:45-15:15 PC-NET, Public Data Network (Mihai Batraneanu, Alina Nemes, National Palace of Children)
 
-15:15-15:30 Mobile interconnection in Internet (Nicolae Tapus, Ionel Pusca, "Politehnica" University of Bucharest)
+15:15-15:30 Mobile interconnection in Internet (Nicolae Tapus, Ionel Pusca, „Politehnica” University of Bucharest)
 
-15:30-15:45 The University Network of the "Gh. Asachi" Technical University of Iasi (Corneliu Barsan, Catalin Condurache, Adrian Fanaru, Technical University of Iasi)
+15:30-15:45 The University Network of the „Gh. Asachi” Technical University of Iasi (Corneliu Barsan, Catalin Condurache, Adrian Fanaru, Technical University of Iasi)
 
-15:45-16:00 Image Transmission Across the Internet, Fractals are the future (radu Dobrescu, Mircea Agapie, "Politehnica" University of Bucharest)
+15:45-16:00 Image Transmission Across the Internet, Fractals are the future (radu Dobrescu, Mircea Agapie, „Politehnica” University of Bucharest)
 
 16:00-16:15 Email for heterogeneous networks: Novell, UNIX and Windows NT (Andrei Zimcenco, KT Computers)
 
@@ -206,11 +206,11 @@ Chairman: Esther Dyson, Jean-Michel Cornu
 
 16:45-17:00 The Internet's Social Impact (Mihai Jalobeanu, Institute of Isotopic and Molecular Technology, Cluj-Napoca, Romania)
 
-17:00-17:15 INCIP - Romanian National Initiative for High Performance Computing (Daniel Ioan, Alexandru Petrescu, Daniel Pandelea, "Politehnica" University of Bucharest)
+17:00-17:15 INCIP - Romanian National Initiative for High Performance Computing (Daniel Ioan, Alexandru Petrescu, Daniel Pandelea, „Politehnica” University of Bucharest)
 
 17:15-18:00 Commercialization of the Internet (Esther Dyson, Chairman of Electronic Frontier Foundation)
 
-18:00-18:30 From Information Superhighways to the Information Society (Jean-Michel Cornu, Chairman of the ICT Round Table on "Users co-operation for Access to the European Commission, EurOpen co-ordinator for the ICT Partnership)
+18:00-18:30 From Information Superhighways to the Information Society (Jean-Michel Cornu, Chairman of the ICT Round Table on „Users co-operation for Access to the European Commission, EurOpen co-ordinator for the ICT Partnership”)
 
 18:30-19:00 Europe and the Commercial Use of Internet (Juan Carlos Martinez Coll, Doctor en Ciencias Economicas y Empresariales por la Universidad de Malaga, coordinator of EumedNet project)
 

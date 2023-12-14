@@ -5,7 +5,7 @@ authors: [ntapus, ilg-ul]
 tags: [internet, cercetare, ici, autor:nicolae.tapus]
 
 eventDate: '1992'
-eventSummary: 'Este proiectată "Rețeaua Națională de Cercetare" (RNC)'
+eventSummary: 'Este proiectată „Rețeaua Națională de Cercetare” (RNC)'
 
 ---
 

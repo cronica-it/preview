@@ -100,7 +100,7 @@ perhaps two years old. The names of these free Unix derivations are
 386BSD and linux. Both are copyrighted by their authors, so strictly
 speaking they are not public domain software. But their copyrights are
 designed in a way that encourage the free and unlimited
-distribution, once the copyright (or "copyleft") notice is kept
+distribution, once the copyright (or „copyleft”) notice is kept
 together with the program code.
 
 Being free software, these systems have borrowed heavily from the
@@ -324,7 +324,7 @@ distribution centers. Please contact them! Good luck in your work.
 Prof. Mircea Bodea
 Prodecan
 Facultatea de Electronica si Telecomunicatii
-University "Politehnica" Bucharest
+University „Politehnica” Bucharest
 Splaiul Independentei 313
 Bucuresti 71239
 tel. 3-12-24-52
@@ -333,7 +333,7 @@ email: irina%pub.ro@dfn.ro
 
 Prof. Irina Athanasiu
 Facultatea de Calculatoare
-University "Politehnica" Bucharest
+University „Politehnica” Bucharest
 Splaiul Independentei 313 (?)
 Bucuresti
 tel. 6-31-43-25

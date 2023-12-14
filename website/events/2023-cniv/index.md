@@ -6,7 +6,7 @@ tags: [conferinte, internet, autor:radu.jugureanu]
 date: 2023-11-02T20:15
 
 eventDate: '2023-11-27'
-eventSummary: 'Radu Jugureanu organizează "CNIV 2023 - 30 de ani de Internet în România"'
+eventSummary: 'Radu Jugureanu organizează „CNIV 2023 - 30 de ani de Internet în România”'
 
 ---
 
@@ -25,14 +25,14 @@ organizată de profesorul Radu Jugureanu.
 |10:00-10:30|Deschiderea conferinței<br/>Radu JUGUREANU, Vicepreședinte CNIV<br/>Răzvan RUGHINIȘ, Gazda conferinței, Facultatea de Automatică și Calculatoare, UPB<br/>Carmen Elena CÎRNU, Președinte CNIV<br/>Ella CIUPERCĂ, Vicepreședinte CNIV|
 |10:30-10:50|Nicolae ȚĂPUȘ<br/>_Rolul Universității Politehnica din București la Dezvoltarea Internetului în România_|
 |10:50-11:00|Andrei PITIȘ<br/>_ROEDUNET și Nini Popovici_|
-|11:00-11:10|Stelian NICULESCU<br/>_Copilăria INFORMATICII ROMÂNEȘTI așa cum am "trăit-o" eu, unul dintre primii elevi ai Profesorului Grigore C. Moisil_|
-|11:10-11:15|Nicolai SANDU<br/>_30 de ani de "punct RO"_|
+|11:00-11:10|Stelian NICULESCU<br/>_Copilăria INFORMATICII ROMÂNEȘTI așa cum am „trăit-o” eu, unul dintre primii elevi ai Profesorului Grigore C. Moisil_|
+|11:10-11:15|Nicolai SANDU<br/>_30 de ani de „punct RO”_|
 |11:15-11:35|Vint CERF<br/>_Mesaj pentru România_|
 |11:35-11:45|Alexandru ROTARU, Jeffrey S. HAEMER<br/>_Contribuții ale Asociației Utilizatorilor de Unix din România (GURU) la formarea primilor administratori pentru servicii Internet în anii 1992-1996_|
 |11:45-11:55|Dan GÂRLAȘU<br/>_Despre începuturile internetului în România_|
 |11:55-12:20|Madlen ȘERBAN<br/>_Cu gândul la calculatoare și Internet. La pas printre proiecte. La braț cu oamenii._|
 |12:20:12:35|Alexandru MIRONOV<br/>_Picnic la marginea drumului_|
-|12:35-12:45|Mihaela GORODCOV<br/>_Internetul – un salt cuantic care a schimbat lumea. De la "Satul Global" al lui Marshall McLuhan la Viata "virtuală" de azi, nici un domeniu al vieții, economiei și culturii nu a rămas neatins_|
+|12:35-12:45|Mihaela GORODCOV<br/>_Internetul – un salt cuantic care a schimbat lumea. De la „Satul Global” al lui Marshall McLuhan la Viata „virtuală” de azi, nici un domeniu al vieții, economiei și culturii nu a rămas neatins_|
 |13:00-14:00|Pauză de masă|
 |14:00-14:10|Paloma PETRESCU<br/>_30 de ani de Internet și eu_|
 |14:10-14:20|Emil ONEA<br/>_Internetul în educație, legăturile cu lumea. O comunitate de oameni speciali care au schimbat, au modernizat resursele școlilor._|

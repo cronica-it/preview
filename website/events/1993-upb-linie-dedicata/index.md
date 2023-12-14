@@ -23,7 +23,7 @@ operațională în luna iunie 1993 (Popovici 1994).
 În același an apar două noi conexiuni interne: București–Cluj și
 București–Iași, prin care se conectează rețelele a două dintre
 cele mai importante universități din țară: Universitatea Tehnică din
-Cluj-Napoca și Universitatea "Alexandru Ioan Cuza" din Iași.
+Cluj-Napoca și Universitatea „Alexandru Ioan Cuza” din Iași.
 
 ## Referințe
 

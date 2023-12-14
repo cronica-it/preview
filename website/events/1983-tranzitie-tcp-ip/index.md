@@ -13,7 +13,7 @@ One of the more interesting challenges was the transition of the ARPANET host pr
 
 <!-- truncate -->
 
-This was a "flag-day" style transition, requiring all hosts to convert simultaneously or be left having to communicate via rather ad-hoc mechanisms. This transition was carefully planned within the community over several years before it actually took place and went surprisingly smoothly (but resulted in a distribution of buttons saying "I survived the TCP/IP transition").
+This was a „flag-day” style transition, requiring all hosts to convert simultaneously or be left having to communicate via rather ad-hoc mechanisms. This transition was carefully planned within the community over several years before it actually took place and went surprisingly smoothly (but resulted in a distribution of buttons saying „I survived the TCP/IP transition”).
 
 ## Referințe
 

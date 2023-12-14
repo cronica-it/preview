@@ -1,12 +1,12 @@
 ---
 slug: 1988/seminar-calculatoare-invatamant
-title: 'Seminarul științific "Utilizarea calculatoarelor electronice în procesul de învățământ"'
+title: 'Seminarul științific „Utilizarea calculatoarelor electronice în procesul de învățământ”'
 authors: [radujugu]
 tags: [conferinte, educatie, autor:radu.jugureanu]
 
 eventDate: '1988-05-26'
 eventEndDate: '1988-05-27'
-eventSummary: 'Este organizat seminarul "Utilizarea calculatoarelor electronice în procesul de învățământ"'
+eventSummary: 'Este organizat seminarul „Utilizarea calculatoarelor electronice în procesul de învățământ”'
 
 ---
 
@@ -15,18 +15,18 @@ Comisia Națională UNESCO pentru România, Ministerul Industriei Electrotehnice
 și ITCI (Institutul pentru tehnică de
 calcul și informatică) organizează la București, în Sala Senatului
 Universității București, seminarul științific
-"Utilizarea calculatoarelor electronice în procesul de învățământ".
+„Utilizarea calculatoarelor electronice în procesul de învățământ”.
 
 <!-- truncate -->
 
 Au fost prezentate 11 lucrări în plen, 21 de
-lucrări la secțiunea "Strategii și
+lucrări la secțiunea „Strategii și
 metode privind utilizarea
 calculatoarelor electronice în
-învățământul liceal" și 73 de
-lucrări în secțiunea "Aplicații și
+învățământul liceal” și 73 de
+lucrări în secțiunea „Aplicații și
 programe informatice cu
-caracter didactic".
+caracter didactic”.
 Comitetul de organizare a fost
 prezidat de Ioan Ioviț Popescu
 (Rectorul Universității

@@ -6,7 +6,7 @@ tags: [asociatii, autor:alexandru.rotaru]
 date: 2023-11-01T12:46
 
 eventDate: '1992-03'
-eventSummary: 'Alexandru Rotaru înființează "Grupul Utilizatorilor Români de Unix" (GURU)'
+eventSummary: 'Alexandru Rotaru înființează „Grupul Utilizatorilor Români de Unix” (GURU)'
 
 ---
 
@@ -21,7 +21,7 @@ de Free Software, a avut încă două obiective:
 - afilierea la EurOpen, federația grupurilor de Unix din Europa și proprietara rețelei EUnet
 - organizarea unei serii de manifestări de promovare pentru Open Systems, cu participare internațională, deschise atât pentru firme cât și pentru personalități din domeniu.
 
-Afilierea la EurOpen a avut loc la conferința "Open Forum‚ 92" organizată la Royal Dutch Fairgrounds din Utrecht în 23-27 nov 1992 de către UniForum, USENIX și EurOpen, drept de vot având din 10 septembrie 1993.
+Afilierea la EurOpen a avut loc la conferința „Open Forum‚ 92” organizată la Royal Dutch Fairgrounds din Utrecht în 23-27 nov 1992 de către UniForum, USENIX și EurOpen, drept de vot având din 10 septembrie 1993.
 
 Evenimentele de promovare pentru Open Systems aveau să se numească ROSE
 (Romania Open Systems Event). Prima conferința va fi organizată în 1993 la Cluj.

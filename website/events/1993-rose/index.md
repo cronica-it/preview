@@ -55,7 +55,7 @@ _UNIX / Open Systems_
 - Marius Hancu, Parallel Architectures Group, Centre de Recherche Informatique de Montreal,
 _Free UNIX for Romania - working for the programmer's freedom of choic_e
 
-An excellent idea was to present the "free software drive" from the paper of Mr. Marius Hancu. This solved again a lot of informational barriers which still exist in Romania. The attendees could get the last status of this hard work which is in continue development. An offer from GURU was made for providing linux and other programms from the free software drive collection.
+An excellent idea was to present the „free software drive” from the paper of Mr. Marius Hancu. This solved again a lot of informational barriers which still exist in Romania. The attendees could get the last status of this hard work which is in continue development. An offer from GURU was made for providing linux and other programms from the free software drive collection.
 
 Technical Papers
 
@@ -87,7 +87,7 @@ _R-DBMS a Link to the Future_
 
 Internet Connections at ROSE '93
 
-During ROSE '93 two Internet links were provided by EUnet Romania and LOGICnet (a branch from Sprint International). All the attendees could reach any of the Internet services directly from the Conference hall. Also full e-mail services have been provided. Mr. Vince Hovanek, responsable for Europe at Sprint International was the chairman of the "Networking" session of ROSE '93.
+During ROSE '93 two Internet links were provided by EUnet Romania and LOGICnet (a branch from Sprint International). All the attendees could reach any of the Internet services directly from the Conference hall. Also full e-mail services have been provided. Mr. Vince Hovanek, responsable for Europe at Sprint International was the chairman of the „Networking” session of ROSE '93.
 
 ROSE '93 list of participants from Romania
 
@@ -121,16 +121,16 @@ _Linux a solution for UNIX education_
 - Carmen Badica, Mihai Mocanu, Costin Badica - University of Craiova
 _Kerberos - A Symetric Cryptosystem in Distributed Systems_
 
-UNIX Conferences in University "Politehnica" Bucharest
+UNIX Conferences in University „Politehnica” Bucharest
 
-Mr. Jeffrey S. Haemer gave two conferences in University "Politehnica" Bucharest. Each conference was attended by more than 50 professors, students and other invited people from the tehnical departments of some computer companies settled in Bucharest.
+Mr. Jeffrey S. Haemer gave two conferences in University „Politehnica” Bucharest. Each conference was attended by more than 50 professors, students and other invited people from the tehnical departments of some computer companies settled in Bucharest.
 
 - Why UNIX ? October 4, 14:00 - 17:00
 - POSIX October 5, 9:00 - 12:00
 
 ROSE '93 Sponsors and Support Teams
 
-- Banca "Dacia Felix"
+- Banca „Dacia Felix”
 - Bull
 - CIA - SM Invest
 - ComputerLand
@@ -168,7 +168,7 @@ The IIRUC branches from Bucharest and mainly from Cluj suceeded in organising th
 
 Special thanks to Mr. Adrian Ivanov, ITC Cluj and vice-chairman of GURU, who spended mostly all his time in helping to organise the whole event.
 
-We also thank to Mr. Liviu Iftode for sending a presentation about "the history of UNIX in Romania" which was presented during the 1st day of ROSE '93.
+We also thank to Mr. Liviu Iftode for sending a presentation about „the history of UNIX in Romania” which was presented during the 1st day of ROSE '93.
 
 If we forgot to mention somebody it is not because her (his) participation was not important for us.
 

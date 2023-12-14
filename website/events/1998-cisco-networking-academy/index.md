@@ -34,12 +34,12 @@ Politehnica Bucureşti, a fost autorizat drept centru de instruire regională pe
 țări. Tot la facultatea de Automatică și Calculatoare, funcționează din vara anului 2000 și un modern centru de
 pregătire în networking, realizat cu sprijinul Cisco România.
 
-Ulterior, pe 4 mai 1999, prima academie locală și-a început activitatea la Colegiul Național "Cantemir
-Vodă" din București. La scurt timp după aceea, Colegiul Național "Unirea" din Focșani a început să predea
+Ulterior, pe 4 mai 1999, prima academie locală și-a început activitatea la Colegiul Național „Cantemir
+Vodă” din București. La scurt timp după aceea, Colegiul Național „Unirea” din Focșani a început să predea
 elevilor curricula Cisco.
 
 Prima clasă de studenți absolvenți ai unei academii locale din România a fost cea de la Colegiul Național
-"I. L. Caragiale" din Ploiești, în septembrie 2000. În numai 11 luni, cei 13 cursanți, printre care se numără și
+„I. L. Caragiale” din Ploiești, în septembrie 2000. În numai 11 luni, cei 13 cursanți, printre care se numără și
 directorul adjunct al colegiului, au parcurs toate cele 4 module ale programului de CCNA (Cisco Certified
 Network Associate).
 
@@ -79,8 +79,8 @@ România
 - decembrie 1998 – se înființează prima academie – RoEdu Net
 - ianuarie 1999 – prima clasă de studenți – Universitatea Politehnica din
 București, Facultatea de Automatică și Calculatoare
-- aprilie 1999 – prima clasă de elevi liceu – Colegiul Național "Ion Luca
-Caragiale", Ploiești
+- aprilie 1999 – prima clasă de elevi liceu – Colegiul Național „Ion Luca
+Caragiale”, Ploiești
 - Programul Cisco Networking Academy este prezent prin cel puțin câte
 o academie locală în fiecare din următoarele orașe: București, Alba
 Iulia, Bacău, Baia Mare, Bârlad, Bistrița, Brașov, Buftea, Călărași,
@@ -89,9 +89,9 @@ Galați, Iași, Năsăud, Oradea, Piatra Neamț, Pitești, Ploiești, Roșiorii
 de Vede, Sfântu Gheorghe, Sibiu, Sighetu-Marmaţiei, Sighișoara,
 Sinaia, Suceava, Târgu-Mureș, Timișoara și Vaslui.
 
-De remarcat distincția pe care Academia CISCO de la Colegiul Național "Cantemir Vodă" din București a
+De remarcat distincția pe care Academia CISCO de la Colegiul Național „Cantemir Vodă” din București a
 primit-o la Copenhaga, în cadrul unui Congres Internațional: Academia CISCO a anului în spațiul EMEA.
-La acea vreme Academia "Cantemir" era coordonată de Prof. Emil Dragomirescu cu ajutorul Prof. Radu
+La acea vreme Academia „Cantemir” era coordonată de Prof. Emil Dragomirescu cu ajutorul Prof. Radu
 Jugureanu.
 
 ## Referințe

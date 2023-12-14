@@ -29,7 +29,7 @@ Se dezvoltă atribuțiile institutului pe patru coordonate principale:
 - dotarea economiei cu tehnică de calcul
 - pregătirea cadrelor de specialiști și alte atribuții de conducere
 
-În 1985 ICCI devine direcția de "Informatică" în cadrul
+În 1985 ICCI devine direcția de „Informatică” în cadrul
 **Institutului de Cercetare Științifică și Inginerie Tehnologică pentru
 Tehnică de Calcul și Informatică (ICSIT-TCI)**. În această etapă se
 pune un accent mai mare pe aspectele de dezvoltare și valorificare a rezultatelor cercetării.

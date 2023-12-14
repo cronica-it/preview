@@ -6,7 +6,7 @@ tags: [conferinte, internet]
 date: 2023-11-06T08:35
 
 eventDate: '2023-05-17'
-eventSummary: 'DTC organizează conferința "30 de ani de Internet în România"'
+eventSummary: 'DTC organizează conferința „30 de ani de Internet în România”'
 
 ---
 

@@ -44,4 +44,4 @@ Initially the conference was planned and announced for two days (3-4th November)
 
 The EurOpen GB was organized on Saturday and Sunday as usual (5-6th November). 3 members from GURU board could attend this time the meeting.
 
-Monday morning (7th of November) Richard Stallman offered a presentation to the students from Computer Science Department at the University "Politehnica" Bucharest.
+Monday morning (7th of November) Richard Stallman offered a presentation to the students from Computer Science Department at the University „Politehnica” Bucharest.

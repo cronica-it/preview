@@ -37,7 +37,7 @@ moment ICI a inceput sa inregistreze nume de domenii `.ro`.
 Primul nume de domeniu a fost `rnc.ro`.
 Serviciul de inregistrare a fost gratuit pana in 1995.
 
-Este instalat primul nameserver primar pentru domeniul ".ro" (roearn.ici.ro).
+Este instalat primul nameserver primar pentru domeniul `.ro` (`roearn.ici.ro`).
 
 Inițial a existat propunerea folosirii de subdomenii, ca în UK, și ICI ar
 fi folosit `ici.ac.ro`, dar după discuții cu colegii de la rețelele din

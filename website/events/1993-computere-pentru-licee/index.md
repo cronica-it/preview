@@ -7,7 +7,7 @@ date: 2023-10-30T08:28
 
 eventDate: '1993'
 eventEndDate: '1998'
-eventSummary: 'Nicolai Sandu coordonează programul "Computere pentru licee"'
+eventSummary: 'Nicolai Sandu coordonează programul „Computere pentru licee”'
 
 ---
 
