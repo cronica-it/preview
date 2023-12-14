@@ -59,3 +59,14 @@ and is updated automatically after each build.
 ### blc rate limit
 
 - <https://github.com/stevenvachon/broken-link-checker/discussions/262>
+
+## Academia Română
+
+Ghilimelele folosite în limba română au codurile Unicode:
+
+- U+201E (pentru caracterul „) și
+- U+201D (pentru caracterul ”).
+
+De asemenea se pot obține cu Alt+0132 („) și Alt+0148 (”).
+
+
