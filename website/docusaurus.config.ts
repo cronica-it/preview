@@ -122,7 +122,7 @@ const config: Config = {
         // {to: '/blog', label: 'Blog', position: 'left'},
         {
           type: 'dropdown',
-          label: 'Blog',
+          label: 'Amintiri',
           position: 'left',
           items: [
             {
