@@ -2,12 +2,12 @@
 slug: 2023/robot-sah-labirint-atom
 title: 'Amintiri despre robotul românesc de şah LABIRINT 64 / ATOM 64'
 authors: [vdarie]
-tags: [sah]
+tags: [sah, autor:viorel.darie]
 date: 2023-12-14T15:57:43
 
 ---
 
-În anii '70-'80, Viorel Darie a creat primele programe de șah din România. Mai jos sunt câteva amintiri din acea perioadă, preluate din cartea _**Amintiri din epoca Felix a calculatoarelor româneşti**_, publicată la editura InfoRapArt, în 2011.
+În anii '70-'80, Viorel Darie a creat primele programe de șah din România. În acest articol sunt câteva amintiri din acea perioadă, preluate din cartea _**Amintiri din epoca Felix a calculatoarelor româneşti**_, publicată la editura InfoRapArt, în 2011.
 
 <!-- truncate -->
 
