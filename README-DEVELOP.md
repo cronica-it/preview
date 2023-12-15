@@ -66,7 +66,7 @@ and is updated automatically after each build.
 ls -l -D %s | sed -e 's|.* \([0-9][0-9]*\) \([0-9].*\)$|echo \2 "      date:" $(date -r \1 -u "+%Y-%m-%dT%H:%M:%S")|' | bash | sort
 ```
 
-## Academia Română
+## Ghilimele „”
 
 Ghilimelele folosite în limba română au codurile Unicode:
 
@@ -74,5 +74,3 @@ Ghilimelele folosite în limba română au codurile Unicode:
 - U+201D (pentru caracterul ”).
 
 De asemenea se pot obține cu Alt+0132 („) și Alt+0148 (”).
-
-
