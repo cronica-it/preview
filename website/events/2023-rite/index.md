@@ -2,7 +2,7 @@
 slug: 2023/rite
 title: "RITE 2023 - 30 de ani de Internet în România"
 authors: [ilg-ul]
-tags: [conferinte, internet]
+tags: [conferinte, aniversari, internet]
 date: 2023-11-06T09:25
 
 eventDate: '2023-10-25'

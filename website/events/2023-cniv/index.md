@@ -1,8 +1,8 @@
 ---
 slug: 2023/cniv
-title: "CNIV 2023"
+title: "CNIV 2023 - 30 de ani de Internet în România"
 authors: [radujugu, ilg-ul]
-tags: [conferinte, internet, autor:radu.jugureanu]
+tags: [conferinte, aniversari, internet, autor:radu.jugureanu]
 date: 2023-11-02T20:15
 
 eventDate: '2023-11-27'
@@ -12,7 +12,7 @@ eventSummary: 'Radu Jugureanu organizează „CNIV 2023 - 30 de ani de Internet 
 
 Vineri, 27 Octobmbrie 2023, la Universitatea Politehnica București,
 are loc **Conferința Națională de Învățământ Virtual – CNIV 2023**,
-cu tema **30 de ani de INTERNET în România**,
+cu tema **30 de ani de Internet în România**,
 organizată de profesorul Radu Jugureanu.
 
 <!-- truncate -->

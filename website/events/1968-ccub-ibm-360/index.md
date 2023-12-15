@@ -2,7 +2,7 @@
 slug: 1968/ccub-ibm-360
 title: 'Calculatorul IBM 360/30 de la Universitate'
 authors: [sniculescu]
-tags: [calculator, autor:stelian.niculescu]
+tags: [calculatoare, autor:stelian.niculescu]
 date: 2023-12-11T18:52:15
 
 eventDate: '1968'

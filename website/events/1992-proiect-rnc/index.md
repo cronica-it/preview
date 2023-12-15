@@ -1,6 +1,6 @@
 ---
 slug: 1992/proiect-rnc
-title: 'Proiect cadru RNC'
+title: 'Proiect cadru pentru Rețeaua Națională de Cercetare'
 authors: [ntapus, ilg-ul]
 tags: [internet, cercetare, ici, autor:nicolae.tapus]
 date: 2023-12-13T18:49:54
@@ -10,11 +10,11 @@ eventSummary: 'Este proiectată „Rețeaua Națională de Cercetare” (RNC)'
 
 ---
 
-În 1992 este proiectată o primă concepție cadru a unei rețele pentru cercetare și învățământ superior denumită **Rețeaua Națională de Cercetare (RNC)** [Cristea 1993].
+În 1992 este elaborat un prim proiect cadru al unei rețele pentru cercetare și învățământ superior denumită **Rețeaua Națională de Cercetare (RNC)** [Cristea 1993].
 
 <!-- truncate -->
 
-Proiectul, conceput cu contribuția lui I. Popa, E Stăicuț, A. Toia, P. Cristea, N. Popovici.
+La proiect au contribuit I. Popa, E Stăicuț, A. Toia, P. Cristea, N. Popovici.
 
 ## Referințe
 

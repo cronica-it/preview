@@ -1,6 +1,6 @@
 ---
 slug: 2023/gts-telecom-30-ani
-title: "GTS 30 de ani"
+title: "GTS - 30 de ani de activitate"
 authors: [ilg-ul]
 tags: [aniversari, firme]
 date: 2023-11-02T20:15
