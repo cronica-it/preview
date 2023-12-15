@@ -1,5 +1,5 @@
 ---
-slug: 1998/cisco-networking-academy
+slug: 1998/cisco-networking-academy-ro
 title: 'Cisco Networking Academy în România'
 authors: [nicolaus]
 tags: [educatie, autor:nicolai.sandu]
@@ -10,7 +10,7 @@ eventSummary: 'Cisco înființează Cisco Networking Academy în România'
 
 ---
 
-În decembrie 1998, Cisco înființează **Cisco Networking Academy** în România.
+În decembrie 1998, la un an după debutul în California, Cisco Systems startează programul **Networking Academy** în România.
 
 <!-- truncate -->
 
