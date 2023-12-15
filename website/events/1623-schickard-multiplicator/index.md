@@ -1,22 +1,22 @@
 ---
 slug: 1623/schickard-multiplicator
-title: 'Mașina de multiplicat a lui Wilhelm Schickard'
+title: 'Mașina care înmulțea numere a lui Wilhelm Schickard'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
 date: 2023-12-15T11:33:32
 
 eventDate: '1623'
-eventSummary: 'Wilhelm Schickard descrie o mașină de multiplicat'
+eventSummary: 'Wilhelm Schickard descrie o mașină care înmulțea numere cu mai multe cifre'
 
 ---
 
-Într-o scrisoare din 1623 către Kepler, profesorul german Wilhelm Schickard descrie o masină de multiplicat.
+Într-o scrisoare din 1623 către Kepler, profesorul german Wilhelm Schickard descrie o masină care efectua operații de înmulțire.
 
 <!-- truncate -->
 
-Acesta mașină, bazata pe conceptul „Napier's Bone” (într-o forma cilindrică), permitea operații de multiplicare pentru numere cu mai multe cifre.
+Acesta mașină, bazata pe conceptul „Napier's Bone” (într-o forma cilindrică), efectua operații de înmulțire pentru numere cu mai multe cifre.
 
-Din păcate nu s-a păstrat nicio copie.
+Din păcate nu s-a păstrat niciun exemplar.
 
 ## Referințe
 

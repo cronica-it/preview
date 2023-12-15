@@ -1,18 +1,18 @@
 ---
 slug: 1614/napier-logaritmi
-title: 'Logaritmii lui John Napier și mașinile de multiplicat'
+title: 'Logaritmii lui John Napier și mașinile care efectuau operații de înmulțire'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
 date: 2023-12-15T11:18:18
 
 eventDate: '1614'
-eventSummary: 'John Napiers publică o lucrare în care introduce logaritmii'
+eventSummary: 'John Napiers crează mașini care înmulțeau numere folosind logaritmi'
 
 ---
 
 În 1614, matematicianul scoțian John Napiers introduce
-logaritmii, ca o metodă de a simplifica înmulțirile, și
-crează primele mașini de multiplicat.
+logaritmii, ca o metodă de simplificare a calculelor, și
+crează primele mașini care efectuau operații de înmulțiri.
 
 <!-- truncate -->
 
@@ -21,8 +21,7 @@ de pagini explicative și 90 de pagini cu tabele de logaritmi.
 
 Napiers este de asemenea creditat pentru popularizarea folosirii separatorului zecimal pentru numerele fracționare.
 
-Pe lângă tabelele de logaritmi, Napier crează mai multe mașini de
-multiplicat (_Napier's bones_).
+Pe lângă tabelele de logaritmi, Napier crează mai multe mașini care puteau efectuau operații de înmulțiri (_Napier's bones_).
 
 ## Referințe
 

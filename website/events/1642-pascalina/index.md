@@ -10,7 +10,7 @@ eventSummary: 'Pascal proiectează „La Pascaline”'
 
 ---
 
-În 1642, Blaise Pascal, care nu împlinise 19 ani, încercând să-l ajute pe tatăl său care era colector de impozite la Rouen, proiectează un mecanism de calcul.
+În 1642, Blaise Pascal, care nu împlinise 19 ani, încercând să-l ajute pe tatăl său care era colector de impozite la Rouen, proiectează o mașină care efectua calcule.
 
 <!-- truncate -->
 
