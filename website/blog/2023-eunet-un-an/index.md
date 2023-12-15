@@ -8,7 +8,7 @@ date: 2023-12-14T07:13:29
 ---
 
 În numărul din 24 Noiembrie 1994 al revistei Comunicații PC a fost publicat
-un interviu cu ocazia aniversării unui an de activitate a firmei EUnet România.
+un interviu cu ocazia aniversării unui an de activitate a firmei EUnet Romania.
 
 <!-- truncate -->
 
