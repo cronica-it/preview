@@ -1,13 +1,13 @@
 ---
 slug: 2023/arot-computere-licee
-title: 'Adi Rotaru - Computere pentru licee'
+title: 'GURU și programul „Computere pentru licee”'
 authors: [arot]
 tags: [conferinte, autor:alexandru.rotaru]
 date: 2023-12-12T07:15:57
 
 ---
 
-GURU ca susținător al programului „Computere pentru licee” (suport logistic și training) 1993-1996.
+GURU a susținut activ programul „Computere pentru licee” oferind suport logistic și training, în perioada 1993-1996.
 
 <!-- truncate -->
 

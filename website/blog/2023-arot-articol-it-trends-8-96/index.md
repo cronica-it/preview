@@ -1,6 +1,6 @@
 ---
 slug: 2023/arot-articol-it-trends-8-96
-title: 'Adi Rotaru - Articol IT Trends - Capitol 8'
+title: "Articolul lui Adi Rotaru în IT Trends - Capitol 8 - '96"
 authors: [arot]
 tags: [articole, autor:alexandru.rotaru]
 date: 2023-11-03T22:09

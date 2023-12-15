@@ -1,20 +1,20 @@
 ---
 slug: 2023/arot-relatari-inceput-internet
-title: 'Adi Rotaru - Relatări din perioada de început a Internet-ului în România.'
+title: 'Relatările lui Adi Rotaru din perioada de început a Internet-ului în România.'
 authors: [arot]
 tags: [articole, autor:alexandru.rotaru]
 date: 2023-11-06T21:37
 
 ---
 
-Am sa va relatez in cele ce urmeaza citeva intimplari de pe la
-inceputurile Internet-ului din Romania, adica cam de prin anii
-1992-1996, asa cum printr-un anumit concurs de imprejurari le-am trait
-ca experienta directa.
+Am să vă relatez în cele ce urmeaza câteva întâmplări de pe la
+începuturile Internet-ului din România, adică cam de prin anii
+1992-1996, așa cum printr-un anumit concurs de împrejurări le-am trait
+ca experiență directă.
 
 <!-- truncate -->
 
-Ce stim si ce nu stim?
+## Ce stim si ce nu stim?
 ----------------------
 
 Inceputurile au fost dominate de foarte mult entuziasm, de personaje cu
