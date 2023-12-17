@@ -60,17 +60,19 @@ and is updated automatically after each build.
 
 - <https://github.com/stevenvachon/broken-link-checker/discussions/262>
 
-## date:
+## `date:``
+
+Calcularea datei din timestamp-ul folder-ului:
 
 ```sh
 ls -l -D %s | sed -e 's|.* \([0-9][0-9]*\) \([0-9].*\)$|echo \2 "      date:" $(date -r \1 -u "+%Y-%m-%dT%H:%M:%S")|' | bash | sort
 ```
 
-## Ghilimele „”
+## Ghilimele 99-99 „”
 
-Ghilimelele folosite în limba română au codurile Unicode:
+Din ce recomandă Academia Română, ghilimelele folosite în limba română au codurile Unicode:
 
-- U+201E (pentru caracterul „) și
+- U+201E (pentru caracterul „)
 - U+201D (pentru caracterul ”).
 
 De asemenea se pot obține cu Alt+0132 („) și Alt+0148 (”).
