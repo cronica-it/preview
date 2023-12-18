@@ -14,6 +14,7 @@ dancorl:
 arot:
   name: Alexandru Rotaru
   email: arot@idgroup.ro
+  url: https://www.linkedin.com/in/alexandrurotaru/
   image_url: https://cronica-it.github.io/img/authors/arot.jpg
 
 hancu:
@@ -23,34 +24,42 @@ hancu:
 
 gserban:
   name: Gheorghe Șerban
+  url: https://www.linkedin.com/in/gheorghe-serban-582388/
   image_url: https://cronica-it.github.io/img/authors/gserban.jpg
 
 ivaciu:
   name: Ion Vaciu
+  url: https://www.linkedin.com/in/ionvaciu/
   image_url: https://cronica-it.github.io/img/authors/ivaciu.jpg
 
 radujugu:
   name: Radu Jugureanu
+  url: https://www.linkedin.com/in/raduj/
   image_url: https://cronica-it.github.io/img/authors/radujugu.jpg
 
 smaier:
   name: Ștefan Niculescu Maier
+  url: https://www.linkedin.com/in/stefanmaier/
   image_url: https://cronica-it.github.io/img/authors/smaier.jpg
 
 nicolaus:
   name: Nicolai Sandu
+  url: https://www.linkedin.com/in/sandunicolai/
   image_url: https://cronica-it.github.io/img/authors/nicolaus.jpg
 
 ntapus:
   name: Nicolae Țăpuș
+  url: https://cs.pub.ro/index.php/people/userprofile/nicolae_tapus
   image_url: https://cronica-it.github.io/img/authors/ntapus.jpg
 
 sniculescu:
   name: Stelian Niculescu
+  url: https://stelianniculescu.wordpress.com
   image_url: https://cronica-it.github.io/img/authors/sniculescu.jpg
 
 dgarlasu:
   name: Dan Gârlașu
+  url: https://www.linkedin.com/in/dan-garlasu-9078a6/
   image_url: https://cronica-it.github.io/img/authors/dgarlasu.jpg
 
 vdarie:
