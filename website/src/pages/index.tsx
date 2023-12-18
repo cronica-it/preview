@@ -173,8 +173,13 @@ const chronologyRows = ((ctx) => {
   return chronologyModules.map((module) => {
     const { permalink, frontMatter } = module.metadata;
     // logger.info(module.metadata)
+    let interval = formatInterval(frontMatter.eventDate, frontMatter.eventEndDate)
+    // logger.info(frontMatter.tags)
+    if (frontMatter.tags?.includes('international')) {
+      interval += ' (intl)'
+    }
     const row: ChronologyEvent = {
-      interval: formatInterval(frontMatter.eventDate, frontMatter.eventEndDate),
+      interval,
       description: (<a href={permalink}>{frontMatter.eventSummary}</a>)
     }
     // logger.info(row)
