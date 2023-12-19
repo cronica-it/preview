@@ -11,7 +11,7 @@ experimental de TV din România'
 
 ---
 
-În 1954, colectivul condus de prof. Alexandru Spătaru a costruit prima stație
+În 1954, colectivul condus de prof. Alexandru Spătaru a construit prima stație
 de emisie care ulterior a transmis programe experimentale de TV in România.
 
 <!-- truncate -->
