@@ -6,7 +6,7 @@ tags: [international, autor:gheorghe.serban]
 date: 2023-12-15T13:45:12
 
 eventDate: '1642'
-eventSummary: 'Pascal proiectează „La Pascaline”'
+eventSummary: 'Blaise Pascal proiectează „La Pascaline”'
 
 ---
 

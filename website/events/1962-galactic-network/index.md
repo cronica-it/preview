@@ -6,11 +6,11 @@ tags: [international, internet]
 date: 2023-12-13T21:55:39
 
 eventDate: '1962-08'
-eventSummary: 'Licklider descrie conceptul de „Galactic Network”'
+eventSummary: 'Joseph Licklider descrie conceptul de „Galactic Network”'
 
 ---
 
-The first recorded description of the social interactions that could be enabled through networking was a series of memos written by J.C.R. Licklider of MIT in August 1962 discussing his „Galactic Network” concept.
+The first recorded description of the social interactions that could be enabled through networking was a series of memos written by Joseph Carl Robnett Licklider of MIT in August 1962 discussing his „Galactic Network” concept.
 
 <!-- truncate -->
 

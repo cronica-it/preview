@@ -6,11 +6,11 @@ tags: [international, internet]
 date: 2023-12-13T22:14:22
 
 eventDate: '1969'
-eventSummary: 'Crocker inițiază metodologia de „Requests for Comments”'
+eventSummary: 'Steve Crocker inițiază metodologia de „Requests for Comments”'
 
 ---
 
-In 1969 a key step was taken by S. Crocker (then at UCLA) in establishing the Request for Comments (or RFC) series of notes.
+In 1969 a key step was taken by Steve Crocker (then at UCLA) in establishing the Request for Comments (or RFC) series of notes.
 
 <!-- truncate -->
 

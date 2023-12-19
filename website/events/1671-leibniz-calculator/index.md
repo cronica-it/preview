@@ -6,7 +6,7 @@ tags: [international, autor:gheorghe.serban]
 date: 2023-12-15T15:32:06
 
 eventDate: '1671'
-eventSummary: 'Leibniz începe lucrul la un calculator mecanic'
+eventSummary: 'Gottfried Leibniz începe lucrul la un calculator mecanic'
 
 ---
 

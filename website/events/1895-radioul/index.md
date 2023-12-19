@@ -6,7 +6,7 @@ tags: [international, comunicatii]
 date: 2023-10-30T07:35
 
 eventDate: '1895'
-eventSummary: 'Marconi face primele transmisiuni Morse prin radio'
+eventSummary: 'Guglielmo Marconi face primele transmisiuni Morse prin radio'
 
 ---
 
