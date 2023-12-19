@@ -10,7 +10,7 @@ eventSummary: 'Este creată RIPE (Reseaux IP Européens)'
 
 ---
 
-În 1989 este creată RIPE (Reseaux IP Européens).
+În 1989 este creată **RIPE (Reseaux IP Européens)**.
 
 <!-- truncate -->
 
