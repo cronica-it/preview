@@ -1,0 +1,24 @@
+---
+slug: 1979/ici-prima-retea-locala
+title: 'Prima rețea locală de la ICI (proiectul Cameleon)'
+authors: [gserban, ilg-ul]
+tags: [ici, autor:gheorghe.serban]
+date: 2023-12-18T19:58:26
+
+eventDate: '1979'
+eventSummary: 'La ICI este realizată prima rețea locală (proiectul Cameleon)'
+
+---
+
+În 1979, la ICI, este realizată prima rețea locală (LAN) pentru interconectarea
+calculatoarelor în rețele pe zone restrânse, în cadrul proiectului Cameleon.
+
+<!-- truncate -->
+
+Proiectul a fost realizat de un colectiv condus de Marius Guran, și în
+cadrul lui au fost realizate componentele hardware și software necesare interconectării locale a micro și minicalculatoarelor.
+
+## Referințe
+
+- [rite.org.ro - Istoria Internetului](https://rite.org.ro/istoria-internetului/)
+- [ro.wikipedia.org - Marius Guran](https://ro.wikipedia.org/wiki/Marius_Guran)
