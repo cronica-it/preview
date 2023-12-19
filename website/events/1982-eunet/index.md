@@ -13,7 +13,7 @@ eventSummary: 'În Europa este creată rețeua EUnet'
 În 1982 este creată rețeaua **EUnet** (European UNIX Network), de către
 EUUG (European UNIX Users Group, numită mai târziu EurOpen)
 pentru a furniza servicii de
-e-mail and USENET, folosind legături UUCP între 4 țări, UK,
+e-mail și USENET, folosind legături UUCP între 4 țări, UK,
 Olanda, Danemarca and Suedia.
 
 <!-- truncate -->
