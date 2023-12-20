@@ -10,7 +10,56 @@
 - preluat inteviu Lix http://nini.qsl.ro/node/32
 - preluat poveste Sandra Pralong de la cniv
 - povesti Dan Garlasu
-- https://www.scribd.com/document/512100387/Volumul-V-by-Marin-Vlada-coord-2021
+- de verificat: https://www.electrokits.ro/scurt-istoric-al-internetului-in-romania/
+- de arhivat: https://archive.icann.org/en/meetings/bucharest/
+- de lamurit ce e cu '1994 - A aparut primul articol scris vreodata despre Internet-ul din Romania la Internet Society News, vol 3, no 1 din 1994.'
+- de adaugat participarea la ISOC 1993
+
+## Vlada
+
+- http://mvlada.blogspot.com
+
+- 1937 (vlada 1) - În lume, Informatica (Computability theory, Computer Science și Computing) a
+apărut odată cu susținerea tezei de doctorat de către matematicianul englez Alan Turing, în anul 1937, când au aparut ideile precursoare ale Computing și ale
+proiectării și dezvoltării calculatoarelor electronice (Computer System). Acesta este
+considerat fondatorul Informaticii și al Inteligenței Artificiale introducând
+fundamentele conceptului de calculabilitate pentru o mașină de calcul (computing
+machine, mașina Turing/Universal Turing machine-UTM) (conceptele de Proces de
+calcul și de Algoritm pentru o mașină de calcul). Mașina Turing este capabilă să
+proceseze o gramatică nerestricționată, ceea ce implică și faptul că este capabilă să
+evalueze expresii din logica de ordinul I într-un număr infinit de moduri. Acest
+lucru este demonstrat prin intermediul calculului lambda (λ-calculus).
+
+- 1945 (vlada 1) - Aceste idei
+ale lui Turing l-au influențat pe matematicianul american John von Neumann
+pentru elaborarea așa-numitei „arhitecturi von Neumann” a calculatorului modern,
+în anul 1945. De altfel, știm că cele mai importante proiecte pentru construirea
+calculatoarelor electronice, în perioada 1940-1970, erau proiecte militare secrete.
+
+- 1998-04-15 - Acad. Grigore C. Moisil este
+singurul om de știință român
+care a primit o recunoaștere
+internațională în domeniul
+Computer Science, prin
+medalia „Computer Pioneer
+Award” of IEEE Computer
+Society (1996) pentru „For
+polyvalent logic switching
+circuits”. Medalia i-a fost
+înmânată doamnei Viorica
+Moisil, soția lui Mosil, la 15
+aprilie 1998
+
+- 1962, Grigore C.
+Moisil înființează, la Facultatea de Matematică, Centrul de Calcul, cu statut
+de Laborator pe lângă Catedra de Algebră condusă de Gr. C. Moisil, ce va
+deveni Centrul de Calcul al Universității din București (CCUB), primul cu
+acest profil din ţară și care va avea un rol important în formarea de
+informaticieni în România).
+
+În Germania, în anul 1956, omul de știință Karl Steinbuch a inventat
+cuvântul „Informatik” publicând o lucrare numită „Informatik: Automatische
+Informationsverarbeitung” („Informatics: Automatic Information Processing”).
 
 ## Mihu
 
@@ -56,11 +105,15 @@ Românești:
 
 - https://www.facebook.com/ICIBucuresti/posts/3488728511216217/
 
+- https://ictp.acad.ro/ro/istoric/
+
 - PDF - Istoria_informaticii_romanesti - https://www.researchgate.net/profile/Marin-Vlada/publication/349835992_Istoria_informaticii_romanesti_Aparitie_dezvoltare_si_impact_vol_IV_2020/links/60434dd5299bf1e0785b3f95/Istoria-informaticii-romanesti-Aparitie-dezvoltare-si-impact-vol-IV-2020.pdf
 
 - https://www.agir.ro/carte/un-institut-pentru-istorie-semicentenarul-institutului-pentru-tehnica-de-calcul-1968-2018-123155.html
 
 - https://www.cs.rutgers.edu/news-events/highlights/highlight-item/9126-587-in-memory-of-prof-liviu-iftode-1959-2017
+
+- https://ronog.ro/presentations/ronog8/Alexandru_Rotaru-RoLink_Plus_SA-Free_Software_and_Open_Source_a_personal_experience.pdf
 
 Străine:
 
@@ -69,6 +122,7 @@ Străine:
 - http://www.aconit.org/histoire/iga_boucher/pdf/Vol_E_700-745.pdf
 - https://en.wikipedia.org/wiki/SDS_Sigma_series
 - http://www.bitsavers.org/pdf/sds/sigma/cp-v/
+- https://www.scienceandmediamuseum.org.uk/objects-and-stories/short-history-internet
 
 ## Arhivare
 
