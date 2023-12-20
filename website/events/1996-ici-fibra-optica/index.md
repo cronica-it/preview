@@ -10,8 +10,8 @@ eventSummary: 'La ICI este instalată o legătură terestră digitală'
 
 ---
 
-In octombrie 1996 este instalată prima legătură terestră prin fibră optică
-pentru Internet.
+In octombrie 1996, la ICI este instalată prima legătură terestră prin
+fibră optică pentru Internet.
 
 <!-- truncate -->
 
@@ -19,7 +19,8 @@ După legăturile anterioare pe linii analogice și pe satelit,
 legătura ICI la rețeaua Europanet este extinsă cu o nouă
 linie digitală între București (ICI) și Budapesta.
 
-Legătura este finanțată prin programul PHARE multinațional.
+Legătura a fost finanțată prin programul PHARE multinațional
+și a functionat pâna in februarie 1998.
 
 ## Referințe
 

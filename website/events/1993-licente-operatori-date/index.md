@@ -15,11 +15,17 @@ din România firmelor **RTNS** (actualul Equant) și **Logic**.
 
 <!-- truncate -->
 
-Astfel a fost deschisă calea creerii primelor Retele de transmisiuni de date cu comutare de pachete ROMPAC si respectiv LOGICnet, bazate pe protocolul X.25.
+Astfel a fost deschisă calea creerii primelor Retele de transmisiuni de
+date cu comutare de pachete ROMPAC si respectiv LOGICnet, bazate pe
+protocolul X.25.
 
-RTNS instaleaza primul nod al Retelei nationale de transmisiuni de date cu comutare de pachete ROMPAC, bazata pe protocolul X.25, conectata international prin TRANSPASC (Franta).
+RTNS instaleaza primul nod al Retelei nationale de transmisiuni de
+date cu comutare de pachete ROMPAC, bazata pe protocolul X.25,
+conectata international prin TRANSPASC (Franta).
 
-LOGIC instaleaza primul nod al Retelei nationale de transmisiuni de date cu comutare de pachete LOGICnet, bazata pe protocolul X.25, conectata international prin SPRINTNET (SUA).
+LOGIC instaleaza primul nod al Retelei nationale de transmisiuni
+de date cu comutare de pachete LOGICnet, bazata pe protocolul X.25,
+conectata international prin SPRINTNET (SUA).
 
 În următoarele săptămâni EUnet România obține licența pentru servicii
 de Internet.
