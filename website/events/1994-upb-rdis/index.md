@@ -18,7 +18,7 @@ Superior (RDIS)**.
 
 Peste 30 de instituții din România sunt
 conectate via dial-up și, în cele din
-urmă, prin linii analogice închiriate cu
+urmă, prin linii analogice dedicate cu
 viteze de ordinul a 2400 bps. Rețeaua
 în plină expansiune reușește să obțină
 recunoaștere oficială, fiind denumită

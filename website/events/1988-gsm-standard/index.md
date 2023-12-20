@@ -2,7 +2,7 @@
 slug: 1988/gsm-standard
 title: 'GSM standard internațional'
 authors: [gserban, ilg-ul]
-tags: [autor:gheorghe.serban]
+tags: [international, gsm, autor:gheorghe.serban]
 date: 2023-12-19T09:18:25
 
 eventDate: '1988'
@@ -26,7 +26,7 @@ pentru GSM cu Declarația de la Bonn privind rețelele globale de informații
 în mai, iar memorandumul de înțelegere GSM a fost prezentat pentru semnare
 în septembrie.
 
-Specificațiile au devenit standard în 1988 și 
+Specificațiile au devenit standard în 1988 și
 
 ## Referințe
 

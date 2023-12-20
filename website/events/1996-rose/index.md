@@ -2,7 +2,7 @@
 slug: 1996/rose
 title: "Conferința ROSE '96, București"
 authors: [arot]
-tags: [conferinte, autor:alexandru.rotaru]
+tags: [conferinte, internet, autor:alexandru.rotaru]
 date: 2023-11-01T09:17
 
 eventDate: '1996-10-30'

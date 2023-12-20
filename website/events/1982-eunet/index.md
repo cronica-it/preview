@@ -2,7 +2,7 @@
 slug: 1982/eunet
 title: 'Rețeaua EUnet (European UNIX Network)'
 authors: [gserban, ilg-ul]
-tags: [international, autor:gheorghe.serban]
+tags: [international, internet, autor:gheorghe.serban]
 date: 2023-12-18T20:05:55
 
 eventDate: '1982'

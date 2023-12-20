@@ -6,7 +6,7 @@ tags: [internet, educatie, upb, autor:nicolae.tapus]
 date: 2023-12-13T17:25:40
 
 eventDate: '1995-06'
-eventSummary: 'La UPB este instalată o linie de 64kbps'
+eventSummary: 'La UPB este instalată o linie dedicată de 64 kbps'
 
 ---
 
@@ -14,7 +14,7 @@ eventSummary: 'La UPB este instalată o linie de 64kbps'
 
 <!-- truncate -->
 
-Astfel conexiunea externă creşte de la 9.6Kbps la 64Kbps. Sunt conectate peste 70 de instituții, impunându-se rapid o nouă creștere a lățimii de bandă [Kalin 1995].
+Astfel conexiunea externă creşte de la 9.6 kbps la 64 kbps. Sunt conectate peste 70 de instituții, impunându-se rapid o nouă creștere a lățimii de bandă [Kalin 1995].
 
 ## Referințe
 

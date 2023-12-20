@@ -6,7 +6,7 @@ tags: [internet, educatie, upb]
 date: 2023-12-10T11:44:21
 
 eventDate: '1991'
-eventSummary: 'Nini Popovici efectuează primele legături de e-mail în Politehnică'
+eventSummary: 'Nini Popovici efectuează primele legături de e-mail la centrul de calcul din UPB'
 
 ---
 

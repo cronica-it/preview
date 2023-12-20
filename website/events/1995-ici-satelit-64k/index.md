@@ -2,20 +2,20 @@
 slug: 1995/ici-satelit-64k
 title: 'Legătura satelit ICI'
 authors: [arot, ilg-ul]
-tags: [internet, ici, autor:alexandru.rotaru]
+tags: [internet, ici, satelit, autor:alexandru.rotaru]
 date: 2023-12-10T12:58:36
 
 eventDate: '1995'
-eventSummary: 'La ICI este instalată o legătura prin satelit de 64kbps'
+eventSummary: 'La ICI este instalată o legătura prin satelit de 64 kbps'
 
 ---
 
-In 1995, la ICI se pune in functiune prima legatură pe satelit
+In 1995, la ICI este pusă în funcțiune prima legatură pe satelit
 dedicată pentru Internet.
 
 <!-- truncate -->
 
-Legătura între Bucuresti și Viena avea un bandwidth de 64 kbps.
+Legătura între București și Viena avea un bandwidth de 64 kbps.
 
 A funcționat până in februarie 1999.
 

@@ -2,7 +2,7 @@
 slug: 1986/specificatii-gsm
 title: 'Specificații GSM'
 authors: [gserban, ilg-ul]
-tags: [international, autor:gheorghe.serban]
+tags: [international, gsm, autor:gheorghe.serban]
 date: 2023-12-19T08:58:11
 
 eventDate: '1986'

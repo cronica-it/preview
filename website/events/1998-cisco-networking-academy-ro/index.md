@@ -6,11 +6,12 @@ tags: [educatie, autor:nicolai.sandu]
 date: 2023-12-11T12:23:46
 
 eventDate: '1998-12'
-eventSummary: 'Cisco înființează Cisco Networking Academy în România'
+eventSummary: 'Cisco Systems lansează programul Networking Academy în România'
 
 ---
 
-În decembrie 1998, la un an după debutul în California, Cisco Systems startează programul **Networking Academy** în România.
+În decembrie 1998, la un an după debutul în California, Cisco Systems
+lansează programul **Networking Academy** în România.
 
 <!-- truncate -->
 
