@@ -14,6 +14,13 @@
 - de arhivat: https://archive.icann.org/en/meetings/bucharest/
 - de lamurit ce e cu '1994 - A aparut primul articol scris vreodata despre Internet-ul din Romania la Internet Society News, vol 3, no 1 din 1994.'
 - de adaugat participarea la ISOC 1993
+- poveste Doina Baciu - proces in contecios administrativ ici 50
+- poveste Vasile Baltac ICI 50
+  https://sites.google.com/site/vasilebaltac/Home
+  vasile punct baltac la snspa punct ro
+- povesti Stelian Niculescu
+  https://stelianniculescu.ro
+  
 
 ## Vlada
 
