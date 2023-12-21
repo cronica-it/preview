@@ -11,7 +11,7 @@ eventSummary: 'La ICI este instalată o linie dedicată de 9.6 kbps cu Viena'
 ---
 
 În decembrie 1992, nodul de la ICI
-este conectat la Universitatea
+este conectat la EARN prin Universitatea
 din Viena pe o linie
 dedicată analogică de 9,6 kbps.
 
@@ -24,6 +24,9 @@ respectiv TCP/IP pentru acces la Internet.
 
 Astfel la ICI devine operațional primul nod național
 RNC (Rețeaua Națională de Cercetare).
+
+Nodului ROEARN de la ICI, includea minicalculatoare VAX cu sistem de
+operare VMS.
 
 La începutul lui 1993, la nodul RNC de la ICI se conectează
 nodurile de la IFA, UPB, Universitatea Tehnică Timișoara, CEPES si IMAR.

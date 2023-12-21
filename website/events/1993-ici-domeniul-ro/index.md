@@ -52,9 +52,18 @@ privat (`eunet.ro`, `adcon.ro`, `guru.ro`, `iiruc.ro`, `soros.ro`).
 
 In decembrie 2007 erau inregistrate cca 250.000 de nume de domenii sub “.ro”.
 
+La 1 iunie 2020 erau înregistrate 615.909 domenii ”.ro”, reprezentând 64%
+persoane juridice și 36% persoane fizice.
+
+Din punct de vedere al conectivității, Registrul național de domenii ”.ro” are
+conectivitate IPV6 din mai 2012, iar în anul 2016 a fost actualizată legătura de date
+cu RoEduNet la viteza de 10Gbp.
+
 ## Referințe
 
 - [hotnews.ro - Istoria internetului in Romania](https://economie.hotnews.ro/stiri-20_ani_internet-15969144-istoria-internetului-romania-alexandru-rotaru-nu-pot-spun-inventat-noi-ceva-plus-aici-romania-doar-majoritatea-noutatilor-adoptat-printre-primii.htm)
 - [prezentare Eugen Stăicuț](https://www.youtube.com/watch?v=grpiDxhkgmU)
 - [electrokits.ro](https://www.electrokits.ro/scurt-istoric-al-internetului-in-romania/)
 - [facebook.com - Contribuții ICI Bucureşti](https://www.facebook.com/ICIBucuresti/posts/3488728511216217/)
+- [ici.ro - 50 ani](https://www.ici.ro/documents/24/ICI_Bucuresti-50_ani_tdHL8av.pdf)  (arhivat [local](https://cronica-it.github.io/arhiva/))
+

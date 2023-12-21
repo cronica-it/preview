@@ -6,7 +6,7 @@ tags: [calculatoare]
 date: 2023-11-07T08:29
 
 eventDate: '1979'
-eventSummary: 'Este lansat calculatorul Coral'
+eventSummary: 'La ICE Felix este lansat calculatorul Coral'
 
 ---
 

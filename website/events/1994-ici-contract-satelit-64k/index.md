@@ -2,7 +2,7 @@
 slug: 1994/ici-contract-satelit-64k
 title: 'Contract satelit 64 kbps la ICI'
 authors: [gserban, ilg-ul]
-tags: [ici, internet, satelit, autor:gheorghe.serban]
+tags: [ici, internet, sateliti, autor:gheorghe.serban]
 date: 2023-12-20T17:06:14
 
 eventDate: '1994-10'

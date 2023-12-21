@@ -11,12 +11,13 @@ eventSummary: 'La ICI este realizată prima rețea locală (proiectul Cameleon)'
 ---
 
 În 1979, la ICI, este realizată prima rețea locală (LAN) pentru interconectarea
-calculatoarelor în rețele pe zone restrânse, în cadrul proiectului Cameleon.
+calculatoarelor în rețele pe zone restrânse, în cadrul proiectului **Cameleon**.
 
 <!-- truncate -->
 
 Proiectul a fost realizat de un colectiv condus de Marius Guran, și în
-cadrul lui au fost realizate componentele hardware și software necesare interconectării locale a micro și minicalculatoarelor.
+cadrul lui au fost realizate componentele hardware și software necesare
+interconectării locale a micro și minicalculatoarelor.
 
 ## Referințe
 

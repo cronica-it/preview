@@ -6,7 +6,7 @@ tags: [calculatoare]
 date: 2023-11-01T07:52
 
 eventDate: '1977'
-eventSummary: 'Este lansat calculatorul Independent 100'
+eventSummary: 'La ICE Felix este lansat calculatorul Independent 100'
 
 ---
 
