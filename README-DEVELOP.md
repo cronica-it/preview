@@ -76,3 +76,9 @@ Din ce recomandă Academia Română, ghilimelele folosite în limba română au 
 - U+201D (pentru caracterul ”).
 
 De asemenea se pot obține cu Alt+0132 („) și Alt+0148 (”).
+
+## Local link
+
+```
+ (arhivat [local](https://cronica-it.github.io/arhiva/))
+ ```
