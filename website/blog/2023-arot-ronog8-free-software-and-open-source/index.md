@@ -28,9 +28,9 @@ chiar în ziua 27 septembrie când s-au implinit acesti 40 ani
 Coincidența a făcut ca RONOG 8 să fie chiar în aceeași dată.
 
 De altfel am și un mesaj video de la Stallman care mi-a mulțumit pentru asta
-si care se termina cu faimosul "happy hacking". Oricum i-am trimis
-si eu lui un mesaj video înregistrat la Biel in Elvetia unde era chiar atunci
-și prin care l-am felicitat pentru acești 40 de ani.
+și care se termină cu faimosul „happy hacking”. Oricum i-am trimis
+și eu lui (era la Biel in Elveția) un mesaj video înregistrat
+prin care l-am felicitat pentru acești 40 de ani.
 
 ## Referințe
 
