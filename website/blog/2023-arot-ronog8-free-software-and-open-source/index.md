@@ -23,7 +23,7 @@ Filmarea cu prezentarea este pe YouTube:
 
 Prezentarea a fost făcută ca să marcheze **40 ani de la primul anunt public
 despre proiectul GNU a lui Stallman** care a picat
-chiar în ziua 27 septembrie când s-au implinit acesti 40 ani
+chiar în ziua 27 septembrie când s-au implinit acești 40 ani
 (din 27 septembrie 1984).
 Coincidența a făcut ca RONOG 8 să fie chiar în aceeași dată.
 
