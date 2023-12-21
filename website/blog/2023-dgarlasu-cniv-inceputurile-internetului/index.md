@@ -25,6 +25,8 @@ Inițiativa s-a bucurat de foarte mare interes așa încât am câștigat câtev
 La scurt timp a devenit necesară o legătură directă cu un producător de echipament de calcul din Asia de sud-est, zonă care la acea vreme reprezenta
 polul fabricației de înaltă tehnologie din lume, și așa a apărut societatea mixta KT Technology Romania SRL, înființata în 1991 între Rom Control Data și KT Technology (S) PTE LTD din Singapore. Această inițiativă ne-a creat un avantaj competitiv pe piața din România, pentru că asigura acces la prețuri de producător pentru o gama larga de componente IT, perioade de livrare mai scurte și flexibilitate în alcătuirea configurațiilor solicitate de clienți. Practic, toate PC-urile erau asamblate, testate, integrate la Rom Control Data, în București și erau acoperite de o garanție eficientă, piesele de schimb fiind disponibile în stoc la Rom Control Data București.
 
+(Foto)
+
 Deja în 1991 - 1992 eram „pe val” cu tehnologie de calculatoare personale și începusem să abordăm proiecte de integrare mai complexe.
 
 În acest context, într-o seară, primesc o cerere de ofertă pe fax, de la o organizație despre care auzisem doar vag, prin auditorul companiei noastre, dl. Gheorghe Jugaru și de la bunul nostru coleg ing. George Cârstea, care lucra la departamentul tehnic.
@@ -61,22 +63,33 @@ antene parabolice (teleport), la un satelit de comunicații. Acest serviciu era 
 
 Pe de alta parte, era nevoie și de servicii și administrare de tip ISP (Internet Service Provider) și aici, în mod natural, intra în discuție RoEduNet. Din câte îmi aduc aminte, Rețeaua Educațională din Romania (RoEduNet) a fost înființată de regretatul Nini Popovici (în imaginea de mai jos, în dreapta).
 
+(Foto)
+
 Nini era o forța în parteneriate; primul serviciu de internet l-a lansat în cooperare cu Universitatea Darmstadt. Tot el a construit și prima rețea de campus la Politehnica București, cu cablu coaxial galben.
 
 Revenind la anul 1993, un moment remarcabil l-a constituit participarea unui grup de entuziaști ai internet-ului din Romania la conferința internațională iSoc 1993, de la San Francisco, precedata de un workshop pentru țările în curs de dezvoltare, dedicat internet-ului, care s-a desfășurat la Universitatea Stanford din Palo-Alto California.
 
 Din delegația româna făceau parte, printre alții: Nicolai Sandu – care a avut de fapt inițiativa participării la eveniment, Liviu Ionescu (ILG), Romeo Macaria
 și subsemnatul. Pentru noi a fost o șansă fantastică de a intra în contact direct cu inventatorii internet-ului, printre care Vinton Cerf sau cu George Sadovski, organizator al workshop-ului și conferinței inet93.
+
+(Foto)
+
 Prezentările pionierilor internet-ului se prelungeau în noapte târziu și câteodată se terminau a doua zi în zori. În plus, organizatorii ne-au facilitat vizite la companii din Silicon Valley, printre care Cisco Systems sau Apple. Cred că acest workshop ne-a marcat în mare măsură evoluția profesională ulterioară. Reîntorși în tara, fiecare dintre noi și-a croit o carieră pe făgașul creat de internet. Eu fusesem fascinat de cele văzute și aflate în Silicon Valley, așa că în 1995 m-am angajat la AT&T, divizia NCR, care tocmai deschisese un birou în România. Aici am luat contact cu modul de operare al unei mari corporații americane din domeniul IT și Comunicații și cu o multitudine de tehnologii noi pentru vremurile acelea, printre care fibra optică, ethernet de mare viteza, comunicații ATM și comunicații digitale prin sateliți. Am fost implicat în multe proiecte de integrare. Evident, ruterele și comutatoarele Cisco erau foarte apreciate, iar eu îmi doream să ajung să lucrez la aceasta corporație înca din 1993 când vizitasem sediul din Santa Clara California. Prin urmare, atunci când Cisco a decis să intre în Romania, în 1998, a fost un pas firesc că să aspir și ulterior să devin primul angajat al biroului Cisco din România.
 
 Pentru mine era clar că internet-ul are nevoie de promovare masivă în România, iar actorii din telecomunicațiile clasice erau foarte rezervați și distanți, dacă nu chiar ostili față de internet pe care îl considerau că o amenințare. Prin urmare, calea logica, cu bătaie lungă, era promovarea tehnologiei internet în școli. Iar aici
 baza era deja construita: școlile aveau deja rețele locale cu conexiune la internet. Sufereau însă de lipsa de conținut digital adecvat. Așa a intrat în discuție programul academic Cisco. Auzisem despre program din primele zile de activitate la Cisco, încă din perioada de inducție, așa că am profitat de prima ocazie că să îl abordez pe directorul de marketing pentru Europa, Mike Cousens. După câteva săptămâni ne-a trimis o reprezentantă a Cisco, care se ocupa de calificarea potențialilor candidați de a participa la program. Am făcut cu ea vizite la RoEduNet și la câteva școli, dar nu i-a plăcut ce a văzut. Prin București mai puteai vedea căruțe trase de cai, buticurile și bazarele erau în perioada de maxim succes iar grozăviile mineriadelor încă vii în memoria colectivă.
 
+(Foto)
+
 Mi-a spus verde-n față că planul ei era să includă în program țari din Europa Centrală și de Est că Elveția sau Finlanda, poate Ungaria... și cam atât. Dar mi-a dat o șansă: să particip la Londra, la o conferință organizată în vederea promovării Academiei Cisco în Europa și să aduc cu mine niște profesori care să susțină cauza României. Zis și făcut! Din delegația noastră au făcut parte prof. de liceu Emil Onea, din Focșani și tânărul asistent de la Politehnica, Andrei Pitiș. A fost o formulă de succes, pentru că cei doi protagoniști au susținut în mod convingător cauza României și așa am câștigat! Din partea Cisco au participat oameni din Silicon Valley, fără prejudecați și care au apreciat la adevărata valoare entuziasmul și seriozitatea interlocutorilor români, dar și potențialul de țară. Așa că pasul următor a fost negocierea și semnarea primului memorandum de parteneriat, între Comisia Naționala de Informatica condusă de prof. Dr. Sergiu Iliescu, Ministerul Educației și Cisco Systems.
 
 În aceeași perioadă, Cisco a creat o poziție de manager de program, iar Nicolai Sandu, care se potrivea că o mănușă acestui profil, a primit job-ul rapid, iar restul e istorie.
 
+(Foto)
+
 Aici ia sfârșit povestea mea, dar înainte să închei, aș vrea să vă prezint o diagrama care arata procesul de adopție a internet-ului în Romania, pentru care m-am inspirat dintr-o serie de cărți publicate în anii ‘90 de Geoffrei Moore: Crossing the Chasm, Inside The Tornado, Living on the Fault Line.
+
+(Foto)
 
 În partea stângă avem profilul „inovator” la care se încadrează perfect RoEduNet și Eunet România, cu activitate încă din 1993. Următoarea categorie aparține acelor companii care au adoptat internet-ul foarte devreme, prin 1995,
 pentru că au întrezărit posibilitate de a crea valoare și profit: companii de cablu TV, precum Kappa, Astral sau RCS&RDS (în prezent Digi). Apoi urmează majoritatea timpurie, aici avem de-a face cu organizații pragmatice, care au sesizat potențialul noii tehnologii: companiile de telefonie mobilă, dintre care Telemobil, Mobilrom (în prezentOrange)șiMobifon(actualmenteVodafone).Acesteorganizațiiauprofitatde de reglementarea serviciilor de telecomunicații, care a avut loc în 1998 și au integrat rapid serviciile de voce cu cele de date. Apoi urmează sectorul bancar, care prin anii 2000 a adoptat internet-ul (inițial sub forma de rețele de tip intranet) într-o maniera pragmatică, după ce a fost evident că noua tehnologie funcționează perfect și poate fi integrată în procesele de business specifice. Romtelecom, operatorul național de telecomunicații a adoptat foarte târziu internet-ul, backbone-ul lor IP fiind construit prin anii 2005.
