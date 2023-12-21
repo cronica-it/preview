@@ -11,6 +11,8 @@ Conferința ROSE '93 și primul contact cu programul fundației SOROS „Compute
 
 <!-- truncate -->
 
+---
+
 Ne-a luat circa 4 luni să ne decidem cum să se numească conferințele și cu greu am ajuns la ROSE (Romania Open Systems Event), la sigla conferinței și la
 sigla asociației noastre ca membru în EurOpen. După asta am construit un comitet de program internațional (împreuna cu EurOpen) și un comitet de organizare intern și am ales Cluj pentru prima conferința (ROSE '93). Primii invitați care au acceptat să participe au fost Jeff Haemer din la Universitatea din Boulder Clorado și Sergey Kusnetsov președintele grupului de Unix din Rusia. Am încercat să invităm citeva dintre firmele din Europa pe care le întâlnisem la Utrecht în 92, pentru a avea ceva bani, La ROSE '93 am reușit acest lucru cu USL, SunSoft și Garmhausen & Partner.
 

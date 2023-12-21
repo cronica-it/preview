@@ -12,6 +12,8 @@ un interviu cu ocazia aniversării unui an de activitate a firmei EUnet Romania.
 
 <!-- truncate -->
 
+---
+
 [rep] Deci, ca să fim riguroși, cine este EUnet Romania?
 
 [ilg] EUnet Romania este primul Internet sevice provider comercial de la noi din țară. Are ca principal obiect de activitate să ofere conectivitate Internet pentru întreaga paletă de servicii TCP/IP și UUCP.

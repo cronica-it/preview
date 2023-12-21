@@ -11,6 +11,8 @@ Informatiei, publicata la Targu Mures in Romania.
 
 <!-- truncate -->
 
+---
+
 ```
 From: Marius Hancu
 To: romanians@sep.stanford.edu, soc-culture-romanian@cs.utexas.edu

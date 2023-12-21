@@ -11,6 +11,8 @@ date: 2023-12-14T15:57:43
 
 <!-- truncate -->
 
+---
+
 ## Robotul Labirint 64 în emisiune la Tudor Vornicu
 
 Trebuie menţionat că în cei 10 ani cât m-am ocupat de şahul programat, am trecut prin mai multe versiuni ale programului: Felix Şah şi Astro-64 pe calculatoarele mari Felix C-256, apoi două versiuni Labirint 64 şi Atom 64 sub formă de roboţi de jucat şah, şi un program cu interfaţă grafică Atom-64 pentru microcalculatoarele M-18 şi Cub-Z (tinerilor probabil că nu le mai spun nimic aceste nume de calculatoare, dar pentru noi, în acei ani 70-80 erau sculele cele mai performante cu care puteam lucra).

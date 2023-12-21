@@ -13,6 +13,8 @@ La Conferința RONOG 8, organizată la Radisson Blue Hotel din București,
 
 <!-- truncate -->
 
+---
+
 Un PDF cu slide-urile PowerPoint se găsește la:
 
 - https://ronog.ro/presentations/ronog8/Alexandru_Rotaru-RoLink_Plus_SA-Free_Software_and_Open_Source_a_personal_experience.pdf (arhivat [local](https://cronica-it.github.io/arhiva/))

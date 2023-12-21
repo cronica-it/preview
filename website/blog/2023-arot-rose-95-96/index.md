@@ -11,6 +11,8 @@ Conferințele ROSE '95 și ROSE '96 și comercializarea treptată a serviciilor 
 
 <!-- truncate -->
 
+---
+
 După experiența câștigata la ROSE '94, ne-am propus că ROSE '95 să fie organizat altfel. Am renunțat la compania de turism pentru rezervări și organizare de evenimente. În schimb cu banii economisiți am construit un pachet care să fidelizeze participanții. Acesta conținea: volumele cu lucrările conferinței, un sac de pânză inscripționat cu ROSE '95, insigna asociației, ecusoane, programul manifestărilor și câte trei bonuri de cafea pentru pauzele de conferința din fiecare zi.
 
 Toată logisitica am preluat-o cu mijloace proprii și cu un sistem de comunicații bazat pe stații wireless de la Radiotel care ne permiteau coordonarea pe teren în timpul evenimentului. Trebuie ținut cont că la acel moment nu apăruseră telefoanele mobile. Evident Radiotel avea afișat în holul de la intrare cel mai mare banner. Fundația Soros ne-a sponsorizat cu instalația de traducere simultana, inclusiv cu traducătorii iar Ion Vaciu pe care îl cunoșteam încă de la ROSE '94 ne-a asigurat legătura cu presa. Cu o zi înainte de începerea conferinței ROSE '95 am organizat o mini conferință de presă prin care toți jurnaliștii de specialitate au fost informați despre cele mai importante momente ale evenimentului. Conexiunea Internet a fost pentru prima dată on-line. Aceasta s-a realizat prin linia închiriată Romtelecom care conecta Palatul Copiilor (PC-Net) cu ICI (RNC), obținută prin susținerea lui Eugenie Staicut, coordonatorul RNC. EUnet ne-a sponsorizat prin asigurarea de conturi de email pentru firmele participante și în special pentru invitații din străinătate.

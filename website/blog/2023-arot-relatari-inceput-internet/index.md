@@ -14,6 +14,8 @@ ca experiență directă.
 
 <!-- truncate -->
 
+---
+
 ## Ce stim si ce nu stim?
 ----------------------
 

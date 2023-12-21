@@ -11,6 +11,8 @@ Articol preluat de pe pagina web a Societății Române de Radiodifuziune, datat
 
 <!-- truncate -->
 
+---
+
 La 1 noiembrie 1928 se difuza prima emisiune a Societăţii de Difuziune Radiotelefonică, aşa cum era denumit serviciul public de radiodifuziune în actul oficial de constituire. Atunci, românii au putut auzi pentru prima dată pe post cuvintele „Alo, Alo, aici Radio Bucureşti!”. Încă de la înfiinţare, radioul public s-a afirmat ca promotor şi susţinător al culturii şi civilizaţiei româneşti, vector important în formarea spiritului civic şi al coeziunii comunitare.
 
 De-a lungul timpului, denumirea instituţiei a înregistrat numeroase modificări datorate evoluţiei radioului public, dar şi regimurilor politice care au condus ţara.

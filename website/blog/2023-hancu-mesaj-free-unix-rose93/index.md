@@ -11,6 +11,8 @@ Pentru conferința ROSE '93, Marius Hâncu a trimis mesajul de mai jos.
 
 <!-- truncate -->
 
+---
+
 ```
 [Presented on my behalf at the First Romanian Open Systems Conference and
 Exhibition, ROSE '93, Cluj, Oct. 1993]

@@ -11,6 +11,8 @@ Primii ani de Internet în România și prima conferința ROSE (ROSE '94) organi
 
 <!-- truncate -->
 
+---
+
 După pornirea Internet-ului în România din anul 1993 și după parcurgerea primului an de funcționare a acestuia, au fost câteva evenimente care au contribuit și mai mult la dezvoltare legăturilor între asociația GURU și utilizatorii rețelei liceelor dar ai rețelei ROEDUNET, în principal studenți din mari centre universitare.
 
 În primăvara anului 1994 au început să apară primele rapoarte despre Internet-ul din România, care tocmai împlinise 1 an de existență. Menționez ca exemple raportul din 18 martie 1994 transmis de Eugenie Staicut în calitate de administrator din partea ICI al domeniului `.ro`, și cel transmis de GURU, ca asociație independentă, inițial în octombrie 1993 și apoi revizuit în aprilie 1994, și publicat în primul număr din 1994 al revistei Internet Society. „ISOC News, vol 3, no 1, martie1994”

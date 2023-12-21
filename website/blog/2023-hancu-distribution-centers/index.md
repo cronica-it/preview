@@ -12,6 +12,8 @@ de distribuție pentru Free Unix for Romania.
 
 <!-- truncate -->
 
+---
+
 ```
 Newsgroups: soc.culture.romanian
 From: hancu@crim.ca (Marius Hancu)

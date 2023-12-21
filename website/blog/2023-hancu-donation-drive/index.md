@@ -12,6 +12,8 @@ Free Unix for Romania.
 
 <!-- truncate -->
 
+---
+
 ```
 			FREE UNIX FOR ROMANIA
                         _____________________

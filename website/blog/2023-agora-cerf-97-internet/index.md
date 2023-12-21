@@ -11,6 +11,8 @@ La CERF '97, în cadrul programului de seminarii și conferinte, organizate de C
 
 <!-- truncate -->
 
+---
+
 Organizare evenimentului a beneficiat de ajutorul domnului Iosif Fettich, director Netsoft Srl, și de îndrumarea d-nei prof.dr. Irina Athanasiu.
 
 Transcriptul discuțiilor este redat în continuare:

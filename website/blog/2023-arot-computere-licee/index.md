@@ -11,6 +11,8 @@ GURU a susținut activ programul „Computere pentru licee” oferind suport log
 
 <!-- truncate -->
 
+---
+
 În noiembrie 1993 s-a decis transformarea centrului CPC din București al fundației SOROS în centru de training pentru administratori de noduri Internet. Ulterior a fost aleasă firma Intercomp ca prim furnizor de Internet on-line, în noiembrie 1993 (prof. Moisa Trandafir și Eugen Rusu). Prima lor conexiune on-line a fost prin VSAT la 19,2Kbps iar liceele erau conectate la email prin UUCP folosind dial-up prin serverele SCO Unix și mai apoi serverele Linux din licee. A apărut domeniul sfos.ro și subdomenii Internet pentru fiecare liceu în parte. Noi cei de la GURU am predat Unix și TCP/IP la CPC începând cu sfârșitul anului 1993. De la o lună la alta apăreau noi domenii pe Internet și interactivitatea prin Internet între licee era într-o creștere semnificativă.
 
 Am fost cooptați atât în training cât și în întreaga logistică a programului prin participarea în cadrul comisiei care analiza donațiile pentru diverse licee din țară. Dar cel mai important lucru a fost începând din acel moment contactul nostru direct cu elevii și cu profesorii de informatică cu care intram în contact. A fost practic o școală permanentă care începea pentru fiecare participant printr-o întâlnire directă cu noi și apoi continua mereu prin Internet. Astfel s-a creat o adevărata comunitate care a fost permanent conectată din acel moment. Ne-am dat seama de capacitatea acestei comunități de a genera efecte și transformări pe termen lung, încă din primele momente.

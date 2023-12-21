@@ -11,6 +11,8 @@ Pentru conferința ROSE '94, Marius Hâncu a trimis mesajul de mai jos.
 
 <!-- truncate -->
 
+---
+
 ```
 		         FREE UNIX FOR ROMANIA
          - working for the programmers' freedom of choice -
