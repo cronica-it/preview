@@ -60,4 +60,4 @@ disponibilă [on-line](https://cniv.ro/documents/26/CNIV_Volum_Aniversar_2023_-_
 ## Referințe
 
 - [cniv.ro](https://cniv.ro/)
-- [cniv.ro - carte - 30 de ani de Internet în România](https://cniv.ro/documents/26/CNIV_Volum_Aniversar_2023_-_Versiune_Online_DPxioQg.pdf)
+- [cniv.ro - carte - 30 de ani de Internet în România](https://cniv.ro/documents/26/CNIV_Volum_Aniversar_2023_-_Versiune_Online_DPxioQg.pdf)  (arhivat [local](https://cronica-it.github.io/arhiva/))

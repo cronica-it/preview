@@ -15,8 +15,8 @@ un parteneriat între Rom Control Data și KT Technology (S) PTE LTD din Singapo
 
 <!-- truncate -->
 
-Această inițiativă a creat un avantaj competitiv pe piața din România, pentru că asigura acces la prețuri de producător pentru o gama larga de componente IT, perioade de livrare mai scurte și flexibilitate în alcătuirea configurațiilor solicitate de clienți. Practic, toate PC-urile erau asamblate, testate, integrate la Rom Control Data, în Bucureșți și erau acoperite de o garanție eficientă, piesele de schimb fiind disponibile în stoc la Rom Control Data București.
+Această inițiativă a creat un avantaj competitiv pe piața din România, pentru că asigura acces la prețuri de producător pentru o gama larga de componente IT, perioade de livrare mai scurte și flexibilitate în alcătuirea configurațiilor solicitate de clienți. Practic, toate PC-urile erau asamblate, testate, integrate la Rom Control Data, în București și erau acoperite de o garanție eficientă, piesele de schimb fiind disponibile în stoc la Rom Control Data București.
 
 ## Referințe
 
-- [cniv.ro - Dan Gârlașu - Despre începuturile Internet-ului în România](https://cniv.ro/documents/26/CNIV_Volum_Aniversar_2023_-_Versiune_Online_DPxioQg.pdf)
+- [cniv.ro - Dan Gârlașu - Despre începuturile Internet-ului în România](https://cniv.ro/documents/26/CNIV_Volum_Aniversar_2023_-_Versiune_Online_DPxioQg.pdf)  (arhivat [local](https://cronica-it.github.io/arhiva/))
