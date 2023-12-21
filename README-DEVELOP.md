@@ -81,4 +81,4 @@ De asemenea se pot obține cu Alt+0132 („) și Alt+0148 (”).
 
 ```
  (arhivat [local](https://cronica-it.github.io/arhiva/))
- ```
+```
