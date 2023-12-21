@@ -7,7 +7,7 @@ date: 2023-12-12T07:08:29
 
 ---
 
-Conferința ROSE '93 și primul contact cu programul fundației SOROS „Computere pentru licee”.
+Conferința **ROSE '93** și primul contact cu programul fundației SOROS **Computere pentru licee**.
 
 <!-- truncate -->
 

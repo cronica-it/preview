@@ -7,7 +7,7 @@ date: 2023-11-06T21:55
 ---
 
 În mai 1994, Marius Hâncu a acordat un interviu revistei OPEN - Tehnologia
-Informatiei, publicata la Targu Mures in Romania.
+Informatiei, publicată la Târgu Mureș in România.
 
 <!-- truncate -->
 

@@ -7,7 +7,7 @@ date: 2023-12-11T23:09:40
 
 ---
 
-Adi Rotaru relatează cum, în martie 1992, a fondat asociația GURU – **Grupul Utilizatorilor Români de Unix**.
+Adi Rotaru relatează cum, în martie 1992, a fondat asociația **GURU – Grupul Utilizatorilor Români de Unix**.
 
 <!-- truncate -->
 

@@ -7,7 +7,7 @@ date: 2023-12-12T07:26:21
 
 ---
 
-Conferințele ROSE '95 și ROSE '96 și comercializarea treptată a serviciilor de acces la Internet în România.
+Conferințele **ROSE '95** și **ROSE '96** și comercializarea treptată a serviciilor de acces la Internet în România.
 
 <!-- truncate -->
 

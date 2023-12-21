@@ -11,7 +11,7 @@ Idea unui site în care să încercăm să reconstituim cronologia industriei IT
 a fost lansată de Alexandru Corlan, în data de 25 octombrie 2023,
 la evenimentul RITE 2023, organizat de
 [ANISP](https://anisp.ro/) și [ISOC RO](https://www.internetsociety.ro/)
-cu tema _30 de ani de Internet în România_.
+cu tema **30 de ani de Internet în România**.
 
 În urmatoarele zile, în urma unui schimb de e-mail-uri, s-a conturat idea
 ca această cronologie să fie organizată ca un blog în care articolele să fie

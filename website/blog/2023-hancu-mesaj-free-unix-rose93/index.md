@@ -7,7 +7,7 @@ date: 2023-11-01T09:21
 
 ---
 
-Pentru conferința ROSE '93, Marius Hâncu a trimis mesajul de mai jos.
+Pentru conferința **ROSE '93**, Marius Hâncu a trimis mesajul de mai jos.
 
 <!-- truncate -->
 

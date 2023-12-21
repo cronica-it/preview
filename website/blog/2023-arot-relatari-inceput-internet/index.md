@@ -7,9 +7,9 @@ date: 2023-11-06T21:37
 
 ---
 
-Am să vă relatez în cele ce urmeaza câteva întâmplări de pe la
+Am să vă relatez în cele ce urmează câteva întâmplări de pe la
 începuturile Internet-ului din România, adică cam de prin anii
-1992-1996, așa cum printr-un anumit concurs de împrejurări le-am trait
+1992-1996, așa cum printr-un anumit concurs de împrejurări le-am trăit
 ca experiență directă.
 
 <!-- truncate -->

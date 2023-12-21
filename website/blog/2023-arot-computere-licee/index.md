@@ -7,7 +7,7 @@ date: 2023-12-12T07:15:57
 
 ---
 
-GURU a susținut activ programul „Computere pentru licee” oferind suport logistic și training, în perioada 1993-1996.
+GURU a susținut activ programul **Computere pentru licee** oferind suport logistic și training, în perioada 1993-1996.
 
 <!-- truncate -->
 

@@ -7,7 +7,7 @@ date: 2023-12-21T16:34:18
 
 ---
 
-La Conferința RONOG 8, organizată la Radisson Blue Hotel din București,
+La Conferința RONOG 8, organizată la Radisson Blu Hotel din București,
 în data de 27 septembrie 2023, Alexandru Rotaru a avut o prezentare intitulată
 **Free Software and Open Source (a personal experience)**.
 

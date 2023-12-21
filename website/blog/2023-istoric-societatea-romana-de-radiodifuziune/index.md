@@ -7,7 +7,7 @@ date: 2023-12-17T10:01:32
 
 ---
 
-Articol preluat de pe pagina web a Societății Române de Radiodifuziune, datat 23 Iunie 2010.
+Articol preluat de pe pagina web a Societății Române de Radiodifuziune, datat 23 iunie 2010.
 
 <!-- truncate -->
 

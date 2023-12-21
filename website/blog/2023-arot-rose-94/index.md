@@ -7,7 +7,7 @@ date: 2023-12-12T07:18:00
 
 ---
 
-Primii ani de Internet în România și prima conferința ROSE (ROSE '94) organizată în București la Palatul Copiilor.
+Primii ani de Internet în România și prima conferința ROSE organizată în București la Palatul Copiilor (**ROSE '94**).
 
 <!-- truncate -->
 
