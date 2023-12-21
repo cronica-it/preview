@@ -10,7 +10,7 @@ eventSummary: 'Mark McCahill crează sistemul Gopher'
 
 ---
 
-În 1991 apare **Gopher**, un sistem de prezentare a datelor pe Internet.
+În anul 1991 apare **Gopher**, un sistem de prezentare a datelor pe Internet.
 
 <!-- truncate -->
 
@@ -33,5 +33,5 @@ Până la sfârșitul anilor 1990, Gopher a încetat să se extindă.
 
 ## Referințe
 
-- [rite.org.ro - Istoria Internetului](https://rite.org.ro/istoria-internetului/)
+- [rite.org.ro - Istoria Internet-ului](https://rite.org.ro/istoria-internetului/)
 - [en.wikipedia.org - Gopher](https://en.wikipedia.org/wiki/Gopher_(protocol))

@@ -33,5 +33,5 @@ aliniat la cel european.
 
 ## Referințe
 
-- [rite.org.ro - Istoria Internetului](https://rite.org.ro/istoria-internetului/)
+- [rite.org.ro - Istoria Internet-ului](https://rite.org.ro/istoria-internetului/)
 - [anisp.ro - Despre ANISP](https://www.anisp.ro/despre/)

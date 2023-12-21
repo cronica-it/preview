@@ -10,7 +10,7 @@ eventSummary: 'RoEduNet se conectează la GÉANT'
 
 ---
 
-În 2001, RoEduNet se conectează la GÉANT (rețea paneuropeană de date pentru comunitatea de cercetare și educație ) la o capacitate de 34 Mbps.
+În anul 2001, RoEduNet se conectează la GÉANT (rețea paneuropeană de date pentru comunitatea de cercetare și educație) la o capacitate de 34 Mbps.
 
 <!-- truncate -->
 
@@ -20,4 +20,4 @@ Conectarea RoEduNet la rețeaua GÉANT a marcat integrarea rețelei pentru educa
 
 ## Referințe
 
-- [cniv.ro - Nicolae Tăpuș - Rolul Universității Politehnica din București la Dezvoltarea Internetului în România](https://cniv.ro/documents/26/CNIV_Volum_Aniversar_2023_-_Versiune_Online_DPxioQg.pdf)
+- [cniv.ro - Nicolae Tăpuș - Rolul Universității Politehnica din București la Dezvoltarea Internet-ului în România](https://cniv.ro/documents/26/CNIV_Volum_Aniversar_2023_-_Versiune_Online_DPxioQg.pdf)

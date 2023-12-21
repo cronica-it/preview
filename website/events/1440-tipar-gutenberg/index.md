@@ -22,5 +22,5 @@ procesul de tipărire mult mai rapid.
 
 ## Referințe
 
-- [rite.org.ro - Istoria Internetului](https://rite.org.ro/istoria-internetului/)
+- [rite.org.ro - Istoria Internet-ului](https://rite.org.ro/istoria-internetului/)
 - [en.wikipedia.org - Johannes Gutenberg](https://en.wikipedia.org/wiki/Johannes_Gutenberg)

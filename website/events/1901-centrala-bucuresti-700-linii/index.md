@@ -19,4 +19,4 @@ Era unul din cele mai moderne din lume și servea 700 de linii.
 
 ## Referințe
 
-- [rite.org.ro - Istoria Internetului](https://rite.org.ro/istoria-internetului/)
+- [rite.org.ro - Istoria Internet-ului](https://rite.org.ro/istoria-internetului/)

@@ -10,7 +10,7 @@ eventSummary: 'La Cluj-Napoca este pus în funcțiune calculatorul DACICC-200'
 
 ---
 
-În 1963, la Institutul de Calcul Cluj s-a realizat DACICC-1, un
+În anul 1963, la Institutul de Calcul Cluj, este realizat DACICC-1, un
 calculator complet tranzistorizat.
 
 <!-- truncate -->
@@ -31,6 +31,6 @@ A fost cel mai performant calculator construit în țară cu proiect
 
 ## Referințe
 
-- [rite.org.ro - Istoria Internetului](https://rite.org.ro/istoria-internetului/)
+- [rite.org.ro - Istoria Internet-ului](https://rite.org.ro/istoria-internetului/)
 - [ro.wikipedia.org - Istoria informaticii în România](https://ro.wikipedia.org/wiki/Istoria_informaticii_în_România)
 - [ro.wikipedia.org - DACICC-200](https://ro.wikipedia.org/wiki/DACICC-200)

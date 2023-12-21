@@ -24,4 +24,4 @@ in comunicatii, armonizat cu Directivele europene din 2002, menit sa permita
 
 ## Referințe
 
-- [rite.org.ro - Istoria Internetului](https://rite.org.ro/istoria-internetului/)
+- [rite.org.ro - Istoria Internet-ului](https://rite.org.ro/istoria-internetului/)

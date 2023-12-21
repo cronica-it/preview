@@ -10,18 +10,22 @@ eventSummary: 'Blaise Pascal proiectează „La Pascaline”'
 
 ---
 
-În 1642, Blaise Pascal, care nu împlinise 19 ani, încercând să-l ajute pe tatăl său care era colector de impozite la Rouen, proiectează o mașină care efectua calcule.
+În anul 1642, Blaise Pascal, care nu împlinise 19 ani, încercând să-l
+ajute pe tatăl său care era colector de impozite la Rouen, proiectează
+o mașină care efectua calcule.
 
 <!-- truncate -->
 
 Mașina a purtat numele „La Pascaline” si a fost finalizată în 1645.
-Putea efectua adunări/scăderi direct, și înmulțiri/împărțiri prin operații repetate, utile pentru transformarea dintr-o monedă în alta, ținând cont de numeroasele monede ce se utilizau în epocă.
+Putea efectua adunări/scăderi direct, și înmulțiri/împărțiri prin
+operații repetate, utile pentru transformarea dintr-o monedă în alta,
+ținând cont de numeroasele monede ce se utilizau în epocă.
 
 În următoarea decadă, Pascal a realizat circa 20 de mașini, aducând numeroase
 îmbunătățiri proiectului inițial.
 
 ## Referințe
 
-- [rite.org.ro - Istoria Internetului](https://rite.org.ro/istoria-internetului/)
+- [rite.org.ro - Istoria Internet-ului](https://rite.org.ro/istoria-internetului/)
 - [en.wikipedia.org - Blaise Pascal](https://en.wikipedia.org/wiki/Blaise_Pascal)
 - [en.wikipedia.org - Pascal's calculator](https://en.wikipedia.org/wiki/Pascal%27s_calculator)

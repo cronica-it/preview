@@ -10,7 +10,7 @@ eventSummary: 'În București este dată în folosință prima centrală telefon
 
 ---
 
-În 1893, în București este dată în folosință prima centrală telefonică,
+În anul 1893, la București, este dată în folosință prima centrală telefonică,
 (numită și „multiplu telefonic”).
 
 <!-- truncate -->
@@ -26,5 +26,5 @@ instalat un multiplu telefonic de 3 000 linii.
 
 ## Referințe
 
-- [rite.org.ro - Istoria Internetului](https://rite.org.ro/istoria-internetului/)
+- [rite.org.ro - Istoria Internet-ului](https://rite.org.ro/istoria-internetului/)
 - [mnir.ro - Istoria Palatului Poștelor](https://www.mnir.ro/cladirea-muzeului-national-de-istorie-a-romaniei/)

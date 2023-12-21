@@ -10,7 +10,8 @@ eventSummary: 'Sunt publicate specificațiile GSM'
 
 ---
 
-În 1986 sunt publicate specificatiile GSM.
+În anul 1986 sunt publicate primele specificatii ale sistemului de
+comunicații mobile GSM.
 
 <!-- truncate -->
 
@@ -19,5 +20,5 @@ engleza (Global System for Mobile Communications), pastrându-se acronimul GSM.
 
 ## Referințe
 
-- [rite.org.ro - Istoria Internetului](https://rite.org.ro/istoria-internetului/)
+- [rite.org.ro - Istoria Internet-ului](https://rite.org.ro/istoria-internetului/)
 - [en.wikipedia.org - GSM](https://en.wikipedia.org/wiki/GSM)

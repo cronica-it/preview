@@ -11,8 +11,8 @@ eventSummary: 'Nicolai Sandu coordonează programul „Computere pentru licee”
 
 ---
 
-În perioada 1993-1998 se desfășoară programul _Computere pentru
-licee_ finanțat prin Fundația Soros România si coordonat de Nicolai
+În perioada 1993-1998 se desfășoară programul **Computere pentru
+licee** finanțat prin Fundația Soros România si coordonat de Nicolai
 Sandu, care a dus la dezvoltarea unei rețele a liceelor.
 
 <!-- truncate -->

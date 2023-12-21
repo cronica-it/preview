@@ -27,4 +27,4 @@ un sfert din cât își propusese să adune, în timp, în România.
 ## Referințe
 
 - [ro.wikipedia - Vodafone România](https://ro.wikipedia.org/wiki/Vodafone_România)
-- [hotnews.ro - Istoria internetului in Romania](https://economie.hotnews.ro/stiri-20_ani_internet-15969144-istoria-internetului-romania-alexandru-rotaru-nu-pot-spun-inventat-noi-ceva-plus-aici-romania-doar-majoritatea-noutatilor-adoptat-printre-primii.htm)
+- [hotnews.ro - Istoria internet-ului in Romania](https://economie.hotnews.ro/stiri-20_ani_internet-15969144-istoria-internetului-romania-alexandru-rotaru-nu-pot-spun-inventat-noi-ceva-plus-aici-romania-doar-majoritatea-noutatilor-adoptat-printre-primii.htm)

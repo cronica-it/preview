@@ -10,7 +10,7 @@ eventSummary: 'Este semnat contractul pentru o legătură pe satelit de 64 kbps 
 
 ---
 
-În octombrie 1994, este semnat contractul ICI – PTT Austria pentru
+În octombrie 1994 este semnat contractul ICI – PTT Austria pentru
 instalarea legăturii RNC la rețelele europene, pe un canal de satelit
 de 64 kbps Bucuresti – Viena.
 
@@ -23,4 +23,4 @@ Legătura pe satelit a devenit operațională în 1995.
 
 ## Referințe
 
-- [rite.org.ro - Istoria Internetului](https://rite.org.ro/istoria-internetului/)
+- [rite.org.ro - Istoria Internet-ului](https://rite.org.ro/istoria-internetului/)

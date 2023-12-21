@@ -10,7 +10,7 @@ eventSummary: 'Este creată „Reseaux IP Européens” (RIPE)'
 
 ---
 
-În 1989 este creată **RIPE (Reseaux IP Européens)**.
+În anul 1989 este creată rețeua **RIPE (Reseaux IP Européens)**.
 
 <!-- truncate -->
 
@@ -28,5 +28,5 @@ grupurilor de lucru RIPE.
 
 ## Referințe
 
-- [rite.org.ro - Istoria Internetului](https://rite.org.ro/istoria-internetului/)
+- [rite.org.ro - Istoria Internet-ului](https://rite.org.ro/istoria-internetului/)
 - [en.wikipedia.org - RIPE](https://en.wikipedia.org/wiki/RIPE)

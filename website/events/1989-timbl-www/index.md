@@ -11,9 +11,9 @@ eventSummary: 'Tim Berners-Lee face primele propuneri pentru „World Wide Web�
 ---
 
 În martie 1989, Tim Berners-Lee și Robert Cailliau de la CERN
-(Conseil européen pour la Recherche nucléaire)
+(Conseil européen pour la Recherche nucléaire),
 pun bazele unui nou protocol de comunicare
-pentru stocarea și regasirea documentelor,
+pentru stocarea și regăsirea documentelor,
 care din 1991 se va numi **World Wide Web**.
 
 <!-- truncate -->
@@ -25,7 +25,7 @@ Primul prototip al acestei colecții (mai întâi în format de text simplu) a
 apărut nu mult înainte de decembrie 1991, când s-a făcut prima lui
 demonstrație publică.
 
-În 1994 CERN și M.I.T. au format Consorțiul World Wide Web, care are
+În anul 1994, CERN și M.I.T. au format Consorțiul World Wide Web, care are
 drept obiectiv dezvoltarea webului, standardizarea protocoalelor și
 încurajarea legăturilor dintre site-uri.
 
@@ -39,6 +39,6 @@ componente cheie necesare serviciului web, și anume:
 
 ## Referințe
 
-- [rite.org.ro - Istoria Internetului](https://rite.org.ro/istoria-internetului/)
+- [rite.org.ro - Istoria Internet-ului](https://rite.org.ro/istoria-internetului/)
 - [en.wikipedia.org - Tim Berners Lee](https://en.wikipedia.org/wiki/Tim_Berners-Lee)
 - [en.wikipedia.org - WWW](https://en.wikipedia.org/wiki/World_Wide_Web)

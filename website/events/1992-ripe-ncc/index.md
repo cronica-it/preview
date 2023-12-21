@@ -12,7 +12,7 @@ eventSummary: 'RIPE crează „Network Coordination Center” (NCC)'
 
 În aprilie 1992, RIPE crează **Network Coordination Center (NCC)**
 pentru a administra înregistrarea adreselor
-și a coordona serviciile comunității europene a Internetului.
+și a coordona serviciile comunității europene a Internet-ului.
 
 <!-- truncate -->
 
@@ -22,5 +22,5 @@ La 25 noiembrie 2019, RIPE NCC a anunțat că a făcut „alocarea finală /22 I
 
 ## Referințe
 
-- [rite.org.ro - Istoria Internetului](https://rite.org.ro/istoria-internetului/)
+- [rite.org.ro - Istoria Internet-ului](https://rite.org.ro/istoria-internetului/)
 - [en.wikipedia.org - RIPE NCC](https://en.wikipedia.org/wiki/RIPE_NCC)

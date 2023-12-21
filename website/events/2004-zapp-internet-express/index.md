@@ -21,4 +21,4 @@ de date cu viteze de până la 2,4 Mbps.
 
 ## Referințe
 
-- [rite.org.ro - Istoria internetului](https://rite.org.ro/istoria-internetului/)
+- [rite.org.ro - Istoria Internet-ului](https://rite.org.ro/istoria-internetului/)

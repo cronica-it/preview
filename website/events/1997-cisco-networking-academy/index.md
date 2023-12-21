@@ -10,7 +10,7 @@ eventSummary: 'Cisco Systems lansează programul Networking Academy în Californ
 
 ---
 
-În 1997, Cisco Systems lansează programul **Networking Academy**,
+În anul 1997, Cisco Systems lansează programul **Networking Academy**,
 prin care elevi și studenți sunt inițiați în tainele rețelelor și
 echipamentelor de conectare.
 
@@ -21,5 +21,5 @@ Programul a fost lansat în California, dar a fost rapid extins și în alte ț�
 
 ## Referințe
 
-- [rite.org.ro - Istoria Internetului](https://rite.org.ro/istoria-internetului/)
+- [rite.org.ro - Istoria Internet-ului](https://rite.org.ro/istoria-internetului/)
 - [en.wikipedia.org - Cisco Networking Academy](https://en.wikipedia.org/wiki/Cisco_Networking_Academy)

@@ -10,7 +10,7 @@ eventSummary: 'Rețelele X.25 au acoperire națională'
 
 ---
 
-În 1995, rețelele naționale de transmisiuni de date cu comutare de pachete
+În anul 1995, rețelele naționale de transmisiuni de date cu comutare de pachete
 LOGICnet și ROMPAC au practic acoperire națională.
 
 <!-- truncate -->
@@ -20,4 +20,4 @@ apoi direct.
 
 ## Referințe
 
-- [rite.org.ro - Istoria Internetului](https://rite.org.ro/istoria-internetului/)
+- [rite.org.ro - Istoria Internet-ului](https://rite.org.ro/istoria-internetului/)

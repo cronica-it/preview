@@ -10,10 +10,10 @@ eventSummary: 'La ICI demarează primele studii privind rețelele de calculatoar
 
 ---
 
-În 1971, la ICI demarează primele studii privind rețelele de calculatoare.
+În anul 1971, la ICI, demarează primele studii privind rețelele de calculatoare.
 
 <!-- truncate -->
 
 ## Referințe
 
-- [rite.org.ro - Istoria Internetului](https://rite.org.ro/istoria-internetului/)
+- [rite.org.ro - Istoria Internet-ului](https://rite.org.ro/istoria-internetului/)

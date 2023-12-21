@@ -91,5 +91,5 @@ Reglementare în Comunicaţii şi Tehnologia Informaţiei (ANRCTI).
 
 ## Referințe
 
-- [rite.org.ro - Istoria Internetului](https://rite.org.ro/istoria-internetului/)
+- [rite.org.ro - Istoria Internet-ului](https://rite.org.ro/istoria-internetului/)
 - [ancom.ro - Scurt istoric](https://www.ancom.ro/scurt-istoric_919)

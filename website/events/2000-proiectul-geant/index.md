@@ -10,7 +10,7 @@ eventSummary: 'Comisia Europeana lanseaza proiectul GÉANT'
 
 ---
 
-În 6 noiembrie 2000, Comisia Europeana lanseaza proiectul **GÉANT** –
+În 6 noiembrie 2000, Comisia Europeana lansează proiectul **GÉANT** –
 Gigabait Research and Education Network.
 
 <!-- truncate -->
@@ -35,5 +35,5 @@ CE (denumit adesea PC7).
 
 ## Referințe
 
-- [rite.org.ro - Istoria Internetului](https://rite.org.ro/istoria-internetului/)
+- [rite.org.ro - Istoria Internet-ului](https://rite.org.ro/istoria-internetului/)
 - [en.wikipedia.org - GÉANT](https://en.wikipedia.org/wiki/GÉANT)

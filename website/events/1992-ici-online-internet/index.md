@@ -12,7 +12,7 @@ eventSummary: 'La ICI este instalată o linie dedicată de 9.6 kbps cu Viena'
 
 În decembrie 1992, nodul de la ICI
 este conectat la EARN prin Universitatea
-din Viena pe o linie
+din Viena, pe o linie
 dedicată analogică de 9,6 kbps.
 
 <!-- truncate -->
@@ -42,5 +42,5 @@ Situați a fost rezolvată și din 16 aprilie România a avut acces deplin
 
 ## Referințe
 
-- [rite.org.ro - Istoria Internetului](https://rite.org.ro/istoria-internetului/)
+- [rite.org.ro - Istoria Internet-ului](https://rite.org.ro/istoria-internetului/)
 - [facebook.com - Contribuții ICI Bucureşti](https://www.facebook.com/ICIBucuresti/posts/3488728511216217/)

@@ -10,11 +10,11 @@ eventSummary: 'Sunt realizate primele legături telegrafice fără fir din Româ
 
 ---
 
-În 1903, la București și la Constanța sunt realizate primele legături
+În anul 1903, la București și la Constanța, sunt realizate primele legături
 radio telegrafice (telegraf fără fir), pentru comunicări cu mai multe vapoare.
 
 <!-- truncate -->
 
 ## Referințe
 
-- [rite.org.ro - Istoria Internetului](https://rite.org.ro/istoria-internetului/)
+- [rite.org.ro - Istoria Internet-ului](https://rite.org.ro/istoria-internetului/)

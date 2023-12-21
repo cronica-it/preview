@@ -10,8 +10,8 @@ eventSummary: 'Augustin Maior demonstrează telefonia multiplă pe o singură li
 
 ---
 
-În 1906, inginerul Augustin Maior, angajat la Stația Experimentală a Poștelor
-din Budapesta, a reușit să transmită simultan,
+În anul 1906, inginerul Augustin Maior, angajat la Stația Experimentală a Poștelor
+din Budapesta, a demonstrat un dispozitiv care putea să transmită simultan,
 pe o singură linie telefonică de 15 km, 5 convorbiri fără ca semnalele
 să interfereze.
 
@@ -25,5 +25,5 @@ Fundamentele teoretice ale telefoniei multiple au fost publicate în
 
 ## Referințe
 
-- [rite.org.ro - Istoria Internetului](https://rite.org.ro/istoria-internetului/)
+- [rite.org.ro - Istoria Internet-ului](https://rite.org.ro/istoria-internetului/)
 - [ro.wikipedia.org - Augustin Maior](https://ro.wikipedia.org/wiki/Augustin_Maior)

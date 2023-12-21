@@ -7,7 +7,7 @@ date: 2023-11-06T21:52
 
 ---
 
-În 1994, Marius Hâncu a făcut un raport al cărților trimise în Romania și Moldova.
+În anul 1994, Marius Hâncu a făcut un raport al cărților trimise în Romania și Moldova.
 
 <!-- truncate -->
 

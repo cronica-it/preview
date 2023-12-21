@@ -20,6 +20,6 @@ TODO
 
 ## Referințe
 
-- [rite.org.ro - Istoria Internetului](https://rite.org.ro/istoria-internetului/)
+- [rite.org.ro - Istoria Internet-ului](https://rite.org.ro/istoria-internetului/)
 - [ro.wikipedia.org - Istoria informaticii în România](https://ro.wikipedia.org/wiki/Istoria_informaticii_în_România)
 - [ro.wikipedia.org - CIFA-1](https://ro.wikipedia.org/wiki/CIFA)

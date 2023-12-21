@@ -10,7 +10,7 @@ eventSummary: 'Este înființată firma Cisco Systems Romania'
 
 ---
 
-În anul 1998, este înființată **Cisco Systems Romania SRL**, ca o filială a firmei
+În anul 1998 este înființată **Cisco Systems Romania SRL**, ca o filială a firmei
 Cisco Systems din Statele Unite.
 
 <!-- truncate -->

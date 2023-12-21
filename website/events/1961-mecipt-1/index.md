@@ -10,7 +10,7 @@ eventSummary: 'La Timișoara este pus în funcțiune calculatorul MECIPT-1'
 
 ---
 
-În 1961, la Institutul Politehnic Timișoara s-a realizat MECIPT-1, un
+În anul 1961, la Institutul Politehnic Timișoara, este realizat MECIPT-1, un
 calculator cu tuburi electronice.
 
 <!-- truncate -->
@@ -29,6 +29,6 @@ La colectiv s-au alăturat în 1961 Vasile Baltac, în acel moment student
 
 ## Referințe
 
-- [rite.org.ro - Istoria Internetului](https://rite.org.ro/istoria-internetului/)
+- [rite.org.ro - Istoria Internet-ului](https://rite.org.ro/istoria-internetului/)
 - [ro.wikipedia.org - Istoria informaticii în România](https://ro.wikipedia.org/wiki/Istoria_informaticii_în_România)
 - [ro.wikipedia.org - MECIPT](https://ro.wikipedia.org/wiki/MECIPT)

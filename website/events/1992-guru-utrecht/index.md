@@ -11,7 +11,7 @@ eventSummary: 'La Utrecht are loc conferința „Open Forum 92”'
 
 ---
 
-În perioada 23-27 noiembrie 1992, la Utrecht are loc conferința
+În perioada 23-27 noiembrie 1992, la Utrecht, are loc conferința
 internațională **Open Forum '92 Technical Conference**.
 
 <!-- truncate -->
@@ -30,5 +30,5 @@ tranziției către servicii Internet comerciale în Europa.
 
 ## Referințe
 
-- [rite.org.ro - Istoria Internetului](https://rite.org.ro/istoria-internetului/)
+- [rite.org.ro - Istoria Internet-ului](https://rite.org.ro/istoria-internetului/)
 - [ronog.ro - Free Software and Open Source](https://ronog.ro/presentations/ronog8/Alexandru_Rotaru-RoLink_Plus_SA-Free_Software_and_Open_Source_a_personal_experience.pdf)

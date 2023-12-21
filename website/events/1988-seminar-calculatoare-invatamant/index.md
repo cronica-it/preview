@@ -14,7 +14,7 @@ eventSummary: 'Este organizat seminarul „Utilizarea calculatoarelor electronic
 În perioada 26-27 mai 1988, Ministerul Educației, Universitatea București,
 Comisia Națională UNESCO pentru România, Ministerul Industriei Electrotehnice
 și ITCI (Institutul pentru tehnică de
-calcul și informatică) organizează la București, în Sala Senatului
+calcul și informatică), organizează la București, în Sala Senatului
 Universității București, seminarul științific
 „Utilizarea calculatoarelor electronice în procesul de învățământ”.
 

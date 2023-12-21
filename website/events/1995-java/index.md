@@ -37,5 +37,5 @@ de cod asupra căreia Sun nu deținea drepturile de autor.
 
 ## Referințe
 
-- [rite.org.ro - Istoria Internetului](https://rite.org.ro/istoria-internetului/)
+- [rite.org.ro - Istoria Internet-ului](https://rite.org.ro/istoria-internetului/)
 - [en.wikipedia.org - Java](https://en.wikipedia.org/wiki/Java_(programming_language))

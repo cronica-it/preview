@@ -14,7 +14,7 @@ Asociația Națională a Internet Service Providerilor din România (ANISP) orga
 
 <!-- truncate -->
 
-Ediția RITE din acest an tratează tema „30 de ani de Internet în România” și abordează subiecte precum: tehnologiile Internetului, evoluția conținutului de Internet (de la date simple, nestructurate și accesibile până la media în cloud de astăzi, bazată pe tehnologia de containere), OpenAI, realitatea virtuală etc.
+Ediția RITE din acest an tratează tema „30 de ani de Internet în România” și abordează subiecte precum: tehnologiile Internet-ului, evoluția conținutului de Internet (de la date simple, nestructurate și accesibile până la media în cloud de astăzi, bazată pe tehnologia de containere), OpenAI, realitatea virtuală etc.
 
 ## Referințe
 

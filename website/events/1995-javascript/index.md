@@ -38,5 +38,5 @@ Alegerea numelui JavaScript a provocat confuzie, ceea ce sugerează că acesta e
 
 ## Referințe
 
-- [rite.org.ro - Istoria Internetului](https://rite.org.ro/istoria-internetului/)
+- [rite.org.ro - Istoria Internet-ului](https://rite.org.ro/istoria-internetului/)
 - [en.wikipedia.org - JavaScript](https://en.wikipedia.org/wiki/JavaScript)

@@ -10,11 +10,14 @@ eventSummary: 'România obține licența pentru Felix C-256'
 
 ---
 
-În 1971, România obține din Franța licența pentru calculatorul IRIS 50,
+În anul 1971, România obține din Franța licența pentru calculatorul IRIS 50,
 care va deveni **Felix C-256**, si începe fabricația la
 Fabrica de Calculatoare Electronice, din București.
 
 <!-- truncate -->
+
+Negocierile au durat câțiva ani, și un rol important l-a avut vizita
+lui de Gaulle în România, in mai 1968.
 
 ## Referințe
 

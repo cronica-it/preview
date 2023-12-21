@@ -197,7 +197,7 @@ Urmarile acestei initiative au fost uriase, tinind cont de exemplu ca
 in vara anului 1994 aveam deja circa 100 sisteme Linux functionale si
 inregistrate in tara. Toate aceste sisteme, documentatii si in general
 tot fondul de oameni angrenati in Free Software for Romania au facut ca
-Internetul sa fie posibil la acel moment si in tara.
+Internet-ul sa fie posibil la acel moment si in tara.
 
 Anthony Rutkowski si Internet Society
 -------------------------------------
@@ -412,7 +412,7 @@ dezvoltare ale backbone-urilor Internet din aceasta zona a lumii, iar
 eu personal m-am cunoscut cu personaje de legenda cum ar fi Vinton
 Cerf, unul dintre co-autorii TCP/IP-ului sau John Quarterman, un
 binecunoscut statistician al Intertnet-ului, cu multiple contributii in
-descrierea fenomenleor de evolutie ale Internetului pe plan mondial. La
+descrierea fenomenleor de evolutie ale Internet-ului pe plan mondial. La
 sfirsit atasez citeva impresii ale lui John Quarterman din 1995, scrise
 in timpul conferintei ROSE '95, despre comunicatea Unix din Romania dar
 si despre telecomunicatii sau despre cum eram noi romanii vazuti la

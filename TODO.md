@@ -16,10 +16,10 @@
 - de adaugat participarea la ISOC 1993
 - poveste Doina Baciu - proces in contencios administrativ ici 50
 - poveste Vasile Baltac ICI 50
-  https://sites.google.com/site/vasilebaltac/Home
-  vasile punct baltac la snspa punct ro
+  - https://sites.google.com/site/vasilebaltac/Home
+  - vasile punct baltac la snspa punct ro
 - povesti Stelian Niculescu
-  https://stelianniculescu.ro
+  - https://stelianniculescu.ro
 
 
 ## Vlada
@@ -85,14 +85,6 @@ De discutat pentru o colaborare și preluare a articolelor.
 
 ## Alte Link-uri
 
-Copiate local:
-
-- https://cs.pub.ro/Videos/Aniversare45CS/Brosura45CS.pdf
-- https://www.academia.edu/attachments/58679853/download_file?s=portfolio
-- https://cs.pub.ro/Videos/Aniversare45CS/Brosura45CS.pdf
-- http://www.csit-sun.pub.ro/research/history
-- https://www.vioreldarie.ro/Creatii/Amintiri%20din%20epoca%20FELIX%20a%20calculatoarelor%20romanesti.pdf
-
 Românești:
 
 - https://ro.wikipedia.org/wiki/Istoria_informaticii_în_România
@@ -107,20 +99,11 @@ Românești:
 - http://www.ionivan.ro
 - https://sites.google.com/site/georgechirtoaca/home
 - https://muzeu.unibuc.ro/ro/arhiva-digitala-a-muzeului-universitatii-din-bucuresti-admub/
-
 - https://ro.wikipedia.org/wiki/Istoria_informaticii_în_România
-
 - https://www.facebook.com/ICIBucuresti/posts/3488728511216217/
-
 - https://ictp.acad.ro/ro/istoric/
-
-- PDF - Istoria_informaticii_romanesti - https://www.researchgate.net/profile/Marin-Vlada/publication/349835992_Istoria_informaticii_romanesti_Aparitie_dezvoltare_si_impact_vol_IV_2020/links/60434dd5299bf1e0785b3f95/Istoria-informaticii-romanesti-Aparitie-dezvoltare-si-impact-vol-IV-2020.pdf
-
 - https://www.agir.ro/carte/un-institut-pentru-istorie-semicentenarul-institutului-pentru-tehnica-de-calcul-1968-2018-123155.html
-
 - https://www.cs.rutgers.edu/news-events/highlights/highlight-item/9126-587-in-memory-of-prof-liviu-iftode-1959-2017
-
-- https://ronog.ro/presentations/ronog8/Alexandru_Rotaru-RoLink_Plus_SA-Free_Software_and_Open_Source_a_personal_experience.pdf
 
 Străine:
 

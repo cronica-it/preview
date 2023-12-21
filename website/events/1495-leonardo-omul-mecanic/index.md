@@ -23,5 +23,5 @@ Robotul este un războinic, îmbrăcat în armură medievală germano-italiană 
 
 ## Referințe
 
-- [rite.org.ro - Istoria Internetului](https://rite.org.ro/istoria-internetului/)
+- [rite.org.ro - Istoria Internet-ului](https://rite.org.ro/istoria-internetului/)
 - [en.wikipedia.org - Leonardo's robot](https://en.wikipedia.org/wiki/Leonardo%27s_robot)

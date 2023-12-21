@@ -20,12 +20,12 @@ Deși Cisco nu a fost prima companie care a dezvoltat și a vândut un ruter,
 ea fost una dintre primele care a vândut cu succes comercial routere care
 suportau mai multe protocoale de rețea.
 
-În 1990, compania a fost listată la bursa de valori Nasdaq.
+În anul 1990, compania a fost listată la bursa de valori Nasdaq.
 
 La sfârșitul lunii martie 2000, Cisco a fost cea mai valoroasă companie
 din lume, cu o capitalizare de piață de mai mult de 500 milioane dolari SUA.
 
 ## Referințe
 
-- [rite.org.ro - Istoria Internetului](https://rite.org.ro/istoria-internetului/)
+- [rite.org.ro - Istoria Internet-ului](https://rite.org.ro/istoria-internetului/)
 - [en.wikipedia.org - Cisco](https://en.wikipedia.org/wiki/Cisco)

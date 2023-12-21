@@ -27,5 +27,5 @@ ridicată și din 16 aprilie România a avut acces deplin în Internet.
 
 ## Referințe
 
-- [rite.org.ro - Istoria Internetului](https://rite.org.ro/istoria-internetului/)
+- [rite.org.ro - Istoria Internet-ului](https://rite.org.ro/istoria-internetului/)
 - [prezentare Eugen Stăicuț](https://www.youtube.com/watch?v=grpiDxhkgmU)

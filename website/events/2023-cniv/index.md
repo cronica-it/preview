@@ -23,7 +23,7 @@ organizată de profesorul Radu Jugureanu.
 | --- | :--- |
 |09:00-10:00|Înregistrarea participanților|
 |10:00-10:30|Deschiderea conferinței<br/>Radu JUGUREANU, Vicepreședinte CNIV<br/>Răzvan RUGHINIȘ, Gazda conferinței, Facultatea de Automatică și Calculatoare, UPB<br/>Carmen Elena CÎRNU, Președinte CNIV<br/>Ella CIUPERCĂ, Vicepreședinte CNIV|
-|10:30-10:50|Nicolae ȚĂPUȘ<br/>_Rolul Universității Politehnica din București la Dezvoltarea Internetului în România_|
+|10:30-10:50|Nicolae ȚĂPUȘ<br/>_Rolul Universității Politehnica din București la Dezvoltarea Internet-ului în România_|
 |10:50-11:00|Andrei PITIȘ<br/>_ROEDUNET și Nini Popovici_|
 |11:00-11:10|Stelian NICULESCU<br/>_Copilăria INFORMATICII ROMÂNEȘTI așa cum am „trăit-o” eu, unul dintre primii elevi ai Profesorului Grigore C. Moisil_|
 |11:10-11:15|Nicolai SANDU<br/>_30 de ani de „punct RO”_|

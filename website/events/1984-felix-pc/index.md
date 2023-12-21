@@ -10,7 +10,9 @@ eventSummary: 'Este lansat calculatorul Felix-PC'
 
 ---
 
-În anul 1984, la Universitatea Politehnică București și ICE Felix, s-a conceput și realizat **Felix-PC**, un calculator compatibil cu **IBM-PC XT**.
+În anul 1984, la Universitatea Politehnică București și ICE Felix,
+este conceput și realizat **Felix-PC**, un calculator compatibil
+cu **IBM-PC XT**.
 
 <!-- truncate -->
 
@@ -23,4 +25,4 @@ exteriorul pe 16 biți sau cu microprocesorul 8088, care lucra cu resursele exte
 
 ## Referințe
 
-- [cniv.ro - Nicolae Tăpuș - Rolul Universității Politehnica din București la Dezvoltarea Internetului în România](https://cniv.ro/documents/26/CNIV_Volum_Aniversar_2023_-_Versiune_Online_DPxioQg.pdf)
+- [cniv.ro - Nicolae Tăpuș - Rolul Universității Politehnica din București la Dezvoltarea Internet-ului în România](https://cniv.ro/documents/26/CNIV_Volum_Aniversar_2023_-_Versiune_Online_DPxioQg.pdf)

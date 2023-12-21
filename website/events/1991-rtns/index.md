@@ -6,11 +6,11 @@ tags: [firme, comunicatii]
 date: 2023-12-21T11:12:16
 
 eventDate: '1991'
-eventSummary: 'TODO'
+eventSummary: 'Este demarată înființarea RTNS (Romanian Telecoms Network Services)'
 
 ---
 
-În anul 1991, s-a demarat înființarea RTNS (Romanian
+În anul 1991 este demarată înființarea RTNS (Romanian
 Telecoms Network Services).
 
 <!-- truncate -->

@@ -18,5 +18,5 @@ La 29 sau 30 iunie 1521, Neacșu din Câmpulug trimite către Hans Beckner, jude
 
 ## Referințe
 
-- [rite.org.ro - Istoria Internetului](https://rite.org.ro/istoria-internetului/)
+- [rite.org.ro - Istoria Internet-ului](https://rite.org.ro/istoria-internetului/)
 - [ro.wikipedia.org - Scrisoarea lui Neacsu](https://ro.wikipedia.org/wiki/Scrisoarea_lui_Neacșu)

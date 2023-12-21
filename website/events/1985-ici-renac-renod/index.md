@@ -10,9 +10,9 @@ eventSummary: 'La ICI este realizat proiectul UNIREA'
 
 ---
 
-În 1985, la ICI este realizată experimentul UNIREA,
+În anul 1985, la ICI, este realizat experimentul UNIREA,
 prima rețea de transmisiuni de date cu comutare de
-pachete în România, în cadrul proiectului Unirea (**RENAC**/**RENOD**),
+pachete în România, în cadrul proiectelor **RENAC**/**RENOD**,
 prin care s-a asigurat conectarea provinciilor istorice.
 
 <!-- truncate -->
@@ -31,5 +31,5 @@ de o țara membră CAER.
 
 ## Referințe
 
-- [rite.org.ro - Istoria Internetului](https://rite.org.ro/istoria-internetului/)
+- [rite.org.ro - Istoria Internet-ului](https://rite.org.ro/istoria-internetului/)
 - [hotnews.ro - RENAC/RENOD](https://economie.hotnews.ro/stiri-20_ani_internet-16054489-cum-creat-unirea-digitala-provinciilor-istorice-ale-romaniei-prima-retea-calculatoare-din-tara-solutii-informatice-dezvoltau-laboratoarele-lor-urss-sua.htm)

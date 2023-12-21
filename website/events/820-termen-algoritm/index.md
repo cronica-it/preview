@@ -10,8 +10,8 @@ eventSummary: 'Apare noțiunea de „algoritm”'
 
 ---
 
-În jurul anului 820, Muḥammad ibn Mūsā al-Khwārizmī din Taskent a
-dezvoltat conceptul de instrucțiuni de urmat pentru atingerea unui scop.
+În jurul anului 820, Muḥammad ibn Mūsā al-Khwārizmī din Taskent
+dezvoltă conceptul de instrucțiuni de urmat pentru atingerea unui scop.
 
 <!-- truncate -->
 
@@ -23,5 +23,5 @@ Algoritmi.
 
 ## Referințe
 
-- [rite.org.ro - Istoria Internetului](https://rite.org.ro/istoria-internetului/)
+- [rite.org.ro - Istoria Internet-ului](https://rite.org.ro/istoria-internetului/)
 - [en.wikipedia.org - Al-Khwarizmi](https://en.wikipedia.org/wiki/Al-Khwarizmi)

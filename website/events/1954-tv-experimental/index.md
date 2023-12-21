@@ -11,7 +11,8 @@ experimental de TV din România'
 
 ---
 
-În 1954, colectivul condus de prof. Alexandru Spătaru a construit prima stație
+În anul 1954, colectivul condus de prof. Alexandru Spătaru
+construiește prima stație
 de emisie care ulterior a transmis programe experimentale de TV in România.
 
 <!-- truncate -->
@@ -27,6 +28,6 @@ ale Ministerului Poștelor și Telecomunicațiilor.
 
 ## Referințe
 
-- [rite.org.ro - Istoria Internetului](https://rite.org.ro/istoria-internetului/)
+- [rite.org.ro - Istoria Internet-ului](https://rite.org.ro/istoria-internetului/)
 - [ro.wikipedia.org - TVR 1](https://ro.wikipedia.org/wiki/TVR_1)
 - [ro.wikipedia.org - Alexandru Spătaru](https://ro.wikipedia.org/wiki/Alexandru_Spătaru)

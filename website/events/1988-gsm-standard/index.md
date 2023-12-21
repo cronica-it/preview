@@ -10,7 +10,7 @@ eventSummary: 'GSM devine standard internațional de telefonie digitală celular
 
 ---
 
-În 1988, **Global System for Mobile Communications (GSM)** devine
+În anul 1988, **Global System for Mobile Communications (GSM)** devine
 standard internațional de telefonie digitală celulară.
 
 <!-- truncate -->
@@ -30,6 +30,6 @@ Specificațiile au devenit standard în 1988 și
 
 ## Referințe
 
-- [rite.org.ro - Istoria Internetului](https://rite.org.ro/istoria-internetului/)
+- [rite.org.ro - Istoria Internet-ului](https://rite.org.ro/istoria-internetului/)
 - [en.wikipedia.org - GSM](https://en.wikipedia.org/wiki/GSM)
 - [gsma.com - History](https://www.gsma.com/aboutus/who-we-are/our-history/)

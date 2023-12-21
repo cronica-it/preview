@@ -10,10 +10,10 @@ eventSummary: 'În Moldova este instalată prima linie de telegraf'
 
 ---
 
-În 1855, în Moldova este instalată prima linie de telegraf.
+În anul 1855, în Moldova, este instalată prima linie de telegraf.
 
 <!-- truncate -->
 
 ## Referințe
 
-- [rite.org.ro - Istoria Internetului](https://rite.org.ro/istoria-internetului/)
+- [rite.org.ro - Istoria Internet-ului](https://rite.org.ro/istoria-internetului/)

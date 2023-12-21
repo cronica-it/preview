@@ -23,6 +23,6 @@ semiconductoare, memorie internă pe ferite (capacitate: 1 K cuvânt × 37 biți
 
 ## Referințe
 
-- [rite.org.ro - Istoria Internetului](https://rite.org.ro/istoria-internetului/)
+- [rite.org.ro - Istoria Internet-ului](https://rite.org.ro/istoria-internetului/)
 - [ro.wikipedia.org - Istoria informaticii în România](https://ro.wikipedia.org/wiki/Istoria_informaticii_în_România)
 - [ro.wikipedia.org - CET 500](https://ro.wikipedia.org/wiki/CET_500)

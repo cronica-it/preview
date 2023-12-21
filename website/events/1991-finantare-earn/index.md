@@ -10,7 +10,7 @@ eventSummary: 'Guvernul aprobă finanțarea pentru conectare la EARN'
 
 ---
 
-În 1991, se aprobă proiectul de conectare la rețeaua de cercetare
+În anul 1991 este aprobat proiectul de conectare la rețeaua de cercetare
 European Academic and Research Network (EARN).
 
 <!-- truncate -->
@@ -23,5 +23,5 @@ Conectivitatea totală la Internet va fi realizată în 1993.
 
 ## Referințe
 
-- [cniv.ro - Nicolae Tăpuș - Rolul Universității Politehnica din București la Dezvoltarea Internetului în România](https://cniv.ro/documents/26/CNIV_Volum_Aniversar_2023_-_Versiune_Online_DPxioQg.pdf)
+- [cniv.ro - Nicolae Tăpuș - Rolul Universității Politehnica din București la Dezvoltarea Internet-ului în România](https://cniv.ro/documents/26/CNIV_Volum_Aniversar_2023_-_Versiune_Online_DPxioQg.pdf)
 - [wikipedia.org - European Academic and Research Network](https://en.wikipedia.org/wiki/European_Academic_and_Research_Network)

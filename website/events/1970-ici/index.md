@@ -10,7 +10,7 @@ eventSummary: 'Este înființat Institutul Central de Informatică'
 
 ---
 
-În 1970 este înființat prin HCM 1040/15.07.1970
+În anul 1970, prin HCM 1040/15.07.1970, este înființat
 **Institutul Central de Informatică**, ca
 prim centru național pentru cercetare avansată în informatică.
 
@@ -31,12 +31,12 @@ Se dezvoltă atribuțiile institutului pe patru coordonate principale:
 - dotarea economiei cu tehnică de calcul
 - pregătirea cadrelor de specialiști și alte atribuții de conducere
 
-În 1985 ICCI devine direcția de „Informatică” în cadrul
+În 1985, ICCI devine direcția de „Informatică” în cadrul
 **Institutului de Cercetare Științifică și Inginerie Tehnologică pentru
 Tehnică de Calcul și Informatică (ICSIT-TCI)**. În această etapă se
 pune un accent mai mare pe aspectele de dezvoltare și valorificare a rezultatelor cercetării.
 
-În 1990, HG 49/08.01.1990,
+În 1990, prin HG 49/08.01.1990,
 institutul redevine autonom, sub o nouă denumire - **Institutul
 de Cercetări în Informatică (ICI)** - și se adaptează la cerințele economiei de piață, cu intenția de a continua activitățile de cercetare științifică în domeniul IT&C.
 
