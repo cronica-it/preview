@@ -32,8 +32,10 @@ altor articole on-line, cu menționarea clară a autorului și a sursei.
 
 ## Contribuții
 
-Dacă aveți informații cu privire la alte evenimente sau
-realizări semnificative,
+Această cronologie este inevitabil incompletă și posibil inexactă.
+
+Dacă identificați inexactități sau dacă aveți informații cu privire la
+alte evenimente sau realizări semnificative,
 vă rugăm să ne contactați la adresa
 [cronica.it.ro@gmail.com](mailto:cronica.it.ro@gmail.com);
-toate contribuțiile sunt foarte apreciate!
+toate contribuțiile vor fi foarte apreciate!
