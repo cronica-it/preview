@@ -25,7 +25,7 @@ Prezentarea a fost făcută ca să marcheze **40 ani de la primul anunt public
 despre proiectul GNU a lui Stallman** care a picat
 chiar în ziua 27 septembrie când s-au implinit acesti 40 ani
 (din 27 septembrie 1984).
-Coincidența a făcut cu RONOG 8 sa fie chiar în aceeași dată.
+Coincidența a făcut ca RONOG 8 să fie chiar în aceeași dată.
 
 De altfel am și un mesaj video de la Stallman care mi-a mulțumit pentru asta
 si care se termina cu faimosul "happy hacking". Oricum i-am trimis
