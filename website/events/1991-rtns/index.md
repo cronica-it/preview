@@ -1,6 +1,6 @@
 ---
 slug: 1991/rtns
-title: 'TODO'
+title: 'Înființare RTNS (Romanian Telecoms Network Services)'
 authors: [ilg-ul]
 tags: [firme, comunicatii]
 date: 2023-12-21T11:12:16
