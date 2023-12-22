@@ -82,3 +82,11 @@ De asemenea se pot obține cu Alt+0132 („) și Alt+0148 (”).
 ```
  (arhivat [local](https://cronica-it.github.io/arhiva/))
 ```
+
+## Prevent autolink
+
+- https://gist.github.com/alexpeattie/4729247
+
+```
+www<scan></scan>.some.thing
+```

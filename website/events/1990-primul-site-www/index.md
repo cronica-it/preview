@@ -10,7 +10,7 @@ eventSummary: 'La CERN apare primul site WWW'
 
 ---
 
-În anul 1990 apare primul site de tip WWW.
+În anul 1990 apare primul site de tip WWW<span></span>.
 
 <!-- truncate -->
 

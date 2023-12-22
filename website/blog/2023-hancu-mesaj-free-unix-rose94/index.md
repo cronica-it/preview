@@ -99,7 +99,7 @@ Bucharest. These gophers contain information on Romania (on tourism,
 economy, etc). These servers can be accessed from anywhere in the
 world. Recently, Octavian Ureche from the Universite de Montreal has
 installed the first home page for Romania on World Wide Web. Others
-have contributed information related to Romania for WWW.
+have contributed information related to Romania for WWW<span></span>.
 
 Gradually, we started to contribute to the establishment and the
 consolidation of the national computer networks in Romania
