@@ -2,7 +2,7 @@
 slug: 2000/ici-satelit-2mbps
 title: 'Linie satelit ICI de 2Mbps'
 authors: [ilg-ul]
-tags: [internet, ici, sateliti]
+tags: [internet, ici, sateliti, autor:liviu.ionescu]
 date: 2023-12-13T17:42:15
 
 eventDate: '2000-03'

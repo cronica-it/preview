@@ -2,7 +2,7 @@
 slug: 1995/definitie-internet
 title: 'Definiție formală a termenului „Internet”'
 authors: [ilg-ul]
-tags: [international, internet]
+tags: [international, internet, autor:liviu.ionescu]
 date: 2023-12-13T22:18:51
 
 eventDate: '1995-10-24'

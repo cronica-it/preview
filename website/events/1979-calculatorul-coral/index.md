@@ -2,7 +2,7 @@
 slug: 1979/calculatorul-coral
 title: 'Calculatorul Coral'
 authors: [ilg-ul]
-tags: [calculatoare]
+tags: [calculatoare, autor:liviu.ionescu]
 date: 2023-11-07T08:29
 
 eventDate: '1979'

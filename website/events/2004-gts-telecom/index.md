@@ -2,7 +2,7 @@
 slug: 2004/gts-telecom
 title: "GTS Telecom"
 authors: [ilg-ul]
-tags: [firme, internet]
+tags: [firme, internet, autor:liviu.ionescu]
 date: 2023-11-16T19:42
 
 eventDate: '2004'

@@ -2,7 +2,7 @@
 slug: 1997/cerf-97
 title: "CERF '97 - Internet în România"
 authors: [ilg-ul]
-tags: [conferinte, internet]
+tags: [conferinte, internet, autor:liviu.ionescu]
 date: 2023-12-12T07:49:53
 
 eventDate: '1997-06'

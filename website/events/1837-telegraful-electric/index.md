@@ -2,7 +2,7 @@
 slug: 1837/telegraful-electric
 title: 'Telegraful electric'
 authors: [ilg-ul]
-tags: [international, comunicatii]
+tags: [international, comunicatii, autor:liviu.ionescu]
 date: 2023-10-30T07:35
 
 eventDate: '1837-05'

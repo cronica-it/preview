@@ -2,7 +2,7 @@
 slug: 1991/email-academic
 title: 'Acces e-mail în mediul academic'
 authors: [ilg-ul]
-tags: [internet, educatie, upb]
+tags: [internet, educatie, upb, autor:liviu.ionescu]
 date: 2023-12-10T11:44:21
 
 eventDate: '1991'

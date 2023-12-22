@@ -2,7 +2,7 @@
 slug: 1972/arpanet-demo
 title: 'Prima demonstrație cu ARPANET'
 authors: [ilg-ul]
-tags: [international, internet]
+tags: [international, internet, autor:liviu.ionescu]
 date: 2023-12-13T22:06:20
 
 eventDate: '1972-10'

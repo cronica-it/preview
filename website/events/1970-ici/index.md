@@ -1,8 +1,8 @@
 ---
 slug: 1970/ici
-title: 'Institutul Central de Informatica'
+title: 'Institutul Central de Informatică'
 authors: [ilg-ul]
-tags: [cercetare, informatica, ici]
+tags: [cercetare, informatica, ici, autor:liviu.ionescu]
 date: 2023-12-13T17:48:15
 
 eventDate: '1970'

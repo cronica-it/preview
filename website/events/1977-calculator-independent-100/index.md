@@ -2,7 +2,7 @@
 slug: 1977/calculator-independent-100
 title: 'Calculatorul Independent 100'
 authors: [ilg-ul]
-tags: [calculatoare]
+tags: [calculatoare, autor:liviu.ionescu]
 date: 2023-11-01T07:52
 
 eventDate: '1977'

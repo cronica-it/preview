@@ -2,7 +2,7 @@
 slug: 1928/radio-romania
 title: 'Societatea de Difuziune Radiotelefonică'
 authors: [ilg-ul]
-tags: [radio]
+tags: [radio, autor:liviu.ionescu]
 date: 2023-12-17T09:40:24
 
 eventDate: '1928-11-01'

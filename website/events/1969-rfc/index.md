@@ -2,7 +2,7 @@
 slug: 1969/rfc
 title: 'Request for Comments'
 authors: [ilg-ul]
-tags: [international, internet]
+tags: [international, internet, autor:liviu.ionescu]
 date: 2023-12-13T22:14:22
 
 eventDate: '1969'
