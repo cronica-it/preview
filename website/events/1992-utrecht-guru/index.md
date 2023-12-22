@@ -1,5 +1,5 @@
 ---
-slug: 1992/guru-utrecht
+slug: 1992/utrecht-guru
 title: 'Conferința „Open Forum 92” de la Utrecht'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]

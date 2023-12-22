@@ -1,5 +1,5 @@
 ---
-slug: 1979/ici-prima-retea-locala
+slug: 1979/ici-cameleon
 title: 'Prima rețea locală de la ICI (proiectul Cameleon)'
 authors: [gserban, ilg-ul]
 tags: [ici, autor:gheorghe.serban]

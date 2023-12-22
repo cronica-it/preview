@@ -1,5 +1,5 @@
 ---
-slug: 1901/centrala-bucuresti-700-linii
+slug: 1901/bucuresti-centrala-700-linii
 title: 'Centrală telefonică cu 700 de linii în București'
 authors: [gserban, ilg-ul]
 tags: [autor:gheorghe.serban]

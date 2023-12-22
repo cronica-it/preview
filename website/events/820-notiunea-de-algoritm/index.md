@@ -1,5 +1,5 @@
 ---
-slug: 820/termen-algoritm
+slug: 820/notiunea-de-algoritm
 title: 'Termenul „algoritm”'
 authors: [gserban, ilg-ul]
 tags: [international, informatica, autor:gheorghe.serban]

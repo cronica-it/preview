@@ -1,5 +1,5 @@
 ---
-slug: 1986/specificatii-gsm
+slug: 1986/gsm-specificatii
 title: 'Specificații GSM'
 authors: [gserban, ilg-ul]
 tags: [international, gsm, autor:gheorghe.serban]

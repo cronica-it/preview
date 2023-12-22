@@ -1,5 +1,5 @@
 ---
-slug: 2023/robot-sah-labirint-atom
+slug: 2023/vdarie-robot-sah-labirint-atom
 title: 'Amintiri despre robotul românesc de şah LABIRINT 64 / ATOM 64'
 authors: [vdarie]
 tags: [sah, autor:viorel.darie]

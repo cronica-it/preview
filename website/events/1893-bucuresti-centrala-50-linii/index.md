@@ -1,5 +1,5 @@
 ---
-slug: 1893/centrala-bucuresti
+slug: 1893/bucuresti-centrala-50-linii
 title: 'Prima centrală telefonică din București'
 authors: [gserban, ilg-ul]
 tags: [autor:gheorghe.serban]

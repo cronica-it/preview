@@ -10,7 +10,7 @@ eventSummary: 'La ICE Felix este lansat calculatorul Coral'
 
 ---
 
-În anul 1979 este lansată familia de minicalculatoare **Coral**.
+În anul 1979, la ICE Felix, este lansată familia de minicalculatoare **Coral**.
 
 <!-- truncate -->
 

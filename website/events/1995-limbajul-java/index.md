@@ -1,5 +1,5 @@
 ---
-slug: 1995/java
+slug: 1995/limbajul-java
 title: 'Limbajul Java'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]

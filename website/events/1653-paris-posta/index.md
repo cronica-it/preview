@@ -1,5 +1,5 @@
 ---
-slug: 1653/posta-paris
+slug: 1653/paris-posta
 title: 'Serviciul poștal de la Paris'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]

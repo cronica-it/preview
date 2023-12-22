@@ -1,5 +1,5 @@
 ---
-slug: 1883/linie-telefonica-bucuresti
+slug: 1883/bucuresti-linie-telefonica
 title: 'Prima linie telefonică în București'
 authors: [gserban, ilg-ul]
 tags: [comunicatii, autor:gheorghe.serban]

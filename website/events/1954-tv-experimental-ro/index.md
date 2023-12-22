@@ -1,5 +1,5 @@
 ---
-slug: 1954/tv-experimental
+slug: 1954/tv-experimental-ro
 title: 'Stație programe experimentale TV în România'
 authors: [gserban, ilg-ul]
 tags: [autor:gheorghe.serban]

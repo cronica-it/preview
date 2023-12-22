@@ -1,5 +1,5 @@
 ---
-slug: 1995/javascript
+slug: 1995/limbajul-javascript
 title: 'Limbajul JavaScript'
 authors: [ilg-ul]
 tags: [international, internet, autor:liviu.ionescu]

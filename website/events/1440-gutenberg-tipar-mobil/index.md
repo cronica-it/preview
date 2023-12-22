@@ -1,5 +1,5 @@
 ---
-slug: 1440/tipar-gutenberg
+slug: 1440/gutenberg-tipar-mobil
 title: 'Tiparul lui Gutenberg'
 authors: [gserban, ilg-ul]
 tags: [international, comunicatii, autor:gheorghe.serban]

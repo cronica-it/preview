@@ -1,5 +1,5 @@
 ---
-slug: 1983/tranzitie-tcp-ip
+slug: 1983/arpanet-tranzitie-tcp-ip
 title: 'Tranziția ARPANET de la NCP la TCP/IP'
 authors: [ilg-ul]
 tags: [international, internet, autor:liviu.ionescu]
