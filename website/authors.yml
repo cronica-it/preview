@@ -3,67 +3,77 @@ ilg-ul:
   name: Liviu Ionescu
   email: ilg@livius.net
   url: https://github.com/ilg-ul
-  image_url: https://cronica-it.github.io/img/authors/ilg-ul.jpg
+  image_url: https://cronica-it.github.io/img/authors/liviu-ionescu.jpg
 
 dancorl:
   name: Alexandru Corlan
   email: alexandru@corlan.net
   url: http://dan.corlan.net
-  image_url: https://cronica-it.github.io/img/authors/dancorl.jpg
+  image_url: https://cronica-it.github.io/img/authors/dan-corlan.jpg
 
 arot:
   name: Alexandru Rotaru
   email: arot@idgroup.ro
   url: https://www.linkedin.com/in/alexandrurotaru/
-  image_url: https://cronica-it.github.io/img/authors/arot.jpg
+  image_url: https://cronica-it.github.io/img/authors/alexandru-rotaru.jpg
 
 hancu:
   name: Marius Hâncu
   email: hancu@CAM.ORG
-  image_url: https://cronica-it.github.io/img/authors/hancu.jpg
+  image_url: https://cronica-it.github.io/img/authors/marius-hancu.jpg
 
 gserban:
   name: Gheorghe Șerban
   url: https://www.linkedin.com/in/gheorghe-serban-582388/
-  image_url: https://cronica-it.github.io/img/authors/gserban.jpg
+  image_url: https://cronica-it.github.io/img/authors/gheorghe-serban.jpg
 
 ivaciu:
   name: Ion Vaciu
   url: https://www.linkedin.com/in/ionvaciu/
-  image_url: https://cronica-it.github.io/img/authors/ivaciu.jpg
+  image_url: https://cronica-it.github.io/img/authors/ion-vaciu.jpg
 
 radujugu:
   name: Radu Jugureanu
   url: https://www.linkedin.com/in/raduj/
-  image_url: https://cronica-it.github.io/img/authors/radujugu.jpg
+  image_url: https://cronica-it.github.io/img/authors/radu-jugureanu.jpg
 
 smaier:
   name: Ștefan Niculescu Maier
   url: https://www.linkedin.com/in/stefanmaier/
-  image_url: https://cronica-it.github.io/img/authors/smaier.jpg
+  image_url: https://cronica-it.github.io/img/authors/stefan-maier.jpg
 
 nicolaus:
   name: Nicolai Sandu
   url: https://www.linkedin.com/in/sandunicolai/
-  image_url: https://cronica-it.github.io/img/authors/nicolaus.jpg
+  image_url: https://cronica-it.github.io/img/authors/nicolai-sandu.jpg
 
 ntapus:
   name: Nicolae Țăpuș
   url: https://cs.pub.ro/index.php/people/userprofile/nicolae_tapus
-  image_url: https://cronica-it.github.io/img/authors/ntapus.jpg
+  image_url: https://cronica-it.github.io/img/authors/nicolae-tapus.jpg
 
 sniculescu:
   name: Stelian Niculescu
   url: https://stelianniculescu.wordpress.com
-  image_url: https://cronica-it.github.io/img/authors/sniculescu.jpg
+  image_url: https://cronica-it.github.io/img/authors/stelian-niculescu.jpg
 
 dgarlasu:
   name: Dan Gârlașu
   url: https://www.linkedin.com/in/dan-garlasu-9078a6/
-  image_url: https://cronica-it.github.io/img/authors/dgarlasu.jpg
+  image_url: https://cronica-it.github.io/img/authors/dan-garlasu.jpg
 
 vdarie:
   name: Viorel Darie
   email: vioreldarie@yahoo.com
   url: https://www.vioreldarie.ro
-  image_url: https://cronica-it.github.io/img/authors/vdarie.jpg
+  image_url: https://cronica-it.github.io/img/authors/viorel-darie.jpg
+
+spralong:
+  name: Sanda Pralong
+  url: https://www.linkedin.com/in/sandrapralong/
+  image_url: https://cronica-it.github.io/img/authors/sandra-pralong.jpg
+
+imaxim:
+  name: Ioan Maxim
+  url: https://www.linkedin.com/in/ioan-maxim-750914153/
+  image_url: https://cronica-it.github.io/img/authors/ioan-maxim.jpg
