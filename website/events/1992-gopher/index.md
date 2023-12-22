@@ -29,7 +29,7 @@ extins rapid.
 Universitatea din Minnesota a anunțat că va percepe taxe de licențiere
 pentru utilizarea implementării serverului Gopher.
 
-Până la sfârșitul anilor 1990, Gopher a încetat să se extindă.
+Până la sfârșitul anilor 1990, Gopher a încetat să se mai extindă.
 
 ## Referințe
 
