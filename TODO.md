@@ -21,10 +21,10 @@
 - povesti Stelian Niculescu
   - https://stelianniculescu.ro
 
-
 ## Vlada
 
 - http://mvlada.blogspot.com
+- vlada@fmi.unibuc.ro
 
 - 1937 (vlada 1) - În lume, Informatica (Computability theory, Computer Science și Computing) a
 apărut odată cu susținerea tezei de doctorat de către matematicianul englez Alan Turing, în anul 1937, când au aparut ideile precursoare ale Computing și ale
@@ -67,6 +67,10 @@ informaticieni în România).
 În Germania, în anul 1956, omul de știință Karl Steinbuch a inventat
 cuvântul „Informatik” publicând o lucrare numită „Informatik: Automatische
 Informationsverarbeitung” („Informatics: Automatic Information Processing”).
+
+Critici:
+
+- https://www.hotnews.ro/stiri-opinii-23601283-istorie-diletanta-informaticii-romanesti-promovata-sub-egida-academiei-romane-2019.htm
 
 ## Mihu
 
