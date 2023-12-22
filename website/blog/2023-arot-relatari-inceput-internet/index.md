@@ -366,8 +366,8 @@ fenomene ca un efect imediat
 a) conferintele nu s-au mai putut tine decit in Palatul Copiilor din
 Bucuresti, unde echipa de suport logistic ROSE, condusa de Mihai
 Batrineanu ne putea oferi un sprijin deosebit. Aceasta echipa era
-formata mai ales din entuziastii cercurilor de informatica de la
-Palatul Copiilor si din membrii lotului international de informatica
+formata mai ales din entuziastii cercurilor de informatică de la
+Palatul Copiilor si din membrii lotului international de informatică
 pregatit de prof. Stelian Niculescu.
 
 b) a fost tot mai mult nevoie de Internet on-line, astfel incit in
@@ -382,7 +382,7 @@ Linia a sosit abia in primavara anului 1995, dar intre timp s-au mai
 intimplat niste acumulari logistice. In Palatul Copiilor se mutasera
 doua sali de training de la Fundatia Soros cit si citeva echipamente de
 telecomunicatii pentru deservirea pe dial-up a elevilor de la cercurile
-de informatica.
+de informatică.
 
 Evident acest nod incipient de telecomunicatii pentru elevi a capatat
 si un nume: PC-Net, dupa care pina la inceperea lui ROSE '95 a acordat
@@ -392,7 +392,7 @@ Asadar primul stand PC-Net a fost organizat la ROSE '95, iar primii
 administratori ai acetei retele au provenit tot de la GURU, acestia
 fiind: Dragos Danetti, Daniel Dumitriu si in special Razvan Stanescu
 (Pappy). Acestia impreuna cu citiva tineri din lotul international de
-informatica au inceput sa conceapa prin discutii informale arhitectura
+informatică au inceput sa conceapa prin discutii informale arhitectura
 viitorului nod PC-Net.
 
 Ulterior sub presiunea celorlalti operatori comerciali, dar si prin

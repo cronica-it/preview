@@ -73,7 +73,7 @@ plus, ei ne pot oferi o experienta de ani de zile intr-o economie de
 piata care functioneaza si intr-o societate care considera ca vital
 progresul stiintelor.
 
-In informatica initiativa cea mai inportanta si mai bine
+In informatică initiativa cea mai inportanta si mai bine
 organizata este fara indoiala Free UNIX for Romania. Ei ii
 datoram aparitia primelor versiuni free software de linux,
 386BSD, plus a unei multitudini de aplicatii care ruleaza pe
@@ -278,7 +278,7 @@ la care lucrati in prezent si proiectele la care participati
 acolo?
 
 M.H.: Lucrez de doi ani in CRIM, Centre de Recherche
-Informatique de Montreal (Centrul de Cercetare Informatica din
+Informatique de Montreal (Centrul de Cercetare Informatică din
 Montreal). Nu este foarte mare (cam 100 de persoane), dar in
 rapida crestere. Multiple echipe specializate in: arhitecturi
 paralele, recunoasterea vorbirii, prelucrarea imaginilor si
@@ -547,7 +547,7 @@ incercat? Sau poate ca este o trasatura caracteristica a acestui
 gen de proiecte conlucrarea cu persoanele si organizatiile
 neoficiale? In Romania exista cel putin doua astfel de
 organizatii guvernamentale: Comisia Nationala de
-Informatica (CNI) si Societatea Nationala de Informatica
+Informatică (CNI) si Societatea Nationala de Informatică
 (SNI). Le cunoasteti?
 
 M.H.: Free UNIX for Romania a fost definita de la bun

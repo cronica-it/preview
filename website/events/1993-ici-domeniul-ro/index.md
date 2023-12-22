@@ -16,7 +16,7 @@ administreze DNS-ul pentru domeniul `.ro`.
 <!-- truncate -->
 
 La începutul anului,
-Institutul National de Cercetare-Dezvoltare in Informatica (ICI) trimite
+Institutul National de Cercetare-Dezvoltare in Informatică (ICI) trimite
 catre IANA (Internet Assignet Numbers Authority) cererea pentru
 inregistrarea domeniului `.ro`.
 
