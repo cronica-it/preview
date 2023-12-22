@@ -1,12 +1,12 @@
 ---
-slug: 2001/roedunet-geant
-title: 'Conectare RoEduNet la GÉANT'
+slug: 2001/roedunet-geant-34mbps
+title: 'Conectare RoEduNet la GÉANT cu 34 Mbps'
 authors: [ntapus]
 tags: [internet, educatie, upb, autor:nicolae.tapus]
 date: 2023-12-13T18:43:49
 
 eventDate: '2001'
-eventSummary: 'RoEduNet se conectează la GÉANT'
+eventSummary: 'RoEduNet se conectează la GÉANT cu 34 Mbps'
 
 ---
 

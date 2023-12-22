@@ -1,6 +1,6 @@
 ---
 slug: 1998/roedunet-satelit-4mbps
-title: 'Conexiune de 4 mbps la RoEduNet'
+title: 'Conexiune de 4 Mbps la RoEduNet'
 authors: [ntapus, ilg-ul]
 tags: [internet, educatie, sateliti, upb, autor:nicolae.tapus]
 date: 2023-12-13T18:31:31
