@@ -78,7 +78,7 @@ La nivelul anului 2018 erau:
 
 - decembrie 1998 – se lansează Cisco Networking Academy în
 România
-- decembrie 1998 – se înființează prima academie – RoEdu Net
+- decembrie 1998 – se înființează prima academie – RoEduNet
 - ianuarie 1999 – prima clasă de studenți – Universitatea Politehnica din
 București, Facultatea de Automatică și Calculatoare
 - aprilie 1999 – prima clasă de elevi liceu – Colegiul Național „Ion Luca
