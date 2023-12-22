@@ -91,8 +91,8 @@ Galați, Iași, Năsăud, Oradea, Piatra Neamț, Pitești, Ploiești, Roșiorii
 de Vede, Sfântu Gheorghe, Sibiu, Sighetu-Marmaţiei, Sighișoara,
 Sinaia, Suceava, Târgu-Mureș, Timișoara și Vaslui.
 
-De remarcat distincția pe care Academia CISCO de la Colegiul Național „Cantemir Vodă” din București a
-primit-o la Copenhaga, în cadrul unui Congres Internațional: Academia CISCO a anului în spațiul EMEA.
+De remarcat distincția pe care Academia Cisco de la Colegiul Național „Cantemir Vodă” din București a
+primit-o la Copenhaga, în cadrul unui Congres Internațional: Academia Cisco a anului în spațiul EMEA.
 La acea vreme Academia „Cantemir” era coordonată de Prof. Emil Dragomirescu cu ajutorul Prof. Radu
 Jugureanu.
 

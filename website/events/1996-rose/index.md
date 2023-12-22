@@ -59,7 +59,7 @@ Chairman: Nicolae Tapus
 - 16:15-16:30 Data-Oriented Distributed Application Protocol Development (Romeo Dumitrescu, Ioan Jurca)
 - 16:30-17:00 Leading Network Technology in Perspective (Marc de Basquiat)
 - 17:00-17:30 Coffee break
-- 17:30-19:30 CISCO Technical Presentation: „Secure Routing” (Olivier Dupont)
+- 17:30-19:30 Cisco Technical Presentation: „Secure Routing” (Olivier Dupont)
 
 ### Thursday, 31 October
 
