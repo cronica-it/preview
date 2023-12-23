@@ -10,7 +10,8 @@ eventEndDate: '1996-11-02'
 
 ---
 
-La București are loc conferința ROSE '96, organizată de Grupul Utilizatorilor
+În perioada 30 octombrie - 2 noiembrie 1996,
+la București, are loc conferința **ROSE '96**, organizată de Grupul Utilizatorilor
 Români de Unix (GURU), condus de Alexandru Rotaru.
 
 <!-- truncate -->

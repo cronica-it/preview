@@ -25,6 +25,6 @@ operații repetate, utile pentru transformarea dintr-o monedă în alta,
 
 ## Referințe
 
-- [rite.org.ro - Istoria Internet-ului](https://rite.org.ro/istoria-internetului/)
+- [rite.org.ro - Istoria Internetului](https://rite.org.ro/istoria-internetului/)
 - [en.wikipedia.org - Blaise Pascal](https://en.wikipedia.org/wiki/Blaise_Pascal)
 - [en.wikipedia.org - Pascal's calculator](https://en.wikipedia.org/wiki/Pascal%27s_calculator)

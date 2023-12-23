@@ -9,7 +9,7 @@ eventDate: '2000'
 
 ---
 
-In 2000, firma **EUnet Romania SRL** își schimbă numele în
+În anul 2000, firma **EUnet Romania SRL** își schimbă numele în
 **KPNQwest România SRL**.
 
 <!-- truncate -->

@@ -10,7 +10,8 @@ eventEndDate: '1993-10-01'
 
 ---
 
-La Cluj-Napoca are loc conferința ROSE '93, organizată de Grupul Utilizatorilor
+În perioada 30 septembrie - 1 octombrie 1993,
+la Cluj-Napoca, are loc conferința **ROSE '93**, organizată de Grupul Utilizatorilor
 Români de Unix (GURU), condus de Alexandru Rotaru.
 
 <!-- truncate -->

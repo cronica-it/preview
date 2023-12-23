@@ -9,7 +9,7 @@ eventDate: '2004'
 
 ---
 
-In 2004, firma **KPNQwest România SRL** își schimbă numele în
+În anul 2004, firma **KPNQwest România SRL** își schimbă numele în
 **GTS Telecom SRL**.
 
 <!-- truncate -->

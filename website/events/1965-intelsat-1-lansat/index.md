@@ -1,6 +1,6 @@
 ---
 slug: 1965/intelsat-1-lansat
-title: 'Este lansat satelitul Intelsat I - „Early Bird”'
+title: 'Este lansat satelitul Intelsat I „Early Bird”'
 authors: [ilg-ul]
 tags: [international, sateliti]
 date: 2023-12-22T19:18:40
@@ -9,7 +9,7 @@ eventDate: '1965-04-6'
 
 ---
 
-La 6 aprilie 1965 este lansat satelitul Intelsat I, numit și „Early Bird”.
+La 6 aprilie 1965 este lansat satelitul **Intelsat I**, numit și **Early Bird**.
 
 <!-- truncate -->
 

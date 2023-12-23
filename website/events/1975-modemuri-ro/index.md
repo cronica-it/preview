@@ -10,7 +10,7 @@ eventDate: '1975'
 ---
 
 În anul 1975, la IPA (Institutul de Proiectări Automatizări),
-sunt realizate primele modemuri românesti.
+sunt realizate **primele modemuri românesti**.
 
 <!-- truncate -->
 
@@ -19,4 +19,4 @@ România (ICI si PTTR).
 
 ## Referințe
 
-- [rite.org.ro - Istoria Internet-ului](https://rite.org.ro/istoria-internetului/)
+- [rite.org.ro - Istoria Internetului](https://rite.org.ro/istoria-internetului/)

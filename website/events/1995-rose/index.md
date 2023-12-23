@@ -10,7 +10,7 @@ eventEndDate: '1995-11-04'
 
 ---
 
-La București are loc conferința ROSE '95, organizată de Grupul Utilizatorilor
+În perioada 1-4 noiembrie 1995, la București, are loc conferința **ROSE '95**, organizată de Grupul Utilizatorilor
 Români de Unix (GURU), condus de Alexandru Rotaru.
 
 <!-- truncate -->

@@ -9,7 +9,7 @@ eventDate: '1997-06'
 
 ---
 
-În iunie 1997, Agora organizează conferința CERF '97.
+În iunie 1997, Agora organizează conferința **CERF '97**.
 
 <!-- truncate -->
 

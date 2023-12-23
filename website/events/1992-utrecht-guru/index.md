@@ -29,5 +29,5 @@ tranziției către servicii Internet comerciale în Europa.
 
 ## Referințe
 
-- [rite.org.ro - Istoria Internet-ului](https://rite.org.ro/istoria-internetului/)
+- [rite.org.ro - Istoria Internetului](https://rite.org.ro/istoria-internetului/)
 - [ronog.ro - Free Software and Open Source](https://ronog.ro/presentations/ronog8/Alexandru_Rotaru-RoLink_Plus_SA-Free_Software_and_Open_Source_a_personal_experience.pdf)

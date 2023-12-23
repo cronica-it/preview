@@ -9,10 +9,11 @@ eventDate: '2007'
 
 ---
 
-În 2007, capacitatea conexiunii internaționale la GÉANT creşte la 1,866 Gbps.
+În 2007, capacitatea conexiunii internaționale la GÉANT este
+crescută la 1,866 Gbps.
 
 <!-- truncate -->
 
 ## Referințe
 
-- [cniv.ro - Nicolae Tăpuș - Rolul Universității Politehnica din București la Dezvoltarea Internet-ului în România](https://cniv.ro/documents/26/CNIV_Volum_Aniversar_2023_-_Versiune_Online_DPxioQg.pdf)
+- [cniv.ro - Nicolae Tăpuș - Rolul Universității Politehnica din București la Dezvoltarea Internetului în România](https://cniv.ro/documents/26/CNIV_Volum_Aniversar_2023_-_Versiune_Online_DPxioQg.pdf)

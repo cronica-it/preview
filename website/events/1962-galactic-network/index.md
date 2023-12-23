@@ -9,20 +9,22 @@ eventDate: '1962-08'
 
 ---
 
-The first recorded description of the social interactions that could be
-enabled through networking was a series of memos written by
-Joseph Carl Robnett Licklider of MIT in August 1962 discussing his
-„Galactic Network” concept.
+în august 1962, a fost consemnată prima descriere înregistrată
+a interacțiunilor sociale care ar putea fi
+activată prin intermediul rețelei, într-o serie de memorii scrise de
+Joseph Carl Robnett Licklider de la MIT, în care se discută despre
+conceptul „Galactic Network”.
 
 <!-- truncate -->
 
-He envisioned a globally interconnected set of computers through which
-everyone could quickly access data and programs from any site. In spirit,
-the concept was very much like the Internet of today. Licklider was the
-first head of the computer research program at DARPA, starting in
-October 1962. While at DARPA he convinced his successors at DARPA,
-Ivan Sutherland, Bob Taylor, and MIT researcher Lawrence G. Roberts,
-of the importance of this networking concept.
+Licklider și-a imaginat un set de computere interconectate la nivel
+global prin care
+toată lumea putea accesa rapid date și programe de pe orice site. In spirit,
+conceptul semăna foarte mult cu internetul de astăzi. Licklider a fost
+primul șef al programului de cercetare informatică la DARPA, începând cu
+Octombrie 1962. În timp ce lucra  DARPA și-a convins succesorii,
+Ivan Sutherland, Bob Taylor și cercetătorul MIT Lawrence G. Roberts,
+de importanței acestui concept de rețea.
 
 ## Referințe
 

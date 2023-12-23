@@ -21,5 +21,5 @@ linie de 4.8kbit/s, ulterior fiind utilizată o linie de 9.6kbit/s
 
 ## Referințe
 
-- [rite.org.ro - Istoria Internet-ului](https://rite.org.ro/istoria-internetului/)
+- [rite.org.ro - Istoria Internetului](https://rite.org.ro/istoria-internetului/)
 - [en.wikipedia.org - EARN](https://en.wikipedia.org/wiki/European_Academic_and_Research_Network)

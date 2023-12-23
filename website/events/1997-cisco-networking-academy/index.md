@@ -1,6 +1,6 @@
 ---
 slug: 1997/cisco-networking-academy
-title: 'Cisco Systems lansează programul Networking Academy în California'
+title: 'Cisco Systems lansează programul „Networking Academy” în Statele Unite'
 authors: [gserban, ilg-ul]
 tags: [international, educatie, autor:gheorghe.serban]
 date: 2023-12-20T18:27:09
@@ -20,5 +20,5 @@ Programul a fost lansat în California, dar a fost rapid extins și în alte ț�
 
 ## Referințe
 
-- [rite.org.ro - Istoria Internet-ului](https://rite.org.ro/istoria-internetului/)
+- [rite.org.ro - Istoria Internetului](https://rite.org.ro/istoria-internetului/)
 - [en.wikipedia.org - Cisco Networking Academy](https://en.wikipedia.org/wiki/Cisco_Networking_Academy)

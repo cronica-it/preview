@@ -9,7 +9,7 @@ eventDate: '1983'
 
 ---
 
-In 1983, **Lixco** lansează **L/B 881**, primul microcalculator de
+In anul 1983, **Lixco** lansează **L/B 881**, primul microcalculator de
 concepție și realizare privată din România.
 
 <!-- truncate -->

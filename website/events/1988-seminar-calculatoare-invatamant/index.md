@@ -15,7 +15,7 @@ Comisia Națională UNESCO pentru România, Ministerul Industriei Electrotehnice
 și ITCI (Institutul pentru tehnică de
 calcul și informatică), organizează la București, în Sala Senatului
 Universității București, seminarul științific
-„Utilizarea calculatoarelor electronice în procesul de învățământ”.
+**Utilizarea calculatoarelor electronice în procesul de învățământ**.
 
 <!-- truncate -->
 

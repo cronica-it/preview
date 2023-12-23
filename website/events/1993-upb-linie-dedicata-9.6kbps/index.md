@@ -9,7 +9,7 @@ eventDate: '1993-06'
 
 ---
 
-In iunie 1993, Universitatea Politehnica București se conectează la EuropaNet
+In iunie 1993, Universitatea Politehnica București este conectată la EuropaNet
 cu o linie analogică dedicată.
 
 <!-- truncate -->
@@ -27,5 +27,5 @@ Cluj-Napoca și Universitatea „Alexandru Ioan Cuza” din Iași.
 
 ## Referințe
 
-- [cniv.ro - Nicolae Tăpuș - Rolul Universității Politehnica din București la Dezvoltarea Internet-ului în România](https://cniv.ro/documents/26/CNIV_Volum_Aniversar_2023_-_Versiune_Online_DPxioQg.pdf)  (arhivat [local](https://cronica-it.github.io/arhiva/))
+- [cniv.ro - Nicolae Tăpuș - Rolul Universității Politehnica din București la Dezvoltarea Internetului în România](https://cniv.ro/documents/26/CNIV_Volum_Aniversar_2023_-_Versiune_Online_DPxioQg.pdf)  (arhivat [local](https://cronica-it.github.io/arhiva/))
 - [Popovici 1994] Popovici N., Waldschmidt H., Politehnica University of Bucharest LAN and WAN, Proc. ROSE' 94, București, vol. 1, pp. 11–20, 1994.

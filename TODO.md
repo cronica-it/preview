@@ -2,7 +2,7 @@
 
 ## Articole
 
-- 30 ani Internet (Comunicatii Mobile)
+- 30 ani Internet (Comunicații Mobile)
 - GTS Telecom - completări Răzvan
 - EUnet - autorizație
 - alte articole de pe http://linux.punct.info
@@ -12,7 +12,7 @@
 - povesti Dan Garlasu
 - de verificat: https://www.electrokits.ro/scurt-istoric-al-internetului-in-romania/
 - de arhivat: https://archive.icann.org/en/meetings/bucharest/
-- de lamurit ce e cu '1994 - A aparut primul articol scris vreodata despre Internet-ul din Romania la Internet Society News, vol 3, no 1 din 1994.'
+- de lamurit ce e cu '1994 - A aparut primul articol scris vreodata despre Internetul din Romania la Internet Society News, vol 3, no 1 din 1994.'
 - de adaugat participarea la ISOC 1993
 - poveste Doina Baciu - proces in contencios administrativ ici 50
 - poveste Vasile Baltac ICI 50

@@ -9,10 +9,11 @@ eventDate: '2002'
 
 ---
 
-În 2002, capacitatea liniei de conectare la rețeaua GÉANT este mărită la 155 Mbps.
+În 2002, capacitatea liniei de conectare la rețeaua GÉANT este
+crescută la 155 Mbps.
 
 <!-- truncate -->
 
 ## Referințe
 
-- [cniv.ro - Nicolae Tăpuș - Rolul Universității Politehnica din București la Dezvoltarea Internet-ului în România](https://cniv.ro/documents/26/CNIV_Volum_Aniversar_2023_-_Versiune_Online_DPxioQg.pdf)  (arhivat [local](https://cronica-it.github.io/arhiva/))
+- [cniv.ro - Nicolae Tăpuș - Rolul Universității Politehnica din București la Dezvoltarea Internetului în România](https://cniv.ro/documents/26/CNIV_Volum_Aniversar_2023_-_Versiune_Online_DPxioQg.pdf)  (arhivat [local](https://cronica-it.github.io/arhiva/))

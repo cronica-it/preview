@@ -10,10 +10,10 @@ eventDate: '1997'
 ---
 
 În 1997, conexiunea internațională a RoEduNet este
-mărită la 1,5 Mbps, conexiune satelit prin TaideNet.
+crescută la 1,5 Mbps, conexiune satelit prin TaideNet.
 
 <!-- truncate -->
 
 ## Referințe
 
-- [cniv.ro - Nicolae Tăpuș - Rolul Universității Politehnica din București la Dezvoltarea Internet-ului în România](https://cniv.ro/documents/26/CNIV_Volum_Aniversar_2023_-_Versiune_Online_DPxioQg.pdf)  (arhivat [local](https://cronica-it.github.io/arhiva/))
+- [cniv.ro - Nicolae Tăpuș - Rolul Universității Politehnica din București la Dezvoltarea Internetului în România](https://cniv.ro/documents/26/CNIV_Volum_Aniversar_2023_-_Versiune_Online_DPxioQg.pdf)  (arhivat [local](https://cronica-it.github.io/arhiva/))

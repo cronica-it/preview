@@ -58,7 +58,7 @@ Marius Hancu
 ======================================================================
 Prof. Mircea Bodea
 Prodecan
-Facultatea de Electronica si Telecomunicatii
+Facultatea de Electronica si Telecomunicații
 University "Politehnica" Bucharest
 Splaiul Independentei 313
 Bucuresti 71239
@@ -920,7 +920,7 @@ e-mail : mihaim@roearn.bitnet
 - X documentation, 1 diskette			- received
 - linux sources (?), 1 diskettes
 ======================================================================
-Comisia Nationala pentru Statistica
+Comisia Națională pentru Statistica
 Contact persons : Schiau Emil, Bogdan Lelutiu
 Bucharest
 tel (40)1 631 35 55
@@ -1037,7 +1037,7 @@ Orest OLTU	- Fac. de Electronica si Tc.
 - SLS linux 0.99, 30 diskettes- 		- received
 ======================================================================
 Eugen BORCOCI	- Fac. de Electronica si Tc.
-Octavian CATRINA	  Catedra de Radiocomunicatii
+Octavian CATRINA	  Catedra de Radiocomunicații
 			  phone +40-1-6317800 ext. 327
 
 - SLS linux 0.99, 30 diskettes- 		- received

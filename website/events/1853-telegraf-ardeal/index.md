@@ -9,7 +9,8 @@ eventDate: '1853'
 
 ---
 
-În anul 1853, în Transilvania, este instalată prima linie de telegraf, între Viena și Sibiu.
+În anul 1853, în Transilvania, este instalată prima linie de telegraf,
+între Viena și Sibiu.
 
 <!-- truncate -->
 
@@ -17,4 +18,4 @@ TODO
 
 ## Referințe
 
-- [rite.org.ro - Istoria Internet-ului](https://rite.org.ro/istoria-internetului/)
+- [rite.org.ro - Istoria Internetului](https://rite.org.ro/istoria-internetului/)

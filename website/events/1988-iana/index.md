@@ -19,5 +19,5 @@ tipurile de media și alte simboluri și numere legate de Protocoalele Internet.
 
 ## Referințe
 
-- [rite.org.ro - Istoria Internet-ului](https://rite.org.ro/istoria-internetului/)
+- [rite.org.ro - Istoria Internetului](https://rite.org.ro/istoria-internetului/)
 - [en.wikipedia.org - IANA](https://en.wikipedia.org/wiki/Internet_Assigned_Numbers_Authority)

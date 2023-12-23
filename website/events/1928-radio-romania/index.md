@@ -9,16 +9,23 @@ eventDate: '1928-11-01'
 
 ---
 
-La 1 noiembrie 1928 se difuzează prima emisiune a **Societăţii de Difuziune Radiotelefonică**, aşa cum era denumit serviciul public de radiodifuziune în actul oficial de constituire din 22 decembrie 1926.
+La 1 noiembrie 1928 se difuzează prima emisiune a **Societăţii de
+Difuziune Radiotelefonică**, aşa cum era denumit serviciul public
+de radiodifuziune în actul oficial de constituire din 22 decembrie 1926.
 
 <!-- truncate -->
 
-Atunci, românii au putut auzi pentru prima dată pe post cuvintele „Alo, Alo, aici Radio Bucureşti!”. Încă de la înfiinţare, radioul public s-a afirmat ca promotor şi susţinător al culturii şi civilizaţiei româneşti, vector important în formarea spiritului civic şi al coeziunii comunitare.
+Atunci, românii au putut auzi pentru prima dată pe post cuvintele
+„Alo, Alo, aici Radio Bucureşti!”. Încă de la înfiinţare, radioul
+public s-a afirmat ca promotor şi susţinător al culturii şi
+civilizaţiei româneşti, vector important în formarea spiritului
+civic şi al coeziunii comunitare.
 
 Prima emisiune a avut următorul program:
 
 - între 17.00 - 19.00
-    - Cuvântarea de deschidere a stagiunii ținută de prof. Dragomir Hurmuzescu, președintele societății
+    - Cuvântarea de deschidere a stagiunii ținută de prof.
+      Dragomir Hurmuzescu, președintele societății
     - Versuri ocazionate făcute și recitate de Horia Furtună
     - Muzică de dans
     - Quintet radio
@@ -31,7 +38,9 @@ Prima emisiune a avut următorul program:
     - Buletin meteorologic, știri sportive
     - Quintet radio (Johan Strauss, din operele lui)
 
-De-a lungul timpului, denumirea instituţiei a înregistrat numeroase modificări datorate evoluţiei radioului public, dar şi regimurilor politice care au condus ţara.
+De-a lungul timpului, denumirea instituţiei a înregistrat
+numeroase modificări datorate evoluţiei radioului public,
+dar şi regimurilor politice care au condus ţara.
 
 ## Referințe
 

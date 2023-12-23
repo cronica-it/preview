@@ -1,6 +1,6 @@
 ---
 slug: 2002/sistem-seap
-title: 'Guvernul României lansează „Sistemul electronic de achizitii publice” (SEAP)'
+title: 'Guvernul României lansează „Sistemul electronic de achiziții publice” (SEAP)'
 authors: [gserban, ilg-ul]
 tags: [servicii, autor:gheorghe.serban]
 date: 2023-12-20T19:46:36
@@ -10,7 +10,7 @@ eventDate: '2002-04-02'
 ---
 
 La data de 4 martie 2002, la iniţiativa Guvernului României,
-este lansat **Sistemul electronic de achizitii publice (SEAP)**.
+este lansat **Sistemul electronic de achiziții publice (SEAP)**.
 
 <!-- truncate -->
 
@@ -21,4 +21,4 @@ de achiziţie publică.
 
 ## Referințe
 
-- [rite.org.ro - Istoria Internet-ului](https://rite.org.ro/istoria-internetului/)
+- [rite.org.ro - Istoria Internetului](https://rite.org.ro/istoria-internetului/)

@@ -9,9 +9,9 @@ eventDate: '2023-05-17'
 
 ---
 
-Digital Transformation Council
-organizează pe 17 mai 2023, ora 11:00, conferința în format fizic dedicată
-Aniversăriia 30 de ani de Internet în Romănia.
+În 17 mai 2023, la ora 11:00, Digital Transformation Council
+organizează conferința în format fizic dedicată
+**Aniversării a 30 de ani de Internet în Romănia**.
 
 <!-- truncate -->
 

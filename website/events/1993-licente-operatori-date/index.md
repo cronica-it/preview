@@ -34,4 +34,4 @@ teritoriu cu noi noduri: 14 noduri la LOGICnet si 7 noduri la ROMPAC.
 
 ## Referințe
 
-- [rite.org.ro - Istoria Internet-ului](https://rite.org.ro/istoria-internetului/)
+- [rite.org.ro - Istoria Internetului](https://rite.org.ro/istoria-internetului/)

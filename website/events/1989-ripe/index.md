@@ -14,7 +14,7 @@ eventDate: '1989'
 <!-- truncate -->
 
 Réseaux IP Européens este un forum care se adresează entităților
-interesate in dezvoltarea internet-ului. Principalul obiectiv al
+interesate in dezvoltarea internetului. Principalul obiectiv al
 comunității RIPE este acela de a asigura continuitatea coordonării
 din punct de vedere tehnic și administrativ a acestuia.
 
@@ -27,5 +27,5 @@ grupurilor de lucru RIPE.
 
 ## Referințe
 
-- [rite.org.ro - Istoria Internet-ului](https://rite.org.ro/istoria-internetului/)
+- [rite.org.ro - Istoria Internetului](https://rite.org.ro/istoria-internetului/)
 - [en.wikipedia.org - RIPE](https://en.wikipedia.org/wiki/RIPE)

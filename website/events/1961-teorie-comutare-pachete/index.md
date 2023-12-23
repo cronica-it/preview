@@ -10,7 +10,8 @@ eventDate: '1961-05-31'
 ---
 
 În 31 mai 1961, Leonard Kleinrock de la MIT publică primul articol
-despre teoria comutării de pachete „Information Flow in Large Communication Nets”.
+despre teoria comutării de pachete „Information Flow in Large
+Communication Nets”.
 
 <!-- truncate -->
 

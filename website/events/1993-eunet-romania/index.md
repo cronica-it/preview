@@ -9,7 +9,7 @@ eventDate: '1993-06'
 
 ---
 
-In Iunie 1993, Liviu Ionescu înființează firma **EUnet Romania SRL**.
+In iunie 1993, Liviu Ionescu înființează firma **EUnet Romania SRL**.
 
 <!-- truncate -->
 

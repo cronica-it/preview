@@ -9,14 +9,12 @@ eventDate: '1671'
 
 ---
 
-TODO
+În anul 1671, matematicianul german Gottfried Wilhelm Leibniz a început lucrul
+la un calculator mecanic, care, îmbunătățind proiectul lui Pascal, putea
+efectua cele patru operații aritmetice.
 
 <!-- truncate -->
 
-În anul 1671, matematicianul german Gottfried Wilhelm Leibniz a început lucrul
-la un calculator mecanic, care, îmbunătățind proiectul lui Pascal, putea efectua cele patru operații aritmetice.
-
-
 ## Referințe
 
-- [rite.org.ro - Istoria Internet-ului](https://rite.org.ro/istoria-internetului/)
+- [rite.org.ro - Istoria Internetului](https://rite.org.ro/istoria-internetului/)

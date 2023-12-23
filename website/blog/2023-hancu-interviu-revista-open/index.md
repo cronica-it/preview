@@ -132,7 +132,7 @@ deosebit a celor academice).
 O motivatie majora pentru fundarea Free Unix for
 Romania a fost dorinta sa demonstram ca o actiune coerenta,
 decisa si eficace este posibila in comunitatea romaneasca
-internationala, daca efortul necesar este depus; sa oferim, fara
+internațională, daca efortul necesar este depus; sa oferim, fara
 falsa modestie, un model in acest sens.
 
 Sub umbrela Free Unix for Romania si-au gasit locul
@@ -140,7 +140,7 @@ activitati si grupari multiple. Majoritatea au fost initiate de mine,
 dar au fost preluate de coechipieri entuziasti. As dori sa
 mentionez in mod deosebit Know-how for/from Romania (girata
 actualmente de Tiberiu Grigoriu, de la Bell-Northern Research,
-Ottawa, Canada), o lista de natura mixta: atat specialisti din toata
+Ottawa, Canada), o lista de natura mixtă: atat specialisti din toata
 lumea care s-au oferit sa ajute colegii lor din Romania sau sa
 corespondeze cu ei pe teme profesionale, cat si specialisti din
 Romania si Moldova doritori sa impartaseasca experienta lor sau
@@ -427,7 +427,7 @@ o dotare foarte deficitara. Ceea ce conduce la situatia ca romanul
 extrem de practica si de pretentioasa.
 
 Intr-un context mult mai general, acceptarea balcanismului
-drept o caracteristica nationala
+drept o caracteristica națională
 nu face decat sa prezinte scuze pentru imbratisarea fatalismului si
 a impotentei de actiune. Este o scuza destinata discutiilor de
 cafenea in care atat de multi par sa cada cu usurinta.
@@ -439,7 +439,7 @@ categoric, face parte si el din carjele filozofice pe care le unii
 incearca sa le substituie actiunii, energiei, ambitiei si mandriei
 realizarilor concrete.
 In aceeasi linie de rationament, refuz sa cred ca romanii,
-ca o comunitate internationala, actioneaza numai pasiv sau deloc.
+ca o comunitate internațională, actioneaza numai pasiv sau deloc.
 Daca unii dintre noi gandesc asa, cel putin sa o faca in tacere,
 pentru a nu molipsi si pe altii de aceasta boala mortala a lipsei de
 curaj, incredere si pesimism.
@@ -546,8 +546,8 @@ incercat si nu s-a putut lucra cu acestea? Nici macar nu ati
 incercat? Sau poate ca este o trasatura caracteristica a acestui
 gen de proiecte conlucrarea cu persoanele si organizatiile
 neoficiale? In Romania exista cel putin doua astfel de
-organizatii guvernamentale: Comisia Nationala de
-Informatică (CNI) si Societatea Nationala de Informatică
+organizatii guvernamentale: Comisia Națională de
+Informatică (CNI) si Societatea Națională de Informatică
 (SNI). Le cunoasteti?
 
 M.H.: Free UNIX for Romania a fost definita de la bun
@@ -837,10 +837,10 @@ indelungata. Mie personal, parerile recente ale unor firme ca
 arhitecturile lor de procesoare vor rezista 25 de ani mi se par
 utopii.
 
-Punctul major va fi in integrarea comunicatiilor cu
+Punctul major va fi in integrarea comunicațiilor cu
 calculul per se. Sistemele de operare vor replica tot mai mult
 facilitatile oferite de Unix, primul sistem de operare ce a furnizat
-comunicatii rezonabil de fiabile. Diverse varietati de Unix vor
+comunicații rezonabil de fiabile. Diverse varietati de Unix vor
 concura cu Windows NT, cu OS/2. Aceasta pentru urmatorii 4-5
 ani. Facilitati de grafica la distanta, multimedia,  vor fi critice,
 deci implementari ale unor interfete grafice flexibile, pe baza
@@ -862,7 +862,7 @@ standardizarea va exista, dar nu pe baza unor standarde introduse
 de niste comitete internationale (v. OSI), ci mai curand de facto,
 pe baza de rezultate si implementari ce au succes (v. TCP-IP).
 O speranta exista in domeniul standardizarii in domeniul
-telecomunicatiilor, prin ATM (Asynchronous Transfer Mode).
+telecomunicațiilor, prin ATM (Asynchronous Transfer Mode).
 Majoritatea producatorilor avanseaza in directia respectiva.
 
 R: Exista voci care spun ca arhitecturile von
@@ -896,7 +896,7 @@ era de aproximativ 10 ani pentru majoritatea utilizatorilor (dintre
 care multi nici nu si-l puteau permite din punct de vedere
 financiar).  Introducerea linux ne-a permis sa aducem multi
 utilizatori la anul de gratie 1994 intr-un singur an (cel putin in
-materie de free software ...). Introducerea retelelor de comunicatii
+materie de free software ...). Introducerea retelelor de comunicații
 academice si comerciale a avut un un rol important in acest scop.
 De exemplu, ultimul kernel 1.0, al linux, a fost prezent a doua zi
 la Universitatea „Politehnica” Bucuresti, trimis de noi. In plus,
@@ -917,10 +917,10 @@ Romania, a organizat conferinte nationale de sisteme deschise, a
 introdus propria sa retea de email.
 
 Doresc sa subliniez in acest context speranta ca reteaua
-de comunicatii a Romaniei va face progrese. In momentul in care
+de comunicații a Romaniei va face progrese. In momentul in care
 Polonia se cupleaza la Internet la viteze de 64Kbits/s sau chiar
 2Mbits/s iar Romania o face numai la 9.8kbits/s, ceva nu este in
-regula. Calitatea comunicatiilor va fi factorul tehnic numarul unu
+regula. Calitatea comunicațiilor va fi factorul tehnic numarul unu
 in progresul informaticii romanesti in urmatoarea decada.
 
 In vara anului 1993, am vizitat mai multe firme

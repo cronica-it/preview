@@ -10,7 +10,7 @@ eventDate: '1999'
 ---
 
 În 1999, la inițiativa directorului Cisco România, Dan Gârlașu,
-este înființată la Catedra de Calculatoare din UPB Academia locală Cisco.
+este înființată, la Catedra de Calculatoare din UPB, Academia locală Cisco.
 
 <!-- truncate -->
 
@@ -26,5 +26,5 @@ Politehnica din București.
 
 ## Referințe
 
-- [cniv.ro - Nicolae Tăpuș - Rolul Universității Politehnica din București la Dezvoltarea Internet-ului în România](https://cniv.ro/documents/26/CNIV_Volum_Aniversar_2023_-_Versiune_Online_DPxioQg.pdf)  (arhivat [local](https://cronica-it.github.io/arhiva/))
+- [cniv.ro - Nicolae Tăpuș - Rolul Universității Politehnica din București la Dezvoltarea Internetului în România](https://cniv.ro/documents/26/CNIV_Volum_Aniversar_2023_-_Versiune_Online_DPxioQg.pdf)  (arhivat [local](https://cronica-it.github.io/arhiva/))
 

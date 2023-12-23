@@ -9,8 +9,8 @@ eventDate: '2001-01-31'
 
 ---
 
-La 31 ianuarie 2001 este înființată **ANISP** – Asociația Națională
-a Internet Service Providerilor din România.
+La 31 ianuarie 2001 este înființată **ANISP – Asociația Națională
+a Internet Service Providerilor din România**.
 
 <!-- truncate -->
 
@@ -26,11 +26,11 @@ comunicații electronice (inclusiv Internet)” în România.
 
 La 4 septembrie 2003, ANISP înregistreaza modificarea statutului,
 care semnifica extinderea obiectului de activitatea la întregul
-domeniu al “retelelor si serviciilor de comunicatii electronice”,
+domeniu al “retelelor si serviciilor de comunicații electronice”,
 în conformitate cu noul cadru de reglementare implementat în România,
 aliniat la cel european.
 
 ## Referințe
 
-- [rite.org.ro - Istoria Internet-ului](https://rite.org.ro/istoria-internetului/)
+- [rite.org.ro - Istoria Internetului](https://rite.org.ro/istoria-internetului/)
 - [anisp.ro - Despre ANISP](https://www.anisp.ro/despre/)

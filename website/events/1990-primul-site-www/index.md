@@ -21,4 +21,4 @@ iar prima pagina a fost `http://nxoc01.cern.ch/hypertext/WWWThrProject.html`
 
 ## Referințe
 
-- [rite.org.ro - Istoria Internet-ului](https://rite.org.ro/istoria-internetului/)
+- [rite.org.ro - Istoria Internetului](https://rite.org.ro/istoria-internetului/)

@@ -25,5 +25,5 @@ fizice sau juridice
 
 ## Referințe
 
-- [rite.org.ro - Istoria Internet-ului](https://rite.org.ro/istoria-internetului/)
+- [rite.org.ro - Istoria Internetului](https://rite.org.ro/istoria-internetului/)
 - [www.e-guvernare.ro](https://www.e-guvernare.ro)

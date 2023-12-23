@@ -9,7 +9,7 @@ eventDate: '1991'
 
 ---
 
-În anul 1991 devine funcțional primul sistem de poștă electronică
+În anul 1991, la UPB, devine funcțional primul sistem de poștă electronică
 din mediul academic și de cercetare.
 
 <!-- truncate -->
@@ -31,4 +31,4 @@ destinatarilor direct sau pe fax.
 
 ## Referințe
 
-- [cniv.ro - Nicolae Tăpuș - Rolul Universității Politehnica din București la Dezvoltarea Internet-ului în România](https://cniv.ro/documents/26/CNIV_Volum_Aniversar_2023_-_Versiune_Online_DPxioQg.pdf)  (arhivat [local](https://cronica-it.github.io/arhiva/))
+- [cniv.ro - Nicolae Tăpuș - Rolul Universității Politehnica din București la Dezvoltarea Internetului în România](https://cniv.ro/documents/26/CNIV_Volum_Aniversar_2023_-_Versiune_Online_DPxioQg.pdf)  (arhivat [local](https://cronica-it.github.io/arhiva/))

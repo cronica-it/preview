@@ -1,6 +1,6 @@
 ---
 slug: 2023/arot-relatari-inceput-internet
-title: 'Relatările lui Adi Rotaru din perioada de început a Internet-ului în România.'
+title: 'Relatările lui Adi Rotaru din perioada de început a Internetului în România.'
 authors: [arot]
 tags: [articole, autor:alexandru.rotaru]
 date: 2023-11-06T21:37
@@ -8,7 +8,7 @@ date: 2023-11-06T21:37
 ---
 
 Am să vă relatez în cele ce urmează câteva întâmplări de pe la
-începuturile Internet-ului din România, adică cam de prin anii
+începuturile Internetului din România, adică cam de prin anii
 1992-1996, așa cum printr-un anumit concurs de împrejurări le-am trăit
 ca experiență directă.
 
@@ -40,7 +40,7 @@ Ceea ce nu stiu, sau poate am uitat, las pe altii sa completeze.
 
 Consider ca mai multa lume care a avut tangenta cu ce s-a intimplat
 atunci poate aduce completari la ce am scris aici, astfel incit toate
-acestea sa poata fi consemnate intr-o istorie a Internet-ului din
+acestea sa poata fi consemnate intr-o istorie a Internetului din
 Romania, realizata altfel decit prin canoanele clasice ale datelor si
 cifrelor exacte.
 
@@ -53,7 +53,7 @@ Utilizatorilor de Unix. La acest capitol am fost cu cel putin un an
 inaintea tarilor vecine, datorita comunitatii specialistilor Unix din
 Romania formati inca din 1986-1887. Astfel multe din intimplarile care
 au urmat infiintarii propriu-zise a asociatiei GURU au condus in fapt
-la evolutia domeniului, inclusiv a Internet-ului ca inceput in Romania.
+la evolutia domeniului, inclusiv a Internetului ca inceput in Romania.
 
 Cei care au initiat GURU erau dintre cei care utlizasera Unix-ul
 inainte de 1989, prin formele lui incipiente in Romania: AT&T Unix pe
@@ -67,7 +67,7 @@ Conferinta OpenSystems organizata de EurOpen (Utrecht, octombrie 1992)
 
 Imediat dupa infiintarea asociatiei, am fost ales presedinte GURU.  In
 aceasta noua postura am calatorit in toamna anului 1992 la Utrecht, la
-prima conferinta Internationala Open Systems la care Romania era
+prima conferinta Internațională Open Systems la care Romania era
 prezenta.
 
 Aici printre organizatori se numarau grupurile de Unix nationale din
@@ -83,10 +83,10 @@ EurOpen (asociatia Europeana a Grupurilor de Unix). EurOpen era
 inregistrata ca persoana juridica in Anglia si crease cu citiva ani in
 urma o retea: EUnet, pentru propriile ei necesitati. Atunci am aflat
 cum s-a nascut EUnet in Europa inca din 1982 ca o retea IP
-multinationala.
+multinațională.
 
 Mai toate serverele EUnet erau localizate in universitati din Europa,
-liniile de comunicatii erau platite de comunitatea academica iar
+liniile de comunicații erau platite de comunitatea academica iar
 administrarea serviciilor era realizata de catre grupurile de Unix.
 Practic in fiecare zi administrarea backbone-ului EUnet, cu centrul
 stelei in Amsterdam, era preluata pe rind din fiecare tara. In plus
@@ -167,8 +167,8 @@ poate functiona ca o companie privata, independenta. Am intarit faptul
 ca firma va incerca sa supravietuiasca ca operator comercial ISP in
 tara, chiar daca la acel moment nu aveam in tara o legislatie adecvata
 pentru asemenea servicii. In plus, noi cei de la GURU am confirmat ca
-vom fi intodeauna sprijiniti de noua firma ca sa accesam Internet-ul,
-pentru comunicatiile proprii cu EurOpen.
+vom fi intodeauna sprijiniti de noua firma ca sa accesam Internetul,
+pentru comunicațiile proprii cu EurOpen.
 
 Urmarea a venit la citeva saptamini. Astfel la inceputul lui 1993 a
 aparut EUnet Romania SRL, un punct de acces la Internet conectat prin
@@ -199,7 +199,7 @@ Urmarile acestei initiative au fost uriase, tinind cont de exemplu ca
 in vara anului 1994 aveam deja circa 100 sisteme Linux functionale si
 inregistrate in tara. Toate aceste sisteme, documentatii si in general
 tot fondul de oameni angrenati in Free Software for Romania au facut ca
-Internet-ul sa fie posibil la acel moment si in tara.
+Internetul sa fie posibil la acel moment si in tara.
 
 Anthony Rutkowski si Internet Society
 -------------------------------------
@@ -236,7 +236,7 @@ Internet din tara si situatia grupurilor de news si a listelor de
 discutii de pe Internet in care era implicata la acel moment
 comunitatea romaneasca din tara si din strainatate.
 
-Astfel a aparut primul articol scris vreodata despre Internet-ul din
+Astfel a aparut primul articol scris vreodata despre Internetul din
 Romania la Internet Society News, vol 3, no 1 din 1994.
 
 Ca si in ziua de azi, articolul a stirnit comentarii si intrebari
@@ -253,7 +253,7 @@ articol.
 
 Ma inteb cum ar reactiona acum furnizorii Internet, in conditiile de
 concurenta din ziua de azi, la o descriere comaparativa exacta a
-posibilitatilor lor tehnice, aparuta in presa internationala?
+posibilitatilor lor tehnice, aparuta in presa internațională?
 
 Au aparut in textul pe care il atasez la sfirsit in lb. engleza, toti
 cei care pornisera activitatea in 1993 (incepind cu EUnet, EARM,
@@ -301,10 +301,10 @@ I-am raspuns instantaneu: „Conectati-le!”.
 Iar noi am raspuns: „Folosind Linux-ul, cel mai potrivit sistem de
 operare pentru asa ceva, si cele 4 sedii ale fundatiei SOROS (din
 Bucuresti, Timisoara, Cluj si Iasi) pentru conectivitate
-internationala”.
+internațională”.
 
 Totusi Jonathan, pe jumatate convins, ne-a mai pus o intebare: „Cine-i
-va invata pe cei din scoli sa minuiasca Linux-ul? dar Internet-ul
+va invata pe cei din scoli sa minuiasca Linux-ul? dar Internetul
 pentru comunicare?”
 
 Raspunsul a fost la fel de clar: „Noi cei de la GURU ca voluntari in
@@ -326,7 +326,7 @@ Astfel imi amintesc in amanunt demonstratiile practice si negocierile
 purtate cu firma Intercomp SRL, condusa la acea vreme de dl. Gheorghe
 Rusu si prof.  Trandafir Moisa privind o solutie VSAT la fundatia
 SOROS, cu rutare prin hubul de satelit al firmei BankNEt din Budapesta
-si iesire internationala prin operatorul Pipex UK, la viteza de
+si iesire internațională prin operatorul Pipex UK, la viteza de
 19.2Kbps.
 
 Era prima sau a 2-a aplicatie a firmei Intercomp de conectare pe
@@ -356,11 +356,11 @@ mai mare de participanti, avind capete de afis nume sonore in IT-ul
 international printre care: Linus Torvalds, inventatorul Linux-ului,
 Richard Stallman, initiatorul fenomenului Open Source si fondatorul lui
 Free Software Foundation, Phil Zimmerman, parintele PGP-ului, Esther
-Dyson, o personalitate de marca in istoria Internet-ului, Glenn Kowak
+Dyson, o personalitate de marca in istoria Internetului, Glenn Kowak
 presedintele retelei EUnet Europe si multi altii.
 
 Pe masura ce conferintele au luat amploare si participarea
-internationala a crescut la nivele tot mai ridicate, au avut loc doua
+internațională a crescut la nivele tot mai ridicate, au avut loc doua
 fenomene ca un efect imediat
 
 a) conferintele nu s-au mai putut tine decit in Palatul Copiilor din
@@ -371,7 +371,7 @@ Palatul Copiilor si din membrii lotului international de informatică
 pregatit de prof. Stelian Niculescu.
 
 b) a fost tot mai mult nevoie de Internet on-line, astfel incit in
-1994, la ROSE '94, chiar daca Internet-ul era asigurat doar prin
+1994, la ROSE '94, chiar daca Internetul era asigurat doar prin
 dial-up, ne-am propus sa remediem aceata situatie.
 
 In  anul 1994, impreuna cu Palatul Copiilor din Bucuresti am solicitat
@@ -381,10 +381,10 @@ unde se afla backbone-ul retelei de cercetare din Romania.
 Linia a sosit abia in primavara anului 1995, dar intre timp s-au mai
 intimplat niste acumulari logistice. In Palatul Copiilor se mutasera
 doua sali de training de la Fundatia Soros cit si citeva echipamente de
-telecomunicatii pentru deservirea pe dial-up a elevilor de la cercurile
+telecomunicații pentru deservirea pe dial-up a elevilor de la cercurile
 de informatică.
 
-Evident acest nod incipient de telecomunicatii pentru elevi a capatat
+Evident acest nod incipient de telecomunicații pentru elevi a capatat
 si un nume: PC-Net, dupa care pina la inceperea lui ROSE '95 a acordat
 gratuit mii de conturi uucp elevilor dar si altor persoane private.
 
@@ -414,17 +414,17 @@ dezvoltare ale backbone-urilor Internet din aceasta zona a lumii, iar
 eu personal m-am cunoscut cu personaje de legenda cum ar fi Vinton
 Cerf, unul dintre co-autorii TCP/IP-ului sau John Quarterman, un
 binecunoscut statistician al Intertnet-ului, cu multiple contributii in
-descrierea fenomenleor de evolutie ale Internet-ului pe plan mondial. La
+descrierea fenomenleor de evolutie ale Internetului pe plan mondial. La
 sfirsit atasez citeva impresii ale lui John Quarterman din 1995, scrise
 in timpul conferintei ROSE '95, despre comunicatea Unix din Romania dar
-si despre telecomunicatii sau despre cum eram noi romanii vazuti la
+si despre telecomunicații sau despre cum eram noi romanii vazuti la
 acea vreme.
 
 Au existat insa si alte fenomene interesante in anul 1994. IIRUC-SA,
 unde eram angajat in toata aceasta perioada, era recunoscuta ca o firma
 cu multe locatii distribuite pe teritoriul Romaniei si ca atare cu
 probleme mari de comunicatie in cadrul sistemului informatic intern.
-Acest lucru, cat si o intelegere a sistemului de telecomunicatii prin
+Acest lucru, cat si o intelegere a sistemului de telecomunicații prin
 dial-up RELCOM construit in Rusia in 1992-1993, au condus la aparitia
 primei mari retele de intreprindere pe dial-up, conectata la Internet
 si denumita: reteaua RoLink.  Aceasta avea sa se transforme mult mai
@@ -466,7 +466,7 @@ Finalul inceputului
 -------------------
 
 Am sa ma opresc aici referitor la ceea ce stiu eu despre inceputrile
-Internet-ului in Romania. S-ar putea completa destul si despre
+Internetului in Romania. S-ar putea completa destul si despre
 perioadele care au urmat: 1997-1999, consolidarea ISP-urilor, 2000-2001
 capitalizarea ISP-urilor si extinderea de piata iar in 2002-2003, lupta
 pentru impunere pe piata in curs de liberalizare. Cum insa toate

@@ -325,7 +325,7 @@ distribution centers. Please contact them! Good luck in your work.
 
 Prof. Mircea Bodea
 Prodecan
-Facultatea de Electronica si Telecomunicatii
+Facultatea de Electronica si Telecomunicații
 University „Politehnica” Bucharest
 Splaiul Independentei 313
 Bucuresti 71239

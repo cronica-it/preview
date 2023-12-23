@@ -9,13 +9,15 @@ eventDate: '1977'
 
 ---
 
-**Independent** este o serie de minicalculatoare românești care a fost
-lansată în 1977,
-la 100 de ani de la obţinerea independenţei ţării.
+În anul 1977 este lansată seria de minicalculatoare românești **Independent**,
+cu ocazia aniversării a 100 de ani de la obţinerea independenţei ţării.
 
 <!-- truncate -->
 
-Designul era de concepţie originală, fiind dinamic microprogramat, ceea ce teoretic permitea emularea setului de microinstrucţiuni al altor calculatoare; practic, cel mai des era folosit pentru emularea lui DEC-PDP 11-34.
+Designul era de concepţie originală, fiind dinamic microprogramat,
+ceea ce teoretic permitea emularea setului de microinstrucţiuni
+al altor calculatoare; practic, cel mai des era folosit pentru
+emularea lui DEC-PDP 11-34.
 
 ## Referințe
 

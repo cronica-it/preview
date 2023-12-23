@@ -9,7 +9,7 @@ eventDate: '1993-06'
 
 ---
 
-În anul 1993, Universitatea Politehnica București implementează prima
+În anul 1993, la Universitatea Politehnica București este realizată prima
 rețea locală (LAN), la nivel de universitate.
 
 <!-- truncate -->
@@ -21,4 +21,4 @@ transceivere care înțepau cablul și conectau calculatoarele locale.
 
 ## Referințe
 
-- [cniv.ro - Nicolae Tăpuș - Rolul Universității Politehnica din București la Dezvoltarea Internet-ului în România](https://cniv.ro/documents/26/CNIV_Volum_Aniversar_2023_-_Versiune_Online_DPxioQg.pdf)  (arhivat [local](https://cronica-it.github.io/arhiva/))
+- [cniv.ro - Nicolae Tăpuș - Rolul Universității Politehnica din București la Dezvoltarea Internetului în România](https://cniv.ro/documents/26/CNIV_Volum_Aniversar_2023_-_Versiune_Online_DPxioQg.pdf)  (arhivat [local](https://cronica-it.github.io/arhiva/))

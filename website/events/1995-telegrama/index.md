@@ -9,7 +9,7 @@ eventDate: '1995'
 
 ---
 
-In anul 1995, Ștefan Niculescu Maier crează Telegrama, primul
+In anul 1995, Ștefan Niculescu Maier crează **Telegrama**, primul
 serviciu de presă transmis prin email.
 
 <!-- truncate -->
@@ -20,7 +20,7 @@ Principala audiență era comunitatea românească din străinătate.
 
 Din 1998, când Ștefan a plecat la post la Ambasada României la Washington,
 în mandatul președintelui Emil Constantinescu, serviciul Telegrama
-a fost preluat de Ion Vaciu, directorul publicației _Comunicatii Mobile_.
+a fost preluat de Ion Vaciu, directorul publicației _Comunicații Mobile_.
 
 ## Referințe
 

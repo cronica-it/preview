@@ -9,7 +9,7 @@ eventDate: '1997-02'
 
 ---
 
-În februarie 1997 apar pe piață primele modemuri de 56 kbit/s.
+În februarie 1997 apar pe piață **primele modemuri de 56 kbit/s**.
 
 <!-- truncate -->
 
@@ -35,5 +35,5 @@ la un maxim de 48 kbit/s.
 
 ## Referințe
 
-- [rite.org.ro - Istoria Internet-ului](https://rite.org.ro/istoria-internetului/)
+- [rite.org.ro - Istoria Internetului](https://rite.org.ro/istoria-internetului/)
 - [en.wikipedia.org - Modem](https://en.wikipedia.org/wiki/Modem#56_kbit/s_technologies)

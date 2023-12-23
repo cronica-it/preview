@@ -9,11 +9,11 @@ eventDate: '2020'
 
 ---
 
-În 2020, conectivitatea între centrele de date ale universității
-UPB și RoEduNet respectiv GEANT a fost upgradată la 100 Gps.
+În 2020, viteza legăturilor între centrele de date ale universității
+UPB și RoEduNet respectiv GEANT este crescută la 100 Gps.
 
 <!-- truncate -->
 
 ## Referințe
 
-- [cniv.ro - Nicolae Tăpuș - Rolul Universității Politehnica din București la Dezvoltarea Internet-ului în România](https://cniv.ro/documents/26/CNIV_Volum_Aniversar_2023_-_Versiune_Online_DPxioQg.pdf)
+- [cniv.ro - Nicolae Tăpuș - Rolul Universității Politehnica din București la Dezvoltarea Internetului în România](https://cniv.ro/documents/26/CNIV_Volum_Aniversar_2023_-_Versiune_Online_DPxioQg.pdf)

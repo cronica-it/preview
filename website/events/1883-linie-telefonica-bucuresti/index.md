@@ -9,10 +9,11 @@ eventDate: '1883'
 
 ---
 
-În anul 1883, la București, este instalată prima linie telefonică, între magazinul și tipografia SOCEC.
+În anul 1883, la București, este instalată prima linie telefonică,
+între magazinul și tipografia SOCEC.
 
 <!-- truncate -->
 
 ## Referințe
 
-- [rite.org.ro - Istoria Internet-ului](https://rite.org.ro/istoria-internetului/)
+- [rite.org.ro - Istoria Internetului](https://rite.org.ro/istoria-internetului/)

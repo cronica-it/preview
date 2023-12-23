@@ -24,6 +24,6 @@ Pe lângă tabelele de logaritmi, Napier crează mai multe mașini care puteau e
 
 ## Referințe
 
-- [rite.org.ro - Istoria Internet-ului](https://rite.org.ro/istoria-internetului/)
+- [rite.org.ro - Istoria Internetului](https://rite.org.ro/istoria-internetului/)
 - [en.wikipedia.org - John Napier](https://en.wikipedia.org/wiki/John_Napier)
 - [en.wikipedia.org - Napier's bones](https://en.wikipedia.org/wiki/Napier%27s_bones)

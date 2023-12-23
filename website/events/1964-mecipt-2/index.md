@@ -9,11 +9,13 @@ eventDate: '1965'
 
 ---
 
-MECIPT-2, pus în funcțiune în 1965, a fost un calculator de generația a doua,
-cu tranzistoare și memorie cu ferite. Calculatorul a fost construit
-pentru DSAPCB Timișoara și folosit de acesta pentru proiectări.
+În 1965 este pus în funcțiune **MECIPT-2**, un calculator de generația a doua,
+cu tranzistoare și memorie cu ferite.
 
 <!-- truncate -->
+
+Calculatorul a fost construit
+pentru DSAPCB Timișoara și folosit de acesta pentru proiectări.
 
 Finanțarea pentru MECIPT-2 a fost asigurată de Direcția de Sistematizare,
 Arhitectură și Proiectare a Construcțiilor (DSAPC) Banat, beneficiarul
@@ -28,6 +30,6 @@ calculatorul intrând în exploatare în primăvara anului următor.
 
 ## Referințe
 
-- [rite.org.ro - Istoria Internet-ului](https://rite.org.ro/istoria-internetului/)
+- [rite.org.ro - Istoria Internetului](https://rite.org.ro/istoria-internetului/)
 - [ro.wikipedia.org - Istoria informaticii în România](https://ro.wikipedia.org/wiki/Istoria_informaticii_în_România)
 - [ro.wikipedia.org - MECIPT](https://ro.wikipedia.org/wiki/MECIPT)

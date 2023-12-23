@@ -1,5 +1,5 @@
 ---
-slug: 1993/ici-domeniul-ro
+slug: 1993/ici-rotld
 title: 'ICI începe să administreze DNS-ul pentru domeniul .ro'
 authors: [arot, ilg-ul]
 tags: [internet, ici, autor:alexandru.rotaru]
@@ -10,7 +10,7 @@ eventDate: '1993-02-26'
 ---
 
 În februarie 1993, ICI obtine de la RIPE autorizarea să
-administreze DNS-ul pentru domeniul `.ro`.
+administreze DNS-ul pentru domeniul `.ro` (ROTLD).
 
 <!-- truncate -->
 
@@ -23,7 +23,7 @@ Cererea este aprobată și ICI obtine statutul de registru local IP la RIPE
 (Amsterdam) si
 primul bloc de adrese IP alocat a fost: 193.226.0.0/16.
 
-In 26 februarie 1993 se obtine autorizarea de functionare pentru ROTLD
+În 26 februarie 1993 se obtine autorizarea de functionare pentru ROTLD
 (Romania Top Level Domain). Pentru ca acest lucru sa fie posibil a fost
 necesara transformarea protocolului de comunicatie pe linia dedicată
 EARN a lui ICI catre universitatea din Viena in protocol TCP/IP,
@@ -60,7 +60,7 @@ cu RoEduNet la viteza de 10Gbp.
 
 ## Referințe
 
-- [hotnews.ro - Istoria internet-ului in Romania](https://economie.hotnews.ro/stiri-20_ani_internet-15969144-istoria-internetului-romania-alexandru-rotaru-nu-pot-spun-inventat-noi-ceva-plus-aici-romania-doar-majoritatea-noutatilor-adoptat-printre-primii.htm)
+- [hotnews.ro - Istoria internetului in Romania](https://economie.hotnews.ro/stiri-20_ani_internet-15969144-istoria-internetului-romania-alexandru-rotaru-nu-pot-spun-inventat-noi-ceva-plus-aici-romania-doar-majoritatea-noutatilor-adoptat-printre-primii.htm)
 - [prezentare Eugen Stăicuț](https://www.youtube.com/watch?v=grpiDxhkgmU)
 - [electrokits.ro](https://www.electrokits.ro/scurt-istoric-al-internetului-in-romania/)
 - [facebook.com - Contribuții ICI Bucureşti](https://www.facebook.com/ICIBucuresti/posts/3488728511216217/)

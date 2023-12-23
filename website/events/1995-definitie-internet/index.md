@@ -9,11 +9,13 @@ eventDate: '1995-10-24'
 
 ---
 
-On October 24, 1995, the FNC unanimously passed a resolution defining the term **Internet**.
+În 24 octombrie 1995, Federal Networking Council (FNC) a adoptat în
+unanimitate o rezoluție care definește termenul **Internet**.
 
 <!-- truncate -->
 
-This definition was developed in consultation with members of the Internet and intellectual property rights communities.
+Această definiție a fost elaborată în consultare cu membrii Internetului
+și ai comunităților de drepturi de proprietate intelectuală.
 
 RESOLUTION: The Federal Networking Council (FNC) agrees that the following language reflects our definition of the term „Internet”. „Internet” refers to the global information system that
 

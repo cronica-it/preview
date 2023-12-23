@@ -18,9 +18,9 @@ București, Sandra Pralong a contribuit un articol intitulat
 
 Se spune că „Providența lucrează prin oameni”... Dacă stau să mă gândesc bine, până acum chiar că nimic nu se făcea fără oameni (dar se pare că Inteligența Artificială va schimba curând adagiul ăsta...). De altfel, cred că una dintre marile diferențe de perspectivă între Comunism și Democrație este tocmai aceasta: trecerea de la niște idei abstracte cum că „statul face” (care stat!?) la realizarea că trebuie o implicare personală temeinică că să se miște ceva, cât de mic—sau cât de mare...
 
-Așa și cu Internet-ul și conectarea României, care a ajuns să fie una dintre cele mai dezvoltate țări din punct de vedere al infrastructurii accesului la rețea și al vitezei de conectare. Numai implicarea unor oameni devotați a făcut posibilă această performanță.
+Așa și cu Internetul și conectarea României, care a ajuns să fie una dintre cele mai dezvoltate țări din punct de vedere al infrastructurii accesului la rețea și al vitezei de conectare. Numai implicarea unor oameni devotați a făcut posibilă această performanță.
 
-Dar internet-ul singur, fără un „device” care să-l capteze, e inutil. Iar în 1990, când am ajuns în România de la New York (unde lucram înainte de Revoluție), calculatorul era singurul „device” posibil, nu existau telefoane mobile (abia apăruseră în SUA și erau enorme...). Dar, ce să vezi, în România calculatoarele erau o raritate absolută, extrem de puține și cvasi-inaccesibile public... Și atunci, cum s-a întâmplat minunea ?
+Dar internetul singur, fără un „device” care să-l capteze, e inutil. Iar în 1990, când am ajuns în România de la New York (unde lucram înainte de Revoluție), calculatorul era singurul „device” posibil, nu existau telefoane mobile (abia apăruseră în SUA și erau enorme...). Dar, ce să vezi, în România calculatoarele erau o raritate absolută, extrem de puține și cvasi-inaccesibile public... Și atunci, cum s-a întâmplat minunea ?
 
 Mă întorsesem în țară după aproape 20 de ani în „Exil” (am crescut în Elveția și m-am format în SUA) că să pun la punct vestita „Fundație Soros pentru o Societate Deschisă” (care merită o poveste separată căci a contribuit masiv și cu bani grei la dezvoltarea României în foarte multe domenii, nu doar în IT...)
 

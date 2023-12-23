@@ -9,7 +9,7 @@ eventDate: '2004-10-27'
 
 ---
 
-In 27 octombrie 2004, Zapp lansează primul serviciu de comunicații mobile
+În 27 octombrie 2004, Zapp lansează primul serviciu de comunicații mobile
 în bandă largă la nivel național în România.
 
 <!-- truncate -->
@@ -20,4 +20,4 @@ de date cu viteze de până la 2,4 Mbps.
 
 ## Referințe
 
-- [rite.org.ro - Istoria Internet-ului](https://rite.org.ro/istoria-internetului/)
+- [rite.org.ro - Istoria Internetului](https://rite.org.ro/istoria-internetului/)

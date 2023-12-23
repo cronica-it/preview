@@ -9,11 +9,19 @@ eventDate: '2023-10-25'
 
 ---
 
-Asociația Națională a Internet Service Providerilor din România (ANISP) organizează Romanian Internet Technologies Event (RITE), un eveniment menit să faciliteze interacțiunea între furnizorii de servicii de Internet, dezvoltatorii de conținut pentru Internet și diferiți utilizatori de Internet.
+În 25 octombrie 2023, Asociația Națională a Internet Service Providerilor
+din România (ANISP) organizează **Romanian Internet Technologies Event (RITE)**,
+un eveniment menit să faciliteze interacțiunea între furnizorii de servicii
+de Internet, dezvoltatorii de conținut pentru Internet și diferiți utilizatori
+de Internet.
 
 <!-- truncate -->
 
-Ediția RITE din acest an tratează tema „30 de ani de Internet în România” și abordează subiecte precum: tehnologiile Internet-ului, evoluția conținutului de Internet (de la date simple, nestructurate și accesibile până la media în cloud de astăzi, bazată pe tehnologia de containere), OpenAI, realitatea virtuală etc.
+Ediția RITE din acest an tratează tema „30 de ani de Internet în România”
+și abordează subiecte precum: tehnologiile Internetului, evoluția
+conținutului de Internet (de la date simple, nestructurate și accesibile
+până la media în cloud de astăzi, bazată pe tehnologia de containere),
+OpenAI, realitatea virtuală etc.
 
 ## Referințe
 

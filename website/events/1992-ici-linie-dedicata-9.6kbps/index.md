@@ -41,5 +41,5 @@ Situați a fost rezolvată și din 16 aprilie România a avut acces deplin
 
 ## Referințe
 
-- [rite.org.ro - Istoria Internet-ului](https://rite.org.ro/istoria-internetului/)
+- [rite.org.ro - Istoria Internetului](https://rite.org.ro/istoria-internetului/)
 - [facebook.com - Contribuții ICI Bucureşti](https://www.facebook.com/ICIBucuresti/posts/3488728511216217/)

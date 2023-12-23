@@ -9,8 +9,8 @@ eventDate: '1976-11-15'
 
 ---
 
-La 15 noiembrie 1976, la Cheia, intră în funcțiune prima stație de sol
-din România conectată la Intelsat.
+La 15 noiembrie 1976, la Cheia, intră în funcțiune **prima stație de sol
+din România**, conectată la Intelsat.
 
 <!-- truncate -->
 
@@ -18,6 +18,6 @@ TODO
 
 ## Referințe
 
-- [rite.org.ro - Istoria Internet-ului](https://rite.org.ro/istoria-internetului/)
+- [rite.org.ro - Istoria Internetului](https://rite.org.ro/istoria-internetului/)
 - [intelsat.com - History](https://www.intelsat.com/intelsat-history/)
-- [radiocom.ro - Comunicatii prin satelit](http://www.radiocom.ro/business/servicii/Date/Comunicatii-prin-Satelit/)
+- [radiocom.ro - Comunicații prin satelit](http://www.radiocom.ro/business/servicii/Date/Comunicații-prin-Satelit/)

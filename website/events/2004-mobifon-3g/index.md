@@ -10,7 +10,7 @@ eventDate: '2004-09'
 ---
 
 In septembrie 2004, MobiFon face primele demonstrații cu tehnologia
-GSM de generatia 3-a (3G).
+**GSM de generatia 3-a (3G)**.
 
 <!-- truncate -->
 
@@ -18,4 +18,4 @@ Serviciile de 3G intră în funcțiune in 2005.
 
 ## Referințe
 
-- [rite.org.ro - Istoria Internet-ului](https://rite.org.ro/istoria-internetului/)
+- [rite.org.ro - Istoria Internetului](https://rite.org.ro/istoria-internetului/)

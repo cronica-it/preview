@@ -1,6 +1,6 @@
 ---
 slug: 2002/anrc
-title: 'Intră în funcțiune „Autoritatea Nationala de Reglementare în Comunicatii” (ANRC)'
+title: 'Intră în funcțiune „Autoritatea Națională de Reglementare în Comunicații” (ANRC)'
 authors: [gserban, ilg-ul]
 tags: [licente, autor:gheorghe.serban]
 date: 2023-12-20T19:30:34
@@ -9,8 +9,8 @@ eventDate: '2002-09-25'
 
 ---
 
-La 25 septembrie 2002 intră în funcțiune **Autoritatea Nationala
-de Reglementare în Comunicatii (ANRC)**.
+La 25 septembrie 2002 intră în funcțiune **Autoritatea Națională
+de Reglementare în Comunicații (ANRC)**.
 
 <!-- truncate -->
 
@@ -20,22 +20,22 @@ de comunicații electronice.
 
 A doua zi, pe 26 septembrie 2002, ANRC a lansat cel de-al doilea proiect
 normativ, pentru „Autorizatia Generala privind furnizarea exclusiv pentru
-nevoi proprii de retele si de servicii de comunicatii electronice”.
+nevoi proprii de retele si de servicii de comunicații electronice”.
 
 La 6 octombrie 2002, ANRC a propus spre consultare publica proiectele
 „Regulament pentru identificarea pietelor relevante din sectorul
-comunicatiilor electronice” si „Regulament pentru efectuarea analizelor
+comunicațiilor electronice” si „Regulament pentru efectuarea analizelor
 de piata si determinarea puterii semnificative pe piata”.
 
 La 16 octombrie 2002, ANRC a propus spre consultare publica proiectul
-de „Autorizatie Generala pentru furnizarea serviciilor publice de comunicatii
+de „Autorizatie Generala pentru furnizarea serviciilor publice de comunicații
 electronice”, precum si proiectul pentru procedurile de obtinere a
 Autorizatiilor Generale pentru furnizarea de retele sau servicii
-de comunicatii electronice.
+de comunicații electronice.
 
 La 13 noiembrie 2002, ANRC a lansat spre consultare publica urmatoarelor
 proiecte de decizii normative: Regulamentul privind identificarea pietelor
-relevante din sectorul comunicatiilor electronice, care va identifica
+relevante din sectorul comunicațiilor electronice, care va identifica
 efectiv acele piete care la acest moment au cel mai mare potential de a
 fi necompetitive si trebuie reglementate (priveste stabilirea principiilor
 si preconditiilor ofertei de referinta pentru interconectare), Decizia
@@ -44,7 +44,7 @@ pe piata accesului la retelele publice de telefonie fixa (priveste
 principiile si preconditiile ofertei de referinta pentru colocare),
 precum si doua decizii prin care se impun S.N.Tc. Romtelecom S.A.
 obligatiile prevazute la art. 9-14 din OG nr. 34/2002 privind accesul
-la retelele publice de comunicatii electronice si la infrastructura
+la retelele publice de comunicații electronice si la infrastructura
 asociata, precum si interconectarea acestora, aprobata cu modificari
 si completari prin Legea nr. 527/2002.
 
@@ -89,5 +89,5 @@ Reglementare în Comunicaţii şi Tehnologia Informaţiei (ANRCTI).
 
 ## Referințe
 
-- [rite.org.ro - Istoria Internet-ului](https://rite.org.ro/istoria-internetului/)
+- [rite.org.ro - Istoria Internetului](https://rite.org.ro/istoria-internetului/)
 - [ancom.ro - Scurt istoric](https://www.ancom.ro/scurt-istoric_919)

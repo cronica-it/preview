@@ -10,7 +10,8 @@ eventDate: '820'
 ---
 
 În jurul anului 820, Muḥammad ibn Mūsā al-Khwārizmī din Taskent
-dezvoltă conceptul de instrucțiuni de urmat pentru atingerea unui scop.
+dezvoltă conceptul de instrucțiuni de urmat pentru atingerea unui scop,
+numit ulterior **algoritm**.
 
 <!-- truncate -->
 
@@ -22,5 +23,5 @@ Algoritmi.
 
 ## Referințe
 
-- [rite.org.ro - Istoria Internet-ului](https://rite.org.ro/istoria-internetului/)
+- [rite.org.ro - Istoria Internetului](https://rite.org.ro/istoria-internetului/)
 - [en.wikipedia.org - Al-Khwarizmi](https://en.wikipedia.org/wiki/Al-Khwarizmi)

@@ -26,6 +26,6 @@ ale Ministerului Poștelor și Telecomunicațiilor.
 
 ## Referințe
 
-- [rite.org.ro - Istoria Internet-ului](https://rite.org.ro/istoria-internetului/)
+- [rite.org.ro - Istoria Internetului](https://rite.org.ro/istoria-internetului/)
 - [ro.wikipedia.org - TVR 1](https://ro.wikipedia.org/wiki/TVR_1)
 - [ro.wikipedia.org - Alexandru Spătaru](https://ro.wikipedia.org/wiki/Alexandru_Spătaru)

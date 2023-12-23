@@ -1,6 +1,6 @@
 ---
 slug: 1994/ici-contract-satelit-64kbps
-title: 'Este semnat contractul pentru o legătură pe satelit de 64 kbps la ICI'
+title: 'La ICI este semnat contractul pentru o legătură pe satelit de 64 kbps'
 authors: [gserban, ilg-ul]
 tags: [ici, internet, sateliti, autor:gheorghe.serban]
 date: 2023-12-20T17:06:14
@@ -22,4 +22,4 @@ Legătura pe satelit a devenit operațională în 1995.
 
 ## Referințe
 
-- [rite.org.ro - Istoria Internet-ului](https://rite.org.ro/istoria-internetului/)
+- [rite.org.ro - Istoria Internetlui](https://rite.org.ro/istoria-internetului/)

@@ -9,7 +9,7 @@ eventDate: '1991'
 
 ---
 
-În anul 1991 este înființată societatea mixta **KT Technology Romania SRL**, ca
+În anul 1991 este înființată societatea mixtă **KT Technology Romania SRL**, ca
 un parteneriat între Rom Control Data și KT Technology (S) PTE LTD din Singapore.
 
 <!-- truncate -->
@@ -18,4 +18,4 @@ Această inițiativă a creat un avantaj competitiv pe piața din România, pent
 
 ## Referințe
 
-- [cniv.ro - Dan Gârlașu - Despre începuturile Internet-ului în România](https://cniv.ro/documents/26/CNIV_Volum_Aniversar_2023_-_Versiune_Online_DPxioQg.pdf)  (arhivat [local](https://cronica-it.github.io/arhiva/))
+- [cniv.ro - Dan Gârlașu - Despre începuturile Internetului în România](https://cniv.ro/documents/26/CNIV_Volum_Aniversar_2023_-_Versiune_Online_DPxioQg.pdf)  (arhivat [local](https://cronica-it.github.io/arhiva/))

@@ -9,7 +9,8 @@ eventDate: '1837-05'
 
 ---
 
-Telegraful electric a fost primul sistem care a permis transmiterea
+În mai 1837 este patentat **telegraful electric**, primul sistem
+care a permis transmiterea
 mesajelor text cu o viteză mai mare decât permitea transportul fizic
 la acea dată.
 
@@ -17,12 +18,11 @@ la acea dată.
 
 A fost folosit din anii 1840 până târziu în secolul 20.
 
-Primul sistem a fost patentat de Cooke și Wheatstone, in mai 1837,
-dar cel mai cunoscut și răspândit a fost sistemul
-inventat de
-[Samuel Morse](https://en.wikipedia.org/wiki/Samuel_Morse) in 1837 și
-folosit din 1838.
+Deși primul sistem a fost patentat de Cooke și Wheatstone, in mai 1837,
+cel mai cunoscut și răspândit a fost sistemul
+inventat de Samuel Morse în 1837 și folosit din 1838.
 
 ## Referințe
 
 - [en.wikipedia.org - Electrical telegraph](https://en.wikipedia.org/wiki/Electrical_telegraph)
+- [en.wikipedia.org - Samuel Morse](https://en.wikipedia.org/wiki/Samuel_Morse)

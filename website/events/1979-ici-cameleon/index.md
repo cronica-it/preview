@@ -9,8 +9,10 @@ eventDate: '1979'
 
 ---
 
-În anul 1979, la ICI, este realizată prima rețea locală (LAN) pentru interconectarea
-calculatoarelor în rețele pe zone restrânse, în cadrul proiectului **Cameleon**.
+În anul 1979, la ICI, este realizată prima rețea locală (LAN)
+pentru interconectarea
+calculatoarelor în rețele pe zone restrânse, în cadrul
+proiectului **Cameleon**.
 
 <!-- truncate -->
 
@@ -20,5 +22,5 @@ interconectării locale a micro și minicalculatoarelor.
 
 ## Referințe
 
-- [rite.org.ro - Istoria Internet-ului](https://rite.org.ro/istoria-internetului/)
+- [rite.org.ro - Istoria Internetului](https://rite.org.ro/istoria-internetului/)
 - [ro.wikipedia.org - Marius Guran](https://ro.wikipedia.org/wiki/Marius_Guran)

@@ -1,5 +1,5 @@
 ---
-slug: 1895/radioul
+slug: 1895/marconi-morse-radio
 title: 'Guglielmo Marconi face primele transmisiuni Morse prin radio'
 authors: [ilg-ul]
 tags: [international, comunicatii, autor:liviu.ionescu]
@@ -9,14 +9,12 @@ eventDate: '1895'
 
 ---
 
-Existența undelor radio a fost dovedită experimental pentru prima dată de
-fizicianul german Heinrich Hertz in 1886, dar primul aparat care a transmis un
-mesaj Morse la distanță a fost construit de
-[Guglielmo Marconi](https://en.wikipedia.org/wiki/Guglielmo_Marconi)
-în 1895.
+În anul 1895, Guglielmo Marconi construiește primul aparat cu care a transmis
+un mesaj morse la distanță.
 
 <!-- truncate -->
 
 ## Referințe
 
+- [en.wikipedia.org - Guglielmo Marconi](https://en.wikipedia.org/wiki/Guglielmo_Marconi)
 - [en.wikipedia.org - Radio](https://en.wikipedia.org/wiki/Radio#History)

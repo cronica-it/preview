@@ -1,5 +1,5 @@
 ---
-slug: 1998/roedunet
+slug: 1998/roedunet-oficiul
 title: 'Este fondat „Oficiul pentru Administrarea și Operarea Infrastructurii de Comunicații de Date RoEduNet”'
 authors: [ntapus, ilg-ul]
 tags: [internet, educatie, upb, autor:nicolae.tapus]
@@ -19,4 +19,4 @@ din universitățile: „A. I. Cuza” Iași, „Petru Maior” Tg. Mureș, Tehn
 
 ## Referințe
 
-- [cniv.ro - Nicolae Tăpuș - Rolul Universității Politehnica din București la Dezvoltarea Internet-ului în România](https://cniv.ro/documents/26/CNIV_Volum_Aniversar_2023_-_Versiune_Online_DPxioQg.pdf)  (arhivat [local](https://cronica-it.github.io/arhiva/))
+- [cniv.ro - Nicolae Tăpuș - Rolul Universității Politehnica din București la Dezvoltarea Internetului în România](https://cniv.ro/documents/26/CNIV_Volum_Aniversar_2023_-_Versiune_Online_DPxioQg.pdf)  (arhivat [local](https://cronica-it.github.io/arhiva/))
