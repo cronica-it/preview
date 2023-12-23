@@ -49,7 +49,7 @@ N-am avut sprijin la minister. A apărut rapid o hotărâre de Guvern și, de az
 
 Am prezentat argumente juridice, respinse de o doamnă care ulterior a ajuns subsecretar de stat în Guvernul Cioloș.
 
-În disperare de cauză, am vorbit cu toate structurile văzute și nevăzute de pe lumea asta și am dat în judecată în contencios administrativ. În acest mod am reușit să aducem la ICI domeniile „.ro”, cu toate că ele nu au plecat niciodată de la ICI.
+În disperare de cauză, am vorbit cu toate structurile văzute și nevăzute de pe lumea asta și **am dat în judecată în contencios administrativ**. În acest mod am reușit să aducem la ICI domeniile „.ro”, cu toate că ele nu au plecat niciodată de la ICI.
 
 Important de reținut este faptul că de-a lungul timpului colectivul de la ICI, format din specialiști tineri, alături și de alți specialiști și instituții, a avut un rol semnificativ în dezvoltarea internetului în România.
 
