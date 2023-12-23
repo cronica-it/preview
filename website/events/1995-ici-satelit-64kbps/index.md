@@ -1,5 +1,5 @@
 ---
-slug: 1995/ici-satelit-64k
+slug: 1995/ici-satelit-64kbps
 title: 'Legătura satelit ICI'
 authors: [arot, ilg-ul]
 tags: [internet, ici, sateliti, autor:alexandru.rotaru]

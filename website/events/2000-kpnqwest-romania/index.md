@@ -1,6 +1,6 @@
 ---
 slug: 2000/kpnqwest-romania
-title: "KPNQwest Romania"
+title: "Schimbare de nume „KPNQwest Romania”"
 authors: [ilg-ul]
 tags: [firme, internet, autor:liviu.ionescu]
 date: 2023-11-16T19:38

@@ -1,6 +1,6 @@
 ---
 slug: 1988/gsm-standard
-title: 'GSM standard internațional'
+title: 'Aprobare standard GSM'
 authors: [gserban, ilg-ul]
 tags: [international, gsm, autor:gheorghe.serban]
 date: 2023-12-19T09:18:25

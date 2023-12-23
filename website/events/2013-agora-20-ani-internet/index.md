@@ -1,6 +1,6 @@
 ---
 slug: 2013/agora-20-ani-internet
-title: 'Agora - 20 de ani de Internet in Romania'
+title: 'Conferința Agora - „20 de ani de Internet in Romania”'
 authors: [ilg-ul]
 tags: [conferinte, aniversari, internet, autor:liviu.ionescu]
 date: 2023-11-03T22:20

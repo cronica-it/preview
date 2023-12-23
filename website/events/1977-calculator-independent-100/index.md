@@ -1,6 +1,6 @@
 ---
 slug: 1977/calculator-independent-100
-title: 'Calculatorul Independent 100'
+title: 'Lansare minialculator „Independent 100”'
 authors: [ilg-ul]
 tags: [calculatoare, autor:liviu.ionescu]
 date: 2023-11-01T07:52

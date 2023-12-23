@@ -1,6 +1,6 @@
 ---
 slug: 1979/calculatorul-coral
-title: 'Calculatorul Coral'
+title: 'Lansare minicalculator „Coral”'
 authors: [ilg-ul]
 tags: [calculatoare, autor:liviu.ionescu]
 date: 2023-11-07T08:29

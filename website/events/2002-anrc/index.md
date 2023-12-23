@@ -1,6 +1,6 @@
 ---
 slug: 2002/anrc
-title: '„Autoritatea Nationala de Reglementare în Comunicatii” (ANRC)'
+title: 'Înființare „Autoritatea Natională de Reglementare în Comunicații” (ANRC)'
 authors: [gserban, ilg-ul]
 tags: [licente, autor:gheorghe.serban]
 date: 2023-12-20T19:30:34

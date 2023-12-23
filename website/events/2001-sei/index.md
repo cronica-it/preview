@@ -1,6 +1,6 @@
 ---
 slug: 2001/sei
-title: 'Sistemul Educațional Informatizat (SEI)'
+title: 'Lansare „Sistemul Educațional Informatizat (SEI)”'
 authors: [radujugu]
 tags: [educatie, autor:radu.jugureanu]
 date: 2023-12-11T18:29:02

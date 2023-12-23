@@ -1,6 +1,6 @@
 ---
 slug: 1999/upb-academia-cisco
-title: 'Academia Cisco de la UPB'
+title: 'Înființare Academie Cisco la UPB'
 authors: [ntapus, ilg-ul]
 tags: [educatie,  upb, autor:nicolae.tapus]
 date: 2023-12-22T17:35:53

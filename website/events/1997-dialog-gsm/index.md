@@ -1,16 +1,17 @@
 ---
 slug: 1997/dialog-gsm
-title: 'Dialog - un nou serviciu GSM'
+title: 'Lansare „Dialog” - un nou serviciu GSM'
 authors: [arot, ilg-ul]
 tags: [gsm, firme, autor:alexandru.rotaru]
 date: 2023-12-10T11:21:34
 
 eventDate: '1997-04-21'
-eventSummary: 'Mobil Rom lansează serviciul Dialog'
+eventSummary: 'Mobil Rom lansează serviciul „Dialog”'
 
 ---
 
-Ca urmare a licenței acordate de Ministerul Comunicațiilor în noiembrie 1996,
+În 21 aprilie 1997, ca urmare a licenței acordate de Ministerul
+Comunicațiilor în noiembrie 1996,
 Mobil Rom lanseaza un nou serviciu GSM, sub brandul **Dialog**.
 
 <!-- truncate -->

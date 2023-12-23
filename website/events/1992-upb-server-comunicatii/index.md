@@ -1,6 +1,6 @@
 ---
 slug: 1992/upb-server-comunicatii
-title: 'TODO'
+title: 'Instalare server de e-mail la UPB'
 authors: [ntapus, ilg-ul]
 tags: [internet, educatie, upb, autor:nicolae.tapus]
 date: 2023-12-13T15:55:51

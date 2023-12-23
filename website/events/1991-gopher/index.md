@@ -1,6 +1,6 @@
 ---
 slug: 1991/gopher
-title: 'Sistemul Gopher'
+title: 'Lansare sistem Gopher'
 authors: [gserban, ilg-ul]
 tags: [international, internet, servicii, autor:gheorghe.serban]
 date: 2023-12-20T10:12:03

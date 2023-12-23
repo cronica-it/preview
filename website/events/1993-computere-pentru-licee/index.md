@@ -1,6 +1,6 @@
 ---
 slug: 1993/computere-pentru-licee
-title: 'Computere pentru licee'
+title: 'Programul „Computere pentru licee”'
 authors: [arot, ilg-ul]
 tags: [educatie, autor:alexandru.rotaru]
 date: 2023-10-30T08:28

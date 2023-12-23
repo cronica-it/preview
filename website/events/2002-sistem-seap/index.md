@@ -1,6 +1,6 @@
 ---
 slug: 2002/sistem-seap
-title: '„Sistemul electronic de achizitii publice” (SEAP)'
+title: 'Lansare „Sistemul electronic de achizitii publice (SEAP)”'
 authors: [gserban, ilg-ul]
 tags: [servicii, autor:gheorghe.serban]
 date: 2023-12-20T19:46:36

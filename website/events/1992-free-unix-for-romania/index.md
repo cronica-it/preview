@@ -1,6 +1,6 @@
 ---
 slug: 1992/free-unix-for-romania
-title: 'Free Unix for Romania'
+title: 'Programul „Free Unix for Romania”'
 authors: [ilg-ul]
 tags: [organizatii, autor:liviu.ionescu]
 date: 2023-11-01T09:21

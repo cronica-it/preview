@@ -1,6 +1,6 @@
 ---
-slug: 1992/ici-online-internet
-title: 'ICI - access online Internet'
+slug: 1992/ici-linie-dedicata-9.6kbps
+title: 'Conectare ICI cu linie dedicată 9.6 kbps'
 authors: [gserban, ilg-ul]
 tags: [internet, ici, autor:gheorghe.serban]
 date: 2023-12-20T14:45:28

@@ -1,5 +1,5 @@
 ---
-slug: 1995/upb-linie-64k
+slug: 1995/upb-linie-64kbps
 title: 'Linie dedicată de 64 kbps la UPB'
 authors: [ntapus, ilg-ul]
 tags: [internet, educatie, upb, autor:nicolae.tapus]

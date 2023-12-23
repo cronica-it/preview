@@ -1,16 +1,17 @@
 ---
 slug: 1997/connex-gsm
-title: 'Connex - primul serviciu GSM'
+title: 'Lansare „Connex” - primul serviciu GSM'
 authors: [arot, ilg-ul]
 tags: [gsm, firme, autor:alexandru.rotaru]
 date: 2023-12-10T11:08:53
 
 eventDate: '1997-04-15'
-eventSummary: 'MobiFon lansează brandul Connex'
+eventSummary: 'MobiFon lansează brandul „Connex”'
 
 ---
 
-Ca urmare a licenței acordate de Ministerul Comunicațiilor în noiembrie 1996,
+În 15 aprilie 1997, ca urmare a licenței acordate de Ministerul
+Comunicațiilor în noiembrie 1996,
 MobiFon lanseaza brandul Connex, primul serviciu GSM, în banda de 900 MHz.
 
 <!-- truncate -->

@@ -1,6 +1,6 @@
 ---
 slug: 2002/icann-bucuresti
-title: 'ICANN Bucuresti'
+title: 'Reuniune ICANN la București'
 authors: [gserban, ilg-ul]
 tags: [internet, conferinte, autor:gheorghe.serban]
 date: 2023-12-20T19:14:50
@@ -11,7 +11,8 @@ eventSummary: 'În București se desfașoară reuniunea ICANN'
 
 ---
 
-În perioada 24-28 iunie 2002, la hotelul Marriott Grand Hotel din București se desfașoară reuniunea **ICANN**.
+În perioada 24-28 iunie 2002, la hotelul Marriott Grand Hotel din București
+se desfașoară reuniunea **ICANN**.
 
 <!-- truncate -->
 

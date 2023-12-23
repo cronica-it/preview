@@ -1,6 +1,6 @@
 ---
 slug: 2004/zapp-internet-express
-title: "Zapp Internet Express"
+title: "Serviciul Zapp Internet Express"
 authors: [gserban, ilg-ul]
 tags: [firme, internet, servicii, gsm, autor:gheorghe.serban]
 date: 2023-12-20T20:03:15

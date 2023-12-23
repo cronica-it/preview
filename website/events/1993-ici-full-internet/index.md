@@ -1,6 +1,6 @@
 ---
 slug: 1993/ici-full-internet
-title: 'Acces deplin în Internet'
+title: 'România - acces deplin în Internet'
 authors: [gserban, ilg-ul]
 tags: [ici, internet, autor:gheorghe.serban]
 date: 2023-12-20T16:15:44

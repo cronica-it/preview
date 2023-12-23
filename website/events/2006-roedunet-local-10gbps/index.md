@@ -1,6 +1,6 @@
 ---
 slug: 2006/roedunet-local-10gbps
-title: 'Rețea UPB de 10 Gbps'
+title: 'Upgrade rețea UPB de 10 Gbps'
 authors: [ntapus, ilg-ul]
 tags: [internet, educatie, upb, autor:nicolae.tapus]
 date: 2023-12-22T18:22:55

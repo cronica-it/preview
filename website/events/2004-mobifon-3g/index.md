@@ -1,6 +1,6 @@
 ---
 slug: 2004/mobifon-3g
-title: 'MobiFon 3G'
+title: 'Demonstrații MobiFon cu servicii 3G'
 authors: [gserban, ilg-ul]
 tags: [gsm, servicii, autor:gheorghe.serban]
 date: 2023-12-20T20:02:15

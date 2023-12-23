@@ -1,12 +1,12 @@
 ---
 slug: 2000/proiectul-geant
-title: 'Proiectul GÉANT'
+title: 'Lansare proiect GÉANT'
 authors: [gserban, ilg-ul]
 tags: [international, educatie, internet, autor:gheorghe.serban]
 date: 2023-12-20T18:43:56
 
 eventDate: '2000-11-06'
-eventSummary: 'Comisia Europeana lanseaza proiectul GÉANT'
+eventSummary: 'Comisia Europeană lansează proiectul GÉANT'
 
 ---
 

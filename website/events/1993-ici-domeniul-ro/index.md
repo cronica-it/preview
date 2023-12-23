@@ -1,6 +1,6 @@
 ---
 slug: 1993/ici-domeniul-ro
-title: 'Domeniul .ro'
+title: 'Autorizare ROTLD'
 authors: [arot, ilg-ul]
 tags: [internet, ici, autor:alexandru.rotaru]
 date: 2023-11-04T20:28

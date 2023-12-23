@@ -1,6 +1,6 @@
 ---
 slug: 1992/internet-society
-title: 'Internet Society'
+title: 'Înființare Internet Society'
 authors: [gserban, ilg-ul]
 tags: [international, internet, autor:gheorghe.serban]
 date: 2023-12-20T10:30:58

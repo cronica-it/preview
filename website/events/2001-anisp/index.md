@@ -1,6 +1,6 @@
 ---
 slug: 2001/anisp
-title: 'Asociația Națională a Internet Service Providerilor din România'
+title: 'Înființare „Asociația Națională a Internet Service Providerilor din România”'
 authors: [gserban, ilg-ul]
 tags: [internet, autor:gheorghe.serban]
 date: 2023-12-20T18:51:39

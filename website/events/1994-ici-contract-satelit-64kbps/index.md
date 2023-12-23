@@ -1,5 +1,5 @@
 ---
-slug: 1994/ici-contract-satelit-64k
+slug: 1994/ici-contract-satelit-64kbps
 title: 'Contract satelit 64 kbps la ICI'
 authors: [gserban, ilg-ul]
 tags: [ici, internet, sateliti, autor:gheorghe.serban]

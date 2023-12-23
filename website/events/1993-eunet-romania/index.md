@@ -1,6 +1,6 @@
 ---
 slug: 1993/eunet-romania
-title: "EUnet Romania"
+title: "Înființare „EUnet Romania”"
 authors: [ilg-ul]
 tags: [firme, internet, autor:liviu.ionescu]
 date: 2023-11-01T17:42

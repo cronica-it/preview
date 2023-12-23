@@ -1,6 +1,6 @@
 ---
 slug: 2004/gts-telecom
-title: "GTS Telecom"
+title: "Schimbare de nume „GTS Telecom”"
 authors: [ilg-ul]
 tags: [firme, internet, autor:liviu.ionescu]
 date: 2023-11-16T19:42

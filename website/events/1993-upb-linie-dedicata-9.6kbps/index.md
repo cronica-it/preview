@@ -1,6 +1,6 @@
 ---
-slug: 1993/upb-linie-dedicata
-title: 'TODO'
+slug: 1993/upb-linie-dedicata-9.6kbps
+title: 'Instalare linie dedicată la UPB'
 authors: [ntapus, ilg-ul]
 tags: [internet, educatie, upb, autor:nicolae.tapus]
 date: 2023-12-13T17:07:27
