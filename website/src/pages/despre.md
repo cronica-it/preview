@@ -28,7 +28,8 @@ numai cu menționarea clară a autorului și a sursei.
 
 Asemenea unui muzeu, în scopuri de prezervare a istoriei,
 pentru informare și cercetare, unele articole pot prelua conținutul
-altor articole on-line, cu menționarea clară a autorului și a sursei.
+altor articole on-line sau lucrări publicate,
+cu menționarea clară a autorului și a sursei.
 
 ## Contribuții
 
