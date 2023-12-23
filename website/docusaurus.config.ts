@@ -78,7 +78,7 @@ const config: Config = {
           // Remove this to remove the "edit this page" links.
           editUrl:
             isPreview ? 'https://github.com/cronica-it/preview/edit/master/website/' : 'https://github.com/cronica-it/cronica-it.github.io/edit/master/website/',
-          blogSidebarTitle: 'Articole',
+          blogSidebarTitle: 'Amintiri',
           blogSidebarCount: 'ALL',
           authorsMapPath: '../authors.yml',
         },
