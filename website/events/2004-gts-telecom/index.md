@@ -1,12 +1,11 @@
 ---
 slug: 2004/gts-telecom
-title: "Schimbare de nume „GTS Telecom”"
+title: 'GTS Telecom este noul nume al firmei KPNQwest România'
 authors: [ilg-ul]
 tags: [firme, internet, autor:liviu.ionescu]
 date: 2023-11-16T19:42
 
 eventDate: '2004'
-eventSummary: 'GTS Telecom este noul nume al firmei KPNQwest România'
 
 ---
 

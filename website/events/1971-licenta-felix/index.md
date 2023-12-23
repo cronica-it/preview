@@ -1,12 +1,11 @@
 ---
 slug: 1971/licenta-felix
-title: 'Licența pentru Felix C-256'
+title: 'România obține licența pentru Felix C-256'
 authors: [ilg-ul]
 tags: [calculatoare, autor:liviu.ionescu]
 date: 2023-11-01T07:52
 
 eventDate: '1971'
-eventSummary: 'România obține licența pentru Felix C-256'
 
 ---
 

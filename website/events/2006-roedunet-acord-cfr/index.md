@@ -1,12 +1,11 @@
 ---
 slug: 2006/roedunet-acord-cfr
-title: 'Acord rețea DWDM RoEduNet2'
+title: 'RoEduNet semnează un acord cu CFR pentru utilizarea rețelei de fibră optică'
 authors: [ntapus, ilg-ul]
 tags: [internet, educatie, upb, autor:nicolae.tapus]
 date: 2023-12-22T18:15:37
 
 eventDate: '2006-12'
-eventSummary: 'RoEduNet semnează un acord cu CFR pentru utilizarea rețelei de fibră optică'
 
 ---
 

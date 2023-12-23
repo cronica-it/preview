@@ -1,12 +1,11 @@
 ---
 slug: 1984/cisco-systems
-title: 'Cisco Systems'
+title: 'În San Francisco este înființată firma Cisco Systems'
 authors: [gserban, ilg-ul]
 tags: [international, firme, autor:gheorghe.serban]
 date: 2023-12-19T08:42:20
 
 eventDate: '1984-12'
-eventSummary: 'În San Francisco este înființată firma Cisco Systems'
 
 ---
 

@@ -44,22 +44,3 @@ Exemplu:
 ```yaml
 eventEndDate: '1998'
 ```
-
-## `eventSummary`
-
-Proprietatea `eventSummary` este un string cu o descriere sumară
-(câteva zeci de caractere)
-a evenimentului. Aceast string va apărea in tabela cu evenimente.
-
-Se recomandă a fi o propoziție scurtă, cu subiect și predicat,
-formulată impersonal,
-sau personal dacă autorul este cunoscut.
-
-Diferă de câmpul `title`, care este numele scurt al evenimentului.
-
-Exemple:
-
-```yaml
-eventSummary: 'Are loc programul „Computere pentru licee"'
-eventSummary: 'Alexandru Rotaru înființează „Grupul Utilizatorilor Români de Unix” (GURU)'
-```

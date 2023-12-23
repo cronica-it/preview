@@ -1,12 +1,11 @@
 ---
 slug: 1997/modem-56k
-title: 'Modemuri de 56 kbit/s'
+title: 'Primele modemuri de 56 kbit/s ajung pe piață'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
 date: 2023-12-20T18:13:43
 
 eventDate: '1997-02'
-eventSummary: 'Primele modemuri de 56 kbit/s ajung pe piață'
 
 ---
 

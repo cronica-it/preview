@@ -1,12 +1,11 @@
 ---
 slug: 1989/ripe
-title: 'Reseaux IP Européens (RIPE)'
+title: 'Este creată „Reseaux IP Européens” (RIPE)'
 authors: [gserban, ilg-ul]
 tags: [international, internet, autor:gheorghe.serban]
 date: 2023-12-19T09:05:58
 
 eventDate: '1989'
-eventSummary: 'Este creată „Reseaux IP Européens” (RIPE)'
 
 ---
 

@@ -1,12 +1,11 @@
 ---
 slug: 1988/iana
-title: 'Internet Assigned Numbers Authority (IANA)'
+title: 'Este înființată „Internet Assigned Numbers Authority” (IANA)'
 authors: [gserban, ilg-ul]
 tags: [international, internet, autor:gheorghe.serban]
 date: 2023-12-19T09:01:01
 
 eventDate: '1988-12'
-eventSummary: 'Este înființată „Internet Assigned Numbers Authority” (IANA)'
 
 ---
 

@@ -1,12 +1,11 @@
 ---
 slug: 2003/portalul-e-guvernare
-title: 'Portalul www.e-guvernare.ro'
+title: 'Guvernul României lansează portalul www.e-guvernare.ro'
 authors: [gserban, ilg-ul]
 tags: [servicii, autor:gheorghe.serban]
 date: 2023-12-20T19:56:40
 
 eventDate: '2003-09'
-eventSummary: 'Guvernul României lansează portalul www.e-guvernare.ro'
 
 ---
 

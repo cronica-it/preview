@@ -1,12 +1,11 @@
 ---
 slug: 1983/earn
-title: 'Rețeaua academică EARN'
+title: 'În Europa este înființată rețeaua academică EARN'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
 date: 2023-12-19T08:22:32
 
 eventDate: '1983'
-eventSummary: 'În Europa este înființată rețeaua academică EARN'
 
 ---
 

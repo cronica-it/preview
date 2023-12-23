@@ -1,12 +1,11 @@
 ---
 slug: 1855/telegraf-moldova
-title: 'Prima linie de telegraf în Moldova'
+title: 'În Moldova este instalată prima linie de telegraf'
 authors: [gserban, ilg-ul]
 tags: [comunicatii, autor:gheorghe.serban]
 date: 2023-12-21T07:31:00
 
 eventDate: '1855'
-eventSummary: 'În Moldova este instalată prima linie de telegraf'
 
 ---
 

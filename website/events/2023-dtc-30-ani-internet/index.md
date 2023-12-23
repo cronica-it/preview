@@ -1,12 +1,11 @@
 ---
 slug: 2023/dtc-30-ani-internet
-title: "Conferința „Gala Campionilor: 30 de ani de Internet în România”"
+title: 'DTC organizează conferința „30 de ani de Internet în România”'
 authors: [ivaciu, ilg-ul]
 tags: [conferinte, aniversari, internet]
 date: 2023-11-06T08:35
 
 eventDate: '2023-05-17'
-eventSummary: 'DTC organizează conferința „30 de ani de Internet în România”'
 
 ---
 

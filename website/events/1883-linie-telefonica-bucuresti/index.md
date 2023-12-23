@@ -1,12 +1,11 @@
 ---
 slug: 1883/bucuresti-linie-telefonica
-title: 'Prima linie telefonică în București'
+title: 'În București este instalată prima linie telefonică'
 authors: [gserban, ilg-ul]
 tags: [comunicatii, autor:gheorghe.serban]
 date: 2023-12-21T07:39:59
 
 eventDate: '1883'
-eventSummary: 'În București este instalată prima linie telefonică'
 
 ---
 

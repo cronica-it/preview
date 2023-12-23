@@ -1,12 +1,11 @@
 ---
 slug: 1653/paris-posta
-title: 'Serviciul poștal de la Paris'
+title: 'La Paris este înființat un serviciu poștal'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
 date: 2023-12-15T15:20:04
 
 eventDate: '1653'
-eventSummary: 'La Paris este înființat un serviciu poștal'
 
 ---
 

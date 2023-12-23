@@ -1,12 +1,11 @@
 ---
 slug: 1928/radio-romania
-title: 'Înființare „Societatea de Difuziune Radiotelefonică”'
+title: 'Societatea de Difuziune Radiotelefonică difuzează prima emisiune publică'
 authors: [ilg-ul]
 tags: [radio, autor:liviu.ionescu]
 date: 2023-12-17T09:40:24
 
 eventDate: '1928-11-01'
-eventSummary: 'Societatea de Difuziune Radiotelefonică difuzează prima emisiune publică'
 
 ---
 

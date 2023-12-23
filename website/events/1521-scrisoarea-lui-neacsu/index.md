@@ -1,12 +1,11 @@
 ---
 slug: 1521/scrisoarea-lui-neacsu
-title: 'Scrisoarea lui Neacșu din Câmpulung '
+title: 'Scrisoarea lui Neacșu este primul text în limba română păstrat'
 authors: [gserban, ilg-ul]
 tags: [autor:gheorghe.serban]
 date: 2023-12-15T10:49:53
 
 eventDate: '1521-06-29'
-eventSummary: 'Scrisoarea lui Neacșu este primul text în limba română păstrat'
 
 ---
 

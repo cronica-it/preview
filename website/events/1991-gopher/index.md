@@ -1,12 +1,11 @@
 ---
 slug: 1991/gopher
-title: 'Lansare sistem Gopher'
+title: 'Mark McCahill crează sistemul Gopher'
 authors: [gserban, ilg-ul]
 tags: [international, internet, servicii, autor:gheorghe.serban]
 date: 2023-12-20T10:12:03
 
 eventDate: '1991'
-eventSummary: 'Mark McCahill crează sistemul Gopher'
 
 ---
 

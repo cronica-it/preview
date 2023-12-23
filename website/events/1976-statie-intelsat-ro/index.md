@@ -1,12 +1,11 @@
 ---
 slug: 1976/statie-intelsat-ro
-title: 'Stație de sol Intelsat la Cheia'
+title: 'România se conectează la Intelsat'
 authors: [gserban, ilg-ul]
 tags: [comunicatii, sateliti, autor:gheorghe.serban]
 date: 2023-12-21T09:14:08
 
 eventDate: '1976-11-15'
-eventSummary: 'România se conectează la Intelsat'
 
 ---
 

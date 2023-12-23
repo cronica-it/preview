@@ -1,12 +1,11 @@
 ---
 slug: 1998/cisco-romania
-title: 'Înființare Cisco Systems Romania'
+title: 'Este înființată firma Cisco Systems Romania'
 authors: [ilg-ul]
 tags: [firme, autor:liviu.ionescu]
 date: 2023-12-21T18:01:32
 
 eventDate: '1998'
-eventSummary: 'Este înființată firma Cisco Systems Romania'
 
 ---
 

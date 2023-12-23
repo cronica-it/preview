@@ -1,12 +1,11 @@
 ---
 slug: 1495/leonardo-omul-mecanic
-title: '„Omul mecanic” al lui Leonardo da Vinci'
+title: 'Leonardo da Vinci proiectează „omul mecanic”'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
 date: 2023-12-15T10:40:28
 
 eventDate: '1495'
-eventSummary: 'Leonardo da Vinci proiectează „omul mecanic”'
 
 ---
 

@@ -1,12 +1,11 @@
 ---
 slug: 1906/maior-telefonie-multipla
-title: 'Telefonia multiplă a lui Augustin Maior'
+title: 'Augustin Maior demonstrează telefonia multiplă pe o singură linie'
 authors: [gserban, ilg-ul]
 tags: [autor:gheorghe.serban]
 date: 2023-12-18T09:28:00
 
 eventDate: '1906'
-eventSummary: 'Augustin Maior demonstrează telefonia multiplă pe o singură linie'
 
 ---
 

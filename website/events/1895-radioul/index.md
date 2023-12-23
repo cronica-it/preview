@@ -1,12 +1,11 @@
 ---
 slug: 1895/radioul
-title: 'Radioul lui Marconi'
+title: 'Guglielmo Marconi face primele transmisiuni Morse prin radio'
 authors: [ilg-ul]
 tags: [international, comunicatii, autor:liviu.ionescu]
 date: 2023-10-30T07:35
 
 eventDate: '1895'
-eventSummary: 'Guglielmo Marconi face primele transmisiuni Morse prin radio'
 
 ---
 

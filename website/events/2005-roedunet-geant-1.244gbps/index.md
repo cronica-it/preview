@@ -1,12 +1,11 @@
 ---
 slug: 2005/roedunet-geant-1.244gbps
-title: 'Conectare RoEduNet la GÉANT cu 1,244 Gbps'
+title: 'RoEduNet se conectează la GÉANT cu 1,244 Gbps'
 authors: [ntapus, ilg-ul]
 tags: [internet, educatie, upb, autor:nicolae.tapus]
 date: 2023-12-22T17:48:59
 
 eventDate: '2005'
-eventSummary: 'RoEduNet se conectează la GÉANT cu 1,244 Gbps'
 
 ---
 

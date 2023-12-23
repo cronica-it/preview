@@ -1,12 +1,11 @@
 ---
 slug: 1997/roedunet
-title: 'Romanian Education Network (RoEduNet)'
+title: 'RDIS se transformă în RoEduNet'
 authors: [ntapus, ilg-ul]
 tags: [internet, educatie, upb, autor:nicolae.tapus]
 date: 2023-12-13T18:23:24
 
 eventDate: '1997-03-25'
-eventSummary: 'RDIS se transformă în RoEduNet'
 
 ---
 

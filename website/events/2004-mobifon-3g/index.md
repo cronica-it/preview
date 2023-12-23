@@ -1,12 +1,11 @@
 ---
 slug: 2004/mobifon-3g
-title: 'Demonstrații MobiFon cu servicii 3G'
+title: 'MobiFon face primele demonstrații de GSM 3G'
 authors: [gserban, ilg-ul]
 tags: [gsm, servicii, autor:gheorghe.serban]
 date: 2023-12-20T20:02:15
 
 eventDate: '2004-09'
-eventSummary: 'MobiFon face primele demonstrații de GSM 3G'
 
 ---
 

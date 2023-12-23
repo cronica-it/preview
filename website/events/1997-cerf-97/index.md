@@ -1,12 +1,11 @@
 ---
 slug: 1997/cerf-97
-title: "CERF '97 - Internet în România"
+title: "Agora organizează CERF '97"
 authors: [ilg-ul]
 tags: [conferinte, internet, autor:liviu.ionescu]
 date: 2023-12-12T07:49:53
 
 eventDate: '1997-06'
-eventSummary: "Agora organizează CERF '97"
 
 ---
 

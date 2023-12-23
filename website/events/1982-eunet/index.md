@@ -1,12 +1,11 @@
 ---
 slug: 1982/eunet
-title: 'Rețeaua EUnet (European UNIX Network)'
+title: 'În Europa este creată rețeua EUnet'
 authors: [gserban, ilg-ul]
 tags: [international, internet, autor:gheorghe.serban]
 date: 2023-12-18T20:05:55
 
 eventDate: '1982'
-eventSummary: 'În Europa este creată rețeua EUnet'
 
 ---
 

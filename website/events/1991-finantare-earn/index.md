@@ -1,12 +1,11 @@
 ---
 slug: 1991/finantare-earn
-title: 'Finanțare pentru conectare la EARN'
+title: 'Guvernul aprobă finanțarea pentru conectare la EARN'
 authors: [ntapus, ilg-ul]
 tags: [internet, educatie, ici, autor:nicolae.tapus]
 date: 2023-12-13T15:40:46
 
 eventDate: '1991'
-eventSummary: 'Guvernul aprobă finanțarea pentru conectare la EARN'
 
 ---
 

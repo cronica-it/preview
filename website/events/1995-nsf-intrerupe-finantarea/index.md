@@ -1,12 +1,11 @@
 ---
 slug: 1995/nsf-intrerupe-finantarea
-title: 'NSF întrerupe finanțarea Intenet-ului'
+title: 'NSF nu mai sprijină financiar Internet-ul'
 authors: [gserban, ilg-ul]
 tags: [international, internet, autor:gheorghe.serban]
 date: 2023-12-20T17:32:05
 
 eventDate: '1995-05'
-eventSummary: 'NSF nu mai sprijină financiar Internet-ul'
 
 ---
 

@@ -1,12 +1,11 @@
 ---
 slug: 1988/gsm-standard
-title: 'Aprobare standard GSM'
+title: 'GSM devine standard internațional de telefonie digitală celulară'
 authors: [gserban, ilg-ul]
 tags: [international, gsm, autor:gheorghe.serban]
 date: 2023-12-19T09:18:25
 
 eventDate: '1988'
-eventSummary: 'GSM devine standard internațional de telefonie digitală celulară'
 
 ---
 

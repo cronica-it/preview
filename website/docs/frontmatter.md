@@ -31,8 +31,23 @@ slug: 2023/de-ce-cronica-it
 
 ## `title`
 
-Proprietatea `title` este un string care definește titlul articolului;
-se va afișa cu un font mare deasupra articolului.
+Proprietatea `title` este un string cu o descriere sumară
+(câteva zeci de caractere)
+a evenimentului. Aceast string se va afișa cu un font mare deasupra articolului
+și in tabela cu evenimente.
+
+Se recomandă a fi o propoziție scurtă, cu subiect și predicat,
+formulată impersonal,
+sau personal dacă autorul este cunoscut.
+
+Diferă de câmpul `title`, care este numele scurt al evenimentului.
+
+Exemple:
+
+```yaml
+title: 'Are loc programul „Computere pentru licee"'
+title: 'Alexandru Rotaru înființează „Grupul Utilizatorilor Români de Unix” (GURU)'
+```
 
 ## `authors`
 

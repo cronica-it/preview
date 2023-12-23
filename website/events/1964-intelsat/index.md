@@ -1,12 +1,11 @@
 ---
 slug: 1964/intelsat
-title: 'Înființare Intelsat'
+title: 'Este creată organizația Intelsat'
 authors: [ilg-ul]
 tags: [international, organizatii, autor:liviu.ionescu]
 date: 2023-12-22T19:11:18
 
 eventDate: '1964-08-20'
-eventSummary: 'Este creată organizația Intelsat'
 
 ---
 

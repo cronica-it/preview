@@ -1,12 +1,11 @@
 ---
 slug: 1991/rtns
-title: 'Înființare RTNS (Romanian Telecoms Network Services)'
+title: 'Este demarată înființarea RTNS (Romanian Telecoms Network Services)'
 authors: [ilg-ul]
 tags: [firme, comunicatii, autor:liviu.ionescu]
 date: 2023-12-21T11:12:16
 
 eventDate: '1991'
-eventSummary: 'Este demarată înființarea RTNS (Romanian Telecoms Network Services)'
 
 ---
 

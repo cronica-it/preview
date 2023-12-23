@@ -1,12 +1,11 @@
 ---
 slug: 1992/ripe-ncc
-title: 'Înființare RIPE Network Coordination Center (NCC)'
+title: 'RIPE crează „Network Coordination Center” (NCC)'
 authors: [gserban, ilg-ul]
 tags: [international, internet, autor:gheorghe.serban]
 date: 2023-12-20T15:57:07
 
 eventDate: '1992-04'
-eventSummary: 'RIPE crează „Network Coordination Center” (NCC)'
 
 ---
 

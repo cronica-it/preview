@@ -1,12 +1,11 @@
 ---
 slug: 1968/ccub-ibm-360
-title: 'Calculatorul IBM 360/30 de la Universitate'
+title: 'La CCUB este instalat un calculator IBM 360/30'
 authors: [sniculescu]
 tags: [calculatoare, autor:stelian.niculescu]
 date: 2023-12-11T18:52:15
 
 eventDate: '1968'
-eventSummary: 'La CCUB este instalat un calculator IBM 360/30'
 
 ---
 

@@ -1,12 +1,11 @@
 ---
 slug: 2013/agora-20-ani-internet
-title: 'Conferința Agora - „20 de ani de Internet in Romania”'
+title: 'Agora Group organizează conferința „20 de ani de Internet in Romania”'
 authors: [ilg-ul]
 tags: [conferinte, aniversari, internet, autor:liviu.ionescu]
 date: 2023-11-03T22:20
 
 eventDate: '2013-11-14'
-eventSummary: 'Agora Group organizează conferința „20 de ani de Internet in Romania”'
 
 ---
 

@@ -1,12 +1,11 @@
 ---
 slug: 1957/cifa-1-functional
-title: 'CIFA-1 funcțional la IFA'
+title: 'La IFA este pus in funcțiune calculatorul CIFA-1'
 authors: [gserban, ilg-ul]
 tags: [autor:gheorghe.serban]
 date: 2023-12-18T17:24:38
 
 eventDate: '1957'
-eventSummary: 'La IFA este pus in funcțiune calculatorul CIFA-1'
 
 ---
 

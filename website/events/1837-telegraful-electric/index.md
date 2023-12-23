@@ -1,12 +1,11 @@
 ---
 slug: 1837/telegraful-electric
-title: 'Telegraful electric'
+title: 'Este patentat primul telegraf electric (cu fir)'
 authors: [ilg-ul]
 tags: [international, comunicatii, autor:liviu.ionescu]
 date: 2023-10-30T07:35
 
 eventDate: '1837-05'
-eventSummary: 'Este patentat primul telegraf electric (cu fir)'
 
 ---
 

@@ -1,13 +1,12 @@
 ---
 slug: 1992/utrecht-guru
-title: 'Conferința „Open Forum 92” de la Utrecht'
+title: 'La Utrecht are loc conferința „Open Forum 92”'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
 date: 2023-12-20T15:17:56
 
 eventDate: '1992-11-23'
 eventEndDate: '1992-11-27'
-eventSummary: 'La Utrecht are loc conferința „Open Forum 92”'
 
 ---
 

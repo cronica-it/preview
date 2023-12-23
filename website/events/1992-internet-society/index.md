@@ -1,12 +1,11 @@
 ---
 slug: 1992/internet-society
-title: 'Înființare Internet Society'
+title: 'Vinton Cerf anunță formarea Internet Society'
 authors: [gserban, ilg-ul]
 tags: [international, internet, autor:gheorghe.serban]
 date: 2023-12-20T10:30:58
 
 eventDate: '1992-12-11'
-eventSummary: 'Vinton Cerf anunță formarea Internet Society'
 
 ---
 

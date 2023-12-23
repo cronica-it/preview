@@ -147,9 +147,9 @@ const chronologyRows = ((ctx) => {
       if (frontMatter.eventDate === undefined) {
         logger.error(`Missing eventDate: for event ${key}`)
       }
-      if (frontMatter.eventSummary === undefined) {
-        logger.error(`Missing eventSummary: for event ${key}`)
-      }
+      // if (frontMatter.eventSummary === undefined) {
+      //   logger.error(`Missing eventSummary: for event ${key}`)
+      // }
       chronologyModules.push(module);
     }
   })
@@ -180,7 +180,7 @@ const chronologyRows = ((ctx) => {
     }
     const row: ChronologyEvent = {
       interval,
-      description: (<a href={permalink}>{frontMatter.eventSummary}</a>)
+      description: (<a href={permalink}>{frontMatter.title}</a>)
     }
     // logger.info(row)
     return row;

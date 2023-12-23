@@ -1,12 +1,11 @@
 ---
 slug: 1995/x25-acoperire-nationala
-title: 'Acoperire națională X.25'
+title: 'Rețelele X.25 au acoperire națională'
 authors: [gserban, ilg-ul]
 tags: [servicii, autor:gheorghe.serban]
 date: 2023-12-20T18:07:39
 
 eventDate: '1995'
-eventSummary: 'Rețelele X.25 au acoperire națională'
 
 ---
 

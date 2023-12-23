@@ -1,12 +1,11 @@
 ---
 slug: 1965/intelsat-1-lansat
-title: 'Lansare Intelsat I „Early Bird”'
+title: 'Este lansat satelitul Intelsat I - „Early Bird”'
 authors: [ilg-ul]
 tags: [international, sateliti]
 date: 2023-12-22T19:18:40
 
 eventDate: '1965-04-6'
-eventSummary: 'Este lansat satelitul Intelsat I - „Early Bird”'
 
 ---
 

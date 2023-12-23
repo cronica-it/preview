@@ -1,12 +1,11 @@
 ---
 slug: 1991/kt-technology
-title: 'Societatea mixtă KT Technology'
+title: 'Este înființată firma KT Technology'
 authors: [dgarlasu]
 tags: [firme, autor:dan.garlasu]
 date: 2023-12-11T22:21:02
 
 eventDate: '1991'
-eventSummary: 'Este înființată firma KT Technology'
 
 ---
 

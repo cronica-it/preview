@@ -1,12 +1,11 @@
 ---
 slug: 2004/zapp-internet-express
-title: "Serviciul Zapp Internet Express"
+title: 'Zapp lansează primul serviciu de comunicații mobile în bandă largă'
 authors: [gserban, ilg-ul]
 tags: [firme, internet, servicii, gsm, autor:gheorghe.serban]
 date: 2023-12-20T20:03:15
 
 eventDate: '2004-10-27'
-eventSummary: 'Zapp lansează primul serviciu de comunicații mobile în bandă largă'
 
 ---
 

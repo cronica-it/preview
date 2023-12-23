@@ -89,7 +89,7 @@ if [ -n "${event_end_date}" ]
 then
   echo "eventEndDate: '${event_end_date}'" >>"${tmp_file_path}"
 fi
-echo "eventSummary: 'TODO'" >>"${tmp_file_path}"
+# echo "eventSummary: 'TODO'" >>"${tmp_file_path}"
 echo >>"${tmp_file_path}"
 echo "---" >>"${tmp_file_path}"
 echo >>"${tmp_file_path}"

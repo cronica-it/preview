@@ -1,12 +1,11 @@
 ---
 slug: 1991/www-release
-title: 'Începe era Web-ului'
+title: 'WWW este universal adoptat'
 authors: [gserban, ilg-ul]
 tags: [international, internet, servicii, autor:gheorghe.serban]
 date: 2023-12-20T09:55:22
 
 eventDate: '1991-08'
-eventSummary: 'WWW este universal adoptat'
 
 ---
 

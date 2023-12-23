@@ -1,12 +1,11 @@
 ---
 slug: 1989/timbl-www
-title: 'Tim Berners-Lee - World Wide Web'
+title: 'Tim Berners-Lee face primele propuneri pentru „World Wide Web”'
 authors: [gserban, ilg-ul]
 tags: [international, internet, servicii, autor:gheorghe.serban]
 date: 2023-12-20T09:23:52
 
 eventDate: '1989-03-12'
-eventSummary: 'Tim Berners-Lee face primele propuneri pentru „World Wide Web”'
 
 ---
 

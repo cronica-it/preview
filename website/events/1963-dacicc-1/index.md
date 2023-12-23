@@ -1,12 +1,11 @@
 ---
 slug: 1963/dacicc-1
-title: 'Calculatorul DACICC-1'
+title: 'La Cluj-Napoca este pus în funcțiune calculatorul DACICC-1'
 authors: [gserban, ilg-ul]
 tags: [calculatoare, autor:gheorghe.serban]
 date: 2023-12-18T18:17:32
 
 eventDate: '1963'
-eventSummary: 'La Cluj-Napoca este pus în funcțiune calculatorul DACICC-1'
 
 ---
 

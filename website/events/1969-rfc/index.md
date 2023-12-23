@@ -1,12 +1,11 @@
 ---
 slug: 1969/rfc
-title: 'Request for Comments'
+title: 'Steve Crocker inițiază metodologia de „Requests for Comments”'
 authors: [ilg-ul]
 tags: [international, internet, autor:liviu.ionescu]
 date: 2023-12-13T22:14:22
 
 eventDate: '1969'
-eventSummary: 'Steve Crocker inițiază metodologia de „Requests for Comments”'
 
 ---
 

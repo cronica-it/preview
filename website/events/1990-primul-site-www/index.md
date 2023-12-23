@@ -1,12 +1,11 @@
 ---
 slug: 1990/primul-site-www
-title: 'Primul site WWW'
+title: 'La CERN apare primul site WWW'
 authors: [gserban, ilg-ul]
 tags: [international, internet, servicii, autor:gheorghe.serban]
 date: 2023-12-20T09:38:54
 
 eventDate: '1990'
-eventSummary: 'La CERN apare primul site WWW'
 
 ---
 

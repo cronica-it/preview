@@ -1,12 +1,11 @@
 ---
 slug: 1979/calculatorul-coral
-title: 'Lansare minicalculator „Coral”'
+title: 'La ICE Felix este lansat calculatorul Coral'
 authors: [ilg-ul]
 tags: [calculatoare, autor:liviu.ionescu]
 date: 2023-11-07T08:29
 
 eventDate: '1979'
-eventSummary: 'La ICE Felix este lansat calculatorul Coral'
 
 ---
 

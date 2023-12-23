@@ -1,12 +1,11 @@
 ---
 slug: 1997/cisco-networking-academy
-title: 'Cisco Networking Academy in California'
+title: 'Cisco Systems lansează programul Networking Academy în California'
 authors: [gserban, ilg-ul]
 tags: [international, educatie, autor:gheorghe.serban]
 date: 2023-12-20T18:27:09
 
 eventDate: '1997'
-eventSummary: 'Cisco Systems lansează programul Networking Academy în California'
 
 ---
 

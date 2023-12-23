@@ -1,12 +1,11 @@
 ---
 slug: 1854/telegraf-muntenia
-title: 'Prima linie de telegraf în Țara Românească'
+title: 'În Țara Românească este instalată prima linie de telegraf'
 authors: [gserban, ilg-ul]
 tags: [comunicatii, autor:gheorghe.serban]
 date: 2023-12-21T07:27:52
 
 eventDate: '1854'
-eventSummary: 'În Țara Românească este instalată prima linie de telegraf'
 
 ---
 

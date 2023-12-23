@@ -1,12 +1,11 @@
 ---
 slug: 1440/gutenberg-tipar-mobil
-title: 'Tiparul lui Gutenberg'
+title: 'Johannes Gutenberg crează tiparul cu caractere mobile'
 authors: [gserban, ilg-ul]
 tags: [international, comunicatii, autor:gheorghe.serban]
 date: 2023-12-15T09:46:35
 
 eventDate: '1440'
-eventSummary: 'Johannes Gutenberg crează tiparul cu caractere mobile'
 
 ---
 

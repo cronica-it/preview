@@ -1,12 +1,11 @@
 ---
 slug: 1995/telegrama
-title: 'Telegrama - serviciul de presă prin email'
+title: 'Ștefan Niculescu Maier crează serviciul de presă „Telegrama”'
 authors: [smaier, ivaciu]
 tags: [presa, servicii, internet, autor:stefan.maier, autor:ion.vaciu]
 date: 2023-11-03T22:20
 
 eventDate: '1995'
-eventSummary: 'Ștefan Niculescu Maier crează serviciul de presă „Telegrama”'
 
 ---
 

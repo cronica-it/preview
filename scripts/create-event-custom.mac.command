@@ -37,7 +37,7 @@ script_base="create-event" # $(echo "${script_name}" | sed -e 's/\(.*\)[.]mac[.]
 
 # export CRONICA_IT_AUTHORS="arot"
 # export CRONICA_IT_AUTHORS="radujugu"
-# export CRONICA_IT_AUTHORS="ntapus"
+# export CRONICA_IT_AUTHORS="ntapus, ilg-ul"
 export CRONICA_IT_AUTHORS="gserban, ilg-ul"
 
 # export CRONICA_IT_TAGS="autor:alexandru.rotaru"

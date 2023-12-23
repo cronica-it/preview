@@ -1,12 +1,11 @@
 ---
 slug: 2011/roedunet-4200-km-fibra-optica
-title: 'Peste 4200 km de fibră optică la RoEduNet'
+title: 'RoEduNet operează peste 4200 km de fibră optică'
 authors: [ntapus, ilg-ul]
 tags: [internet, educatie, autor:nicolae.tapus]
 date: 2023-12-22T18:36:29
 
 eventDate: '2011'
-eventSummary: 'RoEduNet operează peste 4200 km de fibră optică'
 
 ---
 

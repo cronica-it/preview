@@ -1,12 +1,11 @@
 ---
 slug: 2020/roedunet-local-100gbps
-title: 'Interconectare noduri RoEduNet la 100 Gbps'
+title: 'Nodurile RoEduNet sunt conectate la 100 Gbps'
 authors: [ntapus, ilg-ul]
 tags: [internet, educatie, autor:nicolae.tapus]
 date: 2023-12-22T18:42:04
 
 eventDate: '2020'
-eventSummary: 'Nodurile RoEduNet sunt conectate la 100 Gbps'
 
 ---
 

@@ -1,12 +1,11 @@
 ---
 slug: 1985/ici-renac-renod
-title: 'Proiectul UNIREA (RENAC/RENOD)'
+title: 'La ICI este realizat proiectul UNIREA'
 authors: [gserban, ilg-ul]
 tags: [ici, autor:gheorghe.serban]
 date: 2023-12-21T09:27:56
 
 eventDate: '1985'
-eventSummary: 'La ICI este realizat proiectul UNIREA'
 
 ---
 

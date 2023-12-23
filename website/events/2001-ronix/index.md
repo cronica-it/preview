@@ -1,12 +1,11 @@
 ---
 slug: 2001/ronix
-title: 'Romanian Network for Internet eXchange'
+title: 'În Palatul Telefoanelor este instalat primul nod RoNIX'
 authors: [gserban, ilg-ul]
 tags: [internet, autor:gheorghe.serban]
 date: 2023-12-20T19:04:08
 
 eventDate: '2001-09-07'
-eventSummary: 'În Palatul Telefoanelor este instalat primul nod RoNIX'
 
 ---
 

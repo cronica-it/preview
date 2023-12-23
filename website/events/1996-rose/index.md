@@ -1,13 +1,12 @@
 ---
 slug: 1996/rose
-title: "Conferința ROSE '96, București"
+title: "GURU organizează conferința ROSE '96, la București"
 authors: [arot]
 tags: [conferinte, internet, autor:alexandru.rotaru]
 date: 2023-11-01T09:17
 
 eventDate: '1996-10-30'
 eventEndDate: '1996-11-02'
-eventSummary: "GURU organizează conferința ROSE '96, la București"
 
 ---
 

@@ -1,12 +1,11 @@
 ---
 slug: 1614/napier-logaritmi
-title: 'Logaritmii lui John Napier și mașinile care efectuau operații de înmulțire'
+title: 'John Napiers crează mașini care înmulțeau numere folosind logaritmi'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
 date: 2023-12-15T11:18:18
 
 eventDate: '1614'
-eventSummary: 'John Napiers crează mașini care înmulțeau numere folosind logaritmi'
 
 ---
 

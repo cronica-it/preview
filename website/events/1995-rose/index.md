@@ -1,13 +1,12 @@
 ---
 slug: 1995/rose
-title: "Conferința ROSE '95, București"
+title: "GURU organizează conferința ROSE '95, la București"
 authors: [arot]
 tags: [conferinte, internet, autor:alexandru.rotaru]
 date: 2023-11-01T09:10
 
 eventDate: '1995-11-01'
 eventEndDate: '1995-11-04'
-eventSummary: "GURU organizează conferința ROSE '95, la București"
 
 ---
 

@@ -1,12 +1,11 @@
 ---
 slug: 820/notiunea-de-algoritm
-title: 'Termenul „algoritm”'
+title: 'Apare noțiunea de „algoritm”'
 authors: [gserban, ilg-ul]
 tags: [international, informatica, autor:gheorghe.serban]
 date: 2023-12-15T09:32:39
 
 eventDate: '820'
-eventSummary: 'Apare noțiunea de „algoritm”'
 
 ---
 
