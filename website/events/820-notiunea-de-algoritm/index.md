@@ -11,7 +11,7 @@ eventDate: '820'
 
 În jurul anului 820, Muḥammad ibn Mūsā al-Khwārizmī din Taskent
 dezvoltă conceptul de instrucțiuni de urmat pentru atingerea unui scop,
-numit ulterior **algoritm**.
+numit ulterior **algoritm** de către Ada Lovelace.
 
 <!-- truncate -->
 

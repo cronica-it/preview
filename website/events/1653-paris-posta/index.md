@@ -1,6 +1,6 @@
 ---
 slug: 1653/paris-posta
-title: 'La Paris este înființat un serviciu poștal'
+title: 'La Paris este înființat un serviciu poștal public'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
 date: 2023-12-15T15:20:04
@@ -14,7 +14,7 @@ un serviciu poștal public.
 
 <!-- truncate -->
 
-Au fost instalate cutii poștale pe diferite străzi, unde cetațenii depuneau scrisorile, care erau apoi preluate de trei ori pe zi de funcționari anume desemnati si transmise la destinatie.
+Au fost instalate cutii poștale pe diferite străzi, unde cetațenii depuneau scrisorile, care erau apoi preluate de trei ori pe zi de funcționari anume desemnați și transmise la destinație.
 
 ## Referințe
 
