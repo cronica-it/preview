@@ -9,7 +9,7 @@ eventDate: '1972-10'
 
 ---
 
-În octombrie 1972, Robert E. Kahn a organizat o demonstrație
+În octombrie 1972, Robert E. Kahn organizează o demonstrație
 de mare succes, a **ARPANET**-ului, la International Computer Communication
 Conference (ICCC).
 

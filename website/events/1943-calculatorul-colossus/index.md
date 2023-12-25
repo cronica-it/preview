@@ -9,7 +9,7 @@ eventDate: '1943'
 
 ---
 
-Începând cu anul 1943, la Bletchley Park, a fost dezvoltată
+Începând cu anul 1943, la Bletchley Park, este dezvoltată
 o serie de computere numite **Colossus** pentru a ajuta la
 descifrarea mesajelor germane.
 

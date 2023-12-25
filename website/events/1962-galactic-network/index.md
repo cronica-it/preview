@@ -9,7 +9,7 @@ eventDate: '1962-08'
 
 ---
 
-în august 1962, a fost consemnată prima descriere înregistrată
+în august 1962, este consemnată prima descriere înregistrată
 a interacțiunilor sociale care ar putea fi
 activată prin intermediul rețelei, într-o serie de memorii scrise de
 Joseph Carl Robnett Licklider de la MIT, în care se discută despre

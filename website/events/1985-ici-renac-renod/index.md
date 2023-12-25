@@ -1,6 +1,6 @@
 ---
 slug: 1985/ici-renac-renod
-title: 'La ICI este realizat proiectul UNIREA'
+title: 'La ICI este realizat proiectul UNIREA (RENAC/RENOD)'
 authors: [gserban, ilg-ul]
 tags: [ici, autor:gheorghe.serban]
 date: 2023-12-21T09:27:56
@@ -9,7 +9,7 @@ eventDate: '1985'
 
 ---
 
-În anul 1985, la ICI, este realizat experimentul UNIREA,
+În anul 1985, la ICI, este realizat experimentul **UNIREA**,
 prima rețea de transmisiuni de date cu comutare de
 pachete în România, în cadrul proiectelor **RENAC**/**RENOD**,
 prin care sunt conectate cele trei provincii istorice.

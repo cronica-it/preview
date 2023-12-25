@@ -11,7 +11,7 @@ eventDate: '1877-04'
 
 În Aprilie 1877, prima linie telefonică conectează atelierul lui
 Charles Williams, Jr., situat în Boston, de casa sa din Somerville,
-Massachusetts, la 109 Court Street din Boston, unde Alexander
+Massachusetts, unde Alexander
 Graham Bell și Thomas Watson experimentaseră anterior cu
 telefonul lor.
 

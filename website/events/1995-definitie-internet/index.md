@@ -9,7 +9,7 @@ eventDate: '1995-10-24'
 
 ---
 
-În 24 octombrie 1995, Federal Networking Council (FNC) a adoptat în
+În 24 octombrie 1995, Federal Networking Council (FNC) adoptă în
 unanimitate o rezoluție care definește termenul **Internet**.
 
 <!-- truncate -->

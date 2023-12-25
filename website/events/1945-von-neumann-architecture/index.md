@@ -1,6 +1,6 @@
 ---
 slug: 1945/von-neumann-architecture
-title: 'John von Neumann descrie un computer cu program stocat'
+title: 'John von Neumann descrie un computer cu program memorat'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
 date: 2023-12-24T17:10:38
@@ -11,7 +11,7 @@ eventDate: '1945-06-30'
 
 În 30 iunie 1945, John von Neumann scrie „First Draft of a Report
 on the EDVAC” care conține prima descriere publicată a designului logic
-al unui calculator folosind conceptul de program stocat, ulterior
+al unui calculator folosind conceptul de program memorat, ulterior
 cunoscut sub numele de **arhitectura von Neumann**.
 
 <!-- truncate -->

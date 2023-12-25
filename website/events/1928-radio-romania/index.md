@@ -9,7 +9,7 @@ eventDate: '1928-11-01'
 
 ---
 
-La 1 noiembrie 1928 se difuzează prima emisiune a **Societăţii de
+La 1 noiembrie 1928 este difuzată prima emisiune a **Societăţii de
 Difuziune Radiotelefonică**, aşa cum era denumit serviciul public
 de radiodifuziune în actul oficial de constituire din 22 decembrie 1926.
 

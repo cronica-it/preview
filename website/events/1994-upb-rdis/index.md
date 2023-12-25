@@ -10,8 +10,7 @@ eventDate: '1994-11-24'
 ---
 
 Prin Ordinul 8964 din 24.11.1994 al Ministrului Educației este înființată
-**Rețeaua de Date a Învățământului
-Superior (RDIS)**.
+**Rețeaua de Date a Învățământului Superior (RDIS)**.
 
 <!-- truncate -->
 

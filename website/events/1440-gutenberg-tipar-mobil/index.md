@@ -9,8 +9,8 @@ eventDate: '1440'
 
 ---
 
-Se consideră că în 1440, în timp ce locuia la Strasbourg, Gutenberg
-a perfectat tehnica de tipărire folosind litere separate (mobile).
+Se consideră că în 1440, la Strasbourg, Gutenberg
+perfectează tehnica de tipărire folosind litere separate (mobile).
 
 <!-- truncate -->
 

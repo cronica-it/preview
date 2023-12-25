@@ -9,7 +9,7 @@ eventDate: '1957'
 
 ---
 
-In 1957, s-a pus în funcțiune **CIFA-1**, primul calculator electronic românesc
+In 1957, este pus în funcțiune **CIFA-1**, primul calculator electronic românesc
 (cu tuburi electronice), realizat la Institutul de Fizică Atomică – Măgurele,
 de către un colectiv condus de Victor Toma.
 
