@@ -15,6 +15,9 @@
   --ifm-color-primary-lightest: #00b6ea;
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+  --ifm-h1-font-size: 1.5rem;
+  --ifm-h2-font-size: 1.25rem;
+  --ifm-h3-font-size: 1.12rem;
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
@@ -27,6 +30,18 @@
   --ifm-color-primary-lighter: #00bbf7;
   --ifm-color-primary-lightest: #19c7ff;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
+
+/* Reduce title size in blog list */
+.blog-list-page h2[class*="title"]
+{
+  font-size: 2.5rem;
+}
+
+/* Reduce title size in blog page */
+.blog-post-page h1[class*="title"]
+{
+  font-size: 2.5rem;
 }
 
 table.chronology tr {
