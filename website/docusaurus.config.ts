@@ -103,6 +103,7 @@ const config: Config = {
         {
           type: 'dropdown',
           label: 'Evenimente',
+          to: '/events',
           position: 'left',
           items: [
             {
@@ -123,6 +124,7 @@ const config: Config = {
         {
           type: 'dropdown',
           label: 'Amintiri',
+          to: '/blog',
           position: 'left',
           items: [
             {
