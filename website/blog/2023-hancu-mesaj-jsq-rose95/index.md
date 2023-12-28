@@ -458,4 +458,4 @@ e-mail: hancu@cam.org
 
 ## Referințe
 
-- [ROSE '95](/events/1995/rose/)
+- [ROSE '95](/events/1995/conferinta-rose-95/)

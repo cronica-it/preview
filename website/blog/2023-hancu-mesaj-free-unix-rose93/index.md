@@ -399,4 +399,4 @@ fax: (94) 162455
 
 ## Referințe
 
-- [ROSE '93](/events/1993/rose/)
+- [ROSE '93](/events/1993/conferinta-rose-93/)
