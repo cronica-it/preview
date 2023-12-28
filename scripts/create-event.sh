@@ -103,6 +103,7 @@ echo "## Referințe" >>"${tmp_file_path}"
 echo >>"${tmp_file_path}"
 
 echo "${links}" >>"${tmp_file_path}"
+echo "- [en.wikipedia.org - ]()" >>"${tmp_file_path}"
 
 index_file_path="${events_folder_path}/${event_folder_name}/index.md"
 
