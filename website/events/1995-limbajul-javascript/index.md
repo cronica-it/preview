@@ -1,6 +1,6 @@
 ---
 slug: 1995/limbajul-javascript
-title: 'Netscape lansează limbajul JavaScript'
+title: 'Netscape lansează limbajul „JavaScript”'
 authors: [ilg-ul]
 tags: [international, internet, autor:liviu.ionescu]
 date: 2023-12-20T17:58:24

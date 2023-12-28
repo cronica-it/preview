@@ -1,6 +1,6 @@
 ---
 slug: 1995/limbajul-java
-title: 'Sun Microsistems anunță limbajul Java'
+title: 'Sun Microsistems anunță limbajul „Java”'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
 date: 2023-12-20T17:38:53

@@ -1,6 +1,6 @@
 ---
 slug: 1943/calculatorul-colossus
-title: 'La Bletchley Park este realizat „Colossus Mark 1”'
+title: 'La Bletchley Park este realizat calculatorul „Colossus Mark 1”'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
 date: 2023-12-24T17:34:46
@@ -10,7 +10,7 @@ eventDate: '1943'
 ---
 
 Începând cu anul 1943, la Bletchley Park, este dezvoltată
-o serie de computere numite **Colossus** pentru a ajuta la
+o serie de calculatoare numite **Colossus** pentru a ajuta la
 descifrarea mesajelor germane.
 
 <!-- truncate -->

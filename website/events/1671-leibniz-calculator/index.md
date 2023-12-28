@@ -15,6 +15,10 @@ efectua cele patru operații aritmetice.
 
 <!-- truncate -->
 
+Un număr de astfel de mașini au fost fabricate în anii petrecuți în
+Hanovra de un meșter care lucra sub supravegherea sa.
+
 ## Referințe
 
 - [rite.org.ro - Istoria Internetului](https://rite.org.ro/istoria-internetului/)
+- [en.wikipedia.org - Leibniz](https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz)

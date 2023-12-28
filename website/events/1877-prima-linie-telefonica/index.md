@@ -1,6 +1,6 @@
 ---
 slug: 1877/prima-linie-telefonica
-title: 'Este instalată prima linie telefonică'
+title: 'În Boston este instalată prima linie telefonică'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
 date: 2023-12-24T09:14:29

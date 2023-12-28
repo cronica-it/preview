@@ -1,6 +1,6 @@
 ---
 slug: 1894/marconi-radio
-title: 'Gulielmo Marconi realizează primul echipament de transmisii radio'
+title: 'Guglielmo Marconi realizează primul echipament de transmisii radio'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
 date: 2023-12-24T10:35:10
@@ -9,7 +9,7 @@ eventDate: '1894-12'
 
 ---
 
-În decembrie 1894, Gulielmo Marconi realizează primul echipament de
+În decembrie 1894, Guglielmo Marconi realizează primul echipament de
 transmisii radio, cu un oscilator cu scântei.
 
 <!-- truncate -->

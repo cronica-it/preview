@@ -1,6 +1,6 @@
 ---
 slug: 1837/morse-telegraf
-title: 'Morse începe lucrul la o versiune de telegraf electric'
+title: 'Samuel Morse începe lucrul la o versiune de telegraf electric'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
 date: 2023-12-23T17:32:31
@@ -9,7 +9,7 @@ eventDate: '1837'
 
 ---
 
-În jurul anului 1837, Samule Morse începe lucrul la o versiune de
+În jurul anului 1837, Samuel Morse începe lucrul la o versiune de
 telegraf electric,
 un aparat care transmite literele sub forma de coduri formate din combinatii
 de puncte si linii (care mai târziu va deveni codul Morse).

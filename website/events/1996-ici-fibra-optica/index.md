@@ -21,6 +21,8 @@ linie digitală între București (ICI) și Budapesta.
 Legătura a fost finanțată prin programul PHARE multinațional
 și a functionat pâna in februarie 1998.
 
+TODO: de aflat ce capacitate avea linia.
+
 ## Referințe
 
 - [hotnews.ro - Istoria internetului in Romania](https://economie.hotnews.ro/stiri-20_ani_internet-15969144-istoria-internetului-romania-alexandru-rotaru-nu-pot-spun-inventat-noi-ceva-plus-aici-romania-doar-majoritatea-noutatilor-adoptat-printre-primii.htm)

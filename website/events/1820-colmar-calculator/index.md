@@ -1,6 +1,6 @@
 ---
 slug: 1820/colmar-calculator
-title: 'Colmar inventează un mecanism de calcul'
+title: 'Charles Colmar inventează un mecanism de calcul'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
 date: 2023-12-23T15:44:38
@@ -15,7 +15,7 @@ mașinarie care poate realiza cele 4 calcule matematice elementare.
 <!-- truncate -->
 
 Calculatorul mecanic al lui Colmar reprezintă o apropiere mai mare de
-computere deoarece putea aduna, scade, inmulți si împărți. Mașina,
+calculatoare deoarece putea aduna, scade, inmulți si împărți. Mașina,
 numita „L’Arithmometre” a fost vândută în peste 1500 de exemplare
 în 30 de ani și s-a utilizat până la primul război mondial.
 

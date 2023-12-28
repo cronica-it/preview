@@ -17,7 +17,7 @@ conceptul „Galactic Network”.
 
 <!-- truncate -->
 
-Licklider și-a imaginat un set de computere interconectate la nivel
+Licklider și-a imaginat un set de calculatoare interconectate la nivel
 global prin care
 toată lumea putea accesa rapid date și programe de pe orice site. In spirit,
 conceptul semăna foarte mult cu internetul de astăzi. Licklider a fost

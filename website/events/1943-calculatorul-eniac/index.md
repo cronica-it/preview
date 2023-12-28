@@ -1,6 +1,6 @@
 ---
 slug: 1943/calculatorul-eniac
-title: 'Începe construcția calculatorului ENIAC'
+title: 'Începe construcția calculatorului „ENIAC”'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
 date: 2023-12-24T18:04:07
@@ -26,7 +26,7 @@ operațiuni pe numerele de 10 cifre. Într-unul dintre aceste cicluri,
 ENIAC putea scrie un număr într-un registru, putea citi un număr
 dintr-un registru sau aduna/scădea două numere.
 
-A fost primul computer digital programabil, electronic, de uz general,
+A fost primul calculator digital programabil, electronic, de uz general,
 Turing-complet și capabil să rezolve „o clasă mare de probleme numerice”
 prin reprogramare.
 

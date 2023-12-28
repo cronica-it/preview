@@ -1,6 +1,6 @@
 ---
 slug: 1939/calculatorul-abc
-title: 'Atanasoff și Berry încep lucrul la primul computer digital'
+title: 'Atanasoff și Berry încep lucrul la „ABC”, primul calculator digital'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
 date: 2023-12-24T15:07:51
@@ -10,7 +10,7 @@ eventDate: '1939'
 ---
 
 În anul 1939, John Vincent Atanasoff și Clifford Edward Berry încep lucrul
-la primul computer electronic digital, cu tuburi electronice, cunoscut
+la primul calculator electronic digital, cu tuburi electronice, cunoscut
 sub numele de **ABC (Atanasoff–Berry computer)**.
 
 <!-- truncate -->
@@ -23,7 +23,7 @@ O premieră clară a fost viteza de calcul,
 fiind primul care a folosit tuburi cu vid pentru a face
 calculele aritmetice.
 
-Conform relatării lui Atanasoff, câteva principii cheie ale computerului
+Conform relatării lui Atanasoff, câteva principii cheie ale calculatorului
 Atanasoff-Berry s-au conturat după discuții care au avut loc
 într-o lungă călătorie pe timp de noapte
 până la Rock Island, Illinois, în timpul iernii 1937-1938.
@@ -45,7 +45,7 @@ Sistemul cântărea mai mult de 320 kg, conținea aproximativ 1,5 km de sârmă,
 280 de tuburi de vid cu dublă triodă, 31 de tiratroni și avea
 aproximativ dimensiunea unui birou.
 
-Memoria computerului Atanasoff-Berry era un sistem numit memorie de
+Memoria calculatorului Atanasoff-Berry era un sistem numit memorie de
 condensator regenerativ, care consta dintr-o pereche de tamburi,
 fiecare conținând 1600 de condensatori care se roteau pe un arbore
 comun o dată pe secundă. Condensatorii de pe fiecare tambur au fost

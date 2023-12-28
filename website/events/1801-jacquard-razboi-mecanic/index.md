@@ -1,6 +1,6 @@
 ---
 slug: 1801/jacquard-razboi-mecanic
-title: 'Jacquard construiește un război mecanic pentru țesut'
+title: 'Joseph-Marie Jacquard construiește un război mecanic pentru țesut'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
 date: 2023-12-23T15:37:42

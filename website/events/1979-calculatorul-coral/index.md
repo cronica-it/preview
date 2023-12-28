@@ -1,6 +1,6 @@
 ---
 slug: 1979/calculatorul-coral
-title: 'La ICE Felix este lansat calculatorul Coral'
+title: 'ICE Felix lansează calculatorul „Coral”'
 authors: [ilg-ul]
 tags: [calculatoare, autor:liviu.ionescu]
 date: 2023-11-07T08:29
@@ -25,3 +25,4 @@ Minicalculatoarele Coral rulau o variantă a sistemului de operare RSX-11M.
 - [ro.wikipedia.org - Cronologie a informaticii românești](https://ro.wikipedia.org/wiki/Cronologie_a_informaticii_românești)
 - [ro.wikipedia.org - Istoria informaticii în România](https://ro.wikipedia.org/wiki/Istoria_informaticii_în_România)
 - [retroit.ro - Coral 4001](https://retroit.ro/product/coral-4001/)
+- [en.wikipedia.org - PDP-11](https://en.wikipedia.org/wiki/PDP-11#Unlicensed_clones)
