@@ -23,14 +23,14 @@ a pregătit un test mai bine organizat și documentat.
 a navigat spre vest din Marea Britanie cu Marconi la bord,
 înregistrând cu atenție semnalele trimise zilnic de
 la stația Poldhu.
-Testele au arătat că semnalele telegrafice au fost recepționate
-până la 2.490 km și semnalele audio până la 3.400 km.
+Testele au arătat că semnalele radio au fost recepționate
+până la 3.400 km.
 
 Distanțele maxime au fost atinse noaptea, iar aceste teste au fost
 primele care au arătat că semnalele radio pentru transmisiunile cu
 unde medii și unde lungi se propagă mult mai departe noaptea decât ziua.
 
-La 17 decembrie 1902, o transmisie de la stația lui Marconi din Glace Bay,
+În 17 decembrie 1902, o transmisiune de la stația lui Marconi din Glace Bay,
 Nova Scotia, Canada, a devenit primul mesaj radio din lume care a
 traversat Atlanticul inițiat din America de Nord.
 

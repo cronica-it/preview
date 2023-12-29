@@ -13,7 +13,7 @@ eventDate: '1967-06-25'
 
 <!-- truncate -->
 
-Sateliții Intelsat difuzează prima transmisie video internațională în
+Sateliții Intelsat difuzează prima transmisiune video internațională în
 direct, specialul TV „Lumea noastră”.
 
 Programul de două ore și jumătate a fost coordonat din camera de control
