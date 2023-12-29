@@ -18,6 +18,9 @@ să înlăture ultimele obstacole pentru furnizarea rețelelor și servicii
 de telecomunicații într-un mediu concurențial către consumatori până la
 1 ianuarie 1998.
 
+Decizia a fost luată la 17 noiembrie 1994, de Consiliul de Ministri al
+Uniunii Europene.
+
 ## Referințe
 
 - [rite.org.ro - Istoria Internetului](https://rite.org.ro/istoria-internetului/)

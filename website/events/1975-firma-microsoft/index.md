@@ -11,7 +11,7 @@ eventDate: '1975-04-04'
 
 În 4 aprilie 1975, Bill Gates și Paul Allen înființează compania
 **Microsoft** pentru a dezvolta și vinde un interpretor BASIC
-pentru Altair 8800.
+pentru Altair 8800, lansat la începutul anului.
 
 <!-- truncate -->
 

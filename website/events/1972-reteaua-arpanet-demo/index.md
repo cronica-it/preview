@@ -1,8 +1,8 @@
 ---
 slug: 1972/reteaua-arpanet-demo
 title: 'Robert Kahn face prima demonstrație cu ARPANET la ICCC'
-authors: [ilg-ul]
-tags: [international, internet, autor:liviu.ionescu]
+authors: [gserban, ilg-ul]
+tags: [international, internet, autor:gheorghe.serban]
 date: 2023-12-13T22:06:20
 
 eventDate: '1972-10'

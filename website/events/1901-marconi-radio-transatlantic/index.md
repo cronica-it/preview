@@ -19,10 +19,10 @@ Deoarece mesajul recepționat a fost foarte simplu (trei puncte, litera
 `S` în codul Morse), realizarea a fost contestată, drept care Marconi
 a pregătit un test mai bine organizat și documentat.
 
-În februarie 1902, SS Philadelphia
-a navigat spre vest din Marea Britanie cu Marconi la bord,
+În februarie 1902, Marconi la bordul SS Philadelphia
+a navigat spre vest din Marea Britanie,
 înregistrând cu atenție semnalele trimise zilnic de
-la stația Poldhu.
+la stația Poldhu, Cornwall.
 Testele au arătat că semnalele radio au fost recepționate
 până la 3.400 km.
 
@@ -31,8 +31,8 @@ primele care au arătat că semnalele radio pentru transmisiunile cu
 unde medii și unde lungi se propagă mult mai departe noaptea decât ziua.
 
 În 17 decembrie 1902, o transmisiune de la stația lui Marconi din Glace Bay,
-Nova Scotia, Canada, a devenit primul mesaj radio din lume care a
-traversat Atlanticul inițiat din America de Nord.
+Nova Scotia, Canada, a devenit primul mesaj radio din America de Nord
+care a traversat Atlanticul.
 
 În 1901, Marconi a construit o stație în apropiere de South Wellfleet,
 Massachusetts, care, pe 18 ianuarie 1903, a trimis un mesaj de salut din
