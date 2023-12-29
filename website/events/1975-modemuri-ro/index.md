@@ -14,7 +14,7 @@ sunt realizate **primele modemuri românesti**.
 
 <!-- truncate -->
 
-S-au făcut teste de transmisii de date pe liniile de comunicații din
+S-au făcut teste de transmisiuni de date pe liniile de comunicații din
 România (ICI si PTTR).
 
 ## Referințe

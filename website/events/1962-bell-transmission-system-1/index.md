@@ -22,7 +22,7 @@ A fost dezvoltat de AT&T la Bell Laboratories ca. 1957 și folosit pentru
 prima dată în 1962 pentru transmisia pe distanțe lungi a
 convorbirilor vocale digitale cu modulație PCM.
 
-Sistemul a făcut posibile și primele linii de transmisii digitale, de
+Sistemul a făcut posibile și primele linii de transmisiuni digitale, de
 1.544 Mbit/s.
 
 Versiuni ulterioare ale protocolului au suportat 48, 96 convorbiri

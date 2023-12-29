@@ -1,6 +1,6 @@
 ---
 slug: 1901/marconi-radio-transatlantic
-title: 'Guglielmo Marconi efectuează primele transmisii radio transatlantice'
+title: 'Guglielmo Marconi efectuează primele transmisiuni radio transatlantice'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
 date: 2023-12-29T10:41:34
@@ -27,7 +27,7 @@ Testele au arătat că semnalele telegrafice au fost recepționate
 până la 2.490 km și semnalele audio până la 3.400 km.
 
 Distanțele maxime au fost atinse noaptea, iar aceste teste au fost
-primele care au arătat că semnalele radio pentru transmisiile cu
+primele care au arătat că semnalele radio pentru transmisiunile cu
 unde medii și unde lungi se propagă mult mai departe noaptea decât ziua.
 
 La 17 decembrie 1902, o transmisie de la stația lui Marconi din Glace Bay,
