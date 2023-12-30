@@ -4,28 +4,40 @@ const rowSize = 3
 
 function splitRows(images) {
     const rows = []
-    for (let i = 0; i < images.length / rowSize; ++i) {
-        const row = []
-        for (let j = 0; j < rowSize; ++j) {
-            if (i * rowSize + j < images.length) {
-                row.push(images[i * rowSize + j])
-            }
+
+    let row = []
+    images.forEach((image, index) => {
+        if (index % rowSize == 0) {
+            row = []
+            rows.push(row)
         }
-        rows.push(row)
-    }
+        row.push(image)
+    })
+
     return rows
 }
 
-function Columns({ columns }) {
-    return columns.map(column => <td><img src={column.src} alt={column.alt} /></td>)
+function ImagesTableColumns({ columns }) {
+    return columns.map(column =>
+        <td>
+            <img src={column.src} alt={column.alt} />
+        </td>
+    )
 }
 
-function Rows({ rows }) {
-    return rows.map(row => <tr><Columns columns={row} /></tr>)
+function ImagesTableRows({ rows }) {
+    return rows.map(row =>
+        <tr>
+            <ImagesTableColumns columns={row} />
+        </tr>
+    )
 }
 
 export function ImagesTable({ images }): JSX.Element {
     const rows = splitRows(images)
-
-    return <table class="images"><Rows rows={rows} /></table>;
+    return (
+        <table class="images">
+            <ImagesTableRows rows={rows} />
+        </table>
+    );
 }
