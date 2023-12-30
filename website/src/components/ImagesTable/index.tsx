@@ -27,9 +27,5 @@ function Rows({ rows }) {
 export function ImagesTable({ images }): JSX.Element {
     const rows = splitRows(images)
 
-    return (
-        <table class="images">
-            <Rows rows={rows} />
-        </table>
-    );
+    return <table class="images"><Rows rows={rows} /></table>;
 }
