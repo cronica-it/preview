@@ -10,6 +10,7 @@ date: 2023-12-30T07:14:11
 În 28 decembrie 2010, Nini Vasilescu (YO3CCC) a publicat, pe site-ul
 [nini.qsl.ro](http://nini.qsl.ro)
 un interviu cu **Nicoară (Lix) Paulian**, fondatorul grupului Lixco.
+Interviul a fost realizat pe 4 noiembrie 2010.
 
 <!-- truncate -->
 
@@ -18,6 +19,8 @@ un interviu cu **Nicoară (Lix) Paulian**, fondatorul grupului Lixco.
 ## Să facem cunoștință cu Nicoară Paulian (Lix) YO3NP
 
 Despre Lix am auzit foarte multe povești la vremea respectivă. Atunci, am rămas surprins de ingeniozitatea acelui grup din care facea parte și Lix, care a reușit să pună la punct o serie de aparate specifice radioamatorilor: transceiver-ul A412, manipulator electronic, terminale RTTY, dar și calculatorul L/B 881. Și eu am fost unul dintre cei care am construit și folosit un A412. Neșansa a făcut ca pâna acum să nu-l întâlnesc niciodată pe acest constructor pasionat.
+
+![](https://github.com/cronica-it/arhiva/releases/download/2010-lix-interviu-qsl-ro/DSCN0021.JPG)
 
 Nini: Data si locul nasterii?
 
@@ -133,9 +136,60 @@ Lix: Am spus deja ca este un subiect prea larg ca sa-l putem trata aici. Importa
 
 Cautand in arhiva personala am gasit un film (placa F) de pe vremea cand mi-am facut circuitele imprimate pentru A412 prin fotografiere la Sectia de Zincografie de la etajul 3 din Combinatul Poligrafic Casa Scanteii.
 
-Interviul a fost realizat pe 4 noiembrie 2010.
+## Imagini
 
-Mai multe poze ocazionate de acest interviu se gasesc in acest album: http://nini.qsl.ro/yo3ccc/Sa%20facem%20cunostinta%20cu%20Nicoara%20Paulian%20YO3NP/index.html
+<table class="images">
+  <tr>
+    <td><img src="https://github.com/cronica-it/arhiva/releases/download/2010-lix-interviu-qsl-ro/DSCN0001.JPG"></img></td>
+    <td><img src="https://github.com/cronica-it/arhiva/releases/download/2010-lix-interviu-qsl-ro/DSCN0002.JPG"></img></td>
+    <td><img src="https://github.com/cronica-it/arhiva/releases/download/2010-lix-interviu-qsl-ro/DSCN0003.JPG"></img></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/cronica-it/arhiva/releases/download/2010-lix-interviu-qsl-ro/DSCN0004.JPG"></img></td>
+    <td><img src="https://github.com/cronica-it/arhiva/releases/download/2010-lix-interviu-qsl-ro/DSCN0005.JPG"></img></td>
+    <td><img src="https://github.com/cronica-it/arhiva/releases/download/2010-lix-interviu-qsl-ro/DSCN0006.JPG"></img></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/cronica-it/arhiva/releases/download/2010-lix-interviu-qsl-ro/DSCN0007.JPG"></img></td>
+    <td><img src="https://github.com/cronica-it/arhiva/releases/download/2010-lix-interviu-qsl-ro/DSCN0008.JPG"></img></td>
+    <td><img src="https://github.com/cronica-it/arhiva/releases/download/2010-lix-interviu-qsl-ro/DSCN0009.JPG"></img></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/cronica-it/arhiva/releases/download/2010-lix-interviu-qsl-ro/DSCN0010.JPG"></img></td>
+    <td><img src="https://github.com/cronica-it/arhiva/releases/download/2010-lix-interviu-qsl-ro/DSCN0011.JPG"></img></td>
+    <td><img src="https://github.com/cronica-it/arhiva/releases/download/2010-lix-interviu-qsl-ro/DSCN0012.JPG"></img></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/cronica-it/arhiva/releases/download/2010-lix-interviu-qsl-ro/DSCN0013.JPG"></img></td>
+    <td><img src="https://github.com/cronica-it/arhiva/releases/download/2010-lix-interviu-qsl-ro/DSCN0014.JPG"></img></td>
+    <td><img src="https://github.com/cronica-it/arhiva/releases/download/2010-lix-interviu-qsl-ro/DSCN0015.JPG"></img></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/cronica-it/arhiva/releases/download/2010-lix-interviu-qsl-ro/DSCN0016.JPG"></img></td>
+    <td><img src="https://github.com/cronica-it/arhiva/releases/download/2010-lix-interviu-qsl-ro/DSCN0017.JPG"></img></td>
+    <td><img src="https://github.com/cronica-it/arhiva/releases/download/2010-lix-interviu-qsl-ro/DSCN0018.JPG"></img></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/cronica-it/arhiva/releases/download/2010-lix-interviu-qsl-ro/DSCN0019.JPG"></img></td>
+    <td><img src="https://github.com/cronica-it/arhiva/releases/download/2010-lix-interviu-qsl-ro/DSCN0020.JPG"></img></td>
+    <td><img src="https://github.com/cronica-it/arhiva/releases/download/2010-lix-interviu-qsl-ro/DSCN0021.JPG"></img></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/cronica-it/arhiva/releases/download/2010-lix-interviu-qsl-ro/DSCN0022.JPG"></img></td>
+    <td><img src="https://github.com/cronica-it/arhiva/releases/download/2010-lix-interviu-qsl-ro/DSCN0023.JPG"></img></td>
+    <td><img src="https://github.com/cronica-it/arhiva/releases/download/2010-lix-interviu-qsl-ro/DSCN0024.JPG"></img></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/cronica-it/arhiva/releases/download/2010-lix-interviu-qsl-ro/DSCN0025.JPG"></img></td>
+    <td><img src="https://github.com/cronica-it/arhiva/releases/download/2010-lix-interviu-qsl-ro/DSCN0026.JPG"></img></td>
+    <td><img src="https://github.com/cronica-it/arhiva/releases/download/2010-lix-interviu-qsl-ro/DSCN0027.JPG"></img></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/cronica-it/arhiva/releases/download/2010-lix-interviu-qsl-ro/DSCN0028.JPG"></img></td>
+    <td><img src="https://github.com/cronica-it/arhiva/releases/download/2010-lix-interviu-qsl-ro/DSCN0029.JPG"></img></td>
+    <td></td>
+  </tr>
+</table>
 
 ## Referințe
 
