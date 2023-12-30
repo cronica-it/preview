@@ -17,27 +17,23 @@ function splitRows(images) {
     return rows
 }
 
-function ImagesTableColumns({ columns }) {
-    return columns.map(column =>
-        <td>
-            <img src={column.src} alt={column.alt} />
-        </td>
-    )
-}
-
-function ImagesTableRows({ rows }) {
-    return rows.map(row =>
-        <tr>
-            <ImagesTableColumns columns={row} />
-        </tr>
-    )
-}
-
 export function ImagesTable({ images }): JSX.Element {
     const rows = splitRows(images)
     return (
         <table class="images">
-            <ImagesTableRows rows={rows} />
+            {
+                rows.map(row =>
+                    <tr>
+                        {
+                            row.map(column =>
+                                <td>
+                                    <img src={column.src} alt={column.alt} />
+                                </td>
+                            )
+                        }
+                    </tr>
+                )
+            }
         </table>
     );
 }
