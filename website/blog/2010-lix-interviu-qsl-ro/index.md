@@ -1,23 +1,23 @@
 ---
 slug: 2010/lix-interviu-qsl-ro
 title: 'Interviul cu Nicoară (Lix) Paulian publicat pe qsl.ro'
-authors: [ilg-ul]
-tags: []
+authors: [nvasilescu]
+tags: [interviuri, autor:nini.vasilescu]
 date: 2023-12-30T07:14:11
 
 ---
 
 În 28 decembrie 2010, Nini Vasilescu (YO3CCC) a publicat, pe site-ul
 [nini.qsl.ro](http://nini.qsl.ro)
-un interviu cu Nicoară (Lix) Paulian.
+un interviu cu **Nicoară (Lix) Paulian**, fondatorul grupului Lixco.
 
 <!-- truncate -->
 
 ---
 
-## Să facem cunoștință cu Nicoara Paulian (Lix) YO3NP
+## Să facem cunoștință cu Nicoară Paulian (Lix) YO3NP
 
-Despre Lix am auzit foarte multe povesti la vremea respectiva. Atunci, am ramas surprins de ingeniozitatea acelui grup din care facea parte si Lix, care a reusit sa puna la punct o serie de aparate specifice radioamatorilor: transceiver-ul A412, manipulator electronic, terminale RTTY, dar si calculatorul L/B 881. Si eu am fost unul din cei care am construit si folosit un A412. Nesansa a facut ca pana acum sa nu-l intalnesc niciodata pe acest constructor pasionat.
+Despre Lix am auzit foarte multe povești la vremea respectivă. Atunci, am rămas surprins de ingeniozitatea acelui grup din care facea parte și Lix, care a reușit să pună la punct o serie de aparate specifice radioamatorilor: transceiver-ul A412, manipulator electronic, terminale RTTY, dar și calculatorul L/B 881. Și eu am fost unul dintre cei care am construit și folosit un A412. Neșansa a făcut ca pâna acum să nu-l întâlnesc niciodată pe acest constructor pasionat.
 
 Nini: Data si locul nasterii?
 
@@ -139,4 +139,4 @@ Mai multe poze ocazionate de acest interviu se gasesc in acest album: http://nin
 
 ## Referințe
 
-- [nini.qsl.ro - Interviu](http://nini.qsl.ro/node/32)
+- [nini.qsl.ro - Interviu cu Nicoară (Lix) Paulian](http://nini.qsl.ro/node/32)
