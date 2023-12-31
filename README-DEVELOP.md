@@ -90,3 +90,12 @@ De asemenea se pot obține cu Alt+0132 („) și Alt+0148 (”).
 ```
 www<scan></scan>.some.thing
 ```
+
+## Imagini
+
+Pentru a nu îngreuna update-urile, imaginile sunt într-un site separat,
+grupate pe ani si articole, de exemplu
+
+```
+https://cronica-it.github.io/imagini/2010/lix-interviu-qsl-ro/DSCN0001.JPG
+```
