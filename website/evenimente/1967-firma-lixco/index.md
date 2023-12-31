@@ -38,10 +38,12 @@ a anunțat un upgrade la transceiverul A412, căruia i-a fost
 adăugat un PLL ce permitea introducerea frecvenței de la o
 tastatura digitală.
 
+Microcalculatorul L/B 881 a fost preluat și introdus în producție la ITCI-CCAB sub numele de CE 119.
+
 Activitatea Lixco practic s-a încheiat în primăvara lui 1990,
 când echipa a fost invitată la o firmă din Salzburg, Austria.
 
 ## Referințe
 
 - [Interviul lui Lix din qsl.ro](/amintiri/2010/lix-interviu-qsl-ro)
-- [L/B 881](evenimente/1983/calculatorul-lixco-lb-881)
+- [L/B 881](/evenimente/1983/calculatorul-lixco-lb-881)
