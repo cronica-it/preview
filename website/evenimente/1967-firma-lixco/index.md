@@ -27,7 +27,7 @@ Din echipa inițială mai făcea parte Dan Voiculescu (YO3JX) și
 În perioada 1976-1980, această echipă a realizat transceiverul
 **A412**.
 
-Ulterior echipei i s-au alăturat Ion Rusovici (YO3JF) și doi
+Ulterior echipei Lixco i s-au alăturat Ion Rusovici (YO3JF) și doi
 softiști, Gelu Chița și Liviu Ionescu.
 
 În 1983 a fost realizat microcalculatorul **L/B 881**, care a fost
