@@ -185,7 +185,7 @@ const config: Config = {
       style: 'dark',
       links: [
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Cronica IT&C. Built with Docusaurus.`,
+      copyright: `Copyright © 2023-${new Date().getFullYear()} Cronica IT&C. Built with Docusaurus.`,
     },
     prism: {
       theme: prismThemes.github,
