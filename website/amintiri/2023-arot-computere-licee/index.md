@@ -3,7 +3,8 @@ slug: 2023/arot-computere-licee
 title: 'GURU și programul „Computere pentru licee”'
 authors: [arot]
 tags: [conferinte, autor:alexandru.rotaru]
-date: 2023-12-12T07:15:57
+# date: 2023-12-12T07:15:57
+date: 2013-11-27
 
 ---
 

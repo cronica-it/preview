@@ -3,7 +3,8 @@ slug: 1994/hancu-mesaj-free-unix-rose94
 title: "Mesajul lui Marius Hâncu despre Free Unix for Romania la ROSE '94"
 authors: [hancu]
 tags: [mesaje, autor:marius.hancu]
-date: 2023-11-06T20:59
+# date: 2023-11-06T20:59
+date: 1994-11
 
 ---
 
@@ -17,7 +18,7 @@ Pentru conferința **ROSE '94**, Marius Hâncu a trimis mesajul de mai jos.
 		         FREE UNIX FOR ROMANIA
          - working for the programmers' freedom of choice -
 
-		    			    Marius Hancu (1)
+		    		Marius Hancu (1)
 					Gabriel Climescu (2)
 
 

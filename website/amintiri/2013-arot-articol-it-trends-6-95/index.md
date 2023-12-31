@@ -3,7 +3,8 @@ slug: 2013/arot-articol-it-trends-6-95
 title: "Articolul lui Adi Rotaru în IT Trends - Capitol 6 - '95"
 authors: [arot]
 tags: [articole, autor:alexandru.rotaru]
-date: 2023-11-03T22:07
+# date: 2023-11-03T22:07
+date: 2013-10
 
 ---
 

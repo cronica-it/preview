@@ -3,8 +3,8 @@ slug: 1997/agora-cerf-97-internet
 title: "CERF '97 - Internet în România"
 authors: [ilg-ul]
 tags: [internet]
-date: 2023-12-12T07:51:03
-# date: 1997-06
+# date: 2023-12-12T07:51:03
+date: 1997-06
 
 ---
 

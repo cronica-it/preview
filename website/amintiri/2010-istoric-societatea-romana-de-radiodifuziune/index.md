@@ -3,7 +3,8 @@ slug: 2010/istoric-societatea-romana-de-radiodifuziune
 title: 'Istoric - Societatea Română de Radiodifuziune'
 authors: [ilg-ul]
 tags: [radio]
-date: 2023-12-17T10:01:32
+# date: 2023-12-17T10:01:32
+date: 2010-06-23
 
 ---
 

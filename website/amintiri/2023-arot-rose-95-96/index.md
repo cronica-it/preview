@@ -3,7 +3,8 @@ slug: 2023/arot-rose-95-96
 title: "Conferințele ROSE '95 și ROSE '96"
 authors: [arot]
 tags: [conferinte, autor:alexandru.rotaru]
-date: 2023-12-12T07:26:21
+# date: 2023-12-12T07:26:21
+date: 2013-11-27
 
 ---
 
