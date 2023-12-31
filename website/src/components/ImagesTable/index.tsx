@@ -27,7 +27,7 @@ export function ImagesTable({ images }): JSX.Element {
                         {
                             row.map(column =>
                                 <td>
-                                    <img src={column.src} alt={column.alt} />
+                                    <a href={column.src}><img src={column.src} alt={column.alt} /></a>
                                 </td>
                             )
                         }
