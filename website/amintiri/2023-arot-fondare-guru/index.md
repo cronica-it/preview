@@ -4,7 +4,7 @@ title: 'Fondarea asociației GURU'
 authors: [arot]
 tags: [asociatii, autor:alexandru.rotaru]
 # date: 2023-12-11T23:09:40
-date: 2013-11-27
+date: 2023-10-27
 
 ---
 

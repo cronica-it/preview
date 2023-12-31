@@ -4,12 +4,12 @@ title: 'Prezentarea lui Ioan Maxim la CNIV 2023'
 authors: [imaxim]
 tags: [articole, internet, autor:ioan.maxim]
 # date: 2023-12-22T13:28:34
-date: 2013-11-27
+date: 2023-10-27
 
 ---
 
 La conferința „CNIV 2023 - 30 de ani de Internet în România”,
-care a avut loc pe 27 Octobmbrie 2023 la Universitatea Politehnica
+care a avut loc pe 27 Octombrie 2023 la Universitatea Politehnica
 București, Ioan Maxim a avut o prezentare intitulată
 **Din inimă, în clouds sau 30 de ani de internet în Bucovina**.
 

@@ -4,12 +4,12 @@ title: 'Articolul Sandrei Pralong la CNIV 2023'
 authors: [spralong]
 tags: [articole, internet, autor:sandra.pralong]
 # date: 2023-12-22T10:16:32
-date: 2013-11-27
+date: 2023-10-27
 
 ---
 
 La conferința „CNIV 2023 - 30 de ani de Internet în România”,
-care a avut loc pe 27 Octobmbrie 2023 la Universitatea Politehnica
+care a avut loc pe 27 Octombrie 2023 la Universitatea Politehnica
 București, Sandra Pralong a contribuit un articol intitulat
 **Cum a ajuns informatica românească să fie pe val**.
 

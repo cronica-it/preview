@@ -4,12 +4,12 @@ title: 'Prezentarea lui Nicolai Sandu la CNIV 2023'
 authors: [nicolaus]
 tags: [articole, internet, autor:nicolai.sandu]
 # date: 2023-12-22T09:39:16
-date: 2013-11-27
+date: 2023-10-27
 
 ---
 
 La conferința „CNIV 2023 - 30 de ani de Internet în România”,
-care a avut loc pe 27 Octobmbrie 2023 la Universitatea Politehnica
+care a avut loc pe 27 Octombrie 2023 la Universitatea Politehnica
 București, Nicolai Sandu a avut o prezentare intitulată
 **30 de ani de „punct RO”**.
 

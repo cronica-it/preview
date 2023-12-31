@@ -4,7 +4,7 @@ title: "Conferința ROSE '94"
 authors: [arot]
 tags: [conferinte, autor:alexandru.rotaru]
 # date: 2023-12-12T07:18:00
-date: 2013-11-27
+date: 2023-10-27
 
 ---
 

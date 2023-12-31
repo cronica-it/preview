@@ -4,12 +4,12 @@ title: 'Prezentarea lui Dan Gârlașu la CNIV 2023'
 authors: [dgarlasu]
 tags: [articole, internet, autor:dan.garlasu]
 # date: 2023-12-21T19:10:03
-date: 2013-11-27
+date: 2023-10-27
 
 ---
 
 La conferința „CNIV 2023 - 30 de ani de Internet în România”,
-care a avut loc pe 27 Octobmbrie 2023 la Universitatea Politehnica
+care a avut loc pe 27 Octombrie 2023 la Universitatea Politehnica
 București, Dan Gârlașu a avut o prezentare intitulată
 **Despre începuturile Internetului în România**.
 
