@@ -9,7 +9,7 @@ eventDate: '2023-11-27'
 
 ---
 
-Vineri, 27 Octobmbrie 2023, la Universitatea Politehnica București,
+Vineri, 27 Octombrie 2023, la Universitatea Politehnica București,
 are loc **Conferința Națională de Învățământ Virtual – CNIV 2023**,
 cu tema **30 de ani de Internet în România**,
 organizată de profesorul Radu Jugureanu.
