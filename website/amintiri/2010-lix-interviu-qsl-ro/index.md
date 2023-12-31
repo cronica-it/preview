@@ -138,7 +138,9 @@ Nini: Ce poti sa-mi spui despre colaborarea ta cu dl. Afendulis?
 
 Lix: Am spus deja ca este un subiect prea larg ca sa-l putem trata aici. Important este ca de la o stare initiala de tensiune legata de ceea ce noi, Lixco, am considerat ca este un furt de proprietate intelectuala, am ajuns la o colaborare extrem de fructuoasa si pentru noi si pentru CCAB. Intre altele, imi amintesc de un contract de cercetare incheiat intre CCAB si ICPP, institutul unde lucram, in valoare de 1 milion de lei. Evident ca nimeni din Lixco nu a beneficiat de vreun ban din acest contract, dar in acest fel am putut oficializa colaborarea noastra. Lixco a beneficiat de pe urma colaborarii cu CCAB-ul intre altele prin aceea ca membrii echipei au primit cu titlu de folosinta imprimante Robotron, unitati de disc flexibil, samd.
 
-Cautand in arhiva personala am gasit un film (placa F) de pe vremea cand mi-am facut circuitele imprimate pentru A412 prin fotografiere la Sectia de Zincografie de la etajul 3 din Combinatul Poligrafic Casa Scanteii.
+---
+
+Nini: Cautand in arhiva personala am gasit un film (placa F) de pe vremea cand mi-am facut circuitele imprimate pentru A412 prin fotografiere la Sectia de Zincografie de la etajul 3 din Combinatul Poligrafic Casa Scanteii.
 
 ## Imagini
 
