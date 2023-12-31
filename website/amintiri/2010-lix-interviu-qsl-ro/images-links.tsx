@@ -1,4 +1,4 @@
-export const images = [
+export const imagesLinks = [
     {
         src: "https://cronica-it.github.io/imagini/2010/lix-interviu-qsl-ro/DSCN0001.JPG",
         alt: "DSCN0001.JPG"

@@ -8,7 +8,7 @@ date: 2010-12-10
 
 ---
 
-import { images } from './images.tsx'
+import { imagesLinks } from './images-links.tsx'
 import { ImagesTable } from '@site/src/components/ImagesTable';
 
 În 28 decembrie 2010, Nini Vasilescu (YO3CCC) a publicat, pe site-ul
@@ -144,7 +144,7 @@ Nini: Cautand in arhiva personala am gasit un film (placa F) de pe vremea cand m
 
 ## Imagini
 
-<ImagesTable images={images}/>
+<ImagesTable images={imagesLinks}/>
 
 ## Referințe
 
