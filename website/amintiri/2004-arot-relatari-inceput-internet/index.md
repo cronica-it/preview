@@ -59,7 +59,6 @@ Coral 4030, sistemul U, devoltat integral in Romania pe M216 sau alte
 versiuni de tip SCO / Xenix aparute in putinele locuri unde asa ceva
 putea sa apara (ITC, Fabrica de Calculatoare, ICI, IIRUC).
 
-
 ## Conferința OpenSystems organizată de EurOpen (Utrecht, octombrie 1992)
 
 Imediat dupa infiintarea asociatiei, am fost ales presedinte GURU.  In
@@ -110,7 +109,7 @@ Bucuresti, printr-un server Unix primit ca donatie, si alte legaturi
 sporadice internationale tot dial-up, de exemplu in Timisoara (prof
 Ioan Jurca prin Universitatea din Amsterdam).
 
-## Aparitia companiei EUnet BV  in 1992
+## Apariția companiei EUnet BV în 1992
 
 In a 3-a zi a conferintei OpenSystems la Utrecht am fost invitat, ca
 reprezentant GURU, intr-o sala unde avea sa se desfasoare unul dintre
@@ -308,7 +307,7 @@ si primul program de tranining Linux. Ca urmare a acestor cerinte, a
 aparut reteaua fundatiei SOROS, cu cele 4 noduri, dedicata initial, in
 primii doi ani, exclusiv scolilor din Romania.
 
-## Conectari pe satelit la Internet prin Intercomp SRL si Taide
+## Conectări pe satelit la Internet prin Intercomp SRL și Taide
 
 Primii furnizori comerciali de Internet au reusit sa vina in Romania la
 fundatia SOROS, cu oferte de conectare prin satelit.
@@ -420,7 +419,7 @@ si denumita: reteaua RoLink.  Aceasta avea sa se transforme mult mai
 tirziu in 1997, in operatorul comercial: IIRUC-RoLink, cind reteaua a
 fost trecuta in regim on-line.
 
-## Aparitia DNT
+## Apariția DNT
 
 In anul 1996 majoritatea retelelor care operau Internet in Romania erau
 comerciale, cu exceptia RNC-ului si a retelei ROEDUNET. EUnet,
@@ -450,7 +449,7 @@ anteriori tot de ea pentru scoli. Singurii care au ramas cu statut de
 gratuitate la DNT inca de la constituire au fost scolile pentru care
 aceasta retea de altfel fusese creata intial.
 
-## Finalul inceputului
+## Finalul începutului
 
 Am sa ma opresc aici referitor la ceea ce stiu eu despre inceputrile
 Internetului in Romania. S-ar putea completa destul si despre
@@ -462,4 +461,4 @@ prezentate.
 
 ## Referințe
 
-- [linux.punct.info - ](http://linux.punct.info/inceputurile_internet_in_Romania.html)
+- [linux.punct.info - Inteputurile internetului in România](http://linux.punct.info/inceputurile_internet_in_Romania.html)
