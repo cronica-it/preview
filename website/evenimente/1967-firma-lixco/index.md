@@ -16,7 +16,8 @@ prima inițiativă privată care a comercializat un microcalculator în România
 
 Prima menține a numelui a fost **Lixco Electronics**,
 inscripționat pe primul
-receptor realizat de Lix, în 1976. Spre sfârșitul
+receptor realizat de Lix, în 1967, când avea 14 ani.
+Spre sfârșitul
 anilor '70 numele Lixco era deja cunoscut printre radioamatorii din România.
 În anii '80 Lixco funcționa deja ca o firmă privată.
 
