@@ -1,9 +1,10 @@
 ---
-slug: 2023/arot-relatari-inceput-internet
+slug: 2004/arot-relatari-inceput-internet
 title: 'Relatările lui Adi Rotaru din perioada de început a Internetului în România.'
 authors: [arot]
 tags: [articole, autor:alexandru.rotaru]
-date: 2023-11-06T21:37
+# date: 2023-11-06T21:37
+date: 2004-07
 
 ---
 
@@ -16,8 +17,7 @@ ca experiență directă.
 
 ---
 
-## Ce stim si ce nu stim?
-----------------------
+## Ce știm și ce nu știm?
 
 Inceputurile au fost dominate de foarte mult entuziasm, de personaje cu
 o determinare iesita din comun, de configuratii mai deosebite ale
@@ -44,9 +44,7 @@ acestea sa poata fi consemnate intr-o istorie a Internetului din
 Romania, realizata altfel decit prin canoanele clasice ale datelor si
 cifrelor exacte.
 
-
-Anul primelor evenimente: 1992
--------------------------------
+## Anul primelor evenimente: 1992
 
 In anul 1992 s-a infiintat in Romania GURU: Asociata Romana a
 Utilizatorilor de Unix. La acest capitol am fost cu cel putin un an
@@ -62,8 +60,7 @@ versiuni de tip SCO / Xenix aparute in putinele locuri unde asa ceva
 putea sa apara (ITC, Fabrica de Calculatoare, ICI, IIRUC).
 
 
-Conferinta OpenSystems organizata de EurOpen (Utrecht, octombrie 1992)
-----------------------------------------------------------------------
+## Conferința OpenSystems organizată de EurOpen (Utrecht, octombrie 1992)
 
 Imediat dupa infiintarea asociatiei, am fost ales presedinte GURU.  In
 aceasta noua postura am calatorit in toamna anului 1992 la Utrecht, la
@@ -113,8 +110,7 @@ Bucuresti, printr-un server Unix primit ca donatie, si alte legaturi
 sporadice internationale tot dial-up, de exemplu in Timisoara (prof
 Ioan Jurca prin Universitatea din Amsterdam).
 
-Aparitia companiei EUnet BV  in 1992
--------------------------------------
+## Aparitia companiei EUnet BV  in 1992
 
 In a 3-a zi a conferintei OpenSystems la Utrecht am fost invitat, ca
 reprezentant GURU, intr-o sala unde avea sa se desfasoare unul dintre
@@ -176,8 +172,7 @@ dial-up pe UUCP la nodul EUnet Viena. Ulterior, la scurt timp, tot in
 1993 conexiunea s-a mutat prin dial-up la Amsterdam apoi on-line prin
 Transpac la EUnet Franta in Paris, folodind un circuit on-line X.25 la 64Kbps.
 
-Free Software for Romania
--------------------------
+## Free Software for Romania
 
 In toamna anului 1992 si inceputul lui 1993, deci in primul an de viata
 al Linux-ului, un numar mare de romani din emigratie au infiintat
@@ -201,8 +196,7 @@ inregistrate in tara. Toate aceste sisteme, documentatii si in general
 tot fondul de oameni angrenati in Free Software for Romania au facut ca
 Internetul sa fie posibil la acel moment si in tara.
 
-Anthony Rutkowski si Internet Society
--------------------------------------
+## Anthony Rutkowski și Internet Society
 
 Sa ne reintoarcem in 1993.
 
@@ -260,9 +254,7 @@ cei care pornisera activitatea in 1993 (incepind cu EUnet, EARM,
 ROMPAC, Logic Telecom, Politehnica si terminind cu fundatia SOROS) cit
 si partenerii internationali ai fiecaruia.
 
-
-Conferintele ROSE '93, reteaua scolilor si reteaua fundatiei SOROS
------------------------------------------------------------------
+## Conferințele ROSE '93, rețeaua școlilor și rețeaua fundației SOROS
 
 Dupa asta, spre toamna anului 1993, am considerat la nivelul board-ului
 GURU, ca este bine sa initiem un lant de conferinte cu participare
@@ -316,8 +308,7 @@ si primul program de tranining Linux. Ca urmare a acestor cerinte, a
 aparut reteaua fundatiei SOROS, cu cele 4 noduri, dedicata initial, in
 primii doi ani, exclusiv scolilor din Romania.
 
-Conectari pe satelit la Internet prin Intercomp SRL si Taide
-------------------------------------------------------------
+## Conectari pe satelit la Internet prin Intercomp SRL si Taide
 
 Primii furnizori comerciali de Internet au reusit sa vina in Romania la
 fundatia SOROS, cu oferte de conectare prin satelit.
@@ -348,8 +339,7 @@ altfel la mari dispute intre actionarii de atunci ai firmei Kappa, unii
 dintre ei mai conservatori fiind contra acestor idei foarte curajoase
 pentru anul 1995.
 
-Conferintele ROSE si PC-NET-ul
-------------------------------
+## Conferințele ROSE și PC-NET-ul
 
 Conferintele ROSE tinute de GURU in 1994 si 1995 au adus un numar tot
 mai mare de participanti, avind capete de afis nume sonore in IT-ul
@@ -401,8 +391,7 @@ operator comercial in 1996, mutindu-si sediul in 1996 din Palatul
 Copiilor in Bulevardul Unirii, unde a inceput conturarea viitorului
 operator PC-Net.
 
-Anul 1994
----------
+## Anul 1994
 
 Un moment deosebit de important, cel putin ca pozitionare a Romaniei in
 peisajul Internet l-a reprezentat congresul mondial Internet de la
@@ -431,8 +420,7 @@ si denumita: reteaua RoLink.  Aceasta avea sa se transforme mult mai
 tirziu in 1997, in operatorul comercial: IIRUC-RoLink, cind reteaua a
 fost trecuta in regim on-line.
 
-Aparitia DNT
-------------
+## Aparitia DNT
 
 In anul 1996 majoritatea retelelor care operau Internet in Romania erau
 comerciale, cu exceptia RNC-ului si a retelei ROEDUNET. EUnet,
@@ -462,8 +450,7 @@ anteriori tot de ea pentru scoli. Singurii care au ramas cu statut de
 gratuitate la DNT inca de la constituire au fost scolile pentru care
 aceasta retea de altfel fusese creata intial.
 
-Finalul inceputului
--------------------
+## Finalul inceputului
 
 Am sa ma opresc aici referitor la ceea ce stiu eu despre inceputrile
 Internetului in Romania. S-ar putea completa destul si despre
@@ -472,3 +459,7 @@ capitalizarea ISP-urilor si extinderea de piata iar in 2002-2003, lupta
 pentru impunere pe piata in curs de liberalizare. Cum insa toate
 acestea depasesc cu mult cadrul inceputurilor, ma rezum la cele
 prezentate.
+
+## Referințe
+
+- [linux.punct.info - ](http://linux.punct.info/inceputurile_internet_in_Romania.html)
