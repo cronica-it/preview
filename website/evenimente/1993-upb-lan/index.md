@@ -17,7 +17,7 @@ rețea locală (LAN), la nivel de universitate.
 Conectivitatea era realizată printr-un cablu coaxial gros (10BASE5), cu repetoare și
 transceivere care înțepau cablul și conectau calculatoarele locale.
 
-![yellow thick cable](https://github.com/cronica-it/arhiva/releases/download/1993-upb-lan/st500-01-tn.jpg)
+![yellow thick cable](https://cronica-it.github.io/imagini/1993/upb-lan/st500-01-tn.jpg)
 
 ## Referințe
 

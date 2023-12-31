@@ -46,7 +46,7 @@ Moderatori:
 - Ion Vaciu
 - Roxana Onea
 
-![Grup](img/Foto-Grup-Gala-30-ani-de-Internet-in-Romania-DX-Council-1024x683.jpg)
+![Grup](https://cronica-it.github.io/imagini/2023/conferinta-dtc-30-ani-internet/Foto-Grup-Gala-30-ani-de-Internet-in-Romania-DX-Council-1024x683.jpg)
 Foto: Cristi Chivu
 
 ## Referințe

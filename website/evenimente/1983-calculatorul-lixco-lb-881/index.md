@@ -23,7 +23,7 @@ unități de floppy disk de 8", și a rulat sistemul CP/M-80.
 A fost comercializat sub forma de kit sau complet funcțional în special
 în comunitatea de radio-amatori, dar nu numai.
 
-![L/B881](img/lb881.jpg)
+![L/B881](https://cronica-it.github.io/imagini/1983/calculatorul-lixco-lb-881/lb881.jpg)
 
 Microcalculatorul a fost preluat și introdus în producție la ITCI-CCAB sub numele de CE 119.
 

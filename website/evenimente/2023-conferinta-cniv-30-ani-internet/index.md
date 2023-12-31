@@ -54,7 +54,7 @@ disponibilă [on-line](https://cniv.ro/documents/26/CNIV_Volum_Aniversar_2023_-_
 
 ---
 
-![Radu Jugureanu](img/IMG_2693.jpeg)
+![Radu Jugureanu](https://cronica-it.github.io/imagini/2023/conferinta-cniv-30-ani-internet/IMG_2693.jpeg)
 
 ## Referințe
 
