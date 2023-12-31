@@ -24,7 +24,7 @@ Interviul a fost realizat pe 4 noiembrie 2010.
 
 Despre Lix am auzit foarte multe povești la vremea respectivă. Atunci, am rămas surprins de ingeniozitatea acelui grup din care facea parte și Lix, care a reușit să pună la punct o serie de aparate specifice radioamatorilor: transceiver-ul A412, manipulator electronic, terminale RTTY, dar și calculatorul L/B 881. Și eu am fost unul dintre cei care am construit și folosit un A412. Neșansa a făcut ca pâna acum să nu-l întâlnesc niciodată pe acest constructor pasionat.
 
-![](https://github.com/cronica-it/arhiva/releases/download/2010-lix-interviu-qsl-ro/DSCN0021.JPG)
+![Lix](https://cronica-it.github.io/imagini/2010/lix-interviu-qsl-ro/DSCN0021.JPG)
 
 Nini: Data si locul nasterii?
 
@@ -52,7 +52,7 @@ Nini: Cu ce aparatura ai debutat ca radioamator?
 
 Lix: Totul era home made. E greu sa-mi amintesc exact acum, dar stiu ca receptorul era foarte elaborat pentru vremea aceea. Avea 14 sau 15 tuburi cu o medie frecventa deosebita pe 455 kHz, cu multe transformatoare de medie frecventa. Primul emitator a fost un auto-oscilator cu un tub 807 injghebat in pripa, cu care am lucrat cateva zile in CW. Apoi mi-am construit un excitator cu tranzistoare care avea si posibilitate de emisie DSB cu purtatoarea suprimata, SSB-ul saracului cum il denumeam pe vremea aceea. Am folosit diverse amplificatoare finale, in general bazate pe unul sau mai multe tuburi de televizor tip PL509.
 
-Nini:Ai lucrat numai in fonie?
+Nini: Ai lucrat numai in fonie?
 
 Lix: Nici vorba, am lucrat in: CW, SSB, RTTY si SSTV.
 
