@@ -1,0 +1,10 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.docuSidebar.link.Docusaurus": {
+    "message": "Docusaurus",
+    "description": "The label for link Docusaurus in sidebar docuSidebar, linking to https://docusaurus.io"
+  }
+}

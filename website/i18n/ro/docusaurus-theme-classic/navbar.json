@@ -1,0 +1,42 @@
+{
+  "title": {
+    "message": "Cronica IT&C",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "Felix_C-256",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.Evenimente": {
+    "message": "Evenimente",
+    "description": "Navbar item with label Evenimente"
+  },
+  "item.label.Amintiri": {
+    "message": "Amintiri",
+    "description": "Navbar item with label Amintiri"
+  },
+  "item.label.Despre": {
+    "message": "Despre",
+    "description": "Navbar item with label Despre"
+  },
+  "item.label.Docu": {
+    "message": "Docu",
+    "description": "Navbar item with label Docu"
+  },
+  "item.label.Arhiva": {
+    "message": "Arhiva",
+    "description": "Navbar item with label Arhiva"
+  },
+  "item.label.GitHub": {
+    "message": "GitHub",
+    "description": "Navbar item with label GitHub"
+  },
+  "item.label.Toate": {
+    "message": "Toate",
+    "description": "Navbar item with label Toate"
+  },
+  "item.label.Tags": {
+    "message": "Tags",
+    "description": "Navbar item with label Tags"
+  }
+}
