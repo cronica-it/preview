@@ -41,14 +41,16 @@ const config: Config = {
          */
         id: 'events-blog',
         /**
+         * Path to data on filesystem relative to site dir.
+         */
+        path: './evenimente',
+        /**
          * URL route for the blog section of your site.
          * *DO NOT* include a trailing slash.
          */
-        routeBasePath: 'events',
-        /**
-         * Path to data on filesystem relative to site dir.
-         */
-        path: './events',
+        routeBasePath: 'evenimente',
+        archiveBasePath: 'arhiva',
+        tagsBasePath: 'taguri',
         authorsMapPath: '../authors.yml',
         exclude: [ '**/README.md' ],
         showReadingTime: true,
@@ -58,7 +60,7 @@ const config: Config = {
           isPreview ? 'https://github.com/cronica-it/preview/edit/master/website/' : 'https://github.com/cronica-it/cronica-it.github.io/edit/master/website/',
         blogSidebarTitle: 'Evenimente',
         blogSidebarCount: 'ALL',
-      },
+    },
     ],
   ],
   presets: [
@@ -73,6 +75,21 @@ const config: Config = {
             isPreview ? 'https://github.com/cronica-it/preview/edit/master/website/' : 'https://github.com/cronica-it/cronica-it.github.io/edit/master/website/',
         },
         blog: {
+          /**
+           * Required for any multi-instance plugin
+           */
+          id: 'memories-blog',
+          /**
+           * Path to data on filesystem relative to site dir.
+           */
+          path: './amintiri',
+          /**
+           * URL route for the blog section of your site.
+           * *DO NOT* include a trailing slash.
+           */
+          routeBasePath: 'amintiri',
+          archiveBasePath: 'arhiva',
+          tagsBasePath: 'taguri',
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
@@ -99,24 +116,24 @@ const config: Config = {
         src: 'img/Felix_C-256_computer.jpg',
       },
       items: [
-        // {to: '/events', label: 'Evenimente', position: 'left'},
+        // {to: '/evenimente', label: 'Evenimente', position: 'left'},
         {
           type: 'dropdown',
           label: 'Evenimente',
-          to: '/events',
+          to: '/evenimente',
           position: 'left',
           items: [
             {
               label: 'Toate',
-              to: '/events'
+              to: '/evenimente'
             },
             {
               label: 'Arhiva',
-              to: '/events/archive'
+              to: '/evenimente/arhiva'
             },
             {
               label: 'Tags',
-              to: '/events/tags'
+              to: '/evenimente/taguri'
             }
           ]
         },
@@ -124,20 +141,20 @@ const config: Config = {
         {
           type: 'dropdown',
           label: 'Amintiri',
-          to: '/blog',
+          to: '/amintiri',
           position: 'left',
           items: [
             {
               label: 'Toate',
-              to: '/blog'
+              to: '/amintiri'
             },
             {
               label: 'Arhiva',
-              to: '/blog/archive'
+              to: '/amintiri/arhiva'
             },
             {
               label: 'Tags',
-              to: '/blog/tags'
+              to: '/amintiri/taguri'
             }
           ]
         },

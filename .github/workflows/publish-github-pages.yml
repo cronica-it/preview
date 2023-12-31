@@ -13,8 +13,8 @@ on:
       - '**'
     # ... any of these files changes ...
     paths:
-      - 'website/blog/**'
-      - 'website/events/**'
+      - 'website/amintiri/**'
+      - 'website/evenimente/**'
       - 'website/docs/**'
       - 'website/src/**'
       - 'website/static/**'

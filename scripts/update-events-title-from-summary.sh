@@ -34,7 +34,7 @@ script_folder_name="$(basename "${script_folder_path}")"
 
 # =============================================================================
 
-find "$(dirname ${script_folder_path})/website/events" -name index.md -print -exec bash "${script_folder_path}/update-post-title-from-summary.sh" '{}' ';'
+find "$(dirname ${script_folder_path})/website/evenimente" -name index.md -print -exec bash "${script_folder_path}/update-post-title-from-summary.sh" '{}' ';'
 
 # -----------------------------------------------------------------------------
 

@@ -38,7 +38,7 @@ authors="${CRONICA_IT_AUTHORS:-"ilg-ul"}"
 tags="${CRONICA_IT_TAGS:-""}"
 links="${CRONICA_IT_LINKS:-"- TODO"}"
 
-blog_folder_path="$(dirname "${script_folder_path}")/website/blog"
+blog_folder_path="$(dirname "${script_folder_path}")/website/amintiri"
 
 # -----------------------------------------------------------------------------
 

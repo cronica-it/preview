@@ -38,7 +38,7 @@ authors="${CRONICA_IT_AUTHORS:-"ilg-ul"}"
 tags="${CRONICA_IT_TAGS:-""}"
 links="${CRONICA_IT_LINKS:-"- TODO"}"
 
-events_folder_path="$(dirname "${script_folder_path}")/website/events"
+events_folder_path="$(dirname "${script_folder_path}")/website/evenimente"
 
 # -----------------------------------------------------------------------------
 
