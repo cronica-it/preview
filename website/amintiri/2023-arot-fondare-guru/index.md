@@ -1,6 +1,6 @@
 ---
 slug: 2023/arot-fondare-guru
-title: 'Fondarea asociației GURU'
+title: 'Articolul lui Adi Rotaru la CNIV 2023 - Fondarea asociației GURU'
 authors: [arot]
 tags: [asociatii, autor:alexandru.rotaru]
 # date: 2023-12-11T23:09:40
@@ -8,10 +8,19 @@ date: 2023-10-27
 
 ---
 
-Adi Rotaru relatează cum, în martie 1992, a fondat asociația **GURU – Grupul Utilizatorilor Români de Unix**.
+Pentru conferința „CNIV 2023 - 30 de ani de Internet în România”,
+care a avut loc pe 27 Octombrie 2023 la Universitatea Politehnica
+București, Alexandru Rotaru a contribuit un articol intitulat
+„Contribuții ale Asociației Utilizatorilor de Unix din România
+(GURU) la formarea primilor administratori pentru servicii Internet
+în anii 1992-1996”, din care extragem capitolul
+**Fondarea asociației GURU (Grupul Utilizatorilor de Unix din România) în 1992**.
 
 <!-- truncate -->
 
+---
+
+În martie 1992 am fondat asociația GURU – Grupul Utilizatorilor Români de Unix.
 Am fost la început cel mult 20 de membrii fondatori, iar după un an, în octombrie 1992, aveam peste 100 membrii înscriși.
 
 Noi atunci am plecat în primul rând de la situația noastră ca profesioniști proveniți din colective de cercetare și care eram forțați atunci, la începutul anilor 90, din motive materiale, să lucrăm aplicații triviale (programe de contabilitate, personal, gestiune s.a..) Al doilea punct de plecare a fost lipsa de aplicații software din România, cam pentru orice domeniu, în condițiile în care nu existau bani pentru cumpărarea unor programe cu licența, pentru platforme standard de tip IBM PC sau pentru stații de lucru cu procesoare RISC. Toate aplicațiile vechi, erau fie dezvoltate sub RSX-11M pe minicalculatoare sau pe microcalculatoare sub CP/M, ISIS II, SFDX. Aplicațiile existente nu rulau pe IBM PC sau pe alte platforme hardware din acea perioadă.

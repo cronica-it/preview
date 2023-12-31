@@ -1,6 +1,6 @@
 ---
 slug: 2023/arot-rose-93
-title: "Conferința ROSE '93"
+title: "Articolul lui Adi Rotaru la CNIV 2023 - Conferința ROSE '93"
 authors: [arot]
 tags: [conferinte, autor:alexandru.rotaru]
 # date: 2023-12-12T07:08:29
@@ -8,7 +8,14 @@ date: 2023-10-27
 
 ---
 
-Conferința **ROSE '93** și primul contact cu programul fundației SOROS **Computere pentru licee**.
+Pentru conferința „CNIV 2023 - 30 de ani de Internet în România”,
+care a avut loc pe 27 Octombrie 2023 la Universitatea Politehnica
+București, Alexandru Rotaru a contribuit un articol intitulat
+„Contribuții ale Asociației Utilizatorilor de Unix din România
+(GURU) la formarea primilor administratori pentru servicii Internet
+în anii 1992-1996”, din care extragem capitolul
+**Conferința ROSE’93 și primul contact cu programul fundației
+SOROS „Computere pentru licee”**.
 
 <!-- truncate -->
 

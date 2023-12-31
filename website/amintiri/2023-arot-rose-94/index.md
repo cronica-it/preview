@@ -1,6 +1,6 @@
 ---
 slug: 2023/arot-rose-94
-title: "Conferința ROSE '94"
+title: "Articolul lui Adi Rotaru la CNIV 2023 - Conferința ROSE '94"
 authors: [arot]
 tags: [conferinte, autor:alexandru.rotaru]
 # date: 2023-12-12T07:18:00
@@ -8,7 +8,14 @@ date: 2023-10-27
 
 ---
 
-Primii ani de Internet în România și prima conferința ROSE organizată în București la Palatul Copiilor (**ROSE '94**).
+Pentru conferința „CNIV 2023 - 30 de ani de Internet în România”,
+care a avut loc pe 27 Octombrie 2023 la Universitatea Politehnica
+București, Alexandru Rotaru a contribuit un articol intitulat
+„Contribuții ale Asociației Utilizatorilor de Unix din România
+(GURU) la formarea primilor administratori pentru servicii Internet
+în anii 1992-1996”, din care extragem capitolul
+**Primii ani de Internet în România și prima conferința ROSE -
+ROSE’94 organizată în București la Palatul Copiilor**.
 
 <!-- truncate -->
 
