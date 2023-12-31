@@ -1,6 +1,7 @@
 import { themes as prismThemes } from 'prism-react-renderer';
 import type { Config } from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
+// import logger from '@docusaurus/logger'
 
 const isPreview = true;
 
@@ -60,7 +61,44 @@ const config: Config = {
           isPreview ? 'https://github.com/cronica-it/preview/edit/master/website/' : 'https://github.com/cronica-it/cronica-it.github.io/edit/master/website/',
         blogSidebarTitle: 'Evenimente',
         blogSidebarCount: 'ALL',
-    },
+      },
+    ],
+    [
+      // https://docusaurus.io/docs/next/api/plugins/@docusaurus/plugin-client-redirects#redirects
+      '@docusaurus/plugin-client-redirects',
+      {
+        // fromExtensions: ['html', 'htm'], // /myPage.html -> /myPage
+        // toExtensions: ['exe', 'zip'], // /myAsset -> /myAsset.zip (if latter exists)
+        // redirects: [
+        //   // /docs/oldDoc -> /docs/newDoc
+        //   {
+        //     to: '/docs/newDoc',
+        //     from: '/docs/oldDoc',
+        //   },
+        //   // Redirect from multiple old paths to the new path
+        //   {
+        //     to: '/docs/newDoc2',
+        //     from: ['/docs/oldDocFrom2019', '/docs/legacyDocFrom2016'],
+        //   },
+        // ],
+        createRedirects(existingPath) {
+          // logger.info(existingPath);
+          if (existingPath.includes('/evenimente')) {
+            // logger.info(`to ${existingPath} from ${existingPath.replace('/evenimente', '/events')}`);
+            // Redirect from /events/X to /evenimente/X
+            return [
+              existingPath.replace('/evenimente', '/events')
+            ];
+          } else if (existingPath.includes('/amintiri')) {
+            // logger.info(`to ${existingPath} from ${existingPath.replace('/amintiri', '/blog')}`);
+            // Redirect from /blog/Z to /amintiri/X
+            return [
+              existingPath.replace('/amintiri', '/blog')
+            ];
+          }
+          return undefined; // Return a falsy value: no redirect created
+        },
+      },
     ],
   ],
   presets: [
