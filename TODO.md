@@ -7,15 +7,13 @@
 - EUnet - autorizație
 - alte articole de pe http://linux.punct.info
 - povesti Nicolai Sandu
-- preluat inteviu Lix http://nini.qsl.ro/node/32
-- preluat poveste Sandra Pralong de la cniv
 - povesti Dan Garlasu
 - de verificat: https://www.electrokits.ro/scurt-istoric-al-internetului-in-romania/
 - de arhivat: https://archive.icann.org/en/meetings/bucharest/
 - de lamurit ce e cu '1994 - A aparut primul articol scris vreodata despre Internetul din Romania la Internet Society News, vol 3, no 1 din 1994.'
 - de adaugat participarea la ISOC 1993
-- poveste Doina Baciu - proces in contencios administrativ ici 50
-- poveste Vasile Baltac ICI 50
+- poveste Vasile Baltac ITC 50
+  - https://www.agir.ro/carte/un-institut-pentru-istorie-semicentenarul-institutului-pentru-tehnica-de-calcul-1968-2018-123155.html
   - https://sites.google.com/site/vasilebaltac/Home
   - vasile punct baltac la snspa punct ro
 - povesti Stelian Niculescu
