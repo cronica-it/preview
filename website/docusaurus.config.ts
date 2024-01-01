@@ -158,13 +158,9 @@ const config: Config = {
         {
           type: 'dropdown',
           label: 'Evenimente',
-          to: '/evenimente',
+          to: '/evenimente/arhiva',
           position: 'left',
           items: [
-            {
-              label: 'Toate',
-              to: '/evenimente'
-            },
             {
               label: 'Arhiva',
               to: '/evenimente/arhiva'
@@ -172,6 +168,10 @@ const config: Config = {
             {
               label: 'Categorii',
               to: '/evenimente/categorii'
+            },
+            {
+              label: 'Toate',
+              to: '/evenimente'
             }
           ]
         },
@@ -179,13 +179,9 @@ const config: Config = {
         {
           type: 'dropdown',
           label: 'Amintiri',
-          to: '/amintiri',
+          to: '/amintiri/arhiva',
           position: 'left',
           items: [
-            {
-              label: 'Toate',
-              to: '/amintiri'
-            },
             {
               label: 'Arhiva',
               to: '/amintiri/arhiva'
@@ -193,7 +189,11 @@ const config: Config = {
             {
               label: 'Categorii',
               to: '/amintiri/categorii'
-            }
+            },
+            {
+              label: 'Toate',
+              to: '/amintiri'
+            },
           ]
         },
         {
