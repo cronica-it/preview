@@ -3,8 +3,10 @@ slug: 2007/apple-iphone
 title: 'Steve Jobs anunță telefonul mobil „iPhone”'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
-date: 2023-12-29T20:55:37
 
+date: 2007-01-09
+
+creationDate: 2023-12-29T20:55:37
 eventDate: '2007-01-09'
 
 ---

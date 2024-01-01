@@ -3,8 +3,10 @@ slug: 2008/roedunet-geant-10gbps
 title: 'RoEduNet se conectează la GÉANT cu 10 Gbps'
 authors: [ntapus, ilg-ul]
 tags: [internet, educatie, autor:nicolae.tapus]
-date: 2023-12-22T18:31:53
 
+date: 2008-07
+
+creationDate: 2023-12-22T18:31:53
 eventDate: '2008'
 
 ---

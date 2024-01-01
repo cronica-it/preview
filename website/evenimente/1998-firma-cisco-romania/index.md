@@ -3,8 +3,10 @@ slug: 1998/firma-cisco-romania
 title: 'Este înființată firma „Cisco Systems Romania”'
 authors: [ilg-ul]
 tags: [firme, autor:liviu.ionescu]
-date: 2023-12-21T18:01:32
 
+date: 1998-07
+
+creationDate: 2023-12-21T18:01:32
 eventDate: '1998'
 
 ---

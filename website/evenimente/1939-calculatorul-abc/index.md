@@ -3,8 +3,10 @@ slug: 1939/calculatorul-abc
 title: 'Atanasoff și Berry încep lucrul la „ABC”, primul calculator digital'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
-date: 2023-12-24T15:07:51
 
+date: 1939-07
+
+creationDate: 2023-12-24T15:07:51
 eventDate: '1939'
 
 ---

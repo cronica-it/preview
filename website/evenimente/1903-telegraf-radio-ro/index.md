@@ -3,8 +3,10 @@ slug: 1903/telegraf-radio-ro
 title: 'Sunt realizate primele legături telegrafice fără fir din România'
 authors: [gserban, ilg-ul]
 tags: [comunicatii, autor:gheorghe.serban]
-date: 2023-12-21T08:33:56
 
+date: 1903-07
+
+creationDate: 2023-12-21T08:33:56
 eventDate: '1903'
 
 ---

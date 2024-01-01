@@ -3,8 +3,10 @@ slug: 1901/bucuresti-centrala-telefonica-700-linii
 title: 'în Bucuresti este dată în funcțiune o centrală telefonică cu 700 de linii'
 authors: [gserban, ilg-ul]
 tags: [autor:gheorghe.serban]
-date: 2023-12-21T07:49:21
 
+date: 1901-02-01
+
+creationDate: 2023-12-21T07:49:21
 eventDate: '1901-02-01'
 
 ---

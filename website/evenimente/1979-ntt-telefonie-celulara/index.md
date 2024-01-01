@@ -3,8 +3,10 @@ slug: 1979/ntt-telefonie-celulara
 title: 'NTT lansează prima rețea celulară analogică'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
-date: 2023-12-28T11:44:26
 
+date: 1979-07
+
+creationDate: 2023-12-28T11:44:26
 eventDate: '1979'
 
 ---

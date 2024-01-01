@@ -3,8 +3,10 @@ slug: 1995/rfc1883-ipv6
 title: 'În RFC 1883 apare prima propunere de „Internet Protocol version 6” (IPv6)'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
-date: 2023-12-28T20:39:34
 
+date: 1995-12
+
+creationDate: 2023-12-28T20:39:34
 eventDate: '1995-12'
 
 ---

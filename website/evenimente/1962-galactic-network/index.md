@@ -3,8 +3,10 @@ slug: 1962/galactic-network
 title: 'Joseph Licklider descrie conceptul de „Galactic Network”'
 authors: [gserban, ilg-ul]
 tags: [international, internet, autor:gheorghe.serban]
-date: 2023-12-13T21:55:39
 
+date: 1962-08
+
+creationDate: 2023-12-13T21:55:39
 eventDate: '1962-08'
 
 ---

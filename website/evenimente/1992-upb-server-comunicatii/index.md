@@ -3,8 +3,10 @@ slug: 1992/upb-server-comunicatii
 title: 'La UPB este instalat primul server de e-mail pentru mediul academic'
 authors: [ntapus, ilg-ul]
 tags: [internet, educatie, upb, autor:nicolae.tapus]
-date: 2023-12-13T15:55:51
 
+date: 1992-07
+
+creationDate: 2023-12-13T15:55:51
 eventDate: '1992'
 
 ---

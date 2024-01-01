@@ -3,8 +3,10 @@ slug: 1984/firma-cisco-systems
 title: 'În San Francisco este înființată firma „Cisco Systems”'
 authors: [gserban, ilg-ul]
 tags: [international, firme, autor:gheorghe.serban]
-date: 2023-12-19T08:42:20
 
+date: 1984-12
+
+creationDate: 2023-12-19T08:42:20
 eventDate: '1984-12'
 
 ---

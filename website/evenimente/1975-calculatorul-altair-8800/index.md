@@ -3,8 +3,10 @@ slug: 1975/calculatorul-altair-8800
 title: 'MITS lansează microcalculatorul Altair „8800”'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
-date: 2023-12-29T19:52:42
 
+date: 1975-01
+
+creationDate: 2023-12-29T19:52:42
 eventDate: '1975-01'
 
 ---

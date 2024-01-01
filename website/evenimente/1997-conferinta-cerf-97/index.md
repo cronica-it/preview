@@ -3,8 +3,10 @@ slug: 1997/conferinta-cerf-97
 title: "Agora organizează „CERF '97”"
 authors: [ilg-ul]
 tags: [conferinte, internet, autor:liviu.ionescu]
-date: 2023-12-12T07:49:53
 
+date: 1997-06
+
+creationDate: 2023-12-12T07:49:53
 eventDate: '1997-06'
 
 ---

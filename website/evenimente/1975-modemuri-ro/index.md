@@ -3,8 +3,10 @@ slug: 1975/modemuri-ro
 title: 'La IPA sunt realizate primele modemuri românești'
 authors: [gserban, ilg-ul]
 tags: [comunicatii, autor:gheorghe.serban]
-date: 2023-12-21T09:07:05
 
+date: 1975-07
+
+creationDate: 2023-12-21T09:07:05
 eventDate: '1975'
 
 ---

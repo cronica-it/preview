@@ -3,8 +3,10 @@ slug: 1974/intel-microprocesorul-8080
 title: 'Intel lansează microprocesorul „Intel 8080”'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
-date: 2023-12-27T16:57:36
 
+date: 1974-04
+
+creationDate: 2023-12-27T16:57:36
 eventDate: '1974-04'
 
 ---

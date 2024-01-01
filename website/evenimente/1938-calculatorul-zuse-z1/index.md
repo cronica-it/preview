@@ -3,8 +3,10 @@ slug: 1938/calculatorul-zuse-z1
 title: 'Konrad Zuse, finalizează mașina de calcul binară „Z1”'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
-date: 2023-12-29T17:59:21
 
+date: 1938-07
+
+creationDate: 2023-12-29T17:59:21
 eventDate: '1938'
 
 ---

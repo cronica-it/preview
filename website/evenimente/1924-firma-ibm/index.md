@@ -3,8 +3,10 @@ slug: 1924/firma-ibm
 title: 'Apare „International Business Machines” (IBM)'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
-date: 2023-12-24T11:46:49
 
+date: 1924-07
+
+creationDate: 2023-12-24T11:46:49
 eventDate: '1924'
 
 ---

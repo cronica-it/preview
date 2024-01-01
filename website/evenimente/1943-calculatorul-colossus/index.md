@@ -3,8 +3,10 @@ slug: 1943/calculatorul-colossus
 title: 'La Bletchley Park este realizat calculatorul „Colossus Mark 1”'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
-date: 2023-12-24T17:34:46
 
+date: 1943-07
+
+creationDate: 2023-12-24T17:34:46
 eventDate: '1943'
 
 ---

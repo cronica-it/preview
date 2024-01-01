@@ -3,8 +3,10 @@ slug: 1958/limbajul-algol-ial-specificatii
 title: 'Sunt elaborate specificațiile pentru limbajul de programare „ALGOL 58”'
 authors: [ilg-ul]
 tags: [international, autor:liviu.ionescu]
-date: 2023-12-26T20:59:55
 
+date: 1958-07
+
+creationDate: 2023-12-26T20:59:55
 eventDate: '1958'
 
 ---

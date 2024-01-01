@@ -3,8 +3,10 @@ slug: 1984/calculatorul-apple-macintosh
 title: 'Apple ansează calculatorul „Apple Macintosh”'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
-date: 2023-12-29T21:33:38
 
+date: 1984-01
+
+creationDate: 2023-12-29T21:33:38
 eventDate: '1984-01'
 
 ---

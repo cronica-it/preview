@@ -3,8 +3,10 @@ slug: 1983/milnet-separare-de-arpanet
 title: 'MILNET se separă fizic de ARPANET'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
-date: 2023-12-27T20:45:36
 
+date: 1983-07
+
+creationDate: 2023-12-27T20:45:36
 eventDate: '1983'
 
 ---

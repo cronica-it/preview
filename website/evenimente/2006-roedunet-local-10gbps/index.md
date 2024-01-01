@@ -3,8 +3,10 @@ slug: 2006/roedunet-local-10gbps
 title: 'Nodurile din UPB sunt conectate la 10 Gbps'
 authors: [ntapus, ilg-ul]
 tags: [internet, educatie, upb, autor:nicolae.tapus]
-date: 2023-12-22T18:22:55
 
+date: 2006-07
+
+creationDate: 2023-12-22T18:22:55
 eventDate: '2006'
 
 ---

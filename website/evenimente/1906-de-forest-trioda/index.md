@@ -3,8 +3,10 @@ slug: 1906/de-forest-trioda
 title: 'Lee De Forest inventează trioda'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
-date: 2023-12-24T11:11:51
 
+date: 1906-07
+
+creationDate: 2023-12-24T11:11:51
 eventDate: '1906'
 
 ---

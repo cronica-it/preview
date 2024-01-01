@@ -3,8 +3,10 @@ slug: 1877/bell-telephone-company
 title: 'Este înființată „Bell Telephone Company”'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
-date: 2023-12-24T08:57:20
 
+date: 1877-07-09
+
+creationDate: 2023-12-24T08:57:20
 eventDate: '1877-07-09'
 
 ---

@@ -3,8 +3,10 @@ slug: 1995/x25-acoperire-nationala-ro
 title: 'Rețelele X.25 au acoperire națională'
 authors: [gserban, ilg-ul]
 tags: [servicii, autor:gheorghe.serban]
-date: 2023-12-20T18:07:39
 
+date: 1995-07
+
+creationDate: 2023-12-20T18:07:39
 eventDate: '1995'
 
 ---

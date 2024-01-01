@@ -3,8 +3,10 @@ slug: 1969/requests-for-comments
 title: 'Steve Crocker inițiază metodologia „Requests for Comments”'
 authors: [gserban, ilg-ul]
 tags: [international, internet, autor:gheorghe.serban]
-date: 2023-12-13T22:14:22
 
+date: 1969-07
+
+creationDate: 2023-12-13T22:14:22
 eventDate: '1969'
 
 ---

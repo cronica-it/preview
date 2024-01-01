@@ -3,8 +3,10 @@ slug: 1981/calculatorul-ibm-pc
 title: 'IBM lansează calculatorul personal „IBM PC”'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
-date: 2023-12-27T20:19:39
 
+date: 1981-08-12
+
+creationDate: 2023-12-27T20:19:39
 eventDate: '1981-08-12'
 
 ---

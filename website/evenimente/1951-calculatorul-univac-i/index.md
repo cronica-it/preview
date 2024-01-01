@@ -3,8 +3,10 @@ slug: 1951/calculatorul-univac-i
 title: 'Remington Rand comercializează primul calculator „UNIVAC I”'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
-date: 2023-12-26T15:31:19
 
+date: 1951-03-31
+
+creationDate: 2023-12-26T15:31:19
 eventDate: '1951-03-31'
 
 ---

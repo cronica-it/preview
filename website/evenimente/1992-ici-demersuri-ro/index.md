@@ -3,8 +3,10 @@ slug: 1992/ici-demersuri-ro
 title: 'ICI începe demersurile pentru înregistrarea domeniului „.ro”'
 authors: [gserban, ilg-ul]
 tags: [internet, ici, autor:gheorghe.serban]
-date: 2023-12-20T14:24:16
 
+date: 1992-05
+
+creationDate: 2023-12-20T14:24:16
 eventDate: '1992-05'
 
 ---

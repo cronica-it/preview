@@ -3,8 +3,10 @@ slug: 1877/prima-linie-telefonica
 title: 'În Boston este instalată prima linie telefonică'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
-date: 2023-12-24T09:14:29
 
+date: 1877-04
+
+creationDate: 2023-12-24T09:14:29
 eventDate: '1877-04'
 
 ---

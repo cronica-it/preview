@@ -3,8 +3,10 @@ slug: 1962/satelitul-telstar-1
 title: 'NASA lansează satelitul „Telstar 1”, primul satelit de comunicații'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
-date: 2023-12-26T21:28:08
 
+date: 1962-07-10
+
+creationDate: 2023-12-26T21:28:08
 eventDate: '1962-07-10'
 
 ---

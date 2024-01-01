@@ -3,8 +3,10 @@ slug: 1976/statie-intelsat-ro
 title: 'România se conectează la Intelsat'
 authors: [gserban, ilg-ul]
 tags: [comunicatii, sateliti, autor:gheorghe.serban]
-date: 2023-12-21T09:14:08
 
+date: 1976-11-15
+
+creationDate: 2023-12-21T09:14:08
 eventDate: '1976-11-15'
 
 ---

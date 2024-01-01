@@ -3,8 +3,10 @@ slug: 1992/eunet-primul-serviciu-privat-email
 title: 'Liviu Ionescu lansează primul serviciu privat de Internet e-mail'
 authors: [ilg-ul]
 tags: [internet, autor:liviu.ionescu]
-date: 2023-10-30T08:38
 
+date: 1992-10
+
+creationDate: 2023-10-30T08:38
 eventDate: '1992-10'
 
 ---

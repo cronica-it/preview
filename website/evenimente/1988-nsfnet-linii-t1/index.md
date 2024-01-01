@@ -3,8 +3,10 @@ slug: 1988/reteaua-nsfnet-linii-t1
 title: 'Legăturile NSFNET sunt crescute la 1.5 Mbit/s'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
-date: 2023-12-28T12:01:21
 
+date: 1988-07
+
+creationDate: 2023-12-28T12:01:21
 eventDate: '1988-07'
 
 ---

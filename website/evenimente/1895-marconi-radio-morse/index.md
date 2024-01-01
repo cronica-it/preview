@@ -3,8 +3,10 @@ slug: 1895/marconi-radio-morse
 title: 'Guglielmo Marconi face primele transmisiuni Morse prin radio'
 authors: [gserban, ilg-ul]
 tags: [international, comunicatii, autor:gheorghe.serban]
-date: 2023-10-30T07:35
 
+date: 1895-07
+
+creationDate: 2023-10-30T07:35
 eventDate: '1895'
 
 ---

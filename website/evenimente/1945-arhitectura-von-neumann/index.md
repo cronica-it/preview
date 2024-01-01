@@ -3,8 +3,10 @@ slug: 1945/arhitectura-von-neumann
 title: 'John von Neumann descrie un calculator cu program memorat'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
-date: 2023-12-24T17:10:38
 
+date: 1945-06-30
+
+creationDate: 2023-12-24T17:10:38
 eventDate: '1945-06-30'
 
 ---

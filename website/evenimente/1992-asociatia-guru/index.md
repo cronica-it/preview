@@ -3,8 +3,10 @@ slug: 1992/asociatia-guru
 title: 'Alexandru Rotaru înființează „Grupul Utilizatorilor Români de Unix” (GURU)'
 authors: [arot]
 tags: [asociatii, autor:alexandru.rotaru]
-date: 2023-11-01T12:46
 
+date: 1992-03
+
+creationDate: 2023-11-01T12:46
 eventDate: '1992-03'
 
 ---

@@ -3,8 +3,10 @@ slug: 1993/upb-linie-dedicata-9.6kbps
 title: 'La UPB este instalată o linie dedicată de 9.6 kbps cu Düsseldorf'
 authors: [ntapus, ilg-ul]
 tags: [internet, educatie, upb, autor:nicolae.tapus]
-date: 2023-12-13T17:07:27
 
+date: 1993-06
+
+creationDate: 2023-12-13T17:07:27
 eventDate: '1993-06'
 
 ---

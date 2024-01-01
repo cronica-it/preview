@@ -3,8 +3,10 @@ slug: 1968/ccub-instalare-ibm-360
 title: 'La CCUB este instalat un calculator „IBM 360/30”'
 authors: [sniculescu]
 tags: [calculatoare, autor:stelian.niculescu]
-date: 2023-12-11T18:52:15
 
+date: 1968-07
+
+creationDate: 2023-12-11T18:52:15
 eventDate: '1968'
 
 ---

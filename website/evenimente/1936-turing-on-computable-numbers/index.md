@@ -3,8 +3,10 @@ slug: 1936/turing-on-computable-numbers
 title: 'Alan Turing pune bazele teoretică ale calculatoarelor moderne'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
-date: 2023-12-24T15:49:14
 
+date: 1936-11
+
+creationDate: 2023-12-24T15:49:14
 eventDate: '1936-11'
 
 ---

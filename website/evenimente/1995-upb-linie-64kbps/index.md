@@ -3,8 +3,10 @@ slug: 1995/upb-linie-64kbps
 title: 'La UPB este instalată o linie dedicată de 64 kbps'
 authors: [ntapus, ilg-ul]
 tags: [internet, educatie, upb, autor:nicolae.tapus]
-date: 2023-12-13T17:25:40
 
+date: 1995-06
+
+creationDate: 2023-12-13T17:25:40
 eventDate: '1995-06'
 
 ---

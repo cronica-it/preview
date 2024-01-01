@@ -3,8 +3,10 @@ slug: 1888/hertz-unde-radio
 title: 'Heinrich Hertz produce și detecteaza undele radio'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
-date: 2023-12-24T09:27:51
 
+date: 1888-07
+
+creationDate: 2023-12-24T09:27:51
 eventDate: '1888'
 
 ---

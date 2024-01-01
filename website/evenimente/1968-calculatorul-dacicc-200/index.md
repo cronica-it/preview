@@ -3,8 +3,10 @@ slug: 1968/calculatorul-dacicc-200
 title: 'La Cluj-Napoca este pus în funcțiune calculatorul „DACICC-200”'
 authors: [gserban, ilg-ul]
 tags: [calculatoare, autor:gheorghe.serban]
-date: 2023-12-18T18:45:28
 
+date: 1968-07
+
+creationDate: 2023-12-18T18:45:28
 eventDate: '1968'
 
 ---

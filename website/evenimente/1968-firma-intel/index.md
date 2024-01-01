@@ -3,8 +3,10 @@ slug: 1968/firma-intel
 title: 'În Silicon Valley este înființată firma „Intel”'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
-date: 2023-12-27T09:24:10
 
+date: 1968-07-18
+
+creationDate: 2023-12-27T09:24:10
 eventDate: '1968-07-18'
 
 ---

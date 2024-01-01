@@ -4,8 +4,10 @@ title: 'James Maxwell introduce „ecuațiile de descriere
 a fenomenului electromagnetic”'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
-date: 2023-12-24T09:35:57
 
+date: 1865-07
+
+creationDate: 2023-12-24T09:35:57
 eventDate: '1865'
 
 ---

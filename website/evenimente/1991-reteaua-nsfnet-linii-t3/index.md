@@ -3,8 +3,10 @@ slug: 1991/reteaua-nsfnet-linii-t3
 title: 'Legăturile NSFNET sunt crescute la 43 Mbit/s'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
-date: 2023-12-28T12:07:26
 
+date: 1991-11
+
+creationDate: 2023-12-28T12:07:26
 eventDate: '1991-11'
 
 ---

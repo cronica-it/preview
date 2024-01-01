@@ -3,8 +3,10 @@ slug: 1970/calculatorul-dec-pdp-11
 title: 'DEC lansează familia de minicalculatoare „PDP-11”'
 authors: [ilg-ul]
 tags: [international, autor:liviu.ionescu]
-date: 2023-12-28T10:55:30
 
+date: 1970-01
+
+creationDate: 2023-12-28T10:55:30
 eventDate: '1970-01'
 
 ---

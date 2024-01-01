@@ -3,8 +3,10 @@ slug: 1799/volta-bateria-electrica-chimica
 title: 'Alessandro Volta crează prima baterie electrică'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
-date: 2023-12-29T09:45:27
 
+date: 1800-07
+
+creationDate: 2023-12-29T09:45:27
 eventDate: '1800'
 
 ---

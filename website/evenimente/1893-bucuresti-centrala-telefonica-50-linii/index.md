@@ -3,8 +3,10 @@ slug: 1893/bucuresti-centrala-telefonica-50-linii
 title: 'În București este dată în folosință prima centrală telefonică'
 authors: [gserban, ilg-ul]
 tags: [autor:gheorghe.serban]
-date: 2023-12-18T09:01:16
 
+date: 1893-07
+
+creationDate: 2023-12-18T09:01:16
 eventDate: '1893'
 
 ---

@@ -3,8 +3,10 @@ slug: 1984/calculatorul-ibm-pc-at
 title: 'IBM lansează calculatorul personal „IBM PC AT”'
 authors: [ilg-ul]
 tags: [international, autor:gheorghe.serban]
-date: 2023-12-27T20:54:24
 
+date: 1984-08-14
+
+creationDate: 2023-12-27T20:54:24
 eventDate: '1984-08-14'
 
 ---

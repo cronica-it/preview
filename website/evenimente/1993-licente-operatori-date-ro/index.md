@@ -3,8 +3,10 @@ slug: 1993/licente-operatori-date-ro
 title: 'Sunt atribuite primele licențe de operatori de date'
 authors: [gserban, ilg-ul]
 tags: [licente, firme, comunicatii, autor:gheorghe.serban]
-date: 2023-12-10T12:39:42
 
+date: 1993-07-06
+
+creationDate: 2023-12-10T12:39:42
 eventDate: '1993-07-06'
 
 ---

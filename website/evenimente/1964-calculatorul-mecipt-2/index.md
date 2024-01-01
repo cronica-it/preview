@@ -3,8 +3,10 @@ slug: 1964/calculatorul-mecipt-2
 title: 'La Timișoara este finalizat calculatorul „MECIPT-2”'
 authors: [gserban, ilg-ul]
 tags: [calculatoare, autor:gheorghe.serban]
-date: 2023-12-18T18:36:56
 
+date: 1965-07
+
+creationDate: 2023-12-18T18:36:56
 eventDate: '1965'
 
 ---

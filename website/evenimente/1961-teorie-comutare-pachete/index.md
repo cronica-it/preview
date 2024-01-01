@@ -3,8 +3,10 @@ slug: 1961/teorie-comutare-pachete
 title: 'Leonard Kleinrock publică primul articol despre teoria comutării de pachete'
 authors: [ilg-ul]
 tags: [international, internet, autor:liviu.ionescu]
-date: 2023-12-13T22:03:45
 
+date: 1961-05-31
+
+creationDate: 2023-12-13T22:03:45
 eventDate: '1961-05-31'
 
 ---

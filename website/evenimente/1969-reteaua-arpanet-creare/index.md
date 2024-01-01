@@ -3,8 +3,10 @@ slug: 1969/reteaua-arpanet-creare
 title: 'DoD crează ARPANET'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
-date: 2023-12-27T09:44:44
 
+date: 1969-10-29
+
+creationDate: 2023-12-27T09:44:44
 eventDate: '1969-10-29'
 
 ---

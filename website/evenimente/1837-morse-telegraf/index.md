@@ -3,8 +3,10 @@ slug: 1837/morse-telegraf
 title: 'Samuel Morse începe lucrul la o versiune de telegraf electric'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
-date: 2023-12-23T17:32:31
 
+date: 1837-07
+
+creationDate: 2023-12-23T17:32:31
 eventDate: '1837'
 
 ---

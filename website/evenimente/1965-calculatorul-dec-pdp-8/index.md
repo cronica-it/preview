@@ -3,8 +3,10 @@ slug: 1965/calculatorul-dec-pdp-8
 title: 'DEC lansează familia de minicalculatoare „PDP-8”'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
-date: 2023-12-28T11:01:39
 
+date: 1965-03-22
+
+creationDate: 2023-12-28T11:01:39
 eventDate: '1965-03-22'
 
 ---

@@ -3,8 +3,10 @@ slug: 1964/calculatorul-cet-500
 title: 'La IFA este pus în funcțiune calculatorul „CET 500”'
 authors: [gserban, ilg-ul]
 tags: [calculatoare, autor:gheorghe.serban]
-date: 2023-12-18T18:31:11
 
+date: 1964-07
+
+creationDate: 2023-12-18T18:31:11
 eventDate: '1964'
 
 ---

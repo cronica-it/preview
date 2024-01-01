@@ -3,8 +3,10 @@ slug: 2006/transfer-rnc-roedunet
 title: 'Instituțiile de cercetare trec de la RNC la RoEduNet'
 authors: [ilg-ul]
 tags: [ici, internet, cercetare, autor:liviu.ionescu]
-date: 2023-12-21T10:57:55
 
+date: 2006-02
+
+creationDate: 2023-12-21T10:57:55
 eventDate: '2006-02'
 
 ---

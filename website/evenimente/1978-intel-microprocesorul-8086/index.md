@@ -3,8 +3,10 @@ slug: 1978/intel-microprocesorul-8086
 title: 'Intel lansează microprocesorul „Intel 8086”'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
-date: 2023-12-27T17:09:59
 
+date: 1978-06-08
+
+creationDate: 2023-12-27T17:09:59
 eventDate: '1978-06-08'
 
 ---

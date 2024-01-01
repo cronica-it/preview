@@ -3,8 +3,10 @@ slug: 1954/tv-experimental-ro
 title: 'Alexandru Spătaru construiește primul emițător experimental de TV din România'
 authors: [gserban, ilg-ul]
 tags: [autor:gheorghe.serban]
-date: 2023-12-18T17:10:19
 
+date: 1954-07
+
+creationDate: 2023-12-18T17:10:19
 eventDate: '1954'
 
 ---

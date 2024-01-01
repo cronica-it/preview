@@ -3,8 +3,10 @@ slug: 2002/reuniunea-icann-bucuresti
 title: 'În București se desfașoară reuniunea ICANN'
 authors: [gserban, ilg-ul]
 tags: [internet, conferinte, autor:gheorghe.serban]
-date: 2023-12-20T19:14:50
 
+date: 2002-06-24
+
+creationDate: 2023-12-20T19:14:50
 eventDate: '2002-06-24'
 eventEndDate: '2002-06-28'
 

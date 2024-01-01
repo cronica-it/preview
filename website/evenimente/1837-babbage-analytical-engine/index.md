@@ -3,8 +3,10 @@ slug: 1837/babbage-analytical-engine
 title: 'Charles Babbage concepe „Analytical Engine”'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
-date: 2023-12-23T16:56:10
 
+date: 1837-07
+
+creationDate: 2023-12-23T16:56:10
 eventDate: '1837'
 
 ---

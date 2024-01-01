@@ -3,8 +3,10 @@ slug: 1979/protocolul-uucp
 title: 'Bell Labs crează protocolul „Unix to Unix Copy” (UUCP)'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
-date: 2023-12-27T16:22:59
 
+date: 1979-07
+
+creationDate: 2023-12-27T16:22:59
 eventDate: '1979'
 
 ---

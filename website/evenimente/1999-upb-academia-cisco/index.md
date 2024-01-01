@@ -3,8 +3,10 @@ slug: 1999/upb-academia-cisco
 title: 'La UPB este înființată „Academia Cisco”'
 authors: [ntapus, ilg-ul]
 tags: [educatie,  upb, autor:nicolae.tapus]
-date: 2023-12-22T17:35:53
 
+date: 1999-07
+
+creationDate: 2023-12-22T17:35:53
 eventDate: '1999'
 
 ---

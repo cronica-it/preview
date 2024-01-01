@@ -3,8 +3,10 @@ slug: 1653/paris-posta
 title: 'La Paris este înființat un serviciu poștal public'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
-date: 2023-12-15T15:20:04
 
+date: 1653-07
+
+creationDate: 2023-12-15T15:20:04
 eventDate: '1653'
 
 ---

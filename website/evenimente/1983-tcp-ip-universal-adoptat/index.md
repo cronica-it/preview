@@ -3,8 +3,10 @@ slug: 1983/tcp-ip-universal-adoptat
 title: 'Vinton Cerf consideră că adoptarea TCP/IP este momentul nașterii Internetului'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
-date: 2023-12-27T20:37:12
 
+date: 1983-07
+
+creationDate: 2023-12-27T20:37:12
 eventDate: '1983'
 
 ---

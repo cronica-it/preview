@@ -3,8 +3,10 @@ slug: 1998/eu-liberalizare-telecom
 title: 'EU deschide competiției serviciile de telecomunicații'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
-date: 2023-12-28T21:11:52
 
+date: 1998-01-01
+
+creationDate: 2023-12-28T21:11:52
 eventDate: '1998-01-01'
 
 ---

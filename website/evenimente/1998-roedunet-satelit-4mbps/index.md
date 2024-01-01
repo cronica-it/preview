@@ -3,8 +3,10 @@ slug: 1998/roedunet-satelit-4mbps
 title: 'La RoEduNet este instalată o nouă conexiune de 4 Mbps'
 authors: [ntapus, ilg-ul]
 tags: [internet, educatie, sateliti, upb, autor:nicolae.tapus]
-date: 2023-12-13T18:31:31
 
+date: 1998-12
+
+creationDate: 2023-12-13T18:31:31
 eventDate: '1998-12'
 
 ---

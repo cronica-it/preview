@@ -3,8 +3,10 @@ slug: 1995/ici-satelit-64kbps
 title: 'La ICI este instalată o legătura prin satelit de 64 kbps'
 authors: [arot, ilg-ul]
 tags: [internet, ici, sateliti, autor:alexandru.rotaru]
-date: 2023-12-10T12:58:36
 
+date: 1995-03
+
+creationDate: 2023-12-10T12:58:36
 eventDate: '1995-03'
 
 ---

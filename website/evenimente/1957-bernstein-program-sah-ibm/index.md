@@ -3,8 +3,10 @@ slug: 1957/bernstein-program-sah-ibm
 title: 'Alex Bernstein, la IBM, dezvoltă primul program de șah'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
-date: 2023-12-26T20:00:09
 
+date: 1957-07
+
+creationDate: 2023-12-26T20:00:09
 eventDate: '1957'
 
 ---

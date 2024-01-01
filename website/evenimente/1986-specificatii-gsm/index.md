@@ -3,8 +3,10 @@ slug: 1986/specificatii-gsm
 title: 'Sunt publicate specificațiile „GSM”'
 authors: [gserban, ilg-ul]
 tags: [international, gsm, autor:gheorghe.serban]
-date: 2023-12-19T08:58:11
 
+date: 1986-07
+
+creationDate: 2023-12-19T08:58:11
 eventDate: '1986'
 
 ---

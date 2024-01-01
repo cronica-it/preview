@@ -3,8 +3,10 @@ slug: 1896/hollerith-tabulating-machine-company
 title: 'Herman Hollerith înființează „Tabulating Machine Company”'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
-date: 2023-12-24T10:18:39
 
+date: 1896-07
+
+creationDate: 2023-12-24T10:18:39
 eventDate: '1896'
 
 ---

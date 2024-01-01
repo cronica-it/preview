@@ -3,8 +3,10 @@ slug: 1930/servicii-telex
 title: 'Apar primele tele-imprimatoare și serviciile de telex'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
-date: 2023-12-29T11:13:03
 
+date: 1930-07
+
+creationDate: 2023-12-29T11:13:03
 eventDate: '1930'
 
 ---

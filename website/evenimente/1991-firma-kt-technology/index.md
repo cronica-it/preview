@@ -3,8 +3,10 @@ slug: 1991/firma-kt-technology
 title: 'Este înființată firma „KT Technology”'
 authors: [dgarlasu]
 tags: [firme, autor:dan.garlasu]
-date: 2023-12-11T22:21:02
 
+date: 1991-07
+
+creationDate: 2023-12-11T22:21:02
 eventDate: '1991'
 
 ---

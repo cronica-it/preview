@@ -3,8 +3,10 @@ slug: 1842/ada-termenul-program
 title: 'Ada Lovelace introduce cuvântul „program”'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
-date: 2023-12-23T17:57:03
 
+date: 1842-07
+
+creationDate: 2023-12-23T17:57:03
 eventDate: '1842'
 
 ---

@@ -3,8 +3,10 @@ slug: 1967/firma-lixco
 title: 'Nicoară (Lix) Paulian pune bazele a ceea ce avea să devină firma „Lixco”'
 authors: [lixpaulian, ilg-ul]
 tags: [firma, calculatoare, radio]
-date: 2023-12-31T13:21:52
 
+date: 1967-07
+
+creationDate: 2023-12-31T13:21:52
 eventDate: '1967'
 
 ---

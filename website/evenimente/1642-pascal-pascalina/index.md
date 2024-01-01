@@ -3,8 +3,10 @@ slug: 1642/pascal-pascalina
 title: 'Blaise Pascal proiectează „La Pascaline”'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
-date: 2023-12-15T13:45:12
 
+date: 1642-07
+
+creationDate: 2023-12-15T13:45:12
 eventDate: '1642'
 
 ---

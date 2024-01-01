@@ -3,8 +3,10 @@ slug: 1994/upb-rdis
 title: 'Este înființată „Rețeaua de Date a Învățământului Superior” (RDIS)'
 authors: [ntapus, ilg-ul]
 tags: [internet, educatie, upb, autor:nicolae.tapus]
-date: 2023-12-13T17:18:29
 
+date: 1994-11-24
+
+creationDate: 2023-12-13T17:18:29
 eventDate: '1994-11-24'
 
 ---

@@ -3,8 +3,10 @@ slug: 1979/ici-reteaua-cameleon
 title: 'La ICI este realizată prima rețea locală (proiectul Cameleon)'
 authors: [gserban, ilg-ul]
 tags: [ici, autor:gheorghe.serban]
-date: 2023-12-18T19:58:26
 
+date: 1979-07
+
+creationDate: 2023-12-18T19:58:26
 eventDate: '1979'
 
 ---

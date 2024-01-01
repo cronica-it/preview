@@ -3,8 +3,10 @@ slug: 1939/calculatorul-harvard-mark-1
 title: 'Howard Aiken, cu finanțare IBM, dezvoltă calculatorul electromecanic „Mark-1”'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
-date: 2023-12-24T16:21:34
 
+date: 1939-02
+
+creationDate: 2023-12-24T16:21:34
 eventDate: '1939-02'
 
 ---

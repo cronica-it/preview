@@ -3,8 +3,10 @@ slug: 1951/hooper-compilatorul-a0
 title: 'Grace Hooper creaza „A-0”, precursorul primului compilator'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
-date: 2023-12-26T15:55:07
 
+date: 1951-07
+
+creationDate: 2023-12-26T15:55:07
 eventDate: '1951'
 
 ---

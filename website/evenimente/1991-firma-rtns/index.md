@@ -3,8 +3,10 @@ slug: 1991/firma-rtns
 title: 'Este demarată înființarea „Romanian Telecoms Network Services” (RTNS)'
 authors: [ilg-ul]
 tags: [firme, comunicatii, autor:liviu.ionescu]
-date: 2023-12-21T11:12:16
 
+date: 1991-07
+
+creationDate: 2023-12-21T11:12:16
 eventDate: '1991'
 
 ---

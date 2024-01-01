@@ -3,8 +3,10 @@ slug: 2000/problema-y2k
 title: 'Omenirea trece cu bine în noul mileniu'
 authors: [ilg-ul]
 tags: [international, autor:liviu.ionescu]
-date: 2023-12-29T21:13:24
 
+date: 2000-01-01
+
+creationDate: 2023-12-29T21:13:24
 eventDate: '2000-01-01'
 
 ---

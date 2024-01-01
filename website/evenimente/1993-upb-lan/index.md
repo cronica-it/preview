@@ -3,8 +3,10 @@ slug: 1993/upb-lan
 title: 'La Politehnică este dată în folosință prima rețea locală (LAN)'
 authors: [ntapus, ilg-ul]
 tags: [internet, educatie, upb, autor:nicolae.tapus]
-date: 2023-12-13T16:35:40
 
+date: 1993-06
+
+creationDate: 2023-12-13T16:35:40
 eventDate: '1993-06'
 
 ---

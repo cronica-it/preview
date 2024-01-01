@@ -3,8 +3,10 @@ slug: 1991/finlanda-operator-gsm
 title: 'În Finlanda este lansată prima rețea GSM'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
-date: 2023-12-28T11:47:59
 
+date: 1991-07
+
+creationDate: 2023-12-28T11:47:59
 eventDate: '1991'
 
 ---

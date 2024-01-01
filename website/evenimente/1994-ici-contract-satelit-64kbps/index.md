@@ -3,8 +3,10 @@ slug: 1994/ici-contract-satelit-64kbps
 title: 'La ICI este semnat contractul pentru o legătură pe satelit de 64 kbps'
 authors: [gserban, ilg-ul]
 tags: [ici, internet, sateliti, autor:gheorghe.serban]
-date: 2023-12-20T17:06:14
 
+date: 1994-10
+
+creationDate: 2023-12-20T17:06:14
 eventDate: '1994-10'
 
 ---

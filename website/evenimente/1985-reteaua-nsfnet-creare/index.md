@@ -3,8 +3,10 @@ slug: 1985/reteaua-nsfnet-creare
 title: 'NSF crează rețeua de cercetare NSFNET'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
-date: 2023-12-28T11:52:57
 
+date: 1985-07
+
+creationDate: 2023-12-28T11:52:57
 eventDate: '1985'
 
 ---

@@ -3,8 +3,10 @@ slug: 1623/schickard-multiplicator
 title: 'Wilhelm Schickard descrie o mașină care înmulțea numere cu mai multe cifre'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
-date: 2023-12-15T11:33:32
 
+date: 1623-07
+
+creationDate: 2023-12-15T11:33:32
 eventDate: '1623'
 
 ---

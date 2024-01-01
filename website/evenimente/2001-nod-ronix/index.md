@@ -3,8 +3,10 @@ slug: 2001/nod-ronix
 title: 'În Palatul Telefoanelor este instalat primul nod RoNIX'
 authors: [gserban, ilg-ul]
 tags: [internet, autor:gheorghe.serban]
-date: 2023-12-20T19:04:08
 
+date: 2001-09-07
+
+creationDate: 2023-12-20T19:04:08
 eventDate: '2001-09-07'
 
 ---

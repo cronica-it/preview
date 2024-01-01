@@ -3,8 +3,10 @@ slug: 1982/reteaua-eunet
 title: 'În Europa este creată rețeua „EUnet”'
 authors: [gserban, ilg-ul]
 tags: [international, internet, autor:gheorghe.serban]
-date: 2023-12-18T20:05:55
 
+date: 1982-07
+
+creationDate: 2023-12-18T20:05:55
 eventDate: '1982'
 
 ---

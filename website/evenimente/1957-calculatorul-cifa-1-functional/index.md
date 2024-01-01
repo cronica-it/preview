@@ -3,8 +3,10 @@ slug: 1957/calculatorul-cifa-1-functional
 title: 'La IFA este pus in funcțiune calculatorul „CIFA-1”'
 authors: [gserban, ilg-ul]
 tags: [autor:gheorghe.serban]
-date: 2023-12-18T17:24:38
 
+date: 1957-07
+
+creationDate: 2023-12-18T17:24:38
 eventDate: '1957'
 
 ---

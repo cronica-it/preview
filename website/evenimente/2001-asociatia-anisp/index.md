@@ -3,8 +3,10 @@ slug: 2001/asociatia-anisp
 title: 'Este înființată „Asociația Națională a Internet Service Providerilor” (ANISP)'
 authors: [gserban, ilg-ul]
 tags: [internet, autor:gheorghe.serban]
-date: 2023-12-20T18:51:39
 
+date: 2001-01-31
+
+creationDate: 2023-12-20T18:51:39
 eventDate: '2001-01-31'
 
 ---

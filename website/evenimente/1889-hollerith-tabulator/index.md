@@ -3,8 +3,10 @@ slug: 1889/hollerith-tabulator
 title: 'Herman Hollerith crează mașina de tabulat'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
-date: 2023-12-24T10:06:59
 
+date: 1889-07
+
+creationDate: 2023-12-24T10:06:59
 eventDate: '1889'
 
 ---

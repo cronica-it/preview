@@ -3,8 +3,10 @@ slug: 1987/calculatorul-ibm-ps2
 title: 'IBM lansează calculatorul personal „IBM PS/2”'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
-date: 2023-12-28T19:58:07
 
+date: 1987-04
+
+creationDate: 2023-12-28T19:58:07
 eventDate: '1987-04'
 
 ---
