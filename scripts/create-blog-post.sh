@@ -42,7 +42,11 @@ blog_folder_path="$(dirname "${script_folder_path}")/website/amintiri"
 
 # -----------------------------------------------------------------------------
 
-blog_post_year=$(date +%Y)
+echo -n "Event date (YYYY[-MM[-DD]]): "
+read event_date
+# echo ${event_date}
+
+blog_post_year=$(echo ${event_date} | sed -e 's|[^:[:digit:]].*||')
 # echo $blog_post_year
 
 echo -n "slug: "
@@ -62,7 +66,13 @@ then
   exit 1
 fi
 
-date="$(date -u '+%Y-%m-%dT%H:%M:%S')"
+date="${event_date}"
+if $(echo ${event_date} | grep -q -v "-")
+then
+  date+="-07"
+fi
+
+creation_date="$(date -u '+%Y-%m-%dT%H:%M:%S')"
 
 tmp_file_path="$(dirname "${script_folder_path}")/${blog_post_folder_name}.md.tmp"
 
@@ -74,6 +84,8 @@ echo "title: 'TODO'" >>"${tmp_file_path}"
 echo "authors: [${authors}]" >>"${tmp_file_path}"
 echo "tags: [${tags}]" >>"${tmp_file_path}"
 echo "date: ${date}" >>"${tmp_file_path}"
+echo >>"${tmp_file_path}"
+echo "creation_date: ${creation_date}" >>"${tmp_file_path}"
 echo >>"${tmp_file_path}"
 echo "---" >>"${tmp_file_path}"
 echo >>"${tmp_file_path}"
