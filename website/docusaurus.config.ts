@@ -51,7 +51,7 @@ const config: Config = {
          */
         routeBasePath: 'evenimente',
         archiveBasePath: 'arhiva',
-        tagsBasePath: 'taguri',
+        tagsBasePath: 'categorii',
         authorsMapPath: '../authors.yml',
         exclude: [ '**/README.md' ],
         showReadingTime: true,
@@ -127,7 +127,7 @@ const config: Config = {
            */
           routeBasePath: 'amintiri',
           archiveBasePath: 'arhiva',
-          tagsBasePath: 'taguri',
+          tagsBasePath: 'categorii',
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
@@ -171,7 +171,7 @@ const config: Config = {
             },
             {
               label: 'Tags',
-              to: '/evenimente/taguri'
+              to: '/evenimente/categorii'
             }
           ]
         },
@@ -192,7 +192,7 @@ const config: Config = {
             },
             {
               label: 'Tags',
-              to: '/amintiri/taguri'
+              to: '/amintiri/categorii'
             }
           ]
         },
