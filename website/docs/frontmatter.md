@@ -123,7 +123,7 @@ Cuvintele folosite pentru grupare sunt:
 - organizatii
 - website
 
-Lista actuala se poate obține direct din site, intrarea **Tags**.
+Lista actuala se poate obține direct din site, intrarea **Categorii**.
 
 ## `date`
 
