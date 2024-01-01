@@ -151,7 +151,7 @@ const config: Config = {
       title: 'Cronica IT&C',
       logo: {
         alt: 'Felix_C-256',
-        src: 'img/Felix_C-256_computer.jpg',
+        src: 'img/logo-felix-c-256-computer.jpg',
       },
       items: [
         // {to: '/evenimente', label: 'Evenimente', position: 'left'},
