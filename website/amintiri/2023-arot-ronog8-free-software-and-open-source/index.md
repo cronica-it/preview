@@ -3,8 +3,10 @@ slug: 2023/arot-ronog8-free-software-and-open-source
 title: 'Prezentarea lui Alexandru Rotaru la RONOG 8'
 authors: [arot]
 tags: [conferinte, autor:alexandru.rotaru]
-# date: 2023-12-21T16:34:18
+
 date: 2023-07-27
+
+creationDate: 2023-12-21T16:34:18
 
 ---
 

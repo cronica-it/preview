@@ -3,8 +3,10 @@ slug: 2013/arot-articol-it-trends-1-91
 title: "Articolul lui Adi Rotaru în IT Trends - Capitol 1 - '91"
 authors: [arot]
 tags: [articole, autor:alexandru.rotaru]
-# date: 2023-11-03T21:19
+
 date: 2013-10
+
+creationDate: 2023-11-03T21:19
 
 ---
 

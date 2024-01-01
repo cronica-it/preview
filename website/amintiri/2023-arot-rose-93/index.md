@@ -3,8 +3,10 @@ slug: 2023/arot-rose-93
 title: "Articolul lui Adi Rotaru la CNIV 2023 - Conferința ROSE '93"
 authors: [arot]
 tags: [conferinte, autor:alexandru.rotaru]
-# date: 2023-12-12T07:08:29
+
 date: 2023-10-27
+
+creationDate: 2023-12-12T07:08:29
 
 ---
 
