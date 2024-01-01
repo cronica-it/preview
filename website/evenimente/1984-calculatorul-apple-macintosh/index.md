@@ -1,6 +1,6 @@
 ---
 slug: 1984/calculatorul-apple-macintosh
-title: 'Apple ansează calculatorul „Apple Macintosh”'
+title: 'Apple lansează calculatorul „Apple Macintosh”'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
 
@@ -11,7 +11,7 @@ eventDate: '1984-01'
 
 ---
 
-În luna ianuarie 1984, Apple ansează calculatorul **Apple Macintosh**, un model
+În luna ianuarie 1984, Apple lansează calculatorul **Apple Macintosh**, un model
 revoluționar, care folosea un mouse și o interfață grafică.
 
 <!-- truncate -->
