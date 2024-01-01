@@ -4,10 +4,10 @@ title: 'Ștefan Niculescu Maier crează serviciul de presă „Telegrama”'
 authors: [smaier, ivaciu]
 tags: [presa, servicii, internet, autor:stefan.maier, autor:ion.vaciu]
 
-date: 1994-07
+date: 1994-03
 
 creationDate: 2023-11-03T22:20
-eventDate: '1994'
+eventDate: '1994-03'
 
 ---
 
@@ -33,3 +33,4 @@ Printre abonați s-au numărat și The Library of Congress și Voice of America.
 
 - [Ștefan Niculescu Maier, de la Washington](https://ziaristii.com/exclusiv-stefan-niculescu-maier-de-la-washington-despre-moartea-colegului-sau-de-complot-anti-ceausist-mihai-creanga/)
 - [Interviu Telegrama 2023](https://www.youtube.com/watch?v=M5sL2wEWtbM)
+- [ilg-ul.github.io - FSC](http://ilg-ul.github.io/historic-webs/eunet/info/abonati/fsc.htm)
