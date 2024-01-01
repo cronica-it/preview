@@ -9,7 +9,6 @@
 - povesti Nicolai Sandu
 - povesti Dan Garlasu
 - de verificat: https://www.electrokits.ro/scurt-istoric-al-internetului-in-romania/
-- de arhivat: https://archive.icann.org/en/meetings/bucharest/
 - de lamurit ce e cu '1994 - A aparut primul articol scris vreodata despre Internetul din Romania la Internet Society News, vol 3, no 1 din 1994.'
 - de adaugat participarea la ISOC 1993
 - poveste Vasile Baltac ITC 50
