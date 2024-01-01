@@ -170,7 +170,7 @@ const config: Config = {
               to: '/evenimente/arhiva'
             },
             {
-              label: 'Tags',
+              label: 'Categorii',
               to: '/evenimente/categorii'
             }
           ]
@@ -191,7 +191,7 @@ const config: Config = {
               to: '/amintiri/arhiva'
             },
             {
-              label: 'Tags',
+              label: 'Categorii',
               to: '/amintiri/categorii'
             }
           ]
