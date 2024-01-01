@@ -12,7 +12,7 @@ eventDate: '1994-03'
 ---
 
 În luna martie 1994, Ștefan Niculescu Maier prin _Fundatia pentru Strategii de Comunicare_, crează **Telegrama**, primul
-serviciu de presă transmis prin email.
+serviciu de presă din România transmis prin email.
 
 <!-- truncate -->
 
