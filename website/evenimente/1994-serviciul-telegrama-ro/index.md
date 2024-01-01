@@ -1,5 +1,5 @@
 ---
-slug: 1995/serviciul-telegrama-ro
+slug: 1994/serviciul-telegrama-ro
 title: 'Ștefan Niculescu Maier crează serviciul de presă „Telegrama”'
 authors: [smaier, ivaciu]
 tags: [presa, servicii, internet, autor:stefan.maier, autor:ion.vaciu]
@@ -7,22 +7,27 @@ tags: [presa, servicii, internet, autor:stefan.maier, autor:ion.vaciu]
 date: 1995-07
 
 creationDate: 2023-11-03T22:20
-eventDate: '1995'
+eventDate: '1994'
 
 ---
 
-In anul 1995, Ștefan Niculescu Maier crează **Telegrama**, primul
+În anul 1994, Ștefan Niculescu Maier crează **Telegrama**, primul
 serviciu de presă transmis prin email.
 
 <!-- truncate -->
 
-Buletinele informative erau trimise prin EUnet Mail.
+În primii ani, buletinele informative erau trimise prin EUnet Mail.
 
 Principala audiență era comunitatea românească din străinătate.
 
 Din 1998, când Ștefan a plecat la post la Ambasada României la Washington,
 în mandatul președintelui Emil Constantinescu, serviciul Telegrama
 a fost preluat de Ion Vaciu, directorul publicației _Comunicații Mobile_.
+
+Serviciul s-a dezvoltat, ajungând la câteva zeci de mii de destinatari,
+fiind tradus în engleză, franceză și chiar suedeză.
+
+Printre abonați s-au numărat și The Library of Congress și Voice of America.
 
 ## Referințe
 
