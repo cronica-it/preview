@@ -4,7 +4,7 @@ title: 'Ștefan Niculescu Maier crează serviciul de presă „Telegrama”'
 authors: [smaier, ivaciu]
 tags: [presa, servicii, internet, autor:stefan.maier, autor:ion.vaciu]
 
-date: 1995-07
+date: 1994-07
 
 creationDate: 2023-11-03T22:20
 eventDate: '1994'

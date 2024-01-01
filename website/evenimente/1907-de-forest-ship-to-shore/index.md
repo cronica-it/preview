@@ -1,6 +1,6 @@
 ---
 slug: 1907/de-forest-ship-to-shore
-title: 'Lee de Forest transmite prin radiotelefon primele mesaje de la o navă către țărm'
+title: 'Lee de Forest transmite prin radio primele mesaje în fonie de la o navă către țărm'
 authors: [ilg-ul]
 tags: [international, autor:liviu.ionescu]
 
@@ -11,8 +11,9 @@ eventDate: '1907-07-18'
 
 ---
 
-În 18 iulie 1907, Lee de Forest transmite prin radiotelefon primele
-mesaje de la o navă aflată pe lacul Erie, către o stație de pe țărm.
+În 18 iulie 1907, Lee de Forest transmite prin radio primele
+mesaje în fonie de la o navă aflată pe lacul Erie, către
+o stație de pe țărm.
 
 <!-- truncate -->
 

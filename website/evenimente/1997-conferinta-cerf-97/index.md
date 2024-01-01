@@ -1,6 +1,6 @@
 ---
 slug: 1997/conferinta-cerf-97
-title: "Agora organizează „CERF '97”"
+title: "Agora organizează conferința „CERF '97”"
 authors: [ilg-ul]
 tags: [conferinte, internet, autor:liviu.ionescu]
 

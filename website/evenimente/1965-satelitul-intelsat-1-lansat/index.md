@@ -1,6 +1,6 @@
 ---
 slug: 1965/satelitul-intelsat-1-lansat
-title: 'Este lansat satelitul Intelsat I „Early Bird”'
+title: 'Este lansat satelitul „Intelsat I - Early Bird”'
 authors: [ilg-ul]
 tags: [international, sateliti]
 
