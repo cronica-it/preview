@@ -71,7 +71,13 @@ then
   exit 1
 fi
 
-date="$(date -u '+%Y-%m-%dT%H:%M:%S')"
+date="${event_date}"
+if $(echo ${event_date} | grep -q -v "-")
+then
+  date+="-07"
+fi
+
+creation_date="$(date -u '+%Y-%m-%dT%H:%M:%S')"
 
 tmp_file_path="$(dirname "${script_folder_path}")/${event_folder_name}.md.tmp"
 
@@ -83,6 +89,8 @@ echo "title: 'TODO'" >>"${tmp_file_path}"
 echo "authors: [${authors}]" >>"${tmp_file_path}"
 echo "tags: [${tags}]" >>"${tmp_file_path}"
 echo "date: ${date}" >>"${tmp_file_path}"
+echo >>"${tmp_file_path}"
+echo "creationDate: ${creation_date}" >>"${tmp_file_path}"
 echo >>"${tmp_file_path}"
 echo "eventDate: '${event_date}'" >>"${tmp_file_path}"
 if [ -n "${event_end_date}" ]
