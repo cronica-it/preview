@@ -32,11 +32,11 @@
     "description": "The ARIA label for the blog posts pagination"
   },
   "theme.blog.post.paginator.newerPost": {
-    "message": "Următorul",
+    "message": "Articolul următor",
     "description": "The blog post button label to navigate to the newer/previous post"
   },
   "theme.blog.post.paginator.olderPost": {
-    "message": "Anteriorul",
+    "message": "Articolul anterior",
     "description": "The blog post button label to navigate to the older/next post"
   },
   "theme.blog.post.plurals": {
