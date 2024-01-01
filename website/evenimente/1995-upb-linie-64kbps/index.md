@@ -16,7 +16,7 @@ București și nodul de acces al EuropaNet (DanteNet) din Amsterdam.
 
 <!-- truncate -->
 
-Astfel conexiunea externă creşte de la 9.6 kbps la 64 kbps. Sunt conectate peste 70 de instituții, impunându-se rapid o nouă creștere a lățimii de bandă [Kalin 1995].
+Astfel capacitatea conexiunii externă este crescută de la 9.6 kbps la 64 kbps. Sunt conectate peste 70 de instituții, impunându-se rapid o nouă creștere a lățimii de bandă [Kalin 1995].
 
 ## Referințe
 
