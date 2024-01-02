@@ -12,7 +12,7 @@ eventDate: '1970-01'
 ---
 
 În luna ianuarie 1970, după succesul cu modelele anterioare pe 12 și pe 18
-biți, DEC anunță familia de minicalculatoare pe 16 biți, **PDP-11**,
+biți, DEC anunță familia de minicalculatoare de 16 biți, **PDP-11**,
 care va deveni cel mai popular minicalculator, cu peste 600.000 exemplare
 vândute.
 

@@ -21,8 +21,8 @@ Proiectul a fost realizat de către: Adrian Petrescu, Nicolae Ţăpuş, Trandafi
 
 La pregătirea producției de serie au participat de la ICE Felix: Andrei Gayraud, Constantin Botez, Laurentiu Oftez, Constantin Alupului, Gabriel Drăghicescu, Victor Cososchi, Tudor Domocoș.
 
-Microcalculatorul Felix-PC a păstrat compatibilitatea software cu IBM PC, dar a fost proiectat astfel încât să lucreze atât cu microprocesorul 8086 pe 16 biți cât și cu microprocesorul 8088, în timp ce IBM-ul lucra numai cu procesorul 8088 pe 8 biți. Sistemul Felix-PC avea o dublă compatibilitate, putând fi configurat să lucreze cu procesorul 8086, care avea interfața cu
-exteriorul pe 16 biți sau cu microprocesorul 8088, care lucra cu resursele externe pe 8 biți.
+Microcalculatorul Felix-PC a păstrat compatibilitatea software cu IBM PC, dar a fost proiectat astfel încât să lucreze atât cu microprocesorul 8086 de 16 biți cât și cu microprocesorul 8088, în timp ce IBM-ul lucra numai cu procesorul 8088 de 8 biți. Sistemul Felix-PC avea o dublă compatibilitate, putând fi configurat să lucreze cu procesorul 8086, care avea interfața cu
+exteriorul de 16 biți sau cu microprocesorul 8088, care lucra cu resursele externe de 8 biți.
 
 ## Referințe
 

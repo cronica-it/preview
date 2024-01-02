@@ -2,7 +2,7 @@
 slug: 1982/intel-microprocesorul-80286
 title: 'Intel lansează microprocesorul „Intel 80286”'
 authors: [ilg-ul]
-tags: [international, autor:liviu.ionescu]
+tags: [international, intel, microprocesoare, autor:liviu.ionescu]
 
 date: 1982-02
 

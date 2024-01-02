@@ -2,7 +2,7 @@
 slug: 1971/intel-microprocesorul-4004
 title: 'Intel lansează microprocesorul „Intel 4004”'
 authors: [gserban, ilg-ul]
-tags: [international, autor:gheorghe.serban]
+tags: [international, intel, microprocesoare, autor:gheorghe.serban]
 
 date: 1971-11-15
 

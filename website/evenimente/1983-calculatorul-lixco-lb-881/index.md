@@ -16,7 +16,7 @@ concepție și realizare privată din România.
 
 <!-- truncate -->
 
-L/B 881 era un single-board computer, construit în jurul unui
+L/B 881 a fost un single-board computer, construit în jurul unui
 microprocesor Intel 8080. În primele versiuni
 stoca fișiere pe casetofoane audio și rula o versiune proprietară
 de software, dar ulterior a fost extins cu

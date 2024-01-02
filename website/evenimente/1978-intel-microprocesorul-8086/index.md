@@ -2,7 +2,7 @@
 slug: 1978/intel-microprocesorul-8086
 title: 'Intel lansează microprocesorul „Intel 8086”'
 authors: [gserban, ilg-ul]
-tags: [international, autor:gheorghe.serban]
+tags: [international, intel, microprocesoare, autor:gheorghe.serban]
 
 date: 1978-06-08
 
@@ -21,10 +21,10 @@ un substitut temporar pentru proiectul ambițios și întârziat iAPX 432.
 A fost o încercare de a distrage atenția de la procesoarele pe 16 și 32
 de biți ale altor producători - Motorola, Zilog și National Semiconductor.
 
-În timp ce 8086 era un microprocesor pe 16 biți, a folosit aceeași
-microarhitectură ca și microprocesoarele Intel pe 8 biți (8008, 8080 și 8085).
+În timp ce 8086 era un microprocesor de 16 biți, a folosit aceeași
+microarhitectură ca și microprocesoarele Intel de 8 biți (8008, 8080 și 8085).
 
-Acest lucru a permis programelor în limbaj de asamblare scrise pe 8 biți
+Acest lucru a permis programelor în limbaj de asamblare scrise de 8 biți
 să migreze fără probleme. Au fost adăugate noi instrucțiuni și
 facilități, cum ar fi numere întregi cu semn, adresare bază+offset și
 operații iterative. Au fost adăugate instrucțiuni pentru a

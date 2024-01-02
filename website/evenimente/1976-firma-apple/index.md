@@ -19,10 +19,11 @@ Apple I al lui Wozniak.
 
 A fost încorporată de Jobs și Wozniak ca **Apple Computer, Inc.** în 1977.
 
-Al doilea computer al companiei, Apple II, a devenit un best seller și
+Al doilea computer al companiei, **Apple II**, a devenit un best seller și
 unul dintre primele microcalculatoare produse în serie.
 
-Apple a devenit publică în 1980, cu un succes financiar instantaneu.
+Apple a devenit o companie publică în 1980, cu un succes financiar
+instantaneu.
 
 ## Referințe
 
