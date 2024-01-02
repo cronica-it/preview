@@ -35,8 +35,8 @@ script_folder_name="$(basename "${script_folder_path}")"
 # =============================================================================
 
 authors="${CRONICA_IT_AUTHORS:-"ilg-ul"}"
-tags="${CRONICA_IT_TAGS:-""}"
-links="${CRONICA_IT_LINKS:-"- TODO"}"
+tags="${CRONICA_IT_TAGS:-"international, autor:liviu.ionescu"}"
+links="${CRONICA_IT_LINKS:-""}"
 
 events_folder_path="$(dirname "${script_folder_path}")/website/evenimente"
 
@@ -110,7 +110,10 @@ echo >>"${tmp_file_path}"
 echo "## Referințe" >>"${tmp_file_path}"
 echo >>"${tmp_file_path}"
 
-echo "${links}" >>"${tmp_file_path}"
+if [ -n "${links}" ]
+then
+  echo "${links}" >>"${tmp_file_path}"
+fi
 echo "- [en.wikipedia.org - ]()" >>"${tmp_file_path}"
 
 index_file_path="${events_folder_path}/${event_folder_name}/index.md"
