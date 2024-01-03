@@ -43,10 +43,10 @@ Programul este implementat de un parteneriat public-privat.
 Principalele companii implicate în
 implementarea SEI sunt SIVECO România, HP şi IBM. În 2001 –
 anul în care a demarat programul SEI -
-România avea un număr de 1,321,333 elevi înscrişi în 12,709 şcoli
-generale şi 687,919 elevi înscrişi în 1,357
+România avea un număr de 1.321.333 elevi înscrişi în 12.709 şcoli
+generale şi 687.919 elevi înscrişi în 1.357
 de licee. Sistemul educaţional românesc cuprinde 64,018 profesori
-care predau la liceu şi 102,294 la şcoli
+care predau la liceu şi 102.294 la şcoli
 generale.
 
 ## Proiect de țară

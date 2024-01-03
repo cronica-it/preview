@@ -27,7 +27,8 @@ A fost comercializat sub forma de kit sau complet funcțional în special
 
 ![L/B881](https://cronica-it.github.io/imagini/1983/calculatorul-lixco-lb-881/lb881.jpg)
 
-Microcalculatorul a fost preluat și introdus în producție la ITCI-CCAB sub numele de CE 119.
+Microcalculatorul a fost preluat și introdus în producție la ITCI-CCAB
+sub numele de CE 119.
 
 ## Referințe
 

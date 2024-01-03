@@ -2,7 +2,7 @@
 slug: 1979/calculatorul-coral
 title: 'ICE Felix lansează calculatorul „Coral”'
 authors: [ilg-ul]
-tags: [calculatoare, autor:liviu.ionescu]
+tags: [calculatoare, ice, autor:liviu.ionescu]
 
 date: 1979-07
 
@@ -15,7 +15,10 @@ eventDate: '1979'
 
 <!-- truncate -->
 
-Coral a fost o familie de mincalculatoare românești realizată la Fabrica de Calculatoare București sub conducerea inginerului Dan Romulus Tonceanu. Calculatorul Coral a implementat arhitectura PDP-11 folosind tehnologia bit-slice de la AMDslice de la AMD.
+Coral a fost o familie de mincalculatoare românești realizată la
+Fabrica de Calculatoare București sub conducerea inginerului
+Dan Romulus Tonceanu. Calculatorul Coral a implementat arhitectura
+PDP-11 folosind tehnologia bit-slice de la AMDslice de la AMD.
 
 Familia Coral este compusă din modelele: 4001, 4011, 4021 si 4030.
 
