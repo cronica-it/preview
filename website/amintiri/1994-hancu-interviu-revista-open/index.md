@@ -156,8 +156,7 @@ corespondenta si informare electronice: Neurom (moderata de
 Gabriel Climescu de la Universitatea din Neuchatel, Elvetia, si
 Daniel Marcu de la Universitatea din Toronto, Canada), centrata
 pe inteligenta artificiala,  Fizica (moderata de George Dobre de la
-Universitatea din Kent, Anglia), Rom-Unix (administrata de Jean-
-Henry Berevoescu, Israel), focalizata desigur pe asistenta in
+Universitatea din Kent, Anglia), Rom-Unix (administrata de Jean-Henry Berevoescu, Israel), focalizata desigur pe asistenta in
 domeniul Unix. In ultima perioada, am primit concursul lui
 Florin Radulescu, care a instalat primul gopher (server
 informational) de limba romana, la Universitatea „Politehnica”
@@ -171,8 +170,7 @@ fost reteaua Internet si  in speta lista de email romaneasca
 romanians@sep.stanford.edu (infiintata si administrata de A. M.
 Popovici de la Universitatea Stanford), ca si grupul de stiri
 soc.culture.romanian (la a carui infiintare si arhivare Nick Sandru
-din Danemarca a avut o contributie decisiva). Folosirea Internet-
-ului, o premiera, cred, in activitatile de donatii destinate
+din Danemarca a avut o contributie decisiva). Folosirea Internetului, o premiera, cred, in activitatile de donatii destinate
 Romaniei, ne-a permis sa solicitam donatii financiare (folosite
 practic exclusiv pentru achizitionarea de carti in domeniul Unix
 pentru universitati din Romania) ca si contributii in munca
@@ -270,8 +268,7 @@ verificare, a solicitat timp, dar nu a fost o mare dificultate.
 R: Care sunt principalele proiecte la care ati
 participat dupa iesirea in occident?
 
-M.H.: As dori sa mentionez experienta de la Bell-
-Northern Research, Ottawa, Canada, unde am lucrat la
+M.H.: As dori sa mentionez experienta de la Bell-Northern Research, Ottawa, Canada, unde am lucrat la
 introducerea unei noi strategii de testare a circuitelor integrate,
 inclusiv proiectarea unui procesor de testare incorporat pe un
 chip.
@@ -358,8 +355,7 @@ cunoastere destul de buna a sculelor contemporane. In materie de
 Unix, insa, exista inca deficiente majore: sa nu uitam ca prima
 generatie de administratori de sistem la Politehnica din Bucuresti
 si la universitatile din Timisoara, Iasi, etc. se formeaza acum si ca
-majoritatea sunt studenti. Cred ca pe unii dintre ei, pe cei care ne-
-au solicitat, am reusit sa-i ajutam in probleme concrete, si asta in
+majoritatea sunt studenti. Cred ca pe unii dintre ei, pe cei care ne-au solicitat, am reusit sa-i ajutam in probleme concrete, si asta in
 interval de ore. Deci munca de consiliere on-line a fost o parte
 importanta din contributia Free Unix for Romania. Nu e
 mentionata in nici o lista de distributie, dar s-a putut conta pe noi
@@ -535,8 +531,7 @@ poate dicta ce si cum sa faca. Si probabil ca setul lor de valori
 pune (cel putin pentru cativa ani) realizarea profesionala inaintea
 realizarii in familie sau in relatiile personale.
 
-Si inca ceva, convingerea mea este ca Romania este intr-
-o situatie deosebita, cu mult teren de recuperat. Oricine isi
+Si inca ceva, convingerea mea este ca Romania este intr-o situatie deosebita, cu mult teren de recuperat. Oricine isi
 inchipuie ca acest teren poate fi recuperat in 8 ore de lucru este un
 naiv ...
 
@@ -678,14 +673,12 @@ reteaua pub.ro a Universitatii „Politehnica” Bucuresti, 5 sau 6
 sunt linux si functioneaza foarte bine la un cost nul in materie de
 programe de sistem si aplicatii.
 
-Rolul de laborator creator al free software este intr-
-adevar remarcabil, dar oricine il reduce la aceast domeniu face o
+Rolul de laborator creator al free software este intr-adevar remarcabil, dar oricine il reduce la aceast domeniu face o
 mare greseala. Sa nu uitam ca fiecare dintre noi in lumea Unix
 foloseste astazi ferestrele X. Ele sunt free software. Un alt
 exemplu: in locul in care lucrez (CRIM), primul lucru care s-a
 efectuat dupa ce ne-au venit statiile IBM RS/6000 si DEC Alpha a
-fost sa se instaleze compilatorul gcc (pentru limbajul C), super-
-editorul emacs (care e un mediu de editare, programare,
+fost sa se instaleze compilatorul gcc (pentru limbajul C), super-editorul emacs (care e un mediu de editare, programare,
 comunicare in email si news, etc, etc), ca si debugger-ul gdb, toate
 produse ale echipei coordonate de Richard M. Stallman (o echipa
 in fapt distribuita in toata lumea, cu diversi programatori
@@ -778,8 +771,7 @@ doar „hatisul comercial si juridic” actual. Profesia de programator e
 oarecum favorizata  in momentul actual, pe piata mondiala a
 muncii. Dar pentru a avea un rol determinant intr-o companie,
 sunt necesare multe alte cunostinte, legate de definirea sistemului,
-de marketing, de integrare si compatibilitate, de relatii inter-
-personale. Deci as recomanda o viziune mai deschisa, pentru o
+de marketing, de integrare si compatibilitate, de relatii interpersonale. Deci as recomanda o viziune mai deschisa, pentru o
 dirijare mai eficace a carierei.
 
 Rolul programatorului, cred eu, va urma in mare masura,
@@ -823,8 +815,7 @@ piata. Dar sa nu uitam ca acesti arhitecti sau specialisti in
 marketing sunt ei insisi in multe cazuri fosti sau actuali
 programatori.
 
-In materie de influenta si importanta personala, intr-
-adevar in proiectele foarte mari, contributia individului tinde
+In materie de influenta si importanta personala, intr-adevar in proiectele foarte mari, contributia individului tinde
 uneori sa se piarda in marea sistemului, dar aceasta se intampla in
 orice sistem mare, nu numai in programe. In plus, nu toate
 programele sunt mari, exista multe exemple de programe mici,

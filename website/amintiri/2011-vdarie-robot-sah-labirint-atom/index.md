@@ -29,10 +29,8 @@ Văzând această facilitate deosebită pentru acele vremuri, Tudor Vornicu a es
 ## Robotul LABIRINT 64 la concursuri şi expoziţii
 
 Iată şi un fapt inedit, pe care nu mă pot abţine să nu-l
-amintesc, care ilustrează preocupările de atunci pe multi-
-ple planuri ale domnului Vasile Baltac. În anul 1983 s-a
-organizat un campionat mondial de şah, pe microproce-
-soare de 8 sau 16 biţi (Z80, 8086, Motorola 6080 etc.) programate să joace şah. Campionatul a fost organizat la Budapesta. La acest campionat am fost desemnat să
+amintesc, care ilustrează preocupările de atunci pe multiple planuri ale domnului Vasile Baltac. În anul 1983 s-a
+organizat un campionat mondial de şah, pe microprocesoare de 8 sau 16 biţi (Z80, 8086, Motorola 6080 etc.) programate să joace şah. Campionatul a fost organizat la Budapesta. La acest campionat am fost desemnat să
 particip şi eu cu roboţelul nostru de jucat şah, numit Labirint-64. După multe peripeţii, au ieşit actele pentru deplasare, am primit banii de delegaţie şi paşaportul. Era o
 perioada când foarte greu se dădeau vize, chiar şi pentru
 Ungaria. Însă, cu sprijinul direct al domnu-lui Vasile Baltac, au fost depăşite toate barierele birocratice şi mi s-a
@@ -62,8 +60,7 @@ vreo 12 roboţi şi maestrul de şah Dolphy Drimer, invitat şi el la acel campi
 
 Era să facă o ispravă mare şi robotul meu Atom 64
 (acum aveam altă versiune de program pentru acelaşi
-robot fizic). A deschis excelent partida, iar în jocul de mij-
-loc a atacat două ture simultan, încât maestrul Drimer era
+robot fizic). A deschis excelent partida, iar în jocul de mijloc a atacat două ture simultan, încât maestrul Drimer era
 cât pe ce să piardă unul din turnuri. Dar maestrul de şah,
 văzând cât de critică era situaţia, a făcut un calcul mental
 fenomenal de rapid şi, cu unul din turnurile atacate mi-a
@@ -73,8 +70,7 @@ amărâtul de Atom 64 a ieşit din acea încrâncenată luptă cu
 un pion în minus şi... a pierdut partida.
 
 Am mai fost cu Labirint 64 şi Atom 64 pe la diverse
-concursuri: pe la ITB (de unde provenea ca jucător maes-
-trul Victor Ciocâltea), pe la Predeal (un campionat de
+concursuri: pe la ITB (de unde provenea ca jucător maestrul Victor Ciocâltea), pe la Predeal (un campionat de
 Viorel Darie, Petre Rău calificare ELO). Robotul nostru era cam mereu la coada
 clasamentului, jucătorii umani profesionişti erau prea puternici pentru el. A făcut şi ceva puncte, dar la cei din coada clasamentului. Odată, o doamnă a refuzat să joace cu robotul, motivând că a venit să joace în concurs cu oameni, nu cu roboţi. N-ai ce face, nu poţi obliga omul să joace cu o maşină!...
 
