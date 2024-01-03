@@ -30,3 +30,4 @@ grafică, a fost comercializat pe calculatoarele L/B 881.
 ## Referințe
 
 - [vioreldarie.ro - Amintiri din epoca Felix a calculatoarelor româneşti](https://www.vioreldarie.ro/Creatii/Amintiri%20din%20epoca%20FELIX%20a%20calculatoarelor%20romanesti.pdf) (arhivat [local](https://cronica-it.github.io/arhiva/))
+- [Amintirile lui Viorel Darie despre robotul românesc de şah LABIRINT 64 / ATOM 64](/amintiri/2011/vdarie-robot-sah-labirint-atom)
