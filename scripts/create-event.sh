@@ -35,7 +35,7 @@ script_folder_name="$(basename "${script_folder_path}")"
 # =============================================================================
 
 authors="${CRONICA_IT_AUTHORS:-"ilg-ul"}"
-tags="${CRONICA_IT_TAGS:-"international, autor:liviu.ionescu"}"
+tags="${CRONICA_IT_TAGS:-"autor:liviu.ionescu"}"
 links="${CRONICA_IT_LINKS:-""}"
 
 events_folder_path="$(dirname "${script_folder_path}")/website/evenimente"
