@@ -1,6 +1,6 @@
 ---
 slug: 2004/firma-gts-telecom
-title: '„GTS Telecom” este noul nume al firmei „KPNQwest România”'
+title: '„GTS Telecom” este noul nume al firmei „KPNQwest România” (fostă EUnet)'
 authors: [ilg-ul]
 tags: [firme, internet, autor:liviu.ionescu]
 
