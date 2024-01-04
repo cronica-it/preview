@@ -44,15 +44,16 @@ FLOW-MATIC, AIMACO și COMTRAN. Limbajul FLOW-MATIC a fost deosebit
 de influent pentru că era deja implementat și pentru că AIMACO a
 fost un derivat al acestuia cu modificări minore.
 
-Grace Hopper, inventatoarea FLOW-MATIC, a servit și ca consilier tehnic
+Grace Hopper, inventatoarea FLOW-MATIC, a servit și drept consilier tehnic
 al comitetului. Contribuțiile majore ale FLOW-MATIC la COBOL au fost
 nume lungi de variabile, cuvinte în engleză pentru comenzi și separarea
 descrierilor și instrucțiunilor de date.
 
-Discuțiile într-un comitet relativ mare au fost dificile, și un sub-comitet
-format din șase persoane a fost format.
+Discuțiile într-un comitet relativ mare au fost dificile, și 
+ca urmare s-a format un subcomitet
+format din șase persoane.
 
-Sub-comitetul a fost mai eficient și a elaborat prima versiune a
+Subcomitetul a fost mai eficient și a elaborat prima versiune a
 specificaților, aprobate in 8 ianuarie 1960, cu numele COBOL 60.
 
 Obiectivele declarate ale limbajului au fost să permită scrierea cu
