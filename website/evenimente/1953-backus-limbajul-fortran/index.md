@@ -25,7 +25,7 @@ tehnologiei compilatoarelor, iar multe progrese în teoria și proiectarea
 compilatoarelor au fost motivate în mod specific de nevoia de a genera
 cod eficient pentru programele FORTRAN.
 
-Din august 2021, FORTRAN era printre primele cincisprezece limbaje
+În august 2021, FORTRAN era printre primele cincisprezece limbaje
 în indexul TIOBE, o măsură a popularității limbajelor de programare.
 
 ## Referințe
