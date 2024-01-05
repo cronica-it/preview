@@ -12,7 +12,7 @@ creation_date: 2024-01-05T23:08:42
 În lucrarea „Un institut pentru istorie. Semicentenarul
 Institutului pentru Tehnica de Calcul (1968-2018)”, publicată
 în anul 2018 la editura Excel XXI Books, Vlad Țepelea a
-contribuit un capitol cu amintiri din anii petrecuți la ITC.
+contribuit un capitol intitulat **Amintiri despre ITC**.
 
 <!-- truncate -->
 

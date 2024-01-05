@@ -12,7 +12,7 @@ creation_date: 2024-01-05T21:34:39
 În lucrarea „Un institut pentru istorie. Semicentenarul
 Institutului pentru Tehnica de Calcul (1968-2018)”, publicată
 în anul 2018 la editura Excel XXI Books, Viorel Darie a
-contribuit un capitol cu amintiri din anii petrecuți la ITC.
+contribuit un capitol intitulat **ITC – A doua casă pentru mulți**.
 
 <!-- truncate -->
 
