@@ -1,6 +1,6 @@
 ---
 slug: 2018/vdarie-itc-a-doua-casa
-title: 'Relatările lui Viorel Darie - ITC – A doua casă pentru mulți'
+title: "Contribuția lui Viorel Darie la volumul ITC'50 - ITC – A doua casă pentru mulți"
 authors: [vdarie]
 tags: [itc]
 date: 2018-07
