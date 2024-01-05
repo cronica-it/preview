@@ -1,6 +1,6 @@
 ---
 slug: 2023/de-ce-cronica-it
-title: 'De ce „Cronica IT&C”'
+title: 'De ce „Cronica IT&C”?'
 authors: [ilg-ul]
 tags: [website, autor:liviu.ionescu]
 date: 2023-10-29T09:00
