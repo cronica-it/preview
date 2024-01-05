@@ -20,13 +20,26 @@
 - de prelucrat
   - articol Baltac
   - carte F Filip
-  
+
 - de verificat:
   - https://books.google.ro/books?id=Z2aoVu7XheMC&pg=PA122&redir_esc=y#v=onepage&q&f=false
   - https://books.google.ro/books?id=Z2aoVu7XheMC&pg=PA1&lpg=PA1&dq=Actorii+sociali+ai+promovării+tehnologiilor,+informaţiei+şi+comunicaţiilor&source=bl&ots=48FtbHjVkA&sig=ACfU3U0oOhM1dRKVBPXoyPcGt7XLAeeImA&hl=en&sa=X&ved=2ahUKEwj3vfDJ6bCDAxXR_bsIHba2DwU4ChDoAXoECAMQAw#v=onepage&q=Actorii%20sociali%20ai%20promovării%20tehnologiilor%2C%20informaţiei%20şi%20comunicaţiilor&f=false
   - https://www.linkedin.com/in/glodeanu-ion-bbb32274/
   - https://www.romaniasociala.ro/in-memoriam-ion-glodeanu-1941-2020/
 
+- 1975 - Rom Control Data (Gabriel Vasile, istoria informaticii românesti)
+
+## Corneliu Mașek (decedat)
+
+[vdarie] - autorul - împreună cu Mihai Martinovici - a subsistemului SESAM pentru sis- temul de operare Helios.
+
+## Interviu Samoila
+
+in itc 50. probabil market watch
+
+## Interviu Megheșan
+
+in itc 50. probabil market watch
 
 ## Vlada
 
