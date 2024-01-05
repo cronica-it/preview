@@ -25,5 +25,5 @@ A fost utilizat cu eficiență mulți ani, pentru multe generații de utilizator
 
 ## Referințe
 
-- [cniv.ro - Stelian Niculescu - Copilăria Informaticii Românești](https://cniv.ro/documents/26/CNIV_Volum_Aniversar_2023_-_Versiune_Online_DPxioQg.pdf)  (arhivat [local](https://cronica-it.github.io/arhiva/))
+- [cniv.ro - Stelian Niculescu - Copilăria Informaticii Românești](https://cniv.ro/documents/26/CNIV_Volum_Aniversar_2023_-_Versiune_Online_DPxioQg.pdf) (arhivat [local](https://cronica-it.github.io/arhiva/))
 

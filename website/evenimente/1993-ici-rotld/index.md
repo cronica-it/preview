@@ -66,5 +66,5 @@ cu RoEduNet la viteza de 10Gbp.
 - [prezentare Eugen Stăicuț](https://www.youtube.com/watch?v=grpiDxhkgmU)
 - [electrokits.ro](https://www.electrokits.ro/scurt-istoric-al-internetului-in-romania/)
 - [facebook.com - Contribuții ICI Bucureşti](https://www.facebook.com/ICIBucuresti/posts/3488728511216217/)
-- [ici.ro - 50 ani](https://www.ici.ro/documents/24/ICI_Bucuresti-50_ani_tdHL8av.pdf)  (arhivat [local](https://cronica-it.github.io/arhiva/))
+- [ici.ro - 50 ani](https://www.ici.ro/documents/24/ICI_Bucuresti-50_ani_tdHL8av.pdf) (arhivat [local](https://cronica-it.github.io/arhiva/))
 

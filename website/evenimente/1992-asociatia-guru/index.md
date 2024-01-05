@@ -41,4 +41,4 @@ Universitatea Tehnică Cluj–Napoca.
 
 ## Referințe
 
-- [cniv.ro - Alexandru Rotaru - Contribuții ale Asociației Utilizatorilor de Unix din România (GURU)](https://cniv.ro/documents/26/CNIV_Volum_Aniversar_2023_-_Versiune_Online_DPxioQg.pdf)  (arhivat [local](https://cronica-it.github.io/arhiva/))
+- [cniv.ro - Alexandru Rotaru - Contribuții ale Asociației Utilizatorilor de Unix din România (GURU)](https://cniv.ro/documents/26/CNIV_Volum_Aniversar_2023_-_Versiune_Online_DPxioQg.pdf) (arhivat [local](https://cronica-it.github.io/arhiva/))

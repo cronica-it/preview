@@ -93,4 +93,4 @@ Cerf a vizitat și ICI București.
 
 - [rite.org.ro - Istoria Internetului](https://rite.org.ro/istoria-internetului/)
 - [icann.org - Meeting in Bucharest](https://archive.icann.org/en/meetings/bucharest/)
-- [ici.ro - 50 ani](https://www.ici.ro/documents/24/ICI_Bucuresti-50_ani_tdHL8av.pdf)  (arhivat [local](https://cronica-it.github.io/arhiva/))
+- [ici.ro - 50 ani](https://www.ici.ro/documents/24/ICI_Bucuresti-50_ani_tdHL8av.pdf) (arhivat [local](https://cronica-it.github.io/arhiva/))

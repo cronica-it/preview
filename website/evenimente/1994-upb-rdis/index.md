@@ -30,6 +30,6 @@ Un rol important în crearea RDIS l-a avut profesorul Paul Cristea, membru cores
 
 ## Referințe
 
-- [cniv.ro - Nicolae Tăpuș - Rolul Universității Politehnica din București la Dezvoltarea Internetului în România](https://cniv.ro/documents/26/CNIV_Volum_Aniversar_2023_-_Versiune_Online_DPxioQg.pdf)  (arhivat [local](https://cronica-it.github.io/arhiva/))
+- [cniv.ro - Nicolae Tăpuș - Rolul Universității Politehnica din București la Dezvoltarea Internetului în România](https://cniv.ro/documents/26/CNIV_Volum_Aniversar_2023_-_Versiune_Online_DPxioQg.pdf) (arhivat [local](https://cronica-it.github.io/arhiva/))
 - [Cristea 1993] Cristea P., Moisa T., Popovici N., Staicut E., Rețeaua de calculatoare pentru învățământ și cercetare, Raport tehnic, MI., 1993
 - [Popovici 1996] Popovici N., Prezentare RDIS, Universitatea Politehnica București, aprilie, 1996.
