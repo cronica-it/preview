@@ -1,6 +1,6 @@
 ---
 slug: 1990/reteaua-arpanet-dezafectata
-title: 'ARPANET își încetează oficial existența'
+title: 'Rețeaua ARPANET își încetează oficial existența'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
 
@@ -14,7 +14,7 @@ eventDate: '1990'
 În anul 1990, după ce parteneriatele
 cu industria de telecomunicații și calculatoare au asigurat extinderea
 sectorului privat și comercializarea unei rețele extinse
-la nivel mondial, ARPANET își încetează oficial existența.
+la nivel mondial, rețeaua ARPANET își încetează oficial existența.
 
 <!-- truncate -->
 

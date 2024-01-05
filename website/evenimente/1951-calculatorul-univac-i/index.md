@@ -1,6 +1,6 @@
 ---
 slug: 1951/calculatorul-univac-i
-title: 'Remington Rand comercializează primul calculator „UNIVAC I”'
+title: 'Firma Remington Rand comercializează primul calculator „UNIVAC I”'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
 

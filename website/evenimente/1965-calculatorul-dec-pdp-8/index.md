@@ -1,6 +1,6 @@
 ---
 slug: 1965/calculatorul-dec-pdp-8
-title: 'DEC lansează familia de minicalculatoare „PDP-8”'
+title: 'Firma DEC lansează familia de minicalculatoare „PDP-8”'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
 

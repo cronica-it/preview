@@ -1,6 +1,6 @@
 ---
 slug: 1993/upb-lan
-title: 'La Politehnică este dată în folosință prima rețea locală (LAN)'
+title: 'La Universitatea Politehnica din București este dată în folosință prima rețea locală (LAN)'
 authors: [ntapus, ilg-ul]
 tags: [internet, educatie, upb, autor:nicolae.tapus]
 
@@ -11,7 +11,7 @@ eventDate: '1993-06'
 
 ---
 
-În anul 1993, la Universitatea Politehnica București este realizată prima
+În anul 1993, la Universitatea Politehnica din București este realizată prima
 rețea locală (LAN), la nivel de universitate.
 
 <!-- truncate -->

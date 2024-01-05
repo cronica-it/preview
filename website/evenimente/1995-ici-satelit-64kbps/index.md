@@ -1,6 +1,6 @@
 ---
 slug: 1995/ici-satelit-64kbps
-title: 'La ICI este instalată o legătura prin satelit de 64 kbps'
+title: 'La Institutul Central de Informatică (ICI) este instalată o legătura prin satelit de 64 kbps'
 authors: [arot, ilg-ul]
 tags: [internet, ici, sateliti, autor:alexandru.rotaru]
 
@@ -11,7 +11,7 @@ eventDate: '1995-03'
 
 ---
 
-In 1995, la ICI este pusă în funcțiune prima legatură pe satelit
+In 1995, la Institutul Central de Informatică (ICI) este pusă în funcțiune prima legatură pe satelit
 dedicată pentru Internet.
 
 <!-- truncate -->

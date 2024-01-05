@@ -1,6 +1,6 @@
 ---
 slug: 1964/calculatorul-ibm-360
-title: 'IBM anunță calculatorul „IBM System/360”'
+title: 'Firma IBM anunță calculatorul „IBM System/360”'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
 
@@ -11,7 +11,7 @@ eventDate: '1964-04-07'
 
 ---
 
-În 7 aprilie 1964, IBM anunță **IBM System/360 (S/360)**, o familie de
+În 7 aprilie 1964, firma IBM anunță **IBM System/360 (S/360)**, o familie de
 calculatoare mainframe care au fost produse între 1965 și 1978.
 
 <!-- truncate -->

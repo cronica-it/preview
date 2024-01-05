@@ -1,6 +1,6 @@
 ---
 slug: 2020/roedunet-local-100gbps
-title: 'Nodurile RoEduNet sunt conectate la 100 Gbps'
+title: 'Nodurile rețelei RoEduNet sunt conectate la 100 Gbps'
 authors: [ntapus, ilg-ul]
 tags: [internet, educatie, autor:nicolae.tapus]
 
@@ -12,7 +12,7 @@ eventDate: '2020'
 ---
 
 În 2020, viteza legăturilor între centrele de date ale universității
-UPB și RoEduNet respectiv GEANT este crescută la 100 Gps.
+UPB și RoEduNet respectiv GÉANT este crescută la 100 Gps.
 
 <!-- truncate -->
 

@@ -21,7 +21,7 @@ care se prevedea că vor înlocui memoriile magnetice.
 
 Intel a produs **1101**, primul cip comercial SRAM MOSFET, de 256 de biți.
 
-În anul 1971, Intel a creat **Intel 4004**, primul microprocesor
+În anul 1971, firma Intel a creat **Intel 4004**, primul microprocesor
 disponibil comercial.
 
 Au urmat 8080, 80x86, iar la sfârșitul anilor '90, familia **Pentium**.

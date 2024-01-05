@@ -1,6 +1,6 @@
 ---
 slug: 1986/sun-arhitectura-sparc
-title: 'Sun Microsystems publică specificațiile pentru „SPARC”'
+title: 'Firma Sun Microsystems publică specificațiile pentru „SPARC”'
 authors: [ilg-ul]
 tags: [international, microprocesoare, autor:liviu.ionescu]
 date: 1986-07
@@ -11,7 +11,7 @@ eventDate: '1986'
 
 ---
 
-În anul 1986, Sun Microsystems publică primele specificații pentru
+În anul 1986, firma Sun Microsystems publică primele specificații pentru
 **SPARC (Scalable Processor Architecture)**.
 
 <!-- truncate -->

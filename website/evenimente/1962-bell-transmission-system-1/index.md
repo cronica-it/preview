@@ -1,6 +1,6 @@
 ---
 slug: 1962/bell-transmission-system-1
-title: 'AT&T începe să transmită 24 de convorbiri simultane pe linii T1'
+title: 'Compania AT&T începe să transmită 24 de convorbiri simultane pe linii T1'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
 
@@ -11,9 +11,10 @@ eventDate: '1962'
 
 ---
 
-În anul 1962, AT&T începe să folosească sistemul Transmission System 1 (T1),
-care putea transmite 24 convorbiri telefonice simultane pe două perechi de fire
-de cupru.
+În anul 1962, compania AT&T începe să folosească sistemul
+**Transmission System 1 (T1)**,
+care permite transmiterea a 24 convorbiri telefonice simultane
+pe două perechi de fire de cupru.
 
 <!-- truncate -->
 

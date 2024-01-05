@@ -1,6 +1,6 @@
 ---
 slug: 2011/roedunet-4200-km-fibra-optica
-title: 'RoEduNet operează peste 4200 km de fibră optică'
+title: 'Rețeaua RoEduNet operează peste 4200 km de fibră optică'
 authors: [ntapus, ilg-ul]
 tags: [internet, educatie, autor:nicolae.tapus]
 

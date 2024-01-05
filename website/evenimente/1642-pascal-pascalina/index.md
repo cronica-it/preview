@@ -1,6 +1,6 @@
 ---
 slug: 1642/pascal-pascalina
-title: 'Blaise Pascal proiectează „La Pascaline”'
+title: 'Blaise Pascal proiectează „La Pascaline”, o mașină de calcul'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
 

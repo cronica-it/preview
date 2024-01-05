@@ -1,6 +1,6 @@
 ---
 slug: 1981/calculatorul-ibm-pc
-title: 'IBM lansează calculatorul personal „IBM PC”'
+title: 'Firma IBM lansează calculatorul personal „IBM PC”'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
 
@@ -11,7 +11,7 @@ eventDate: '1981-08-12'
 
 ---
 
-In 12 august 1981, IBM lansează calculatorul personal **IBM PC**, bazat pe
+In 12 august 1981, firma IBM lansează calculatorul personal **IBM PC**, bazat pe
 procesorul Intel 8088 de 16 biți la 4,77 Mhz, cu 64 kb memorie RAM și
 40 kb memorie cache; utilizează sistemul de operare
 DOS (Disk Operating System).

@@ -1,6 +1,6 @@
 ---
 slug: 1986/motorola-microprocesorul-68030
-title: 'Motorola anunță microprocesorul „68020”'
+title: 'Firma Motorola anunță microprocesorul „68020”'
 authors: [ilg-ul]
 tags: [international, motorola, microprocesoare, autor:liviu.ionescu]
 date: 1986-09
@@ -11,7 +11,7 @@ eventDate: '1986-09'
 
 ---
 
-În luna septembrie 1986, Motorola anunță microprocesorul
+În luna septembrie 1986, firma Motorola anunță microprocesorul
 de 32 biți **68030**, care devine disponibil în 1997.
 
 <!-- truncate -->

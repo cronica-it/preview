@@ -1,6 +1,6 @@
 ---
 slug: 1982/sinclair-calculatorul-zx-spectrum
-title: 'Sinclair lansează microcalculatorul „ZX Spectrum”'
+title: 'Firma Sinclair Research lansează microcalculatorul „ZX Spectrum”'
 authors: [ilg-ul]
 tags: [international, autor:liviu.ionescu]
 date: 1982-04-23
@@ -11,7 +11,7 @@ eventDate: '1982-04-23'
 
 ---
 
-În 23 aprilie 1982, Sinclair Research din Cambridge lansează
+În 23 aprilie 1982, firma Sinclair Research din Cambridge lansează
 microcalculatorul personal de 8 biți **ZX Spectrum**.
 
 <!-- truncate -->

@@ -1,6 +1,6 @@
 ---
 slug: 1997/reteaua-roedunet
-title: 'RDIS se transformă în „RoEduNet”'
+title: 'Rețeaua RDIS se transformă în „RoEduNet”'
 authors: [ntapus, ilg-ul]
 tags: [internet, educatie, upb, autor:nicolae.tapus]
 
@@ -12,7 +12,8 @@ eventDate: '1997-03-25'
 ---
 
 Prin Ordinul Ministerului Educației nr. 3629 din 25 martie 1997,
-RDIS se transformă în **RoEduNet (Romanian Education Network)**.
+Rețeaua de Date a Învățământului Superior (RDIS)
+se transformă în **RoEduNet (Romanian Education Network)**.
 
 <!-- truncate -->
 

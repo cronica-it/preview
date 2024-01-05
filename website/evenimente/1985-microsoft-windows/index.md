@@ -1,6 +1,6 @@
 ---
 slug: 1985/microsoft-windows
-title: 'Microsoft lansează sistemul de operare „Windows 1.0”'
+title: 'Firma Microsoft lansează sistemul de operare „Windows 1.0”'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
 
@@ -11,7 +11,7 @@ eventDate: '1985-11-20'
 
 ---
 
-În 20 noiembrie 1985, Microsoft lansează sistemul de operare **Windows 1.0**.
+În 20 noiembrie 1985, firma Microsoft lansează sistemul de operare **Windows 1.0**.
 
 <!-- truncate -->
 

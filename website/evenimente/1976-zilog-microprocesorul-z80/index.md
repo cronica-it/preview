@@ -1,6 +1,6 @@
 ---
 slug: 1976/zilog-microprocesorul-z80
-title: 'Zilog lansează microprocesorul Z80'
+title: 'Firma Zilog lansează microprocesorul Z80'
 authors: [ilg-ul]
 tags: [international, microprocesoare, autor:liviu.ionescu]
 date: 1976-03

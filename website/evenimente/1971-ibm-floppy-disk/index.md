@@ -1,6 +1,6 @@
 ---
 slug: 1971/ibm-floppy-disk
-title: 'IBM începe să comercializeze unități de floppy disk de 8"'
+title: 'Firma IBM începe să comercializeze unități de floppy disk de 8"'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
 
@@ -11,7 +11,7 @@ eventDate: '1971'
 
 ---
 
-În anul 1971, IBM începe să comercializeze unități de **floppy disk** de 8".
+În anul 1971, firma IBM începe să comercializeze unități de **floppy disk** de 8".
 
 <!-- truncate -->
 

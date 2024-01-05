@@ -1,6 +1,6 @@
 ---
 slug: 1983/calculatorul-ibm-pc-xt
-title: 'IBM lansează calculatorul personal „IBM PC XT”'
+title: 'Firma IBM lansează calculatorul personal „IBM PC XT”'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
 
@@ -11,7 +11,7 @@ eventDate: '1983-03-08'
 
 ---
 
-În 3 martie 1983, IBM lansează calculatorul personal IBM PC XT, primul
+În 3 martie 1983, firma IBM lansează calculatorul personal IBM PC XT, primul
 model cu hard-disk încorporat.
 
 <!-- truncate -->

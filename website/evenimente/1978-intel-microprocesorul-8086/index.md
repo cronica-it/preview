@@ -1,6 +1,6 @@
 ---
 slug: 1978/intel-microprocesorul-8086
-title: 'Intel lansează microprocesorul „Intel 8086”'
+title: 'Firma Intel lansează microprocesorul „Intel 8086”'
 authors: [gserban, ilg-ul]
 tags: [international, intel, microprocesoare, autor:gheorghe.serban]
 
@@ -11,7 +11,7 @@ eventDate: '1978-06-08'
 
 ---
 
-În 8 iunie 1978, Intel anunță microprocesorul de 16 biți, **Intel 8086**,
+În 8 iunie 1978, firma Intel anunță microprocesorul de 16 biți, **Intel 8086**,
 primul din seria x86 care stă la baza exploziei PC-urilor.
 
 <!-- truncate -->

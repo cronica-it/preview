@@ -1,6 +1,6 @@
 ---
 slug: 1991/upb-email-academic
-title: 'Nini Popovici efectuează primele legături de e-mail la centrul de calcul din UPB'
+title: 'Nini Popovici efectuează primele legături de e-mail la centrul de calcul din Politehnică'
 authors: [ilg-ul]
 tags: [internet, educatie, upb, autor:liviu.ionescu]
 
@@ -11,12 +11,13 @@ eventDate: '1991'
 
 ---
 
-În anul 1991, la UPB, devine funcțional primul sistem de poștă electronică
+În anul 1991, la Universitatea Politehnica din București,
+devine funcțional primul sistem de poștă electronică
 din mediul academic și de cercetare.
 
 <!-- truncate -->
 
-Incă din 1990, Universitatea Politehnica București, prin Nini Popovici,
+Incă din 1990, Universitatea Politehnica din București, prin Nini Popovici,
 și Technische Universitat Darmstadt, au demarat un proiect pentru a stabili un
 sistem experimental de poștă electronică
 cu scopul de a asigura conectivitatea UPB la nivel internațional.

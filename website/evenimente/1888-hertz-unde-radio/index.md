@@ -1,6 +1,6 @@
 ---
 slug: 1888/hertz-unde-radio
-title: 'Heinrich Hertz produce și detecteaza undele radio'
+title: 'Heinrich Hertz generează și detectează undele radio'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
 
@@ -12,7 +12,7 @@ eventDate: '1888'
 ---
 
 În anul 1888, Heinrich Rudolf Hertz trimite la Academia din Berlin o serie
-de lucrări despre experimentele sale prin care produce și detecteaza primele
+de lucrări despre experimentele sale prin care generează și detectează primele
 unde radio.
 
 <!-- truncate -->

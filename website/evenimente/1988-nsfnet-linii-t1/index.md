@@ -1,6 +1,6 @@
 ---
 slug: 1988/reteaua-nsfnet-linii-t1
-title: 'Legăturile NSFNET sunt crescute la 1.5 Mbit/s'
+title: 'Legăturile rețelei NSFNET sunt crescute la 1.5 Mbit/s'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
 
@@ -11,7 +11,7 @@ eventDate: '1988-07'
 
 ---
 
-În luna iulie 1988, legăturile dintre cele 13 noduri NSFNET sunt
+În luna iulie 1988, legăturile dintre cele 13 noduri ale rețelei NSFNET sunt
 crescute la linii T-1, de 1.5 Mbit/s.
 
 <!-- truncate -->

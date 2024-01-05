@@ -1,6 +1,6 @@
 ---
 slug: 1979/motorola-microprocesorul-68000
-title: 'Motorola anunță familia de microprocesoare „68000”'
+title: 'Firma Motorola anunță familia de microprocesoare „68000”'
 authors: [ilg-ul]
 tags: [international, motorola, microprocesoare, autor:liviu.ionescu]
 date: 1979-09
@@ -11,7 +11,7 @@ eventDate: '1979-09'
 
 ---
 
-În luna septembrie 1979, Motorola anunță familia de microprocesoare
+În luna septembrie 1979, firma Motorola anunță familia de microprocesoare
 de 16 biți **68000**.
 
 <!-- truncate -->

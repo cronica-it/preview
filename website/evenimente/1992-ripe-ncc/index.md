@@ -1,6 +1,6 @@
 ---
 slug: 1992/ripe-ncc
-title: 'RIPE crează „Network Coordination Center” (NCC)'
+title: 'Asociația RIPE crează „Network Coordination Center” (NCC)'
 authors: [gserban, ilg-ul]
 tags: [international, internet, autor:gheorghe.serban]
 
@@ -11,7 +11,7 @@ eventDate: '1992-04'
 
 ---
 
-În aprilie 1992, RIPE crează **Network Coordination Center (NCC)**
+În aprilie 1992, asociația RIPE crează **Network Coordination Center (NCC)**
 pentru a administra înregistrarea adreselor
 și a coordona serviciile comunității europene a Internetului.
 

@@ -1,6 +1,6 @@
 ---
 slug: 1984/motorola-microprocesorul-68020
-title: 'Motorola anunță microprocesorul „68020”'
+title: 'Firma Motorola anunță microprocesorul „68020”'
 authors: [ilg-ul]
 tags: [international, motorola, microprocesoare, autor:liviu.ionescu]
 date: 1984-06
@@ -11,7 +11,7 @@ eventDate: '1984-06'
 
 ---
 
-În luna iunie 1984, Motorola anunță microprocesorul
+În luna iunie 1984, firma Motorola anunță microprocesorul
 de 32 biți **68020**.
 
 <!-- truncate -->

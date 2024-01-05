@@ -1,6 +1,6 @@
 ---
 slug: 2023/conferinta-rite
-title: 'ANISP organizează conferința „RITE 2023 - 30 de ani de Internet în România”'
+title: 'Asociația ANISP organizează conferința „RITE 2023 - 30 de ani de Internet în România”'
 authors: [ilg-ul]
 tags: [conferinte, aniversari, internet, autor:liviu.ionescu]
 

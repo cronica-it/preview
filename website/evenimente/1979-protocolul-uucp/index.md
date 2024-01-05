@@ -1,6 +1,6 @@
 ---
 slug: 1979/protocolul-uucp
-title: 'Bell Labs crează protocolul „Unix to Unix Copy” (UUCP)'
+title: 'La Bell Telephone Labs este dezvoltat protocolul „Unix to Unix Copy” (UUCP)'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
 
@@ -11,7 +11,7 @@ eventDate: '1979'
 
 ---
 
-Dezvoltat la Bell Labs și folosit intern încă din 1976,
+Dezvoltat la Bell Telephone Labs și folosit intern încă din 1976,
 **protocolul Unix to Unix Copy (UUCP)**
 a devenit public în anul 1979, în Versiunea 7 de Unix.
 

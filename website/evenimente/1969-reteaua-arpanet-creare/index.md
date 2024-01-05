@@ -1,6 +1,6 @@
 ---
 slug: 1969/reteaua-arpanet-creare
-title: 'DoD crează ARPANET'
+title: 'Department of Defense (DoD) crează rețeaua ARPANET'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
 
@@ -14,7 +14,7 @@ eventDate: '1969-10-29'
 În 29 octombrie 1969 sunt interconectate primele două hosturi dintre cele
 patru care aveau să constituie inițial **Advanced Research Projects
 Agency Network (ARPANET)**, rețeaua departamentului apărării din
-Statele Unite (DoD).
+Statele Unite (Department of Defense - DoD).
 
 <!-- truncate -->
 

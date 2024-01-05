@@ -1,6 +1,6 @@
 ---
 slug: 2023/conferinta-dtc-30-ani-internet
-title: 'DTC organizează conferința „30 de ani de Internet în România”'
+title: 'Digital Transformation (DX) Council organizează conferința „30 de ani de Internet în România”'
 authors: [ivaciu, ilg-ul]
 tags: [conferinte, aniversari, internet]
 

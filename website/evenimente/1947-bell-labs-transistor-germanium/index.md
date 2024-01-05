@@ -1,6 +1,6 @@
 ---
 slug: 1947/bell-labs-transistor-germanium
-title: 'La Bell Labs este realizat primul tranzistor'
+title: 'La Bell Telephone Labs este realizat primul tranzistor'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
 

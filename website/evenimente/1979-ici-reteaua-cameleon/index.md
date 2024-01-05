@@ -1,6 +1,6 @@
 ---
 slug: 1979/ici-reteaua-cameleon
-title: 'La ICI este realizată prima rețea locală (proiectul Cameleon)'
+title: 'La Institutul Central de Informatică (ICI) este realizată prima rețea locală (proiectul Cameleon)'
 authors: [gserban, ilg-ul]
 tags: [ici, autor:gheorghe.serban]
 
@@ -11,7 +11,7 @@ eventDate: '1979'
 
 ---
 
-În anul 1979, la ICI, este realizată prima rețea locală (LAN)
+În anul 1979, la Institutul Central de Informatică (ICI), este realizată prima rețea locală (LAN)
 pentru interconectarea
 calculatoarelor în rețele pe zone restrânse, în cadrul
 proiectului **Cameleon**.

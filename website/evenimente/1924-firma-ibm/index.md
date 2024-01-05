@@ -1,6 +1,6 @@
 ---
 slug: 1924/firma-ibm
-title: 'Apare „International Business Machines” (IBM)'
+title: 'Apare firma „International Business Machines” (IBM)'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
 

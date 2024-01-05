@@ -1,6 +1,6 @@
 ---
 slug: 2023/aniversare-gts-telecom-30-ani
-title: 'GTS Telecom aniversează 30 de ani de activitate'
+title: 'Firma GTS Telecom aniversează 30 de ani de activitate (fondată ca EUnet)'
 authors: [ilg-ul]
 tags: [aniversari, firme, autor:liviu.ionescu]
 
@@ -12,7 +12,7 @@ eventDate: '2023-09-21'
 ---
 
 Joi, 21 Septembrie 2023, la Kong Restaurant,
-GTS Telecom aniversează 30 de ani de activitate în România.
+GTS Telecom aniversează **30 de ani de activitate** în România.
 
 <!-- truncate -->
 

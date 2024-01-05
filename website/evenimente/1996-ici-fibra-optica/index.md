@@ -1,6 +1,6 @@
 ---
 slug: 1996/ici-fibra-optica
-title: 'La ICI este instalată o legătură terestră digitală'
+title: 'La Institutul Central de Informatică (ICI) este instalată o legătură terestră digitală'
 authors: [arot, ilg-ul]
 tags: [internet, ici, autor:alexandru.rotaru]
 
@@ -11,7 +11,8 @@ eventDate: '1996-10'
 
 ---
 
-In octombrie 1996, la ICI este instalată prima legătură terestră prin
+In octombrie 1996, la Institutul Central de Informatică (ICI)
+este instalată prima legătură terestră prin
 fibră optică pentru Internet.
 
 <!-- truncate -->

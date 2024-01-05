@@ -1,6 +1,6 @@
 ---
 slug: 1979/ntt-telefonie-celulara
-title: 'NTT lansează prima rețea celulară analogică'
+title: 'Operatorul Nippon Telegraph and Telephone (NTT) lansează prima rețea celulară analogică'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
 
@@ -11,7 +11,7 @@ eventDate: '1979'
 
 ---
 
-În anul 1979, Nippon Telegraph and Telephone lansează prima rețea
+În anul 1979, operatorul Nippon Telegraph and Telephone (NTT) lansează prima rețea
 celulară automată comercială (1G) analogică.
 
 <!-- truncate -->

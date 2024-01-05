@@ -1,6 +1,6 @@
 ---
 slug: 1989/intel-microprocesorul-80486
-title: 'Intel lansează microprocesorul „Intel 80486”'
+title: 'Firma Intel lansează microprocesorul „Intel 80486”'
 authors: [gserban, ilg-ul]
 tags: [international, intel, microprocesoare, autor:gheorghe.serban]
 
@@ -11,7 +11,7 @@ eventDate: '1989-04-10'
 
 ---
 
-În 10 aprilie 1989, Intel anunță microprocesorul de 32 biți, **Intel 80486**.
+În 10 aprilie 1989, firma Intel anunță microprocesorul de 32 biți, **Intel 80486**.
 
 <!-- truncate -->
 

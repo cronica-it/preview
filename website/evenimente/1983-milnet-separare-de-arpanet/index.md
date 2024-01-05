@@ -1,6 +1,6 @@
 ---
 slug: 1983/milnet-separare-de-arpanet
-title: 'MILNET se separă fizic de ARPANET'
+title: 'Rețeaua MILNET se separă fizic de rețeaua ARPANET'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
 
@@ -11,8 +11,8 @@ eventDate: '1983'
 
 ---
 
-În anul 1983, din motive de securitate, MILNET (Military Network)
-se separă fizic de ARPANET.
+În anul 1983, din motive de securitate, rețeaua MILNET (Military Network)
+se separă fizic de rețeaua ARPANET.
 
 <!-- truncate -->
 

@@ -1,6 +1,6 @@
 ---
 slug: 1977/calculatorul-apple-2
-title: 'Apple lansează microcalculatorul personal „Apple II”'
+title: 'Firma Apple lansează microcalculatorul personal „Apple II”'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
 

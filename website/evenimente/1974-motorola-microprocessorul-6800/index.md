@@ -1,6 +1,6 @@
 ---
 slug: 1974/motorola-microprocessorul-6800
-title: 'Motorola anunță familia de microprocesoare „6800”'
+title: 'Firma Motorola anunță familia de microprocesoare „6800”'
 authors: [ilg-ul]
 tags: [international, motorola, microprocesoare, autor:liviu.ionescu]
 date: 1974-03
@@ -11,7 +11,7 @@ eventDate: '1974-03'
 
 ---
 
-În luna martie 1974, Motorola anunță **M6800 Microcomputer System**, o familie
+În luna martie 1974, firma Motorola anunță **M6800 Microcomputer System**, o familie
 de microprocesoare de 8 biți, ulterior numită **68xx**..
 
 <!-- truncate -->

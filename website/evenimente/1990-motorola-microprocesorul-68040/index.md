@@ -1,6 +1,6 @@
 ---
 slug: 1990/motorola-microprocesorul-68040
-title: 'Motorola anunță microprocesorul „68040”'
+title: 'Firma Motorola anunță microprocesorul „68040”'
 authors: [ilg-ul]
 tags: [international, motorola, microprocesoare, autor:liviu.ionescu]
 date: 1990-07
@@ -11,7 +11,7 @@ eventDate: '1990'
 
 ---
 
-În anul 1990, Motorola anunță microprocesorul
+În anul 1990, firma Motorola anunță microprocesorul
 de 32 biți **68040**.
 
 <!-- truncate -->

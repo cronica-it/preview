@@ -1,6 +1,6 @@
 ---
 slug: 1987/calculatorul-ibm-ps2
-title: 'IBM lansează calculatorul personal „IBM PS/2”'
+title: 'Firma IBM lansează calculatorul personal „IBM PS/2”'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
 
@@ -11,7 +11,7 @@ eventDate: '1987-04'
 
 ---
 
-În luna aprilie 1987, IBM lansează a doua generație de calculatoare
+În luna aprilie 1987, firma IBM lansează a doua generație de calculatoare
 personale, familia **IBM PS/2**.
 
 <!-- truncate -->

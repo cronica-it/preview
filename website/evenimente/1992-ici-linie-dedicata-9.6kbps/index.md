@@ -1,6 +1,6 @@
 ---
 slug: 1992/ici-linie-dedicata-9.6kbps
-title: 'La ICI este instalată o linie dedicată de 9.6 kbps cu Viena'
+title: 'La Institutul Central de Informatică (ICI) este instalată o linie dedicată de 9.6 kbps cu Viena'
 authors: [gserban, ilg-ul]
 tags: [internet, ici, autor:gheorghe.serban]
 
@@ -11,7 +11,7 @@ eventDate: '1992-12'
 
 ---
 
-În decembrie 1992, nodul de la ICI
+În decembrie 1992, nodul de la Institutul Central de Informatică (ICI)
 este conectat la EARN prin Universitatea
 din Viena, pe o linie
 dedicată analogică de 9,6 kbps.

@@ -1,6 +1,6 @@
 ---
 slug: 1997/programul-cisco-networking-academy
-title: 'Cisco Systems lansează programul „Networking Academy” în Statele Unite'
+title: 'Firma Cisco Systems lansează programul „Networking Academy” în Statele Unite'
 authors: [gserban, ilg-ul]
 tags: [international, educatie, autor:gheorghe.serban]
 
@@ -11,7 +11,7 @@ eventDate: '1997'
 
 ---
 
-În anul 1997, Cisco Systems lansează programul **Networking Academy**,
+În anul 1997, firma Cisco Systems lansează programul **Networking Academy**,
 prin care elevi și studenți sunt inițiați în tainele rețelelor și
 echipamentelor de conectare.
 

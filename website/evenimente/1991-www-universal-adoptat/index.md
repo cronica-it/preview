@@ -1,6 +1,6 @@
 ---
 slug: 1991/www-universal-adoptat
-title: 'WWW este universal adoptat'
+title: 'World Wide Web (WWW) este universal adoptat'
 authors: [gserban, ilg-ul]
 tags: [international, internet, servicii, autor:gheorghe.serban]
 

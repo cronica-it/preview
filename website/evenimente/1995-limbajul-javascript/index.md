@@ -1,6 +1,6 @@
 ---
 slug: 1995/limbajul-javascript
-title: 'Netscape lansează limbajul „JavaScript”'
+title: 'Firma Netscape lansează limbajul „JavaScript”'
 authors: [ilg-ul]
 tags: [international, internet, autor:liviu.ionescu]
 
@@ -11,7 +11,7 @@ eventDate: '1995-12-04'
 
 ---
 
-În 4 decembrie 1995, Netscape lansează **limbajul JavaScript**.
+În 4 decembrie 1995, firma Netscape lansează **limbajul JavaScript**.
 
 <!-- truncate -->
 

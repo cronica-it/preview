@@ -1,6 +1,6 @@
 ---
 slug: 1983/reteaua-arpanet-tranzitie-tcp-ip
-title: 'ARPANET trece de la NCP la TCP/IP'
+title: 'Rețeaua ARPANET trece de la NCP la TCP/IP'
 authors: [gserban, ilg-ul]
 tags: [international, internet, autor:gheorghe.serban]
 
@@ -12,7 +12,7 @@ eventDate: '1983-01-01'
 ---
 
 Începând cu 1 ianuarie 1983 are loc
-una dintre cele mai interesante provocări pentru ARPANET,
+una dintre cele mai interesante provocări pentru rețeaua ARPANET,
 constând în tranziția protocolului
 de rețea de la NCP la TCP/IP, .
 

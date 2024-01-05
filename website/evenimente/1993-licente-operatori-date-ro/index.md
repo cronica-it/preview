@@ -1,6 +1,6 @@
 ---
 slug: 1993/licente-operatori-date-ro
-title: 'Sunt atribuite primele licențe de operatori de date'
+title: 'Autoritatea de reglementare din România atribuie primele licențe de operatori de date'
 authors: [gserban, ilg-ul]
 tags: [licente, firme, comunicatii, autor:gheorghe.serban]
 
@@ -11,8 +11,9 @@ eventDate: '1993-07-06'
 
 ---
 
-In 6 iulie 1993 se atribuie primele două licențe de operatori de date
-din România firmelor **RTNS** (actualul Equant) și **Logic**.
+In 6 iulie 1993, Autoritatea de reglementare din România atribuie
+primele două licențe de operatori de date
+firmelor **RTNS** (actualul Equant) și **Logic**.
 
 <!-- truncate -->
 

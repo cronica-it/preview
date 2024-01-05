@@ -1,6 +1,6 @@
 ---
 slug: 2006/roedunet-acord-cfr
-title: 'RoEduNet semnează un acord cu CFR pentru utilizarea rețelei de fibră optică'
+title: 'Rețeaua RoEduNet încheie un acord cu CFR pentru operarea rețelei de fibră optică'
 authors: [ntapus, ilg-ul]
 tags: [internet, educatie, upb, autor:nicolae.tapus]
 
@@ -11,7 +11,7 @@ eventDate: '2006-12'
 
 ---
 
-În decembrie 2006 este semnat acordul între RoEduNet și CFR, prin care
+În decembrie 2006 este semnat acordul între rețeaua RoEduNet și CFR, prin care
 este permisă utilizarea rețelei de fibră optică a S.C. Telecomunicații CFR
 pentru realizarea în comun a unei rețele de comunicații bazată pe
 tehnologie DWDM denumită **RoEduNet2**.

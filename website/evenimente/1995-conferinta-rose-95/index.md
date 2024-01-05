@@ -1,6 +1,6 @@
 ---
 slug: 1995/conferinta-rose-95
-title: "GURU organizează conferința „ROSE '95”, la București"
+title: "Asociația GURU organizează conferința „ROSE '95”, la București"
 authors: [arot]
 tags: [conferinte, internet, autor:alexandru.rotaru]
 
@@ -12,7 +12,8 @@ eventEndDate: '1995-11-04'
 
 ---
 
-În perioada 1-4 noiembrie 1995, la București, are loc conferința **ROSE '95**, organizată de Grupul Utilizatorilor
+În perioada 1-4 noiembrie 1995, la București, are loc conferința **ROSE '95**,
+organizată de Grupul Utilizatorilor
 Români de Unix (GURU), condus de Alexandru Rotaru.
 
 <!-- truncate -->

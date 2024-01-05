@@ -1,6 +1,6 @@
 ---
 slug: 1906/de-forest-trioda
-title: 'Lee De Forest inventează trioda'
+title: 'Lee de Forest inventează trioda, tubul electronic cu trei electrozi'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
 
@@ -11,7 +11,7 @@ eventDate: '1906'
 
 ---
 
-În anul 1906, Lee De Forest inventează **trioda, tubul electronic cu
+În anul 1906, Lee de Forest inventează **trioda, tubul electronic cu
 trei electrozi**, care a permis realizarea
 de circuite amplificatoare și oscilatoare.
 

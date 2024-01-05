@@ -1,6 +1,6 @@
 ---
 slug: 1974/intel-microprocesorul-8080
-title: 'Intel lansează microprocesorul „Intel 8080”'
+title: 'Firma Intel lansează microprocesorul „Intel 8080”'
 authors: [gserban, ilg-ul]
 tags: [international, intel, microprocesoare, autor:gheorghe.serban]
 
@@ -11,7 +11,7 @@ eventDate: '1974-04'
 
 ---
 
-În luna aprilie 1974, Intel anunță microprocesorul de 8 biți **Intel 8080**.
+În luna aprilie 1974, firma Intel anunță microprocesorul de 8 biți **Intel 8080**.
 
 <!-- truncate -->
 

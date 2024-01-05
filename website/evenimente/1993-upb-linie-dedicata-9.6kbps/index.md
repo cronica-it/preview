@@ -1,6 +1,6 @@
 ---
 slug: 1993/upb-linie-dedicata-9.6kbps
-title: 'La UPB este instalată o linie dedicată de 9.6 kbps cu Düsseldorf'
+title: 'La Universitatea Politehnica din București este instalată o linie dedicată de 9.6 kbps cu Düsseldorf'
 authors: [ntapus, ilg-ul]
 tags: [internet, educatie, upb, autor:nicolae.tapus]
 
@@ -11,7 +11,7 @@ eventDate: '1993-06'
 
 ---
 
-In iunie 1993, Universitatea Politehnica București este conectată la EuropaNet
+In iunie 1993, Universitatea Politehnica din București este conectată la EuropaNet
 cu o linie analogică dedicată.
 
 <!-- truncate -->

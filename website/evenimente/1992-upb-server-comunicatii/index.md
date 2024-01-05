@@ -1,6 +1,6 @@
 ---
 slug: 1992/upb-server-comunicatii
-title: 'La UPB este instalat primul server de e-mail pentru mediul academic'
+title: 'La Universitatea Politehnica din București este instalat primul server de e-mail pentru mediul academic'
 authors: [ntapus, ilg-ul]
 tags: [internet, educatie, upb, autor:nicolae.tapus]
 
@@ -11,7 +11,7 @@ eventDate: '1992'
 
 ---
 
-În anul 1992, la Universitatea Politehnica București, Nini Popovici
+În anul 1992, la Universitatea Politehnica din București, Nini Popovici
 instalează un server de e-mail.
 
 <!-- truncate -->

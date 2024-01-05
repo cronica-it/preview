@@ -1,6 +1,6 @@
 ---
 slug: 1985/reteaua-nsfnet-creare
-title: 'NSF crează rețeua de cercetare NSFNET'
+title: 'National Science Foundation (NSF) crează rețeua de cercetare „NSFNET”'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
 

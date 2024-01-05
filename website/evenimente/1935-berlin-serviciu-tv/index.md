@@ -1,6 +1,6 @@
 ---
 slug: 1935/berlin-serviciu-tv
-title: 'La Berlin este inaugurată prima stație de TV'
+title: 'La Berlin este inaugurată prima stație publică de TV'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
 

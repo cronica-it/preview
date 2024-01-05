@@ -1,6 +1,6 @@
 ---
 slug: 1995/upb-linie-64kbps
-title: 'La UPB este instalată o linie dedicată de 64 kbps'
+title: 'La Universitatea Politehnica din București este instalată o linie dedicată de 64 kbps'
 authors: [ntapus, ilg-ul]
 tags: [internet, educatie, upb, autor:nicolae.tapus]
 
@@ -16,7 +16,9 @@ București și nodul de acces al EuropaNet (DanteNet) din Amsterdam.
 
 <!-- truncate -->
 
-Astfel capacitatea conexiunii externă este crescută de la 9.6 kbps la 64 kbps. Sunt conectate peste 70 de instituții, impunându-se rapid o nouă creștere a lățimii de bandă [Kalin 1995].
+Astfel capacitatea conexiunii externă este crescută de la 9.6 kbps la
+64 kbps. Sunt conectate peste 70 de instituții, impunându-se rapid o
+nouă creștere a lățimii de bandă [Kalin 1995].
 
 ## Referințe
 

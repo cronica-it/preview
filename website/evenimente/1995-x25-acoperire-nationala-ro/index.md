@@ -1,6 +1,6 @@
 ---
 slug: 1995/x25-acoperire-nationala-ro
-title: 'Rețelele X.25 au acoperire națională'
+title: 'Rețelele X.25 din România au acoperire națională'
 authors: [gserban, ilg-ul]
 tags: [servicii, autor:gheorghe.serban]
 

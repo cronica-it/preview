@@ -1,6 +1,6 @@
 ---
 slug: 2004/serviciul-zapp-internet-express
-title: 'Zapp lansează primul serviciu de comunicații mobile în bandă largă'
+title: 'Firma Zapp lansează primul serviciu de comunicații mobile în bandă largă'
 authors: [gserban, ilg-ul]
 tags: [firme, internet, servicii, gsm, autor:gheorghe.serban]
 
@@ -11,7 +11,7 @@ eventDate: '2004-10-27'
 
 ---
 
-În 27 octombrie 2004, Zapp lansează primul serviciu de comunicații mobile
+În 27 octombrie 2004, firma Zapp lansează primul serviciu de comunicații mobile
 în bandă largă la nivel național în România.
 
 <!-- truncate -->

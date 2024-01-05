@@ -1,6 +1,6 @@
 ---
 slug: 1976/statie-intelsat-ro
-title: 'România se conectează la Intelsat'
+title: 'România se conectează la Intelsat prin stația de la Cheia'
 authors: [gserban, ilg-ul]
 tags: [comunicatii, sateliti, autor:gheorghe.serban]
 

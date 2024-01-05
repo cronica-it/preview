@@ -1,6 +1,6 @@
 ---
 slug: 1928/ibm-cartela-80-coloane
-title: 'IBM adoptă formatul de cartele perforate cu 80 de coloane'
+title: 'Firma IBM adoptă formatul de cartele perforate cu 80 de coloane'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
 
@@ -11,7 +11,7 @@ eventDate: '1928'
 
 ---
 
-În anul 1928, IBM adoptă formatul de cartele perforate cu
+În anul 1928, firma IBM adoptă formatul de cartele perforate cu
 80 de coloane, 10 rânduri și găuri dreptunghiulare.
 
 <!-- truncate -->

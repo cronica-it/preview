@@ -1,6 +1,6 @@
 ---
 slug: 1985/intel-microprocesorul-80386
-title: 'Intel lansează microprocesorul „Intel 80386”'
+title: 'Firma Intel lansează microprocesorul „Intel 80386”'
 authors: [gserban, ilg-ul]
 tags: [international, intel, microprocesoare, autor:gheorghe.serban]
 
@@ -11,7 +11,7 @@ eventDate: '1985-10'
 
 ---
 
-În luna octombrie 1985, Intel anunță microprocesorul de 32 biți, **Intel 80386**.
+În luna octombrie 1985, firma Intel anunță microprocesorul de 32 biți, **Intel 80386**.
 
 <!-- truncate -->
 

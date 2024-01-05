@@ -1,6 +1,6 @@
 ---
 slug: 1960/limbajul-cobol-specificatii
-title: 'CODASYL aprobă prima versiune a limbajului de programare „COBOL”'
+title: 'Comitetul CODASYL aprobă prima versiune a limbajului de programare „COBOL”'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
 

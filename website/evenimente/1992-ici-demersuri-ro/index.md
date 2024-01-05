@@ -1,6 +1,6 @@
 ---
 slug: 1992/ici-demersuri-ro
-title: 'ICI începe demersurile pentru înregistrarea domeniului „.ro”'
+title: 'Institutul Central de Informatică (ICI) începe demersurile pentru înregistrarea domeniului „.ro”'
 authors: [gserban, ilg-ul]
 tags: [internet, ici, autor:gheorghe.serban]
 
@@ -11,7 +11,8 @@ eventDate: '1992-05'
 
 ---
 
-În mai 1992, ICI încep, sub coordonarea CNI, demersurile la RIPE
+În mai 1992, la Institutul Central de Informatică (ICI) încep,
+sub coordonarea CNI, demersurile la RIPE
 și apoi la IANA, pentru recunoșterea și înregistrarea domeniului
 de nivel înalt `.ro` (ROTLD).
 

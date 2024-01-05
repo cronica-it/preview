@@ -1,6 +1,6 @@
 ---
 slug: 1985/arhitectura-mips
-title: 'MIPS Computer Systems anunță arhitectura „MIPS”'
+title: 'Firma MIPS Computer Systems anunță arhitectura „MIPS”'
 authors: [ilg-ul]
 tags: [international, microprocesoare, autor:liviu.ionescu]
 date: 1985-07
@@ -11,7 +11,7 @@ eventDate: '1985'
 
 ---
 
-În anul 1985, MIPS Computer Systems anunță arhitectura **MIPS**,
+În anul 1985, firma MIPS Computer Systems anunță arhitectura **MIPS**,
 o ISA (instruction set architecture) cu set redus de instrucțiuni (RISC).
 
 <!-- truncate -->

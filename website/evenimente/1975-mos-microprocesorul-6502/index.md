@@ -1,6 +1,6 @@
 ---
 slug: 1975/mos-microprocesorul-6502
-title: 'MOS lansează microprocesorul „6502”'
+title: 'Firma MOS Technology lansează microprocesorul „6502”'
 authors: [ilg-ul]
 tags: [international, microprocesoare, autor:liviu.ionescu]
 date: 1975-06
@@ -11,8 +11,8 @@ eventDate: '1975-06'
 
 ---
 
-În luna iunie 1975, firma MOS lansează microprocesorul de 8 biți, **6502**,
-ca o alternativă mai simplă și mai ieftină la Motorola 6800.
+În luna iunie 1975, firma MOS Technology lansează microprocesorul de 8 biți,
+**6502**, ca o alternativă mai simplă și mai ieftină la Motorola 6800.
 
 <!-- truncate -->
 

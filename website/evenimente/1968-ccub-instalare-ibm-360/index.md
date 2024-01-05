@@ -1,6 +1,6 @@
 ---
 slug: 1968/ccub-instalare-ibm-360
-title: 'La CCUB este instalat un calculator „IBM 360/30”'
+title: 'La Centrul de Calcul al Universității București (CCUB) este instalat un calculator „IBM 360/30”'
 authors: [sniculescu]
 tags: [calculatoare, autor:stelian.niculescu]
 

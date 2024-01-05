@@ -1,6 +1,6 @@
 ---
 slug: 1939/calculatorul-abc
-title: 'Atanasoff și Berry încep lucrul la „ABC”, primul calculator digital'
+title: 'La Iowa State College, Atanasoff și Berry încep lucrul la „ABC”, primul calculator digital'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
 

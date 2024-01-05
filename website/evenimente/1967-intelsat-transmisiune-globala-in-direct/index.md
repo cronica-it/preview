@@ -1,6 +1,6 @@
 ---
 slug: 1967/intelsat-transmisiune-globala-in-direct
-title: 'Intelsat face prima transmisiune TV globală'
+title: 'Firma Intelsat face prima transmisiune TV globală'
 authors: [ilg-ul]
 tags: [international, sateliti, autor:liviu.ionescu]
 

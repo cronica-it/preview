@@ -1,6 +1,6 @@
 ---
 slug: 1992/aim-microprocesoarele-powerpc
-title: 'Alianța AIM anunță arhitectura RISC „PowerPC”'
+title: 'Alianța Apple–IBM–Motorola anunță arhitectura RISC „PowerPC”'
 authors: [ilg-ul]
 tags: [international, autor:liviu.ionescu]
 date: 1992-10

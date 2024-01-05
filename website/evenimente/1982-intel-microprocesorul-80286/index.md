@@ -1,6 +1,6 @@
 ---
 slug: 1982/intel-microprocesorul-80286
-title: 'Intel lansează microprocesorul „Intel 80286”'
+title: 'Firma Intel lansează microprocesorul „Intel 80286”'
 authors: [ilg-ul]
 tags: [international, intel, microprocesoare, autor:liviu.ionescu]
 
@@ -11,7 +11,7 @@ eventDate: '1982-02'
 
 ---
 
-În luna februarie 1982, Intel anunță microprocesorul de 16 biți, **Intel 80286**.
+În luna februarie 1982, firma Intel anunță microprocesorul de 16 biți, **Intel 80286**.
 
 <!-- truncate -->
 

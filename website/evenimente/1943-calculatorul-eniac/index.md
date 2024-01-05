@@ -1,6 +1,6 @@
 ---
 slug: 1943/calculatorul-eniac
-title: 'Începe construcția calculatorului „ENIAC”'
+title: 'La University of Pensilvania începe construcția calculatorului „ENIAC”'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
 
@@ -13,7 +13,7 @@ eventDate: '1943-07'
 
 În 5 iunie 1943, este semnat contractul pentru **ENIAC (Electronic
 Numerical Integrator and Computer)**. Construcția a început în iulie,
-la Moore School of Electrical Engineering,
+la Moore School of Electrical Engineering - University of Pensilvania,
 fiind finalizat în 10 decembrie 1945.
 
 <!-- truncate -->

@@ -1,6 +1,6 @@
 ---
 slug: 2000/ici-satelit-2mbps
-title: 'La ICI este instalată prima legătură pe satelit de 2 Mbps'
+title: 'La Institutul Central de Informatică (ICI) este instalată prima legătură pe satelit de 2 Mbps'
 authors: [ilg-ul]
 tags: [internet, ici, sateliti, autor:liviu.ionescu]
 
@@ -11,7 +11,7 @@ eventDate: '2000-03'
 
 ---
 
-În luna martie 2000 la ICI este instalată prima legătură pe satelit de 2 Mbps.
+În luna martie 2000 la Institutul Central de Informatică (ICI) este instalată prima legătură pe satelit de 2 Mbps.
 
 <!-- truncate -->
 

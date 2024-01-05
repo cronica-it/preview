@@ -1,6 +1,6 @@
 ---
 slug: 1984/calculatorul-ibm-pc-at
-title: 'IBM lansează calculatorul personal „IBM PC AT”'
+title: 'Firma IBM lansează calculatorul personal „IBM PC AT”'
 authors: [ilg-ul]
 tags: [international, autor:gheorghe.serban]
 
@@ -11,7 +11,7 @@ eventDate: '1984-08-14'
 
 ---
 
-În 14 august 1984, IBM lansează calculatorul personal **IBM PC AT**.
+În 14 august 1984, firma IBM lansează calculatorul personal **IBM PC AT**.
 
 <!-- truncate -->
 

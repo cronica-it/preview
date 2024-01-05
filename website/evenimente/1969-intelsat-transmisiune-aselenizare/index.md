@@ -1,6 +1,6 @@
 ---
 slug: 1969/intelsat-transmisiune-aselenizare
-title: 'Intelsat transmite aselenizarea Apollo 11'
+title: 'Firma Intelsat transmite aselenizarea misiunii Apollo 11'
 authors: [ilg-ul]
 tags: [international, sateliti, autor:liviu.ionescu]
 
