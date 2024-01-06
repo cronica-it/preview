@@ -227,4 +227,4 @@ NOTE: Other possible subjects for open discussions will be announced, during the
 
 ## Referințe
 
-- [mesaj Marius Hâncu despre ROSE '95](/amintiri/1995/hancu-mesaj-jsq-rose95)
+- [mesaj Marius Hâncu despre ROSE '95](/amintiri/1995/mhancu-mesaj-jsq-rose95)

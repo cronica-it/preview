@@ -1,7 +1,7 @@
 ---
-slug: 1995/hancu-mesaj-jsq-rose95
+slug: 1995/mhancu-mesaj-jsq-rose95
 title: "Mesajul lui Marius Hâncu despre ROSE '95"
-authors: [hancu]
+authors: [mhancu]
 tags: [mesaje, autor:marius.hancu]
 
 date: 1995-12-20

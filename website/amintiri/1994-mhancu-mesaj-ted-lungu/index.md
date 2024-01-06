@@ -1,7 +1,7 @@
 ---
-slug: 1994/hancu-mesaj-ted-lungu
+slug: 1994/mhancu-mesaj-ted-lungu
 title: 'Mesajul în care Marius Hâncu îl introduce pe Ted Lungu'
-authors: [hancu]
+authors: [mhancu]
 tags: [mesaje, autor:marius.hancu]
 
 date: 1994-09-21

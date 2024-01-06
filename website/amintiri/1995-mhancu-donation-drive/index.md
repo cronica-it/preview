@@ -1,7 +1,7 @@
 ---
-slug: 1995/hancu-donation-drive
+slug: 1995/mhancu-donation-drive
 title: 'Raportul lui Marius Hâncu despre donațiile pentru Free Unix for Romania'
-authors: [hancu]
+authors: [mhancu]
 tags: [mesaje, autor:marius.hancu]
 
 date: 1995-10-14

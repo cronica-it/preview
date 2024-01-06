@@ -116,7 +116,7 @@ Ultimul raport cunoscut este din 1995.
 
 ## Referințe
 
-- [Prezentare lui Marius Hâncu la ROSE '93](/amintiri/2023/hancu-mesaj-free-unix-rose93/)
+- [Prezentare lui Marius Hâncu la ROSE '93](/amintiri/2023/mhancu-mesaj-free-unix-rose93/)
 ...
 ```
 

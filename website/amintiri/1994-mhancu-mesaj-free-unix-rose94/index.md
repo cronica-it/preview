@@ -1,7 +1,7 @@
 ---
-slug: 1994/hancu-mesaj-free-unix-rose94
+slug: 1994/mhancu-mesaj-free-unix-rose94
 title: "Mesajul lui Marius Hâncu despre Free Unix for Romania la ROSE '94"
-authors: [hancu]
+authors: [mhancu]
 tags: [mesaje, autor:marius.hancu]
 
 date: 1994-11
@@ -278,4 +278,4 @@ Microwave Atmospheric Science Group, 4800 Oak Grove Dr, Pasadena CA,
 ## Referințe
 
 - [ROSE '94](/evenimente/1994/conferinta-rose-94/)
-- [Mesajul în care Marius Hâncu îl introduce pe Ted Lungu](/amintiri/1994/hancu-mesaj-ted-lungu/)
+- [Mesajul în care Marius Hâncu îl introduce pe Ted Lungu](/amintiri/1994/mhancu-mesaj-ted-lungu/)

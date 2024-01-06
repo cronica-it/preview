@@ -1,5 +1,5 @@
 ---
-slug: 1994/hancu-interviu-revista-open
+slug: 1994/mhancu-interviu-revista-open
 title: 'Interviul acordat de Marius Hâncu revistei OPEN'
 tags: [mesaje]
 
