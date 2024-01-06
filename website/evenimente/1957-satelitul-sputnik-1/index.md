@@ -37,4 +37,4 @@ terestră, unde a ars, la 4 ianuarie 1958.
 ## Referințe
 
 - [rite.org.ro - Istoria Internetului](https://rite.org.ro/istoria-internetului/)
-- [en.wikipedia.org - Spuntnik 1](https://ro.wikipedia.org/wiki/Sputnik_1)
+- [en.wikipedia.org - Spuntnik 1](https://en.wikipedia.org/wiki/Sputnik_1)
