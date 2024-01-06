@@ -38,10 +38,15 @@ De notat totuși că deși din punct de vedere tehnic România avea acum totul
 pregătit (DNS, alocare adrese la IANA, etc), conectivitatea directă TCP/IP
 cu Statele Unite nu era încă posibilă, datorită restricțiilor COCOM.
 
-Situați a fost rezolvată și din 16 aprilie România a avut acces deplin
+Situația a fost rezolvată și din 16 aprilie România a avut acces deplin
 în Internet.
+
+În anul 2003, RNC conecta peste 100 instituții pe linie permanentă și
+250 instituții pe linie „dial-up”, oferind servicii Internet la peste
+15.000 utilizatori persoane fizice;
 
 ## Referințe
 
 - [rite.org.ro - Istoria Internetului](https://rite.org.ro/istoria-internetului/)
 - [facebook.com - Contribuții ICI Bucureşti](https://www.facebook.com/ICIBucuresti/posts/3488728511216217/)
+- [rotld.ro - istoric](https://www.rotld.ro/scurt-istoric/)

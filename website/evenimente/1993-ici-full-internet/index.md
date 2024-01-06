@@ -19,7 +19,7 @@ obține **acces deplin în Internet**, inclusiv in Statele Unite.
 Deși domeniul a fost înregistrat în februarie, și serviciile de e-mail au
 început să funcționeze imediat prin servere relay din diverse noduri din
 Europa, conectivitatea TCP/IP directă cu Statele Unite nu era posibilă,
-datorită restricțiilor COCOM, si NSFNet nu accepta rutarea claselor de
+datorită restricțiilor COCOM, si NSFNET nu accepta rutarea claselor de
 adrese din România și Bulgaria.
 
 Pe fondul negocierilor României
@@ -30,3 +30,4 @@ ridicată și din 16 aprilie România a avut acces deplin în Internet.
 
 - [rite.org.ro - Istoria Internetului](https://rite.org.ro/istoria-internetului/)
 - [prezentare Eugen Stăicuț](https://www.youtube.com/watch?v=grpiDxhkgmU)
+- [rotld.ro - istoric](https://www.rotld.ro/scurt-istoric/)
