@@ -41,10 +41,11 @@ in itc 50. probabil market watch
 
 in itc 50. probabil market watch
 
-## Vlada
+## Marin Vlada
 
 - http://mvlada.blogspot.com
 - vlada@fmi.unibuc.ro
+- https://www.linkedin.com/in/marin-vlada-00b55811/
 
 - 1937 (vlada 1) - În lume, Informatica (Computability theory, Computer Science și Computing) a
 apărut odată cu susținerea tezei de doctorat de către matematicianul englez Alan Turing, în anul 1937, când au aparut ideile precursoare ale Computing și ale
