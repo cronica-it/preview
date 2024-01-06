@@ -1,6 +1,6 @@
 ---
 slug: 1997/agora-cerf-97-internet
-title: "Masa rotundă CERF '97 - Internet în România"
+title: "Masa rotundă CERF '97 - „Internet în România”"
 authors: [ilg-ul]
 tags: [internet]
 
@@ -10,15 +10,17 @@ creationDate: 2023-12-12T07:51:03
 
 ---
 
-În luna iunie 1997, la CERF '97, în cadrul programului de seminarii și conferinte, organizate de Computer Press Agora, în ultima zi a avut loc o masă rotundă dedicată pentru Internet.
+În luna iunie 1997, la CERF '97, în cadrul programului de seminarii și
+conferințe organizate de Computer Press Agora, masa rotundă din ultima
+zi a fost dedicată discuțiilor despre Internet. Organizarea evenimentului
+a beneficiat de ajutorul domnului Iosif Fettich,
+director Netsoft Srl, și de îndrumarea d-nei prof. dr. Irina Athanasiu.
+
+Transcriptul discuțiilor este redat în continuare:
 
 <!-- truncate -->
 
 ---
-
-Organizarea evenimentului a beneficiat de ajutorul domnului Iosif Fettich, director Netsoft Srl, și de îndrumarea d-nei prof. dr. Irina Athanasiu.
-
-Transcriptul discuțiilor este redat în continuare:
 
 Darvas Attila: Subiectul ultimei mese rotunde este Internetul. Subiectul este, cred, de mare interes și multumesc invitatilor și publicului ca ne-au onorat cu prezenta. În continuare, dau cuvântul d-nei prof.dr. Irina Athanasiu, pe care o rog sa conduca discutiile.
 

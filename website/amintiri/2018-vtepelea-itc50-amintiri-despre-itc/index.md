@@ -1,6 +1,6 @@
 ---
 slug: 2018/vtepelea-itc50-amintiri-despre-itc
-title: "Contribuția lui Vlad Țepelea la volumul ITC'50 - Amintiri despre ITC"
+title: "Contribuția lui Vlad Țepelea la volumul ITC-50: „Amintiri despre ITC”"
 authors: [vtepelea]
 tags: [itc, autor:vlad.tepelea]
 date: 2018-07
