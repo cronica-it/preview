@@ -731,9 +731,9 @@ Consecinţa partidei de şah cu Florin Gheorghiu a fost că televiziunea ne-a so
 
 Treptat, am trecut la rularea programului pe microcalculatoare, mai ales pentru participarea la târguri şi expoziţii. Aceste microcalculatoare erau aproape ca nişte PC-uri, doar că aveau dischete de 8 inch şi un monitor cu tastatură.
 
-(foto)
+![Sah cu calculatorul](https://cronica-it.github.io/imagini/2018/vdarie-itc50-itc-a-doua-casa/meci-de-sah-cu-calculatorul-octavian-paler.jpg)
 
-Eveniment de referinţă pentru teleprelucrarea din România: Folosind modemul creat de Victor Megheşan şi Dan Maniu desfăşurarea, în premieră, a unei partide de şah la sediul României Libere de la Casa Scânteii şi calculatorul FELIX-C256 situat în Centrul de Calcul şi ASTRO-64 este asistată cu interes de către Vasile Baltac, Werner  şi Dan Maniu şi ziaristul de la România Liberă în dreapta, notând partida în carneţel în picioare, sus în stânga, precum şi ziaristul de la România Liberă Ulrich Vălureanu-Friedberg în dreapta, notând partida în carneţel.
+_Eveniment de referinţă pentru teleprelucrarea din România: Folosind modemul creat de Victor Megheşan şi Dan Maniu, desfăşurarea, în premieră, a unei partide de şah la sediul României Libere de la Casa Scânteii şi calculatorul FELIX-C256 situat în Centrul de Calcul şi ASTRO-64 este asistată cu interes de către Vasile Baltac, Werner Schatz, Dan Maniu şi, în picioare în dreapta, Ulrich Vălureanu-Friedberg, ziaristul de la România Liberă, notând partida în carneţel._
 
 Următoarea versiune a programului de şah a fost pentru calculatorul M18. Mai târziu, în laboratorul lui Traian Ciobanu din ITC s-a creat un automat de jucat şah, numit Labirint 64, un roboţel redus ca dimensiune, cam de format A4, cu taste, afişaj pentru mutări şi o tablă de şah. Mai târziu acesta a fost dotat şi cu un difuzor pentru semnalele acustice ale robotului. Cu acest roboţel am avut mari succese la competiţii, turnee la care se participa şi cu roboţi din Vest, sau chiar cu PC-uri. Erau apărute deja calculatoarele Sinclair, sau calculatoarele Prae de la Cluj, în care programele de şah se încărcau de pe casete audio, cu ajutorul casetofonului. Pentru că suntem deja prin anii 83-85.
 
