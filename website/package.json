@@ -24,8 +24,8 @@
     "@docusaurus/plugin-client-redirects": "^3.1.0",
     "@docusaurus/preset-classic": "3.1.0",
     "@mdx-js/react": "^3.0.0",
-    "clsx": "^2.1.0",
-    "prism-react-renderer": "^2.3.1",
+    "clsx": "^2.0.0",
+    "prism-react-renderer": "^2.3.0",
     "react": "^18.0.0",
     "react-dom": "^18.0.0"
   },
@@ -33,7 +33,7 @@
     "@docusaurus/module-type-aliases": "3.1.0",
     "@docusaurus/tsconfig": "3.1.0",
     "@docusaurus/types": "3.1.0",
-    "broken-link-checker": "^0.4.3",
+    "broken-link-checker": "^0.7.8",
     "typescript": "~5.3.2"
   },
   "browserslist": {
