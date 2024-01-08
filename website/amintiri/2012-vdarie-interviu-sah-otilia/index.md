@@ -9,7 +9,7 @@ creation_date: 2024-01-08T22:38:41
 
 ---
 
-În anul 2012, la Moldovița, Viorel Darie a acordat un inteviu ziaristei Otilia Bălănișteanu.
+În anul 2012, la Moldovița, Viorel Darie a acordat un interviu ziaristei Otilia Bălănișteanu.
 
 <!-- truncate -->
 
