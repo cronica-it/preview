@@ -26,6 +26,11 @@ alții din echipele lor.
 Încă de la creare, institutul a avut două filiale, una la Timișoara
 și una la Cluj.
 
+În București, în primii ani, institutul a funcționat în clădirea de la FEA
+(etajele 2 și 3).
+Construcția noii clădiri din Calea Floreasca a durat mai mult decât
+s-a estimat inițial, fiind gata prin 1972.
+
 ## Referințe
 
 - [itc.ro - ITC](https://www.itc.ro)
