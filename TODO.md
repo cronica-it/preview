@@ -47,48 +47,6 @@ in itc 50. probabil market watch
 - vlada@fmi.unibuc.ro
 - https://www.linkedin.com/in/marin-vlada-00b55811/
 
-- 1937 (vlada 1) - În lume, Informatica (Computability theory, Computer Science și Computing) a
-apărut odată cu susținerea tezei de doctorat de către matematicianul englez Alan Turing, în anul 1937, când au aparut ideile precursoare ale Computing și ale
-proiectării și dezvoltării calculatoarelor electronice (Computer System). Acesta este
-considerat fondatorul Informaticii și al Inteligenței Artificiale introducând
-fundamentele conceptului de calculabilitate pentru o mașină de calcul (computing
-machine, mașina Turing/Universal Turing machine-UTM) (conceptele de Proces de
-calcul și de Algoritm pentru o mașină de calcul). Mașina Turing este capabilă să
-proceseze o gramatică nerestricționată, ceea ce implică și faptul că este capabilă să
-evalueze expresii din logica de ordinul I într-un număr infinit de moduri. Acest
-lucru este demonstrat prin intermediul calculului lambda (λ-calculus).
-
-- 1945 (vlada 1) - Aceste idei
-ale lui Turing l-au influențat pe matematicianul american John von Neumann
-pentru elaborarea așa-numitei „arhitecturi von Neumann” a calculatorului modern,
-în anul 1945. De altfel, știm că cele mai importante proiecte pentru construirea
-calculatoarelor electronice, în perioada 1940-1970, erau proiecte militare secrete.
-
-- 1998-04-15 - Acad. Grigore C. Moisil este
-singurul om de știință român
-care a primit o recunoaștere
-internațională în domeniul
-Computer Science, prin
-medalia „Computer Pioneer
-Award” of IEEE Computer
-Society (1996) pentru „For
-polyvalent logic switching
-circuits”. Medalia i-a fost
-înmânată doamnei Viorica
-Moisil, soția lui Mosil, la 15
-aprilie 1998
-
-- 1962, Grigore C.
-Moisil înființează, la Facultatea de Matematică, Centrul de Calcul, cu statut
-de Laborator pe lângă Catedra de Algebră condusă de Gr. C. Moisil, ce va
-deveni Centrul de Calcul al Universității din București (CCUB), primul cu
-acest profil din ţară și care va avea un rol important în formarea de
-informaticieni în România).
-
-În Germania, în anul 1956, omul de știință Karl Steinbuch a inventat
-cuvântul „Informatik” publicând o lucrare numită „Informatik: Automatische
-Informationsverarbeitung” („Informatics: Automatic Information Processing”).
-
 Critici:
 
 - https://www.hotnews.ro/stiri-opinii-23601283-istorie-diletanta-informaticii-romanesti-promovata-sub-egida-academiei-romane-2019.htm
@@ -101,6 +59,12 @@ industria de calculatoare (adica productia Felix-ului si Fabrica) inclusiv licen
 http://www.marketwatch.ro/articol/3954/Traian_(Dorin)_Mihu_-_ani_oameni_fapte_(I)_-_perioada_1970-1980/
 http://www.marketwatch.ro/articol/4059/Traian_(Dorin)_Mihu_-_ani_oameni_fapte_(II)_-_perioada_1980-1990/
 http://www.marketwatch.ro/articol/4129/Traian_(Dorin)_Mihu_-_ani_oameni_fapte_(III)_-_perioada_1990-2008/
+
+## Proiectul U
+
+- Lista produse - proiecte originale.zip/Proiecte  realizate in Laborator F19-Vlad Tepelea.docx
+
+4.	Proiectul U - sistem operare compatibil UNIX pe platforma IBM PC - Liviu Iftode, Florin Raclariu, Irina Ștefănescu
 
 ## marketwatch.ro
 
