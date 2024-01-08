@@ -2,7 +2,7 @@
 slug: 1966/plan-calcul
 title: 'În Franța este aprobat „Plan Calcul”, prin care au fost realizate calculatoarele „Iris 50”'
 authors: [ilg-ul]
-tags: [autor:liviu.ionescu]
+tags: [international, informatica, autor:liviu.ionescu]
 date: 1966-07-16
 
 creationDate: 2024-01-08T08:38:25

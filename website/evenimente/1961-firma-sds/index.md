@@ -2,7 +2,7 @@
 slug: 1961/firma-sds
 title: 'În California este înființată firma „Scientific Data Systems (SDS)”'
 authors: [ilg-ul]
-tags: [firme, autor:liviu.ionescu]
+tags: [international, firme, autor:liviu.ionescu]
 date: 1961-07
 
 creationDate: 2024-01-08T09:55:13
