@@ -11,12 +11,16 @@
 - de verificat: https://www.electrokits.ro/scurt-istoric-al-internetului-in-romania/
 - de lamurit ce e cu '1994 - A aparut primul articol scris vreodata despre Internetul din Romania la Internet Society News, vol 3, no 1 din 1994.'
 - de adaugat participarea la ISOC 1993
+
 - poveste Vasile Baltac ITC 50
   - https://www.agir.ro/carte/un-institut-pentru-istorie-semicentenarul-institutului-pentru-tehnica-de-calcul-1968-2018-123155.html
   - https://sites.google.com/site/vasilebaltac/Home
   - vasile punct baltac la snspa punct ro
+  - https://sites.google.com/site/vasilebaltac/Home/listă-selectivă-de-cărți-și-articole
+
 - povesti Stelian Niculescu
   - https://stelianniculescu.ro
+
 - de prelucrat
   - articol Baltac
   - carte F Filip
