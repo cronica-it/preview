@@ -29,7 +29,7 @@ alții din echipele lor.
 În București, în primii ani, institutul a funcționat în clădirea de la FEA
 (etajele 2 și 3).
 Construcția noii clădiri din Calea Floreasca a durat mai mult decât
-s-a estimat inițial, fiind gata prin 1972.
+s-a estimat inițial, fiind gata prin 1972-1973.
 
 ## Referințe
 

@@ -16,41 +16,50 @@ generația a III-a, Iris 50, care va deveni **Felix C-256**.
 
 <!-- truncate -->
 
-Pe lista scurtă a figurat Franța și Germania (Siemens). Opțiunea
-unei licențe americane nu a fost posibilă, ca urmare a restricțiilor
-la care țările din estul Europei erau supuse.
+Preocupările pentru tehnică de calcul au început în anii 1966-1967, când
+a fost creată _Comisia Guvernamentală pentru dotarea cu
+echipamente de calcul şi automatizarea prelucrării datelor_; aceasta a elaborat
+primul program de informatizare a României, în care era prevăzut
+ca România să licențieze tehnologia de producere a unui calculator.
 
-În luna mai 1986,
-cu ocazia
-vizitei la București, generalul de Gaulle
-semnează un acord secret de colaborare în domeniul informaticii,
-acordul fiind posibil datorită poziției autonome a Franței în cadrul NATO.
+Au fost evaluate mai multe opțiuni. Ca urmare a restricțiilor
+la care țările din estul Europei erau supuse, obținerea unei licențe
+americane nu era posibilă.
+Astfel pe lista scurtă au rămas Franța și Germania (Siemens).
 
-La acel moment Franța decisese fabricația unei familii de
-calculatoare în cadrul programului „Plan Calcul”, ca urmare a unor restricții
+În luna mai 1968, cu ocazia
+vizitei la București, pe fondul poziției autonome a Franței în cadrul NATO,
+generalul de Gaulle desconsideră embargoul impus de americani și
+semnează cu România un acord secret de colaborare în domeniul informaticii.
+
+La acel moment, ca urmare a unor restricții
 impuse de USA la importul de calculatoare performanțe necesare programelor
-militare, spațiale, nucleare ale Franței. România a fost acceptată de Franța ca
-partener în realizarea primului model de calculator din familia Iris (Iris 50) al
-firmei CII (Compagnie internationale pour l'informatique). Calculatorul Iris 50
-al companiei CII a fost astfel adaptat în România sub numele de Felix C-256
+militare, spațiale, nucleare ale Franței, de Gaulle aprobase realizarea
+unei familii de calculatoare în cadrul programului „Plan Calcul”.
+
+Ca urmare a acordului, România a fost acceptată de Franța ca
+partener al firmei CII (Compagnie internationale pour l'informatique)
+în realizarea primului model de calculator din familia Iris (Iris 50).
+Acest calculator a fost produs în România sub numele de Felix C-256.
 
 Negocierile au durat câțiva ani, și au inclus nu numai tehnologia de
-realizare a calculatoarelor, cu software (sistemul de operare SIRIS)
-și documentație,
+realizare a unui calculatoar de generația a 3-a,
+sistemul de operare (SIRIS) și documentația,
 ci și tehnologia de realizare a circuitelor integrate, a circuitelor
-imprimate multistrat și memorii pe discuri magnetice.
+imprimate multistrat și a memoriilor pe discuri magnetice.
 Oferta Siemens nu includea fabricația circuitelor integrate.
 
 Preluarea documentației de licență a început în 1969 și a continuat în 1970,
 la negocierea clauzelor comerciale participând Dogaru și Trăilescu.
 
-În 1970, ITC trimite la CII Franța trei programatori care lucrează cu colegii francezi la dezvoltarea SIRIS: Gabriel Martin, Nicolae Negoiță și
-Liviu Negrescu.
+În 1970, ITC trimite la CII Franța trei programatori care lucrează cu
+colegii francezi la dezvoltarea sistemului de operare SIRIS:
+Gabriel Martin, Nicolae Negoiță și Liviu Negrescu.
 
-Cu această ocazie, echipele din ITC, integrate cu niște echipe din firma
+Cu această ocazie, echipele din ITC, integrate cu echipe din firma
 CII, au participat la punerea la punct a primelor 11 calculatoare IRIS și
 au realizat că, de fapt, firma CII vânduse licența de fabricație, bazată
-pe un singur calculator IRIS, probabil prototip (Bulgacov).
+pe un singur calculator Iris, probabil prototip (Bulgacov).
 
 Producția de serie a început în anul 1972.
 

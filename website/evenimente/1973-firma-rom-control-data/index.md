@@ -1,6 +1,6 @@
 ---
 slug: 1973/firma-rom-control-data
-title: 'Este înființată societatea mixtă româno-americană „Rom Control Data”'
+title: 'Este înființată societatea mixtă româno-americană „Rom Control Data” (RCD)'
 authors: [ilg-ul]
 tags: [firme, autor:liviu.ionescu]
 date: 1973-07
@@ -34,7 +34,8 @@ Producția integra în principiu ce se putea realiza în România
 diverse părți ale companiei.
 
 RCD a supraviețuit, dar activitatea a fost afectată; între
-1990–1996 a mai asamblat calculatoare de tip IBM PC, după care
+1990–1996, în parteneriat cu KT Technology din Singapore,
+a asamblat calculatoare de tip IBM PC, după care
 a fost preluată de o firmă care are ca singură activitate
 închirierea clădirilor din patrimoniu.
 
