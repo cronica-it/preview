@@ -17,7 +17,7 @@ creation_date: 2024-01-08T22:38:41
 
 Viorel Darie a fost unul dintre vârfurile tehnicii de calcul româneşti, încă de la începuturile sale. Între anii 1973-1992 a lucrat ca cercetător în cadrul Institutului de Tehnică de Calcul Bucureşti. Este cunoscut drept creatorul primului program de şah pe calculator din România. L-am provocat la un dialog despre apusa eră a calculatoarelor-mamut, despre tehnica de ieri şi de azi. Ce a ieşit, vedeţi în rândurile ce urmează.
 
-(foto)
+![viorel-darie-moldovita.jpg](https://cronica-it.github.io/imagini/2012/vdarie-interviu-sah-otilia/viorel-darie-moldovita.jpg)
 
 OB: De unde a pornit povestea asta cu şahul?
 
@@ -139,4 +139,4 @@ Este cunoscut drept realizatorul celui dintâi program de şah pe calculator din
 
 ## Referințe
 
-- TODO
+- Revista Lumina
