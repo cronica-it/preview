@@ -2,6 +2,7 @@ import { themes as prismThemes } from 'prism-react-renderer';
 import type { Config } from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 // import logger from '@docusaurus/logger'
+import { parseFrontMatterEventDates } from './src/utils/frontMatterEventDates'
 
 const isPreview = true;
 
@@ -30,6 +31,10 @@ const config: Config = {
   i18n: {
     defaultLocale: 'ro',
     locales: ['ro'],
+  },
+
+  markdown: {
+    parseFrontMatter: parseFrontMatterEventDates
   },
 
   plugins: [
