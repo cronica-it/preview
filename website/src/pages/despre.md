@@ -1,5 +1,4 @@
 ---
-slug: despre
 title: Despre noi
 ---
 
