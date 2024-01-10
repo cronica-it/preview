@@ -6,7 +6,7 @@
 
 - <https://github.com/stevenvachon/broken-link-checker/discussions/262>
 
-## `date:``
+## `date:`
 
 Calcularea datei din timestamp-ul folder-ului:
 
