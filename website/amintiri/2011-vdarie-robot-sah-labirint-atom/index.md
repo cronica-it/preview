@@ -89,3 +89,4 @@ Odată cu trecerea anilor, mi s-a făcut dor de acele vremuri, acele preocupări
 ## Referințe
 
 - [vioreldarie.ro - Amintiri din epoca Felix a calculatoarelor româneşti](https://www.vioreldarie.ro/Creatii/Amintiri%20din%20epoca%20FELIX%20a%20calculatoarelor%20romanesti.pdf)
+- [chessprogramming.org - Labirint 64](https://www.chessprogramming.org/Labirint_64)
