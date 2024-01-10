@@ -86,7 +86,7 @@ const prepareChronologyRows = ((ctx) => {
       interval += ' (intl)'
     }
     const row: ChronologyEvent = {
-      interval: frontMatter.eventIntervalFormatted,
+      interval,
       description: (<a href={permalink}>{frontMatter.title}</a>)
     }
     // logger.info(row)
