@@ -197,6 +197,11 @@ const config: Config = {
           ]
         },
         {
+          label: 'Arhiva',
+          to: '/arhiva',
+          position: 'left'
+        },
+        {
           label: 'Despre',
           to: '/despre',
           position: 'right'
@@ -205,11 +210,6 @@ const config: Config = {
           label: 'Docu',
           type: 'docSidebar',
           sidebarId: 'docuSidebar',
-          position: 'right',
-        },
-        {
-          label: 'Arhiva',
-          href: 'https://cronica-it.github.io/arhiva/',
           position: 'right',
         },
         {
