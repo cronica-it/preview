@@ -82,3 +82,7 @@ table.images tr td img {
   width: auto;
   height: auto;
 }
+
+img.link-icon {
+  vertical-align: middle;
+}
