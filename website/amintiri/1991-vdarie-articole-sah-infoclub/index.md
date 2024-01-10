@@ -28,7 +28,7 @@ Răsturnări de situații au fost peste tot, și la nivelul conducerilor de inst
 
 ## Revista INFOCLUB
 
-Dar mă pomenesc într-o zi sunat de Mihaela Gorodcov, dacă pot veni la ea în redactie, la Casa Presei, să discutam despre posibile colaborări. Evident, am acceptat invitația și am stabilit să fac o serie de articole cu tot ce știam despre programarea șahului. În anul 1991 eu aveam déjà o experiență de 15 ani cu tot felul de preocupări în domeniul șahului programat. Munceam cu drag, Mihaela Gorodcov, care era atunci redactor la revista INFOCLUB, în sediul Casei Presei cum îi zicem acum, era o persoană deosebită, frumoasă, calmă, binevoitoare. Avea relații cele mai bune cu reviste și cluburi analoage cele mai renumite din SUA, sau Anglia.
+Dar mă pomenesc într-o zi sunat de Mihaela Gorodcov, dacă pot veni la ea în redactie, la Casa Presei, să discutam despre posibile colaborări. Evident, am acceptat invitația și am stabilit să fac o serie de articole cu tot ce știam despre programarea șahului. În anul 1991 eu aveam déjà o experiență de 15 ani cu tot felul de preocupări în domeniul șahului programat. Mihaela Gorodcov, care era atunci redactor la revista INFOCLUB, în sediul Casei Presei cum îi zicem acum, era o persoană deosebită, frumoasă, calmă, binevoitoare. Avea relații cele mai bune cu reviste și cluburi analoage cele mai renumite din SUA, sau Anglia.
 
 Așa că, am început să redactez articolele cu tot ce știam despre programarea șahului, aduceam materialele la Mihaela, ea le revizuia și le dădea  colegilor din redacție, care se ocupau de tehnoredactare, redesenau cu pricepere imaginile făcute de mine pe coli de hârtie. În final, articolele mele vedeau lumina tiparului. A fost o colaborare frumoasă!
 
