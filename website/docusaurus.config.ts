@@ -39,6 +39,45 @@ const config: Config = {
 
   plugins: [
     [
+      '@docusaurus/plugin-content-docs',
+      {
+        sidebarPath: './sidebars.ts',
+        // Please change this to your repo.
+        // Remove this to remove the "edit this page" links.
+        editUrl:
+          isPreview ? 'https://github.com/cronica-it/preview/edit/master/website/' : 'https://github.com/cronica-it/cronica-it.github.io/edit/master/website/',
+      },
+    ],
+    [
+      // https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog
+      '@docusaurus/plugin-content-blog',
+      {
+        /**
+         * Required for any multi-instance plugin
+         */
+        id: 'memories-blog',
+        /**
+         * Path to data on filesystem relative to site dir.
+         */
+        path: './amintiri',
+        /**
+         * URL route for the blog section of your site.
+         * *DO NOT* include a trailing slash.
+         */
+        routeBasePath: 'amintiri',
+        archiveBasePath: 'arhiva',
+        tagsBasePath: 'categorii',
+        showReadingTime: true,
+        // Please change this to your repo.
+        // Remove this to remove the "edit this page" links.
+        editUrl:
+          isPreview ? 'https://github.com/cronica-it/preview/edit/master/website/' : 'https://github.com/cronica-it/cronica-it.github.io/edit/master/website/',
+        blogSidebarTitle: 'Amintiri',
+        blogSidebarCount: 'ALL',
+        authorsMapPath: '../authors.yml',
+      },
+    ],
+    [
       // https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog
       '@docusaurus/plugin-content-blog',
       {
@@ -58,7 +97,7 @@ const config: Config = {
         archiveBasePath: 'arhiva',
         tagsBasePath: 'categorii',
         authorsMapPath: '../authors.yml',
-        exclude: [ '**/README.md' ],
+        exclude: ['**/README.md'],
         showReadingTime: true,
         // Please change this to your repo.
         // Remove this to remove the "edit this page" links.
@@ -67,6 +106,10 @@ const config: Config = {
         blogSidebarTitle: 'Evenimente',
         blogSidebarCount: 'ALL',
       },
+    ],
+    [
+      '@docusaurus/plugin-content-pages',
+      {}
     ],
     [
       // https://docusaurus.io/docs/next/api/plugins/@docusaurus/plugin-client-redirects#redirects
@@ -106,47 +149,14 @@ const config: Config = {
       },
     ],
   ],
-  presets: [
+
+  themes: [
     [
-      'classic',
+      '@docusaurus/theme-classic',
       {
-        docs: {
-          sidebarPath: './sidebars.ts',
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            isPreview ? 'https://github.com/cronica-it/preview/edit/master/website/' : 'https://github.com/cronica-it/cronica-it.github.io/edit/master/website/',
-        },
-        blog: {
-          /**
-           * Required for any multi-instance plugin
-           */
-          id: 'memories-blog',
-          /**
-           * Path to data on filesystem relative to site dir.
-           */
-          path: './amintiri',
-          /**
-           * URL route for the blog section of your site.
-           * *DO NOT* include a trailing slash.
-           */
-          routeBasePath: 'amintiri',
-          archiveBasePath: 'arhiva',
-          tagsBasePath: 'categorii',
-          showReadingTime: true,
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            isPreview ? 'https://github.com/cronica-it/preview/edit/master/website/' : 'https://github.com/cronica-it/cronica-it.github.io/edit/master/website/',
-          blogSidebarTitle: 'Amintiri',
-          blogSidebarCount: 'ALL',
-          authorsMapPath: '../authors.yml',
-        },
-        theme: {
-          customCss: './src/css/custom.css',
-        },
-      } satisfies Preset.Options,
-    ],
+        customCss: './src/css/custom.css',
+      }
+    ]
   ],
 
   themeConfig: {
