@@ -4,10 +4,9 @@ title: 'Vinton Cerf și Robert Kahn publică prima versiune de TCP'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
 
-date: 1974-05
+date: 2023-12-27T16:05:25
 
-creationDate: 2023-12-27T16:05:25
-eventDate: '1974-05'
+event_date: '1974-05'
 
 ---
 

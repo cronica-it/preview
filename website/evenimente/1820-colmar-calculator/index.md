@@ -4,10 +4,9 @@ title: 'Charles Colmar inventează un mecanism de calcul'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
 
-date: 1820-07
+date: 2023-12-23T15:44:38
 
-creationDate: 2023-12-23T15:44:38
-eventDate: '1820'
+event_date: '1820'
 
 ---
 

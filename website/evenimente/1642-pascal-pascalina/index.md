@@ -4,10 +4,9 @@ title: 'Blaise Pascal proiectează „La Pascaline”, o mașină de calcul'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
 
-date: 1642-07
+date: 2023-12-15T13:45:12
 
-creationDate: 2023-12-15T13:45:12
-eventDate: '1642'
+event_date: '1642'
 
 ---
 

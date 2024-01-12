@@ -4,10 +4,9 @@ title: 'La Institutul Central de Informatică (ICI) este instalată o linie dedi
 authors: [gserban, ilg-ul]
 tags: [internet, ici, autor:gheorghe.serban]
 
-date: 1992-12
+date: 2023-12-20T14:45:28
 
-creationDate: 2023-12-20T14:45:28
-eventDate: '1992-12'
+event_date: '1992-12'
 
 ---
 

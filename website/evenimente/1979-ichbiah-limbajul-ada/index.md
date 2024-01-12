@@ -4,10 +4,9 @@ title: 'Proiectul lui Jean Ichbiah devine limbajul de programare „Ada”'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
 
-date: 1979-05
+date: 2023-12-27T17:43:59
 
-creationDate: 2023-12-27T17:43:59
-eventDate: '1979-05'
+event_date: '1979-05'
 
 ---
 

@@ -4,10 +4,9 @@ title: 'La rețeaua RoEduNet este instalată o nouă conexiune de 4 Mbps'
 authors: [ntapus, ilg-ul]
 tags: [internet, educatie, sateliti, upb, autor:nicolae.tapus]
 
-date: 1998-12
+date: 2023-12-13T18:31:31
 
-creationDate: 2023-12-13T18:31:31
-eventDate: '1998-12'
+event_date: '1998-12'
 
 ---
 

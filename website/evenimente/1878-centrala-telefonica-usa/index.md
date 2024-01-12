@@ -4,10 +4,9 @@ title: 'În Connecticut începe să funcționeze prima centrală telefonică com
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
 
-date: 1878-01
+date: 2023-12-29T10:19:26
 
-creationDate: 2023-12-29T10:19:26
-eventDate: '1878-01'
+event_date: '1878-01'
 
 ---
 

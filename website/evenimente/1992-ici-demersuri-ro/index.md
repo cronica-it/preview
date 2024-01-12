@@ -4,10 +4,9 @@ title: 'Institutul Central de Informatică (ICI) începe demersurile pentru înr
 authors: [gserban, ilg-ul]
 tags: [internet, ici, autor:gheorghe.serban]
 
-date: 1992-05
+date: 2023-12-20T14:24:16
 
-creationDate: 2023-12-20T14:24:16
-eventDate: '1992-05'
+event_date: '1992-05'
 
 ---
 

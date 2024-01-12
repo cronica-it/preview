@@ -4,10 +4,9 @@ title: 'Guvernul aprobă finanțarea pentru conectare la rețeaua EARN'
 authors: [ntapus, ilg-ul]
 tags: [internet, educatie, ici, autor:nicolae.tapus]
 
-date: 1991-07
+date: 2023-12-13T15:40:46
 
-creationDate: 2023-12-13T15:40:46
-eventDate: '1991'
+event_date: '1991'
 
 ---
 

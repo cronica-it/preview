@@ -4,10 +4,9 @@ title: 'Firma MobiFon lansează brandul „Connex”'
 authors: [arot, ilg-ul]
 tags: [gsm, firme, autor:alexandru.rotaru]
 
-date: 1997-04-15
+date: 2023-12-10T11:08:53
 
-creationDate: 2023-12-10T11:08:53
-eventDate: '1997-04-15'
+event_date: '1997-04-15'
 
 ---
 

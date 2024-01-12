@@ -4,10 +4,9 @@ title: '„KPNQwest România” este noul nume al firmei „EUnet Romania”'
 authors: [ilg-ul]
 tags: [firme, internet, autor:liviu.ionescu]
 
-date: 2000-07
+date: 2023-11-16T19:38
 
-creationDate: 2023-11-16T19:38
-eventDate: '2000'
+event_date: '2000'
 
 ---
 

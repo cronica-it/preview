@@ -4,10 +4,9 @@ title: 'Firma Intel lansează microprocesorul „Intel 8080”'
 authors: [gserban, ilg-ul]
 tags: [international, intel, microprocesoare, autor:gheorghe.serban]
 
-date: 1974-04
+date: 2023-12-27T16:57:36
 
-creationDate: 2023-12-27T16:57:36
-eventDate: '1974-04'
+event_date: '1974-04'
 
 ---
 

@@ -4,10 +4,9 @@ title: 'Digital Transformation (DX) Council organizează conferința „30 de an
 authors: [ivaciu, ilg-ul]
 tags: [conferinte, aniversari, internet]
 
-date: 2023-05-17
+date: 2023-11-06T08:35
 
-creationDate: 2023-11-06T08:35
-eventDate: '2023-05-17'
+event_date: '2023-05-17'
 
 ---
 

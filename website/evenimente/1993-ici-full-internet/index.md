@@ -4,10 +4,9 @@ title: 'România obține acces deplin în Internet'
 authors: [gserban, ilg-ul]
 tags: [ici, internet, autor:gheorghe.serban]
 
-date: 1993-04-16
+date: 2023-12-20T16:15:44
 
-creationDate: 2023-12-20T16:15:44
-eventDate: '1993-04-16'
+event_date: '1993-04-16'
 
 ---
 

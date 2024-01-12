@@ -4,10 +4,9 @@ title: 'Firma Zapp lansează primul serviciu de comunicații mobile în bandă l
 authors: [gserban, ilg-ul]
 tags: [firme, internet, servicii, gsm, autor:gheorghe.serban]
 
-date: 2004-10-27
+date: 2023-12-20T20:03:15
 
-creationDate: 2023-12-20T20:03:15
-eventDate: '2004-10-27'
+event_date: '2004-10-27'
 
 ---
 

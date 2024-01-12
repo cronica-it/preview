@@ -4,10 +4,9 @@ title: 'Primele modemuri de 56 kbit/s ajung pe piață'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
 
-date: 1997-02
+date: 2023-12-20T18:13:43
 
-creationDate: 2023-12-20T18:13:43
-eventDate: '1997-02'
+event_date: '1997-02'
 
 ---
 

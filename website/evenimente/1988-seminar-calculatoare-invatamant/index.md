@@ -4,11 +4,10 @@ title: 'Este organizat seminarul „Utilizarea calculatoarelor electronice în p
 authors: [radujugu]
 tags: [conferinte, educatie, autor:radu.jugureanu]
 
-date: 1988-05-26
+date: 2023-12-11T12:09:04
 
-creationDate: 2023-12-11T12:09:04
-eventDate: '1988-05-26'
-eventEndDate: '1988-05-27'
+event_date: '1988-05-26'
+event_end_date: '1988-05-27'
 
 ---
 

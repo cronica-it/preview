@@ -4,10 +4,9 @@ title: 'În Boston este instalată prima linie telefonică'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
 
-date: 1877-04
+date: 2023-12-24T09:14:29
 
-creationDate: 2023-12-24T09:14:29
-eventDate: '1877-04'
+event_date: '1877-04'
 
 ---
 

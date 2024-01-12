@@ -4,10 +4,9 @@ title: 'Firma DEC lansează familia de minicalculatoare „PDP-8”'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
 
-date: 1965-03-22
+date: 2023-12-28T11:01:39
 
-creationDate: 2023-12-28T11:01:39
-eventDate: '1965-03-22'
+event_date: '1965-03-22'
 
 ---
 

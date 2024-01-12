@@ -4,10 +4,9 @@ title: 'La Timișoara este pus în funcțiune calculatorul „MECIPT-1”'
 authors: [gserban, ilg-ul]
 tags: [calculatoare, autor:gheorghe.serban]
 
-date: 1961-07
+date: 2023-12-18T17:36:48
 
-creationDate: 2023-12-18T17:36:48
-eventDate: '1961'
+event_date: '1961'
 
 ---
 

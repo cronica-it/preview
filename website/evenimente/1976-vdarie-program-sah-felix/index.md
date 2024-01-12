@@ -3,11 +3,10 @@ slug: 1976/vdarie-program-sah-felix
 title: 'Viorel Darie realizează „Felix Șah” pentru Felix C-256'
 authors: [vdarie, ilg-ul]
 tags: [sah, itc, autor:viorel.darie]
-date: 1976-07
 
-creationDate: 2024-01-03T12:03:31
+date: 2024-01-03T12:03:31
 
-eventDate: '1976'
+event_date: '1976'
 
 ---
 

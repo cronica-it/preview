@@ -4,10 +4,9 @@ title: 'La Institutul Central de Informatică (ICI) este semnat contractul pentr
 authors: [gserban, ilg-ul]
 tags: [ici, internet, sateliti, autor:gheorghe.serban]
 
-date: 1994-10
+date: 2023-12-20T17:06:14
 
-creationDate: 2023-12-20T17:06:14
-eventDate: '1994-10'
+event_date: '1994-10'
 
 ---
 

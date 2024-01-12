@@ -4,10 +4,9 @@ title: 'Robert Kahn face prima demonstrație cu ARPANET la ICCC'
 authors: [gserban, ilg-ul]
 tags: [international, internet, autor:gheorghe.serban]
 
-date: 1972-10
+date: 2023-12-13T22:06:20
 
-creationDate: 2023-12-13T22:06:20
-eventDate: '1972-10'
+event_date: '1972-10'
 
 ---
 

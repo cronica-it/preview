@@ -4,10 +4,9 @@ title: 'Rețeaua MILNET se separă fizic de rețeaua ARPANET'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
 
-date: 1983-07
+date: 2023-12-27T20:45:36
 
-creationDate: 2023-12-27T20:45:36
-eventDate: '1983'
+event_date: '1983'
 
 ---
 

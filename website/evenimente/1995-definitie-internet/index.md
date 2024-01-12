@@ -4,10 +4,9 @@ title: 'Apare prima definiție formală a termenului „Internet”'
 authors: [ilg-ul]
 tags: [international, internet, autor:liviu.ionescu]
 
-date: 1995-10-24
+date: 2023-12-13T22:18:51
 
-creationDate: 2023-12-13T22:18:51
-eventDate: '1995-10-24'
+event_date: '1995-10-24'
 
 ---
 

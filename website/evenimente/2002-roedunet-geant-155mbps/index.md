@@ -4,10 +4,9 @@ title: 'Rețeaua RoEduNet se conectează la GÉANT cu 155 Mbps'
 authors: [ntapus, ilg-ul]
 tags: [internet, educatie, upb, autor:nicolae.tapus]
 
-date: 2002-07
+date: 2023-12-22T17:45:21
 
-creationDate: 2023-12-22T17:45:21
-eventDate: '2002'
+event_date: '2002'
 
 ---
 

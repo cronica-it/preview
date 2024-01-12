@@ -4,10 +4,9 @@ title: 'Apare firma „International Business Machines” (IBM)'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
 
-date: 1924-07
+date: 2023-12-24T11:46:49
 
-creationDate: 2023-12-24T11:46:49
-eventDate: '1924'
+event_date: '1924'
 
 ---
 

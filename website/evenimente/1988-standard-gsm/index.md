@@ -4,10 +4,9 @@ title: 'GSM devine standard internațional de telefonie digitală celulară'
 authors: [gserban, ilg-ul]
 tags: [international, gsm, autor:gheorghe.serban]
 
-date: 1988-07
+date: 2023-12-19T09:18:25
 
-creationDate: 2023-12-19T09:18:25
-eventDate: '1988'
+event_date: '1988'
 
 ---
 

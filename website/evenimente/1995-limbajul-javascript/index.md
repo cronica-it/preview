@@ -4,10 +4,9 @@ title: 'Firma Netscape lansează limbajul „JavaScript”'
 authors: [ilg-ul]
 tags: [international, internet, autor:liviu.ionescu]
 
-date: 1995-12-04
+date: 2023-12-20T17:58:24
 
-creationDate: 2023-12-20T17:58:24
-eventDate: '1995-12-04'
+event_date: '1995-12-04'
 
 ---
 

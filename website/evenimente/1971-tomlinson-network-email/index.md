@@ -4,10 +4,9 @@ title: 'Ray Tomlinson transmite primul e-mail în rețea (user@host)'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
 
-date: 1971-07
+date: 2023-12-27T15:32:26
 
-creationDate: 2023-12-27T15:32:26
-eventDate: '1971'
+event_date: '1971'
 
 ---
 

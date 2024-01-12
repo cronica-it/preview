@@ -4,10 +4,9 @@ title: 'Operatorul France Télécom lansează serviciul „Minitel”'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
 
-date: 1982-07
+date: 2023-12-29T20:20:17
 
-creationDate: 2023-12-29T20:20:17
-eventDate: '1982'
+event_date: '1982'
 
 ---
 

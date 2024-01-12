@@ -4,10 +4,9 @@ title: 'Este instalată prima linie de telegraf din Moldova'
 authors: [gserban, ilg-ul]
 tags: [comunicatii, autor:gheorghe.serban]
 
-date: 1855-07
+date: 2023-12-21T07:31:00
 
-creationDate: 2023-12-21T07:31:00
-eventDate: '1855'
+event_date: '1855'
 
 ---
 

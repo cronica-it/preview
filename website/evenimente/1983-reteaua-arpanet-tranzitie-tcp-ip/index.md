@@ -4,10 +4,9 @@ title: 'Rețeaua ARPANET trece de la NCP la TCP/IP'
 authors: [gserban, ilg-ul]
 tags: [international, internet, autor:gheorghe.serban]
 
-date: 1983-01-01
+date: 2023-12-13T22:11:23
 
-creationDate: 2023-12-13T22:11:23
-eventDate: '1983-01-01'
+event_date: '1983-01-01'
 
 ---
 

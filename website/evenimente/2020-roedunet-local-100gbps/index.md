@@ -4,10 +4,9 @@ title: 'Nodurile rețelei RoEduNet sunt conectate la 100 Gbps'
 authors: [ntapus, ilg-ul]
 tags: [internet, educatie, autor:nicolae.tapus]
 
-date: 2020-07
+date: 2023-12-22T18:42:04
 
-creationDate: 2023-12-22T18:42:04
-eventDate: '2020'
+event_date: '2020'
 
 ---
 

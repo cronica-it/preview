@@ -4,10 +4,9 @@ title: 'ICE Felix lansează calculatorul „Coral”'
 authors: [ilg-ul]
 tags: [calculatoare, ice, autor:liviu.ionescu]
 
-date: 1979-07
+date: 2023-11-07T08:29
 
-creationDate: 2023-11-07T08:29
-eventDate: '1979'
+event_date: '1979'
 
 ---
 

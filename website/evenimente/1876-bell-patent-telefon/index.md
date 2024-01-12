@@ -4,10 +4,9 @@ title: 'Alexander Graham Bell patentează „telefonul electric”'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
 
-date: 1876-02-14
+date: 2023-12-24T08:44:52
 
-creationDate: 2023-12-24T08:44:52
-eventDate: '1876-02-14'
+event_date: '1876-02-14'
 
 ---
 

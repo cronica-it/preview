@@ -4,10 +4,9 @@ title: 'Uniunea Sovietică lansează „Sputnik 1”, primul satelit artificial'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
 
-date: 1957-10-04
+date: 2023-12-26T19:11:21
 
-creationDate: 2023-12-26T19:11:21
-eventDate: '1957-10-04'
+event_date: '1957-10-04'
 
 ---
 

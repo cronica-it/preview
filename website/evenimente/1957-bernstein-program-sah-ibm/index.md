@@ -4,10 +4,9 @@ title: 'Alex Bernstein, la IBM, dezvoltă primul program de șah'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
 
-date: 1957-07
+date: 2023-12-26T20:00:09
 
-creationDate: 2023-12-26T20:00:09
-eventDate: '1957'
+event_date: '1957'
 
 ---
 

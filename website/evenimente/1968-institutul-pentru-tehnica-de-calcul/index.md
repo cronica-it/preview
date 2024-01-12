@@ -3,11 +3,10 @@ slug: 1968/institutul-pentru-tehnica-de-calcul
 title: 'Este creat „Institutul pentru Tehnică de Calcul (ITC)'
 authors: [vbaltac, ilg-ul]
 tags: [itc, autor:vasile.baltac]
-date: 1968-07
 
-creationDate: 2024-01-06T12:14:13
+date: 2024-01-06T12:14:13
 
-eventDate: '1968'
+event_date: '1968'
 
 ---
 

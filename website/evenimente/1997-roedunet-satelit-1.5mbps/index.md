@@ -4,10 +4,9 @@ title: 'La rețeaua RoEduNet este instalată o nouă conexiune de 1.5 Mbps'
 authors: [ntapus, ilg-ul]
 tags: [internet, educatie, sateliti, upb, autor:nicolae.tapus]
 
-date: 1997-07
+date: 2023-12-22T17:30:26
 
-creationDate: 2023-12-22T17:30:26
-eventDate: '1997'
+event_date: '1997'
 
 ---
 

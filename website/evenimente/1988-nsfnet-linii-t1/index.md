@@ -4,10 +4,9 @@ title: 'Legăturile rețelei NSFNET sunt crescute la 1.5 Mbit/s'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
 
-date: 1988-07
+date: 2023-12-28T12:01:21
 
-creationDate: 2023-12-28T12:01:21
-eventDate: '1988-07'
+event_date: '1988-07'
 
 ---
 

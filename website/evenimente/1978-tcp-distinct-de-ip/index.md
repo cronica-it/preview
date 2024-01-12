@@ -4,10 +4,9 @@ title: 'Protocolul TCP se desparte în TCP si IP'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
 
-date: 1978-03
+date: 2023-12-27T17:28:46
 
-creationDate: 2023-12-27T17:28:46
-eventDate: '1978-03'
+event_date: '1978-03'
 
 ---
 

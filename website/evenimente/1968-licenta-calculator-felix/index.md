@@ -4,10 +4,9 @@ title: 'România obține licența pentru producția calculatorului „Felix C-25
 authors: [ilg-ul]
 tags: [calculatoare, autor:liviu.ionescu]
 
-date: 1968-07
+date: 2023-11-01T07:52
 
-creationDate: 2023-11-01T07:52
-eventDate: '1968'
+event_date: '1968'
 
 ---
 

@@ -4,11 +4,10 @@ title: 'Firma Intelsat transmite aselenizarea misiunii Apollo 11'
 authors: [ilg-ul]
 tags: [international, sateliti, autor:liviu.ionescu]
 
-date: 1969-07-16
+date: 2023-12-22T19:23:24
 
-creationDate: 2023-12-22T19:23:24
-eventDate: '1969-07-16'
-eventEndDate: '1969-07-24'
+event_date: '1969-07-16'
+event_end_date: '1969-07-24'
 
 ---
 

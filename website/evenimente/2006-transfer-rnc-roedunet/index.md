@@ -4,10 +4,9 @@ title: 'Instituțiile de cercetare trec de la RNC la RoEduNet'
 authors: [ilg-ul]
 tags: [ici, internet, cercetare, autor:liviu.ionescu]
 
-date: 2006-02
+date: 2023-12-21T10:57:55
 
-creationDate: 2023-12-21T10:57:55
-eventDate: '2006-02'
+event_date: '2006-02'
 
 ---
 

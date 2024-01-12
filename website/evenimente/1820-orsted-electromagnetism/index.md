@@ -4,10 +4,9 @@ title: 'Hans Ørsted descoperă legătura dintre electricitate și magnetism'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
 
-date: 1820-04-21
+date: 2023-12-29T16:55:04
 
-creationDate: 2023-12-29T16:55:04
-eventDate: '1820-04-21'
+event_date: '1820-04-21'
 
 ---
 

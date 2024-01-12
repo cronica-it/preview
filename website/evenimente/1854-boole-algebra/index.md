@@ -4,10 +4,9 @@ title: 'George Boole descrie logica simbolică'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
 
-date: 1854-07
+date: 2023-12-24T08:24:51
 
-creationDate: 2023-12-24T08:24:51
-eventDate: '1854'
+event_date: '1854'
 
 ---
 

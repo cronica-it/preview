@@ -4,10 +4,9 @@ title: 'La Institutul Central de Informatică (ICI) este instalată prima legăt
 authors: [ilg-ul]
 tags: [internet, ici, sateliti, autor:liviu.ionescu]
 
-date: 2000-03
+date: 2023-12-13T17:42:15
 
-creationDate: 2023-12-13T17:42:15
-eventDate: '2000-03'
+event_date: '2000-03'
 
 ---
 

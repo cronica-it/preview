@@ -4,10 +4,9 @@ title: 'Nodurile de date din Universitatea Politehnica din București sunt conec
 authors: [ntapus, ilg-ul]
 tags: [internet, educatie, upb, autor:nicolae.tapus]
 
-date: 2006-07
+date: 2023-12-22T18:22:55
 
-creationDate: 2023-12-22T18:22:55
-eventDate: '2006'
+event_date: '2006'
 
 ---
 

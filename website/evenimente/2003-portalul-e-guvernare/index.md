@@ -4,10 +4,9 @@ title: 'Guvernul României lansează portalul www.e-guvernare.ro'
 authors: [gserban, ilg-ul]
 tags: [servicii, autor:gheorghe.serban]
 
-date: 2003-09
+date: 2023-12-20T19:56:40
 
-creationDate: 2023-12-20T19:56:40
-eventDate: '2003-09'
+event_date: '2003-09'
 
 ---
 

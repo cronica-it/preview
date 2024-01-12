@@ -4,10 +4,9 @@ title: 'Linus Torvalds publică prima versiune de kernel „Linux”'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
 
-date: 1991-09-17
+date: 2023-12-28T20:07:34
 
-creationDate: 2023-12-28T20:07:34
-eventDate: '1991-09-17'
+event_date: '1991-09-17'
 
 ---
 

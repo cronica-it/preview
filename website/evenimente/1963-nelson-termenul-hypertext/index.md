@@ -4,10 +4,9 @@ title: 'Ted Nelson introduce termenul „hipertext”'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
 
-date: 1963-07
+date: 2023-12-26T22:23:17
 
-creationDate: 2023-12-26T22:23:17
-eventDate: '1963'
+event_date: '1963'
 
 ---
 

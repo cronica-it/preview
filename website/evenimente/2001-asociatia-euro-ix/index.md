@@ -4,10 +4,9 @@ title: 'La Amsterdam, este constituită „European Internet Exchange Associatio
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
 
-date: 2001-05
+date: 2023-12-28T21:29:08
 
-creationDate: 2023-12-28T21:29:08
-eventDate: '2001-05'
+event_date: '2001-05'
 
 ---
 

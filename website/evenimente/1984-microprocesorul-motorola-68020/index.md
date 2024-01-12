@@ -3,11 +3,10 @@ slug: 1984/microprocesorul-motorola-68020
 title: 'Firma Motorola anunță microprocesorul „68020”'
 authors: [ilg-ul]
 tags: [international, motorola, microprocesoare, autor:liviu.ionescu]
-date: 1984-06
 
-creationDate: 2024-01-02T10:20:14
+date: 2024-01-02T10:20:14
 
-eventDate: '1984-06'
+event_date: '1984-06'
 
 ---
 

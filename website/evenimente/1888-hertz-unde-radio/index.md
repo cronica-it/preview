@@ -4,10 +4,9 @@ title: 'Heinrich Hertz generează și detectează undele radio'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
 
-date: 1888-07
+date: 2023-12-24T09:27:51
 
-creationDate: 2023-12-24T09:27:51
-eventDate: '1888'
+event_date: '1888'
 
 ---
 

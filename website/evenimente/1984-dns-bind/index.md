@@ -4,10 +4,9 @@ title: 'La Berkeley este implementat pe Unix primul server „DNS BIND”'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
 
-date: 1984-07
+date: 2023-12-28T12:13:15
 
-creationDate: 2023-12-28T12:13:15
-eventDate: '1984'
+event_date: '1984'
 
 ---
 

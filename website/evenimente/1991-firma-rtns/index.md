@@ -4,10 +4,9 @@ title: 'Este demarată înființarea firmei „Romanian Telecoms Network Service
 authors: [ilg-ul]
 tags: [firme, comunicatii, autor:liviu.ionescu]
 
-date: 1991-07
+date: 2023-12-21T11:12:16
 
-creationDate: 2023-12-21T11:12:16
-eventDate: '1991'
+event_date: '1991'
 
 ---
 

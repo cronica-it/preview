@@ -4,10 +4,9 @@ title: 'La Institutul Central de Informatică (ICI) este realizat proiectul UNIR
 authors: [gserban, ilg-ul]
 tags: [ici, autor:gheorghe.serban]
 
-date: 1985-07
+date: 2023-12-21T09:27:56
 
-creationDate: 2023-12-21T09:27:56
-eventDate: '1985'
+event_date: '1985'
 
 ---
 

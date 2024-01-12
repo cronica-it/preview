@@ -4,10 +4,9 @@ title: 'La University of Pensilvania începe construcția calculatorului „ENIA
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
 
-date: 1943-07
+date: 2023-12-24T18:04:07
 
-creationDate: 2023-12-24T18:04:07
-eventDate: '1943-07'
+event_date: '1943-07'
 
 ---
 

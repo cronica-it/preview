@@ -3,11 +3,10 @@ slug: 2014/berkeley-risc-v
 title: 'La Berkeley este anunțată arhitectura „RISC-V”'
 authors: [ilg-ul]
 tags: [international, microprocesoare, autor:liviu.ionescu]
-date: 2014-08-06
 
-creationDate: 2024-01-03T10:58:19
+date: 2024-01-03T10:58:19
 
-eventDate: '2014-08-06'
+event_date: '2014-08-06'
 
 ---
 

@@ -4,10 +4,9 @@ title: 'Vinton Cerf consideră că adoptarea TCP/IP este momentul nașterii Inte
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
 
-date: 1983-07
+date: 2023-12-27T20:37:12
 
-creationDate: 2023-12-27T20:37:12
-eventDate: '1983'
+event_date: '1983'
 
 ---
 

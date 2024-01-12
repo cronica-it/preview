@@ -3,11 +3,10 @@ slug: 1992/microprocesoarele-powerpc
 title: 'Alianța Apple–IBM–Motorola anunță arhitectura RISC „PowerPC”'
 authors: [ilg-ul]
 tags: [international, autor:liviu.ionescu]
-date: 1992-10
 
-creationDate: 2024-01-02T10:36:53
+date: 2024-01-02T10:36:53
 
-eventDate: '1992-10'
+event_date: '1992-10'
 
 ---
 

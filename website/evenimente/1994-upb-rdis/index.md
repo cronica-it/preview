@@ -4,10 +4,9 @@ title: 'Este înființată „Rețeaua de Date a Învățământului Superior”
 authors: [ntapus, ilg-ul]
 tags: [internet, educatie, upb, autor:nicolae.tapus]
 
-date: 1994-11-24
+date: 2023-12-13T17:18:29
 
-creationDate: 2023-12-13T17:18:29
-eventDate: '1994-11-24'
+event_date: '1994-11-24'
 
 ---
 

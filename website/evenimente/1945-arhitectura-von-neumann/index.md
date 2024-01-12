@@ -4,10 +4,9 @@ title: 'John von Neumann descrie un calculator cu program memorat'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
 
-date: 1945-06-30
+date: 2023-12-24T17:10:38
 
-creationDate: 2023-12-24T17:10:38
-eventDate: '1945-06-30'
+event_date: '1945-06-30'
 
 ---
 

@@ -4,10 +4,9 @@ title: 'Firma IBM lansează calculatorul personal „IBM PC XT”'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
 
-date: 1983-03-08
+date: 2023-12-27T20:49:27
 
-creationDate: 2023-12-27T20:49:27
-eventDate: '1983-03-08'
+event_date: '1983-03-08'
 
 ---
 

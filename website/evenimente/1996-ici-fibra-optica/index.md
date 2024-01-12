@@ -4,10 +4,9 @@ title: 'La Institutul Central de Informatică (ICI) este instalată o legătură
 authors: [arot, ilg-ul]
 tags: [internet, ici, autor:alexandru.rotaru]
 
-date: 1996-10
+date: 2023-12-10T13:04:27
 
-creationDate: 2023-12-10T13:04:27
-eventDate: '1996-10'
+event_date: '1996-10'
 
 ---
 

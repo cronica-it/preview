@@ -4,10 +4,9 @@ title: 'Firma Apple lansează calculatorul „Apple Macintosh”'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
 
-date: 1984-01
+date: 2023-12-29T21:33:38
 
-creationDate: 2023-12-29T21:33:38
-eventDate: '1984-01'
+event_date: '1984-01'
 
 ---
 

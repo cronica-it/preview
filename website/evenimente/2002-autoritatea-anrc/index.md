@@ -4,10 +4,9 @@ title: 'Intră în funcțiune „Autoritatea Națională de Reglementare în Com
 authors: [gserban, ilg-ul]
 tags: [licente, autor:gheorghe.serban]
 
-date: 2002-09-25
+date: 2023-12-20T19:30:34
 
-creationDate: 2023-12-20T19:30:34
-eventDate: '2002-09-25'
+event_date: '2002-09-25'
 
 ---
 

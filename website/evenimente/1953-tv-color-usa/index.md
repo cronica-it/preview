@@ -4,10 +4,9 @@ title: 'În Statele Unite încep transmisiunile TV color'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
 
-date: 1953-07
+date: 2023-12-29T18:20:11
 
-creationDate: 2023-12-29T18:20:11
-eventDate: '1953'
+event_date: '1953'
 
 ---
 

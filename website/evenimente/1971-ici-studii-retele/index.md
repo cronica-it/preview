@@ -4,10 +4,9 @@ title: 'La Institutul Central de Informatică (ICI) demarează primele studii pr
 authors: [gserban, ilg-ul]
 tags: [ici, autor:gheorghe.serban]
 
-date: 1971-07
+date: 2023-12-18T19:28:40
 
-creationDate: 2023-12-18T19:28:40
-eventDate: '1971'
+event_date: '1971'
 
 ---
 

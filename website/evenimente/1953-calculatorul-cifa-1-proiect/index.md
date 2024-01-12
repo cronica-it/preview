@@ -4,10 +4,9 @@ title: 'Victor Toma proiectează „CIFA-1”, primul calculator electronic rom�
 authors: [gserban, ilg-ul]
 tags: [calculatoare, autor:gheorghe.serban]
 
-date: 1953-07
+date: 2023-12-18T09:40:01
 
-creationDate: 2023-12-18T09:40:01
-eventDate: '1953'
+event_date: '1953'
 
 ---
 

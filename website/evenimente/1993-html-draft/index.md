@@ -4,10 +4,9 @@ title: 'Tim Berners-Lee publică „Hypertext Markup Language” (HTML)'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
 
-date: 1993-07
+date: 2023-12-28T20:56:36
 
-creationDate: 2023-12-28T20:56:36
-eventDate: '1993'
+event_date: '1993'
 
 ---
 

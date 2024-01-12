@@ -4,10 +4,9 @@ title: 'La Institutul de Proiectări Automatizări (IPA) sunt realizate primele 
 authors: [gserban, ilg-ul]
 tags: [comunicatii, autor:gheorghe.serban]
 
-date: 1975-07
+date: 2023-12-21T09:07:05
 
-creationDate: 2023-12-21T09:07:05
-eventDate: '1975'
+event_date: '1975'
 
 ---
 

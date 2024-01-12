@@ -4,10 +4,9 @@ title: 'Thomas Alva Edison construiește prima centrală electrică, în New Yor
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
 
-date: 1882-09-04
+date: 2023-12-29T10:29:18
 
-creationDate: 2023-12-29T10:29:18
-eventDate: '1882-09-04'
+event_date: '1882-09-04'
 
 ---
 

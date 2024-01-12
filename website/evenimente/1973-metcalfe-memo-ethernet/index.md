@@ -4,10 +4,9 @@ title: 'Robert Metcalfe descrie într-un memo protocolul „Ethernet”'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
 
-date: 1973-05-22
+date: 2023-12-28T10:45:15
 
-creationDate: 2023-12-28T10:45:15
-eventDate: '1973-05-22'
+event_date: '1973-05-22'
 
 ---
 

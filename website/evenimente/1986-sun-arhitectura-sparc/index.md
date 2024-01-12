@@ -3,11 +3,10 @@ slug: 1986/sun-arhitectura-sparc
 title: 'Firma Sun Microsystems publică specificațiile pentru „SPARC”'
 authors: [ilg-ul]
 tags: [international, microprocesoare, autor:liviu.ionescu]
-date: 1986-07
 
-creationDate: 2024-01-03T10:30:44
+date: 2024-01-03T10:30:44
 
-eventDate: '1986'
+event_date: '1986'
 
 ---
 

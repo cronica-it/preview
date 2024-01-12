@@ -4,10 +4,9 @@ title: 'Howard Aiken, cu finanțare IBM, dezvoltă calculatorul electromecanic �
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
 
-date: 1939-02
+date: 2023-12-24T16:21:34
 
-creationDate: 2023-12-24T16:21:34
-eventDate: '1939-02'
+event_date: '1939-02'
 
 ---
 

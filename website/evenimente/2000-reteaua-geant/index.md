@@ -4,10 +4,9 @@ title: 'Comisia Europeană lansează proiectul „GÉANT”'
 authors: [gserban, ilg-ul]
 tags: [international, educatie, internet, autor:gheorghe.serban]
 
-date: 2000-11-06
+date: 2023-12-20T18:43:56
 
-creationDate: 2023-12-20T18:43:56
-eventDate: '2000-11-06'
+event_date: '2000-11-06'
 
 ---
 

@@ -4,10 +4,9 @@ title: 'Firma Sun Microsistems anunță limbajul „Java”'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
 
-date: 1995-05-23
+date: 2023-12-20T17:38:53
 
-creationDate: 2023-12-20T17:38:53
-eventDate: '1995-05-23'
+event_date: '1995-05-23'
 
 ---
 

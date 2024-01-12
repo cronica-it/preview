@@ -4,10 +4,9 @@ title: 'Se încheie finanțarea Internetului de către NSF'
 authors: [gserban, ilg-ul]
 tags: [international, internet, autor:gheorghe.serban]
 
-date: 1995-05
+date: 2023-12-20T17:32:05
 
-creationDate: 2023-12-20T17:32:05
-eventDate: '1995-05'
+event_date: '1995-05'
 
 ---
 

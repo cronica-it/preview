@@ -4,10 +4,9 @@ title: 'Firma IBM începe să comercializeze unități de floppy disk de 8"'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
 
-date: 1971-07
+date: 2023-12-29T19:31:21
 
-creationDate: 2023-12-29T19:31:21
-eventDate: '1971'
+event_date: '1971'
 
 ---
 

@@ -4,10 +4,9 @@ title: 'Are loc „liberalizarea” telecomunicațiilor în România'
 authors: [gserban, ilg-ul]
 tags: [autor:gheorghe.serban]
 
-date: 2003-01-01
+date: 2023-12-21T09:59:55
 
-creationDate: 2023-12-21T09:59:55
-eventDate: '2003-01-01'
+event_date: '2003-01-01'
 
 ---
 

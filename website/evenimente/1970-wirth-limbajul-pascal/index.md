@@ -4,10 +4,9 @@ title: 'Niklaus Wirth crează limbajul de programare „Pascal”'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
 
-date: 1970-07
+date: 2023-12-27T10:44:04
 
-creationDate: 2023-12-27T10:44:04
-eventDate: '1970'
+event_date: '1970'
 
 ---
 

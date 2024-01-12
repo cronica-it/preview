@@ -4,10 +4,9 @@ title: 'Guvernul României lansează „Sistemul electronic de achiziții public
 authors: [gserban, ilg-ul]
 tags: [servicii, autor:gheorghe.serban]
 
-date: 2002-04-02
+date: 2023-12-20T19:46:36
 
-creationDate: 2023-12-20T19:46:36
-eventDate: '2002-04-02'
+event_date: '2002-04-02'
 
 ---
 

@@ -4,10 +4,9 @@ title: 'EU deschide competiției serviciile de telecomunicații'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
 
-date: 1998-01-01
+date: 2023-12-28T21:11:52
 
-creationDate: 2023-12-28T21:11:52
-eventDate: '1998-01-01'
+event_date: '1998-01-01'
 
 ---
 În 1 ianuarie 1998, EU deschide competiției serviciile și infrastructura de

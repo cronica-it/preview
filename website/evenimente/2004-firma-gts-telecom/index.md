@@ -4,10 +4,9 @@ title: '„GTS Telecom” este noul nume al firmei „KPNQwest România” (fost
 authors: [ilg-ul]
 tags: [firme, internet, autor:liviu.ionescu]
 
-date: 2004-07
+date: 2023-11-16T19:42
 
-creationDate: 2023-11-16T19:42
-eventDate: '2004'
+event_date: '2004'
 
 ---
 

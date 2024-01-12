@@ -4,10 +4,9 @@ title: 'Este consemnat primul „bug”, o molie prinsă în calculatorul Mark I
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
 
-date: 1947-09-09
+date: 2023-12-24T18:39:18
 
-creationDate: 2023-12-24T18:39:18
-eventDate: '1947-09-09'
+event_date: '1947-09-09'
 
 ---
 

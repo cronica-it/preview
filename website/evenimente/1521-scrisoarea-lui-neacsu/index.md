@@ -4,10 +4,9 @@ title: 'Scrisoarea lui Neacșu este primul text în limba română păstrat'
 authors: [gserban, ilg-ul]
 tags: [autor:gheorghe.serban]
 
-date: 1521-06-29
+date: 2023-12-15T10:49:53
 
-creationDate: 2023-12-15T10:49:53
-eventDate: '1521-06-29'
+event_date: '1521-06-29'
 
 ---
 

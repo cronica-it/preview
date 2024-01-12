@@ -3,11 +3,10 @@ slug: 1974/microprocessorul-motorola-6800
 title: 'Firma Motorola anunță familia de microprocesoare „6800”'
 authors: [ilg-ul]
 tags: [international, motorola, microprocesoare, autor:liviu.ionescu]
-date: 1974-03
 
-creationDate: 2024-01-02T09:44:03
+date: 2024-01-02T09:44:03
 
-eventDate: '1974-03'
+event_date: '1974-03'
 
 ---
 

@@ -4,10 +4,9 @@ title: 'Charles Babbage concepe „Difference Engine”'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
 
-date: 1822-07
+date: 2023-12-23T15:57:31
 
-creationDate: 2023-12-23T15:57:31
-eventDate: '1822'
+event_date: '1822'
 
 ---
 

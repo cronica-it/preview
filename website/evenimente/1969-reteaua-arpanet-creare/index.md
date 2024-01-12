@@ -4,10 +4,9 @@ title: 'Department of Defense (DoD) crează rețeaua ARPANET'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
 
-date: 1969-10-29
+date: 2023-12-27T09:44:44
 
-creationDate: 2023-12-27T09:44:44
-eventDate: '1969-10-29'
+event_date: '1969-10-29'
 
 ---
 

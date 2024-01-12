@@ -4,10 +4,9 @@ title: 'Sholes și Glidden inventează mașina de scris'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
 
-date: 1867-12
+date: 2023-12-29T10:00:29
 
-creationDate: 2023-12-29T10:00:29
-eventDate: '1867-12'
+event_date: '1867-12'
 
 ---
 

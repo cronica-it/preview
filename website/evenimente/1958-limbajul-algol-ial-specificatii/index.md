@@ -4,10 +4,9 @@ title: 'Sunt elaborate specificațiile pentru limbajul de programare „ALGOL 58
 authors: [ilg-ul]
 tags: [international, autor:liviu.ionescu]
 
-date: 1958-07
+date: 2023-12-26T20:59:55
 
-creationDate: 2023-12-26T20:59:55
-eventDate: '1958'
+event_date: '1958'
 
 ---
 

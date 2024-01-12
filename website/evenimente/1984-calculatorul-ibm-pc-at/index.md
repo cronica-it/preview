@@ -4,10 +4,9 @@ title: 'Firma IBM lansează calculatorul personal „IBM PC AT”'
 authors: [ilg-ul]
 tags: [international, autor:gheorghe.serban]
 
-date: 1984-08-14
+date: 2023-12-27T20:54:24
 
-creationDate: 2023-12-27T20:54:24
-eventDate: '1984-08-14'
+event_date: '1984-08-14'
 
 ---
 

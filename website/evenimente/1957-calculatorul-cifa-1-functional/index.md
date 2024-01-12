@@ -4,10 +4,9 @@ title: 'La Institutul de Fizică Atomică (IFA) este pus in funcțiune calculato
 authors: [gserban, ilg-ul]
 tags: [autor:gheorghe.serban]
 
-date: 1957-07
+date: 2023-12-18T17:24:38
 
-creationDate: 2023-12-18T17:24:38
-eventDate: '1957'
+event_date: '1957'
 
 ---
 

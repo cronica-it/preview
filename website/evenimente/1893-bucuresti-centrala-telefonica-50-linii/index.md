@@ -4,10 +4,9 @@ title: 'Este dată în folosință prima centrală telefonică din București'
 authors: [gserban, ilg-ul]
 tags: [autor:gheorghe.serban]
 
-date: 1893-07
+date: 2023-12-18T09:01:16
 
-creationDate: 2023-12-18T09:01:16
-eventDate: '1893'
+event_date: '1893'
 
 ---
 

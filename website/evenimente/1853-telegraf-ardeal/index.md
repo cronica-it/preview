@@ -4,10 +4,9 @@ title: 'Este instalată prima linie de telegraf din Transilvania'
 authors: [gserban, ilg-ul]
 tags: [comunicatii, autor:gheorghe.serban]
 
-date: 1853-07
+date: 2023-12-21T07:23:29
 
-creationDate: 2023-12-21T07:23:29
-eventDate: '1853'
+event_date: '1853'
 
 ---
 

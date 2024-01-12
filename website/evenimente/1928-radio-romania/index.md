@@ -4,10 +4,9 @@ title: '„Societatea de Difuziune Radiotelefonică” difuzează prima emisiune
 authors: [ilg-ul]
 tags: [radio, autor:liviu.ionescu]
 
-date: 1928-11-01
+date: 2023-12-17T09:40:24
 
-creationDate: 2023-12-17T09:40:24
-eventDate: '1928-11-01'
+event_date: '1928-11-01'
 
 ---
 

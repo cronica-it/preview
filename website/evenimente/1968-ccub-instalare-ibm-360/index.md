@@ -4,10 +4,9 @@ title: 'La Centrul de Calcul al Universității București (CCUB) este instalat 
 authors: [sniculescu]
 tags: [calculatoare, autor:stelian.niculescu]
 
-date: 1968-07
+date: 2023-12-11T18:52:15
 
-creationDate: 2023-12-11T18:52:15
-eventDate: '1968'
+event_date: '1968'
 
 ---
 

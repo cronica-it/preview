@@ -4,10 +4,9 @@ title: 'La Institutul Central de Informatică (ICI) este realizată prima rețea
 authors: [gserban, ilg-ul]
 tags: [ici, autor:gheorghe.serban]
 
-date: 1979-07
+date: 2023-12-18T19:58:26
 
-creationDate: 2023-12-18T19:58:26
-eventDate: '1979'
+event_date: '1979'
 
 ---
 

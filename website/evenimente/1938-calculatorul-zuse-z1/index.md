@@ -4,10 +4,9 @@ title: 'Konrad Zuse, finalizează mașina de calcul binară „Z1”'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
 
-date: 1938-07
+date: 2023-12-29T17:59:21
 
-creationDate: 2023-12-29T17:59:21
-eventDate: '1938'
+event_date: '1938'
 
 ---
 

@@ -4,10 +4,9 @@ title: 'Firma Intel lansează familia de microprocesoare „Pentium”'
 authors: [gserban, ilg-ul]
 tags: [international, intel, microprocesoare, autor:gheorghe.serban]
 
-date: 1993-03-22
+date: 2023-12-28T21:35:37
 
-creationDate: 2023-12-28T21:35:37
-eventDate: '1993-03-22'
+event_date: '1993-03-22'
 
 ---
 

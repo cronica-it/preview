@@ -4,10 +4,9 @@ title: 'Omenirea trece cu bine în noul mileniu'
 authors: [ilg-ul]
 tags: [international, autor:liviu.ionescu]
 
-date: 2000-01-01
+date: 2023-12-29T21:13:24
 
-creationDate: 2023-12-29T21:13:24
-eventDate: '2000-01-01'
+event_date: '2000-01-01'
 
 ---
 

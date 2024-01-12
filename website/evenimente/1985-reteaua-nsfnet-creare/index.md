@@ -4,10 +4,9 @@ title: 'National Science Foundation (NSF) crează rețeua de cercetare „NSFNET
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
 
-date: 1985-07
+date: 2023-12-28T11:52:57
 
-creationDate: 2023-12-28T11:52:57
-eventDate: '1985'
+event_date: '1985'
 
 ---
 

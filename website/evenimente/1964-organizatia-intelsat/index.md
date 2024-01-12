@@ -4,10 +4,9 @@ title: 'Este creată organizația internațională „Intelsat”'
 authors: [gserban, ilg-ul]
 tags: [international, organizatii, autor:gheorghe.serban]
 
-date: 1964-08-20
+date: 2023-12-22T19:11:18
 
-creationDate: 2023-12-22T19:11:18
-eventDate: '1964-08-20'
+event_date: '1964-08-20'
 
 ---
 

@@ -4,10 +4,9 @@ title: 'Johannes Gutenberg crează tiparul cu caractere mobile'
 authors: [gserban, ilg-ul]
 tags: [international, comunicatii, autor:gheorghe.serban]
 
-date: 1440-07
+date: 2023-12-15T09:46:35
 
-creationDate: 2023-12-15T09:46:35
-eventDate: '1440'
+event_date: '1440'
 
 ---
 

@@ -4,10 +4,9 @@ title: 'Rețeaua RoEduNet încheie un acord cu CFR pentru operarea rețelei de f
 authors: [ntapus, ilg-ul]
 tags: [internet, educatie, upb, autor:nicolae.tapus]
 
-date: 2006-12
+date: 2023-12-22T18:15:37
 
-creationDate: 2023-12-22T18:15:37
-eventDate: '2006-12'
+event_date: '2006-12'
 
 ---
 

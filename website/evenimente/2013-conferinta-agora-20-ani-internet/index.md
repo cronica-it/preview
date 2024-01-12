@@ -4,10 +4,9 @@ title: 'Agora Group organizează conferința „20 de ani de Internet in Romania
 authors: [ilg-ul]
 tags: [conferinte, aniversari, internet, autor:liviu.ionescu]
 
-date: 2013-11-14
+date: 2023-11-03T22:20
 
-creationDate: 2023-11-03T22:20
-eventDate: '2013-11-14'
+event_date: '2013-11-14'
 
 ---
 

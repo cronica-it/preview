@@ -4,10 +4,9 @@ title: 'Institutul Central de Informatică (ICI) începe să administreze DNS-ul
 authors: [arot, ilg-ul]
 tags: [internet, ici, autor:alexandru.rotaru]
 
-date: 1993-02-26
+date: 2023-11-04T20:28
 
-creationDate: 2023-11-04T20:28
-eventDate: '1993-02-26'
+event_date: '1993-02-26'
 
 ---
 

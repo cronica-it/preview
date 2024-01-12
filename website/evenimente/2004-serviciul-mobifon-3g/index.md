@@ -4,10 +4,9 @@ title: 'Firma MobiFon face primele demonstrații de GSM 3G'
 authors: [gserban, ilg-ul]
 tags: [gsm, servicii, autor:gheorghe.serban]
 
-date: 2004-09
+date: 2023-12-20T20:02:15
 
-creationDate: 2023-12-20T20:02:15
-eventDate: '2004-09'
+event_date: '2004-09'
 
 ---
 

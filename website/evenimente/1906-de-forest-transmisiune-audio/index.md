@@ -4,10 +4,9 @@ title: 'Lee de Forest face primele transmisiuni audio'
 authors: [ilg-ul]
 tags: [international, autor:liviu.ionescu]
 
-date: 1906-12-31
+date: 2023-12-24T11:34:07
 
-creationDate: 2023-12-24T11:34:07
-eventDate: '1906-12-31'
+event_date: '1906-12-31'
 
 ---
 

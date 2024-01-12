@@ -4,10 +4,9 @@ title: 'Firma Cisco Systems lansează programul „Networking Academy” în Sta
 authors: [gserban, ilg-ul]
 tags: [international, educatie, autor:gheorghe.serban]
 
-date: 1997-07
+date: 2023-12-20T18:27:09
 
-creationDate: 2023-12-20T18:27:09
-eventDate: '1997'
+event_date: '1997'
 
 ---
 

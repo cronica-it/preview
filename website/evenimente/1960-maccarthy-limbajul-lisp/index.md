@@ -4,10 +4,9 @@ title: 'John McCarty publică un articol cu bazele teoretice ale limbajului de p
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
 
-date: 1960-07
+date: 2023-12-26T16:27:32
 
-creationDate: 2023-12-26T16:27:32
-eventDate: '1960'
+event_date: '1960'
 
 ---
 

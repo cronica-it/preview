@@ -4,10 +4,9 @@ title: 'Guglielmo Marconi efectuează primele transmisiuni radio transatlantice'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
 
-date: 1901-12-12
+date: 2023-12-29T10:41:34
 
-creationDate: 2023-12-29T10:41:34
-eventDate: '1901-12-12'
+event_date: '1901-12-12'
 
 ---
 

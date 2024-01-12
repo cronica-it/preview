@@ -4,10 +4,9 @@ title: 'John Napiers crează mașini care înmulțeau numere folosind logaritmi'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
 
-date: 1614-07
+date: 2023-12-15T11:18:18
 
-creationDate: 2023-12-15T11:18:18
-eventDate: '1614'
+event_date: '1614'
 
 ---
 

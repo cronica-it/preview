@@ -4,10 +4,9 @@ title: 'Este fondat „Oficiul pentru Administrarea și Operarea Infrastructurii
 authors: [ntapus, ilg-ul]
 tags: [internet, educatie, upb, autor:nicolae.tapus]
 
-date: 1998-08-21
+date: 2023-12-13T18:23:24
 
-creationDate: 2023-12-13T18:23:24
-eventDate: '1998-08-21'
+event_date: '1998-08-21'
 
 ---
 

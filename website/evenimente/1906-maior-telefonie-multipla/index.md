@@ -4,10 +4,9 @@ title: 'Augustin Maior demonstrează telefonia multiplă pe o singură linie'
 authors: [gserban, ilg-ul]
 tags: [autor:gheorghe.serban]
 
-date: 1906-07
+date: 2023-12-18T09:28:00
 
-creationDate: 2023-12-18T09:28:00
-eventDate: '1906'
+event_date: '1906'
 
 ---
 

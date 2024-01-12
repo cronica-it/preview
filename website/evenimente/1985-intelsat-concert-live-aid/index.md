@@ -4,10 +4,9 @@ title: 'Organizația Intelsat transmite în direct concertul „Live Aid”'
 authors: [ilg-ul]
 tags: [international, sateliti, autor:liviu.ionescu]
 
-date: 1985-07-13
+date: 2023-12-22T19:28:43
 
-creationDate: 2023-12-22T19:28:43
-eventDate: '1985-07-13'
+event_date: '1985-07-13'
 
 ---
 

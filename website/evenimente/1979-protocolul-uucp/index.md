@@ -4,10 +4,9 @@ title: 'La Bell Telephone Labs este dezvoltat protocolul „Unix to Unix Copy”
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
 
-date: 1979-07
+date: 2023-12-27T16:22:59
 
-creationDate: 2023-12-27T16:22:59
-eventDate: '1979'
+event_date: '1979'
 
 ---
 

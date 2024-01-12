@@ -5,10 +5,9 @@ a fenomenului electromagnetic”'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
 
-date: 1865-07
+date: 2023-12-24T09:35:57
 
-creationDate: 2023-12-24T09:35:57
-eventDate: '1865'
+event_date: '1865'
 
 ---
 

@@ -3,11 +3,10 @@ slug: 1982/calculatorul-sinclair-zx-spectrum
 title: 'Firma Sinclair Research lansează microcalculatorul „ZX Spectrum”'
 authors: [ilg-ul]
 tags: [international, autor:liviu.ionescu]
-date: 1982-04-23
 
-creationDate: 2024-01-02T15:57:46
+date: 2024-01-02T15:57:46
 
-eventDate: '1982-04-23'
+event_date: '1982-04-23'
 
 ---
 

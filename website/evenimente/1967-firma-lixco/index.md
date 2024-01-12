@@ -4,10 +4,9 @@ title: 'Nicoară (Lix) Paulian pune bazele a ceea ce avea să devină firma „L
 authors: [lixpaulian, ilg-ul]
 tags: [firme, calculatoare, radio]
 
-date: 1967-07
+date: 2023-12-31T13:21:52
 
-creationDate: 2023-12-31T13:21:52
-eventDate: '1967'
+event_date: '1967'
 
 ---
 

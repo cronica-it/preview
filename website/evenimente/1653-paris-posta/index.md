@@ -4,10 +4,9 @@ title: 'La Paris este înființat primul serviciu poștal public'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
 
-date: 1653-07
+date: 2023-12-15T15:20:04
 
-creationDate: 2023-12-15T15:20:04
-eventDate: '1653'
+event_date: '1653'
 
 ---
 

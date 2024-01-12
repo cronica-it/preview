@@ -4,10 +4,9 @@ title: 'Asociația RIPE crează „Network Coordination Center” (NCC)'
 authors: [gserban, ilg-ul]
 tags: [international, internet, autor:gheorghe.serban]
 
-date: 1992-04
+date: 2023-12-20T15:57:07
 
-creationDate: 2023-12-20T15:57:07
-eventDate: '1992-04'
+event_date: '1992-04'
 
 ---
 

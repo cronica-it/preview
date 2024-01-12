@@ -4,10 +4,9 @@ title: 'Este lansat satelitul „Intelsat I - Early Bird”'
 authors: [ilg-ul]
 tags: [international, sateliti]
 
-date: 1965-04-6
+date: 2023-12-22T19:18:40
 
-creationDate: 2023-12-22T19:18:40
-eventDate: '1965-04-6'
+event_date: '1965-04-6'
 
 ---
 

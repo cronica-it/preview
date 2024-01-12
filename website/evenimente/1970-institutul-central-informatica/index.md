@@ -4,10 +4,9 @@ title: 'Este înființat „Institutul Central de Informatică” (ICI)'
 authors: [ilg-ul]
 tags: [cercetare, informatica, ici, autor:liviu.ionescu]
 
-date: 1970-07
+date: 2023-12-13T17:48:15
 
-creationDate: 2023-12-13T17:48:15
-eventDate: '1970'
+event_date: '1970'
 
 ---
 

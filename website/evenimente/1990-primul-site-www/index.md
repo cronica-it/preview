@@ -4,10 +4,9 @@ title: 'La centrul de cercetări de la CERN apare primul site WWW'
 authors: [gserban, ilg-ul]
 tags: [international, internet, servicii, autor:gheorghe.serban]
 
-date: 1990-07
+date: 2023-12-20T09:38:54
 
-creationDate: 2023-12-20T09:38:54
-eventDate: '1990'
+event_date: '1990'
 
 ---
 

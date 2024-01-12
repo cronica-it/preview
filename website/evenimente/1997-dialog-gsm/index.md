@@ -4,10 +4,9 @@ title: 'Firma Mobil Rom lansează serviciul „Dialog”'
 authors: [arot, ilg-ul]
 tags: [gsm, firme, autor:alexandru.rotaru]
 
-date: 1997-04-21
+date: 2023-12-10T11:21:34
 
-creationDate: 2023-12-10T11:21:34
-eventDate: '1997-04-21'
+event_date: '1997-04-21'
 
 ---
 

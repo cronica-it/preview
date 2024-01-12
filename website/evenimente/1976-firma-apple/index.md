@@ -4,10 +4,9 @@ title: 'Steve Wozniak și Steve Jobs înființează firma „Apple Computer Comp
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
 
-date: 1976-04-01
+date: 2023-12-29T20:10:03
 
-creationDate: 2023-12-29T20:10:03
-eventDate: '1976-04-01'
+event_date: '1976-04-01'
 
 ---
 

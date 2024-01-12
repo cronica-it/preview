@@ -3,11 +3,10 @@ slug: 1975/microprocesorul-mos-6502
 title: 'Firma MOS Technology lansează microprocesorul „6502”'
 authors: [ilg-ul]
 tags: [international, microprocesoare, autor:liviu.ionescu]
-date: 1975-06
 
-creationDate: 2024-01-02T11:32:46
+date: 2024-01-02T11:32:46
 
-eventDate: '1975-06'
+event_date: '1975-06'
 
 ---
 

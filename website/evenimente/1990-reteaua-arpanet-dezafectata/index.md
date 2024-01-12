@@ -4,10 +4,9 @@ title: 'Rețeaua ARPANET își încetează oficial existența'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
 
-date: 1990-07
+date: 2023-12-28T12:36:01
 
-creationDate: 2023-12-28T12:36:01
-eventDate: '1990'
+event_date: '1990'
 
 ---
 

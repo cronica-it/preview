@@ -4,10 +4,9 @@ title: 'Firma DEC lansează familia de minicalculatoare „PDP-11”'
 authors: [ilg-ul]
 tags: [international, autor:liviu.ionescu]
 
-date: 1970-01
+date: 2023-12-28T10:55:30
 
-creationDate: 2023-12-28T10:55:30
-eventDate: '1970-01'
+event_date: '1970-01'
 
 ---
 

@@ -4,10 +4,9 @@ title: 'Leonardo da Vinci proiectează „omul mecanic”'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
 
-date: 1495-07
+date: 2023-12-15T10:40:28
 
-creationDate: 2023-12-15T10:40:28
-eventDate: '1495'
+event_date: '1495'
 
 ---
 

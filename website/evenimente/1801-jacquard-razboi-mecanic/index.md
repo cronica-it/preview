@@ -4,11 +4,10 @@ title: 'Joseph-Marie Jacquard construiește un război mecanic pentru țesut'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
 
-date: 1801-07
+date: 2023-12-23T15:37:42
 
-creationDate: 2023-12-23T15:37:42
-eventDate: '1801'
-eventEndDate: '1805'
+event_date: '1801'
+event_end_date: '1805'
 
 ---
 

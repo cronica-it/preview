@@ -4,10 +4,9 @@ title: 'La Universitatea Politehnica din București este instalată o linie dedi
 authors: [ntapus, ilg-ul]
 tags: [internet, educatie, upb, autor:nicolae.tapus]
 
-date: 1995-06
+date: 2023-12-13T17:25:40
 
-creationDate: 2023-12-13T17:25:40
-eventDate: '1995-06'
+event_date: '1995-06'
 
 ---
 

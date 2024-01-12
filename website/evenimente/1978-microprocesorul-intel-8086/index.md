@@ -4,10 +4,9 @@ title: 'Firma Intel lansează microprocesorul „Intel 8086”'
 authors: [gserban, ilg-ul]
 tags: [international, intel, microprocesoare, autor:gheorghe.serban]
 
-date: 1978-06-08
+date: 2023-12-27T17:09:59
 
-creationDate: 2023-12-27T17:09:59
-eventDate: '1978-06-08'
+event_date: '1978-06-08'
 
 ---
 

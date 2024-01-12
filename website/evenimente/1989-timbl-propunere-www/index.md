@@ -4,10 +4,9 @@ title: 'Tim Berners-Lee face primele propuneri pentru „World Wide Web”'
 authors: [gserban, ilg-ul]
 tags: [international, internet, servicii, autor:gheorghe.serban]
 
-date: 1989-03-12
+date: 2023-12-20T09:23:52
 
-creationDate: 2023-12-20T09:23:52
-eventDate: '1989-03-12'
+event_date: '1989-03-12'
 
 ---
 

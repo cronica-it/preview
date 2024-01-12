@@ -4,10 +4,9 @@ title: 'Rețeaua RoEduNet se conectează la GÉANT cu 34 Mbps'
 authors: [ntapus]
 tags: [internet, educatie, upb, autor:nicolae.tapus]
 
-date: 2001-07
+date: 2023-12-13T18:43:49
 
-creationDate: 2023-12-13T18:43:49
-eventDate: '2001'
+event_date: '2001'
 
 ---
 

@@ -4,10 +4,9 @@ title: 'Este instalată prima linie telefonică din București'
 authors: [gserban, ilg-ul]
 tags: [comunicatii, autor:gheorghe.serban]
 
-date: 1883-07
+date: 2023-12-21T07:39:59
 
-creationDate: 2023-12-21T07:39:59
-eventDate: '1883'
+event_date: '1883'
 
 ---
 

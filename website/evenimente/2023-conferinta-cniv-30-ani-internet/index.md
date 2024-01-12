@@ -4,10 +4,9 @@ title: 'Radu Jugureanu organizează conferința „CNIV 2023 - 30 de ani de Inte
 authors: [radujugu, ilg-ul]
 tags: [conferinte, aniversari, internet, autor:radu.jugureanu]
 
-date: 2023-11-27
+date: 2023-11-02T20:15
 
-creationDate: 2023-11-02T20:15
-eventDate: '2023-11-27'
+event_date: '2023-11-27'
 
 ---
 

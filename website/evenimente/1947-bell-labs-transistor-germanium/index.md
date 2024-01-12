@@ -4,10 +4,9 @@ title: 'La Bell Telephone Labs este realizat primul tranzistor'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
 
-date: 1947-12-23
+date: 2023-12-26T14:58:20
 
-creationDate: 2023-12-26T14:58:20
-eventDate: '1947-12-23'
+event_date: '1947-12-23'
 
 ---
 

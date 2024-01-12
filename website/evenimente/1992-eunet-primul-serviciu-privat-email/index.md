@@ -4,10 +4,9 @@ title: 'Liviu Ionescu lansează primul serviciu privat de Internet e-mail'
 authors: [ilg-ul]
 tags: [internet, autor:liviu.ionescu]
 
-date: 1992-10
+date: 2023-10-30T08:38
 
-creationDate: 2023-10-30T08:38
-eventDate: '1992-10'
+event_date: '1992-10'
 
 ---
 

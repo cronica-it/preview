@@ -4,10 +4,9 @@ title: 'Comitetul CODASYL aprobă prima versiune a limbajului de programare „C
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
 
-date: 1960-01-08
+date: 2023-12-26T20:19:40
 
-creationDate: 2023-12-26T20:19:40
-eventDate: '1960-01-08'
+event_date: '1960-01-08'
 
 ---
 
@@ -49,7 +48,7 @@ al comitetului. Contribuțiile majore ale FLOW-MATIC la COBOL au fost
 nume lungi de variabile, cuvinte în engleză pentru comenzi și separarea
 descrierilor și instrucțiunilor de date.
 
-Discuțiile într-un comitet relativ mare au fost dificile, și 
+Discuțiile într-un comitet relativ mare au fost dificile, și
 ca urmare s-a format un subcomitet
 format din șase persoane.
 

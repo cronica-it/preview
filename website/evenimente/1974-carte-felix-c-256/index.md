@@ -3,11 +3,10 @@ slug: 1974/carte-felix-c-256
 title: 'Vasile Baltac publică lucrarea „FELIX C-256 Structura și programarea calculatorului”'
 authors: [ilg-ul]
 tags: [carti, autor:liviu.ionescu]
-date: 1974-07
 
-creationDate: 2024-01-08T18:44:48
+date: 2024-01-08T18:44:48
 
-eventDate: '1974'
+event_date: '1974'
 
 ---
 

@@ -4,10 +4,9 @@ title: 'Lee de Forest inventează trioda, tubul electronic cu trei electrozi'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
 
-date: 1906-07
+date: 2023-12-24T11:11:51
 
-creationDate: 2023-12-24T11:11:51
-eventDate: '1906'
+event_date: '1906'
 
 ---
 

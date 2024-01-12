@@ -4,10 +4,9 @@ title: 'Alexandru Spătaru construiește primul emițător experimental de TV di
 authors: [gserban, ilg-ul]
 tags: [autor:gheorghe.serban]
 
-date: 1954-07
+date: 2023-12-18T17:10:19
 
-creationDate: 2023-12-18T17:10:19
-eventDate: '1954'
+event_date: '1954'
 
 ---
 

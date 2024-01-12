@@ -4,10 +4,9 @@ title: 'Operatorul Nippon Telegraph and Telephone (NTT) lansează prima rețea c
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
 
-date: 1979-07
+date: 2023-12-28T11:44:26
 
-creationDate: 2023-12-28T11:44:26
-eventDate: '1979'
+event_date: '1979'
 
 ---
 

@@ -4,10 +4,9 @@ title: 'Este proiectată „Rețeaua Națională de Cercetare” (RNC)'
 authors: [ntapus, ilg-ul]
 tags: [internet, cercetare, ici, autor:nicolae.tapus]
 
-date: 1992-07
+date: 2023-12-13T18:49:54
 
-creationDate: 2023-12-13T18:49:54
-eventDate: '1992'
+event_date: '1992'
 
 ---
 

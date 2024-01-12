@@ -4,10 +4,9 @@ title: 'La Iowa State College, Atanasoff și Berry încep lucrul la „ABC”, p
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
 
-date: 1939-07
+date: 2023-12-24T15:07:51
 
-creationDate: 2023-12-24T15:07:51
-eventDate: '1939'
+event_date: '1939'
 
 ---
 

@@ -4,10 +4,9 @@ title: 'ICE Felix lansează calculatorul „Felix-PC”'
 authors: [ntapus]
 tags: [calculatoare, ice, autor:nicolae.tapus]
 
-date: 1984-07
+date: 2023-12-11T19:17:36
 
-creationDate: 2023-12-11T19:17:36
-eventDate: '1984'
+event_date: '1984'
 
 ---
 

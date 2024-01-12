@@ -4,10 +4,9 @@ title: 'La Institutul Central de Informatică (ICI) este instalată o legătura 
 authors: [arot, ilg-ul]
 tags: [internet, ici, sateliti, autor:alexandru.rotaru]
 
-date: 1995-03
+date: 2023-12-10T12:58:36
 
-creationDate: 2023-12-10T12:58:36
-eventDate: '1995-03'
+event_date: '1995-03'
 
 ---
 

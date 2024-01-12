@@ -3,11 +3,10 @@ slug: 1986/calculatorul-cub-z
 title: 'ICE Felix lansează microcalculatorul „Cub Z”'
 authors: [ilg-ul]
 tags: [calculatoare, ice, autor:liviu.ionescu]
-date: 1986-07
 
-creationDate: 2024-01-03T20:40:38
+date: 2024-01-03T20:40:38
 
-eventDate: '1986'
+event_date: '1986'
 
 ---
 

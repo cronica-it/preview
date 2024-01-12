@@ -4,10 +4,9 @@ title: 'Are loc prima convorbire radiotelefonică transatlantică'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
 
-date: 1915-07
+date: 2023-12-29T17:34:41
 
-creationDate: 2023-12-29T17:34:41
-eventDate: '1915'
+event_date: '1915'
 
 ---
 

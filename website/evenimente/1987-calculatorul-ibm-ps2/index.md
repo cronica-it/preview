@@ -4,10 +4,9 @@ title: 'Firma IBM lansează calculatorul personal „IBM PS/2”'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
 
-date: 1987-04
+date: 2023-12-28T19:58:07
 
-creationDate: 2023-12-28T19:58:07
-eventDate: '1987-04'
+event_date: '1987-04'
 
 ---
 

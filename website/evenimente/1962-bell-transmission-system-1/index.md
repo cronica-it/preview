@@ -4,10 +4,9 @@ title: 'Compania AT&T începe să transmită 24 de convorbiri simultane pe linii
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
 
-date: 1962-07
+date: 2023-12-26T21:56:08
 
-creationDate: 2023-12-26T21:56:08
-eventDate: '1962'
+event_date: '1962'
 
 ---
 

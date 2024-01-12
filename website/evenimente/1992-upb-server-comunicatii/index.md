@@ -4,10 +4,9 @@ title: 'La Universitatea Politehnica din București este instalat primul server 
 authors: [ntapus, ilg-ul]
 tags: [internet, educatie, upb, autor:nicolae.tapus]
 
-date: 1992-07
+date: 2023-12-13T15:55:51
 
-creationDate: 2023-12-13T15:55:51
-eventDate: '1992'
+event_date: '1992'
 
 ---
 

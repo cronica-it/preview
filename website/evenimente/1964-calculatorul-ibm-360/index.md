@@ -4,10 +4,9 @@ title: 'Firma IBM anunță calculatorul „IBM System/360”'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
 
-date: 1964-04-07
+date: 2023-12-26T22:11:08
 
-creationDate: 2023-12-26T22:11:08
-eventDate: '1964-04-07'
+event_date: '1964-04-07'
 
 ---
 

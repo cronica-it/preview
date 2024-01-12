@@ -4,10 +4,9 @@ title: 'Firma Compaq anunță „Compaq Portable”, prima clona a calculatorulu
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
 
-date: 1982-11
+date: 2023-12-29T20:40:55
 
-creationDate: 2023-12-29T20:40:55
-eventDate: '1982-11'
+event_date: '1982-11'
 
 ---
 

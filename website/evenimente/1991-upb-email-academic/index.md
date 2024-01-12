@@ -4,10 +4,9 @@ title: 'Nini Popovici efectuează primele legături de e-mail la centrul de calc
 authors: [ilg-ul]
 tags: [internet, educatie, upb, autor:liviu.ionescu]
 
-date: 1991-07
+date: 2023-12-10T11:44:21
 
-creationDate: 2023-12-10T11:44:21
-eventDate: '1991'
+event_date: '1991'
 
 ---
 

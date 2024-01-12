@@ -4,10 +4,9 @@ title: 'Alexandru Rotaru înființează „Grupul Utilizatorilor Români de Unix
 authors: [arot]
 tags: [asociatii, autor:alexandru.rotaru]
 
-date: 1992-03
+date: 2023-11-01T12:46
 
-creationDate: 2023-11-01T12:46
-eventDate: '1992-03'
+event_date: '1992-03'
 
 ---
 

@@ -4,10 +4,9 @@ title: 'La Universitatea Politehnica din București este dată în folosință p
 authors: [ntapus, ilg-ul]
 tags: [internet, educatie, upb, autor:nicolae.tapus]
 
-date: 1993-06
+date: 2023-12-13T16:35:40
 
-creationDate: 2023-12-13T16:35:40
-eventDate: '1993-06'
+event_date: '1993-06'
 
 ---
 

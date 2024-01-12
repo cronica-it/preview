@@ -3,11 +3,10 @@ slug: 1985/arhitectura-mips
 title: 'Firma MIPS Computer Systems anunță arhitectura „MIPS”'
 authors: [ilg-ul]
 tags: [international, microprocesoare, autor:liviu.ionescu]
-date: 1985-07
 
-creationDate: 2024-01-03T11:16:33
+date: 2024-01-03T11:16:33
 
-eventDate: '1985'
+event_date: '1985'
 
 ---
 

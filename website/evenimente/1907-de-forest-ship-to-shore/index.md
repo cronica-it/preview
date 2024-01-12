@@ -4,10 +4,9 @@ title: 'Lee de Forest transmite prin radio primele mesaje Ã®n fonie de la o navÄ
 authors: [ilg-ul]
 tags: [international, autor:liviu.ionescu]
 
-date: 1907-07-18
+date: 2023-12-24T11:21:45
 
-creationDate: 2023-12-24T11:21:45
-eventDate: '1907-07-18'
+event_date: '1907-07-18'
 
 ---
 

@@ -4,10 +4,9 @@ title: 'Cooke & Wheatstone patentează telegraful electric cu ace'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
 
-date: 1837-05
+date: 2023-12-23T16:33:27
 
-creationDate: 2023-12-23T16:33:27
-eventDate: '1837-05'
+event_date: '1837-05'
 
 ---
 

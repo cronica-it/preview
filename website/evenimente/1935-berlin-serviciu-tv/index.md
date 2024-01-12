@@ -4,10 +4,9 @@ title: 'La Berlin este inaugurată prima stație publică de TV'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
 
-date: 1935-03-25
+date: 2023-12-29T17:45:11
 
-creationDate: 2023-12-29T17:45:11
-eventDate: '1935-03-25'
+event_date: '1935-03-25'
 
 ---
 

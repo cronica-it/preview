@@ -4,10 +4,9 @@ title: 'Apar primele tele-imprimatoare și serviciile de telex'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
 
-date: 1930-07
+date: 2023-12-29T11:13:03
 
-creationDate: 2023-12-29T11:13:03
-eventDate: '1930'
+event_date: '1930'
 
 ---
 

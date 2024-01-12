@@ -4,10 +4,9 @@ title: 'Jack Kilby demonstrează primul circuit integrat'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
 
-date: 1958-09-12
+date: 2023-12-29T18:33:38
 
-creationDate: 2023-12-29T18:33:38
-eventDate: '1958-09-12'
+event_date: '1958-09-12'
 
 ---
 

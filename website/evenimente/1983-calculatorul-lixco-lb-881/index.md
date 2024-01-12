@@ -4,10 +4,9 @@ title: 'Lixco finalizează microcalculatorul „L/B 881”'
 authors: [lixpaulian, ilg-ul]
 tags: [calculatoare, autor:liviu.ionescu]
 
-date: 1983-07
+date: 2023-11-02T16:45
 
-creationDate: 2023-11-02T16:45
-eventDate: '1983'
+event_date: '1983'
 
 ---
 

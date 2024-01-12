@@ -4,10 +4,9 @@ title: 'Autoritatea de reglementare din România atribuie primele licențe de op
 authors: [gserban, ilg-ul]
 tags: [licente, firme, comunicatii, autor:gheorghe.serban]
 
-date: 1993-07-06
+date: 2023-12-10T12:39:42
 
-creationDate: 2023-12-10T12:39:42
-eventDate: '1993-07-06'
+event_date: '1993-07-06'
 
 ---
 

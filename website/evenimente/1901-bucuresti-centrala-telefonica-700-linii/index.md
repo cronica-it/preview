@@ -4,10 +4,9 @@ title: 'în Bucuresti este dată în funcțiune o centrală telefonică cu 700 d
 authors: [gserban, ilg-ul]
 tags: [autor:gheorghe.serban]
 
-date: 1901-02-01
+date: 2023-12-21T07:49:21
 
-creationDate: 2023-12-21T07:49:21
-eventDate: '1901-02-01'
+event_date: '1901-02-01'
 
 ---
 

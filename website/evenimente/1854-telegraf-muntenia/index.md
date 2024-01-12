@@ -4,10 +4,9 @@ title: 'Este instalată prima linie de telegraf din Țara Românească'
 authors: [gserban, ilg-ul]
 tags: [comunicatii, autor:gheorghe.serban]
 
-date: 1854-07
+date: 2023-12-21T07:27:52
 
-creationDate: 2023-12-21T07:27:52
-eventDate: '1854'
+event_date: '1854'
 
 ---
 

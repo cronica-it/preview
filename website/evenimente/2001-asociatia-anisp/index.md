@@ -4,10 +4,9 @@ title: 'Este înființată „Asociația Națională a Internet Service Provider
 authors: [gserban, ilg-ul]
 tags: [internet, autor:gheorghe.serban]
 
-date: 2001-01-31
+date: 2023-12-20T18:51:39
 
-creationDate: 2023-12-20T18:51:39
-eventDate: '2001-01-31'
+event_date: '2001-01-31'
 
 ---
 

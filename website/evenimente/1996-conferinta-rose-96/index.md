@@ -4,11 +4,10 @@ title: "Asociația GURU organizează conferința „ROSE '96”, la București"
 authors: [arot]
 tags: [conferinte, internet, autor:alexandru.rotaru]
 
-date: 1996-10-30
+date: 2023-11-01T09:17
 
-creationDate: 2023-11-01T09:17
-eventDate: '1996-10-30'
-eventEndDate: '1996-11-02'
+event_date: '1996-10-30'
+event_end_date: '1996-11-02'
 
 ---
 

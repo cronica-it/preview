@@ -4,10 +4,9 @@ title: 'Firma IBM adoptă formatul de cartele perforate cu 80 de coloane'
 authors: [gserban, ilg-ul]
 tags: [international, autor:gheorghe.serban]
 
-date: 1928-07
+date: 2023-12-24T11:59:37
 
-creationDate: 2023-12-24T11:59:37
-eventDate: '1928'
+event_date: '1928'
 
 ---
 
