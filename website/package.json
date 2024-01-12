@@ -15,10 +15,11 @@
     "typecheck": "tsc",
     "check-urls": "blc https://cronica-it.github.io/preview/ --recursive --ordered --filter-level 2 --exclude 'https://twitter.com*' --exclude 'https://cronica-it.github.io/arhiva/' --exclude 'https://github.com/cronica-it/preview/edit/master/' --exclude 'https://github.com/ilg-ul' --exclude 'https://www.linkedin.com/in/'",
     "deep-clean": "rm -rf node_modules package-lock.json .docusaurus build",
+    "npm-install": "npm install",
+    "link-deps": "npm link @ilg/docusaurus-plugin-content-chronology",
     "outdated": "npm outdated",
     "audit": "npm audit",
-    "fix": "npm audit fix --force",
-    "link-deps": "npm link @ilg/docusaurus-plugin-content-chronology"
+    "fix": "npm audit fix --force"
   },
   "dependencies": {
     "@docusaurus/core": "3.1.0",
