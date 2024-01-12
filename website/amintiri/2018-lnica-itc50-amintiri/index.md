@@ -3,9 +3,10 @@ slug: 2018/lnica-itc50-amintiri
 title: 'Contribuția lui Lucian Nica la volumul ITC-50: „Amintiri despre ITC”'
 authors: [lnica]
 tags: [itc, autor:lucian.nica]
-date: 2018-07
 
-creation_date: 2024-01-09T10:28:22
+date: 2024-01-09T10:28:22
+
+event_date: '2018-07'
 
 ---
 

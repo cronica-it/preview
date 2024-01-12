@@ -4,9 +4,9 @@ title: 'Relatările lui Adi Rotaru din perioada de început a Internetului în R
 authors: [arot]
 tags: [articole, autor:alexandru.rotaru]
 
-date: 2004-07
+date: 2023-11-06T21:37
 
-creationDate: 2023-11-06T21:37
+event_date: '2004-07'
 
 ---
 

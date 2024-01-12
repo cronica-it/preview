@@ -98,10 +98,8 @@ slug: 1992/free-unix-for-romania
 title: 'Marius Hâncu coordonează programul „Free Unix for Romania”'
 authors: [ilg-ul]
 tags: [organizatii]
-date: 2023-11-01T09:21
-
-eventDate: '1992'
-eventEndDate: '1995'
+event_date: '1992'
+event_end_date: '1995'
 
 ---
 

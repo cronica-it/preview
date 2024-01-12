@@ -4,9 +4,9 @@ title: 'Prezentarea lui Alexandru Rotaru la RONOG 8'
 authors: [arot]
 tags: [conferinte, autor:alexandru.rotaru]
 
-date: 2023-07-27
+date: 2023-12-21T16:34:18
 
-creationDate: 2023-12-21T16:34:18
+event_date: '2023-07-27'
 
 ---
 

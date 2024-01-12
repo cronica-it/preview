@@ -13,18 +13,17 @@
 import Heading from '@theme/Heading';
 import styles from './styles.module.css';
 
+import { ChronologyRecord } from '@ilg/docusaurus-plugin-content-chronology'
 
-export type ChronologyEvent = {
-  interval: string,
-  description: JSX.Element
-}
+function ChronologyRow({interval, title, permalink, isInternational}: ChronologyRecord) {
+  const intlInterval = interval+(isInternational ? ' (intl)' : '');
 
-
-function ChronologyRow({interval, description}: ChronologyEvent) {
   return (
     <tr class="chronology">
-      <td class="chronology">{interval}</td>
-      <td class="chronology">{description}</td>
+      <td class="chronology">{intlInterval}</td>
+      <td class="chronology">
+        <a href={permalink}>{title}</a>
+      </td>
     </tr>
   )
 }
@@ -43,7 +42,7 @@ export function ChronologyTable({ items }): JSX.Element {
           </thead>
           <tbody>
             {
-              items.map((props, idx) => (
+              items.map((props: ChronologyRecord, idx) => (
                 <ChronologyRow key={idx} {...props} />
               ))
             }

@@ -4,9 +4,9 @@ title: 'Raportul lui Marius Hâncu despre grantul Soros'
 authors: [mhancu]
 tags: [mesaje, autor:marius.hancu]
 
-date: 1993-12-01
+date: 2023-11-01T09:48
 
-creationDate: 2023-11-01T09:48
+event_date: '1993-12-01'
 
 ---
 

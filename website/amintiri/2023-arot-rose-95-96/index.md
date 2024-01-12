@@ -4,9 +4,9 @@ title: "Articolul lui Adi Rotaru la CNIV 2023 - Conferințele ROSE '95 și ROSE 
 authors: [arot]
 tags: [conferinte, autor:alexandru.rotaru]
 
-date: 2023-10-27
+date: 2023-12-12T07:26:21
 
-creationDate: 2023-12-12T07:26:21
+event_date: '2023-10-27'
 
 ---
 

@@ -17,26 +17,28 @@
     "deep-clean": "rm -rf node_modules package-lock.json .docusaurus build",
     "outdated": "npm outdated",
     "audit": "npm audit",
-    "fix": "npm audit fix --force"
+    "fix": "npm audit fix --force",
+    "link-deps": "npm link @ilg/docusaurus-plugin-content-chronology"
   },
   "dependencies": {
     "@docusaurus/core": "3.1.0",
-    "@docusaurus/plugin-content-docs": "3.1.0",
-    "@docusaurus/plugin-content-pages": "3.1.0",
     "@docusaurus/plugin-client-redirects": "3.1.0",
+    "@docusaurus/preset-classic": "^3.1.0",
     "@docusaurus/theme-classic": "^3.1.0",
-    "@docusaurus/plugin-content-blog": "3.1.0",
+    "@ilg/docusaurus-plugin-content-chronology": "github:cronica-it/docusaurus-plugin-content-chronology",
     "@mdx-js/react": "^3.0.0",
     "clsx": "^2.0.0",
     "prism-react-renderer": "^2.3.0",
     "react": "^18.0.0",
+    "fs-extra": "^11.1.1",
+    "lodash": "^4.17.21",
     "react-dom": "^18.0.0"
   },
   "devDependencies": {
     "@docusaurus/module-type-aliases": "3.1.0",
     "@docusaurus/tsconfig": "3.1.0",
     "@docusaurus/types": "3.1.0",
-    "broken-link-checker": "^0.7.8",
+    "broken-link-checker": "^0.6.7",
     "typescript": "~5.3.2"
   },
   "browserslist": {

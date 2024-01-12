@@ -4,9 +4,9 @@ title: 'Raportul lui Marius Hâncu despre punctele de distribuție'
 authors: [mhancu]
 tags: [mesaje, autor:marius.hancu]
 
-date: 1993-12
+date: 2023-11-06T21:55
 
-creationDate: 2023-11-06T21:55
+event_date: '1993-12'
 
 ---
 

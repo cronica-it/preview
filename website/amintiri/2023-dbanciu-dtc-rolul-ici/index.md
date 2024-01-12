@@ -4,9 +4,9 @@ title: 'Prezentarea Doinei Banciu la DTC 2023'
 authors: [dbanciu]
 tags: [articole, ici, autor:doina.banciu]
 
-date: 2023-05-17
+date: 2023-12-23T13:49:09
 
-creationDate: 2023-12-23T13:49:09
+event_date: '2023-05-17'
 
 ---
 

@@ -4,9 +4,9 @@ title: 'Articolul lui Adi Rotaru la CNIV 2023 - GURU și programul „Computere 
 authors: [arot]
 tags: [conferinte, autor:alexandru.rotaru]
 
-date: 2023-10-27
+date: 2023-12-12T07:15:57
 
-creationDate: 2023-12-12T07:15:57
+event_date: '2023-10-27'
 
 ---
 

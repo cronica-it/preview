@@ -2,7 +2,6 @@ import { themes as prismThemes } from 'prism-react-renderer';
 import type { Config } from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 // import logger from '@docusaurus/logger'
-import { parseFrontMatterEventDates } from './src/utils/frontMatterEventDates'
 
 const isPreview = true;
 
@@ -33,10 +32,6 @@ const config: Config = {
     locales: ['ro'],
   },
 
-  markdown: {
-    parseFrontMatter: parseFrontMatterEventDates
-  },
-
   plugins: [
     [
       '@docusaurus/plugin-content-docs',
@@ -50,7 +45,7 @@ const config: Config = {
     ],
     [
       // https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog
-      '@docusaurus/plugin-content-blog',
+      '@ilg/docusaurus-plugin-content-chronology',
       {
         /**
          * Required for any multi-instance plugin
@@ -79,7 +74,7 @@ const config: Config = {
     ],
     [
       // https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog
-      '@docusaurus/plugin-content-blog',
+      '@ilg/docusaurus-plugin-content-chronology',
       {
         /**
          * Required for any multi-instance plugin

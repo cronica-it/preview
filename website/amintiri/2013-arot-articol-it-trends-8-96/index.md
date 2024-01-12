@@ -4,9 +4,9 @@ title: "Articolul lui Adi Rotaru în IT Trends - Capitol 8 - '96"
 authors: [arot]
 tags: [articole, autor:alexandru.rotaru]
 
-date: 2013-10
+date: 2023-11-03T22:09
 
-creationDate: 2023-11-03T22:09
+event_date: '2013-10'
 
 ---
 

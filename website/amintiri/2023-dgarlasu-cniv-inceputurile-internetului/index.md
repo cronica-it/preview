@@ -4,9 +4,9 @@ title: 'Prezentarea lui Dan Gârlașu la CNIV 2023'
 authors: [dgarlasu]
 tags: [articole, internet, autor:dan.garlasu]
 
-date: 2023-10-27
+date: 2023-12-21T19:10:03
 
-creationDate: 2023-12-21T19:10:03
+event_date: '2023-10-27'
 
 ---
 

@@ -4,9 +4,9 @@ title: 'Raportul lui Marius Hâncu despre donațiile pentru Free Unix for Romani
 authors: [mhancu]
 tags: [mesaje, autor:marius.hancu]
 
-date: 1995-10-14
+date: 2023-11-06T21:21
 
-creationDate: 2023-11-06T21:21
+event_date: '1995-10-14'
 
 ---
 

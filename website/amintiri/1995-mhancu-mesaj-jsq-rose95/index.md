@@ -4,9 +4,9 @@ title: "Mesajul lui Marius Hâncu despre ROSE '95"
 authors: [mhancu]
 tags: [mesaje, autor:marius.hancu]
 
-date: 1995-12-20
+date: 2023-11-03T22:20
 
-creationDate: 2023-11-03T22:20
+event_date: '1995-12-20'
 
 ---
 

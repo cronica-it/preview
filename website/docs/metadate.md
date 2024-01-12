@@ -29,9 +29,9 @@ Daca luna lipseste, pentru ordonare data se considera `YYYY-06-01`
 Exemple:
 
 ```yaml
-eventDate: '1993'
-eventDate: '1993-06'
-eventDate: '1993-06-24'
+event_date: '1993'
+event_date: '1993-06'
+event_date: '1993-06-24'
 ```
 
 ## `eventEndDate`
@@ -42,5 +42,5 @@ Proprietatea `eventEndDate` definește data de sfârșit a evenimentului,
 Exemplu:
 
 ```yaml
-eventEndDate: '1998'
+event_end_date: '1998'
 ```

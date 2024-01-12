@@ -4,9 +4,9 @@ title: 'Prezentarea lui Ioan Maxim la CNIV 2023'
 authors: [imaxim]
 tags: [articole, internet, autor:ioan.maxim]
 
-date: 2023-10-27
+date: 2023-12-22T13:28:34
 
-creationDate: 2023-12-22T13:28:34
+event_date: '2023-10-27'
 
 ---
 

@@ -4,9 +4,9 @@ title: 'Articolul Sandrei Pralong la CNIV 2023'
 authors: [spralong]
 tags: [articole, internet, autor:sandra.pralong]
 
-date: 2023-10-27
+date: 2023-12-22T10:16:32
 
-creationDate: 2023-12-22T10:16:32
+event_date: '2023-10-27'
 
 ---
 

@@ -4,9 +4,9 @@ title: "Masa rotundă CERF '97 - „Internet în România”"
 authors: [ilg-ul]
 tags: [internet]
 
-date: 1997-06
+date: 2023-12-12T07:51:03
 
-creationDate: 2023-12-12T07:51:03
+event_date: '1997-06'
 
 ---
 

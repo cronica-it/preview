@@ -4,9 +4,9 @@ title: 'Interviul lui Liviu Ionescu - EUnet Romania – un an de activitate'
 authors: [ilg-ul]
 tags: [internet, firme, aniversari, interviuri, autor:liviu.ionescu]
 
-date: 1994-11-24
+date: 2023-12-14T07:13:29
 
-creationDate: 2023-12-14T07:13:29
+event_date: '1994-11-24'
 
 ---
 

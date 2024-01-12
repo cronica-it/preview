@@ -3,7 +3,9 @@ slug: test
 title: 'Test'
 authors: [ilg-ul]
 tags: [website, autor:liviu.ionescu]
-date: 1000-01-01
+
+event_date: '1000-01-01'
+
 draft: true
 
 ---

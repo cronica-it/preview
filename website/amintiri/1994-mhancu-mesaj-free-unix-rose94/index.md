@@ -4,9 +4,9 @@ title: "Mesajul lui Marius Hâncu despre Free Unix for Romania la ROSE '94"
 authors: [mhancu]
 tags: [mesaje, autor:marius.hancu]
 
-date: 1994-11
+date: 2023-11-06T20:59
 
-creationDate: 2023-11-06T20:59
+event_date: '1994-11'
 
 ---
 

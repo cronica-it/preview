@@ -4,9 +4,9 @@ title: "Articolul lui Adi Rotaru în IT Trends - Capitol 3 - '93"
 authors: [arot]
 tags: [articole, autor:alexandru.rotaru]
 
-date: 2013-10
+date: 2023-11-03T22:03
 
-creationDate: 2023-11-03T22:03
+event_date: '2013-10'
 
 ---
 

@@ -4,9 +4,9 @@ title: 'Raportul lui Marius Hâncu despre cărțile trimise în România și Mol
 authors: [mhancu]
 tags: [mesaje, autor:marius.hancu]
 
-date: 1994-06
+date: 2023-11-06T21:52
 
-creationDate: 2023-11-06T21:52
+event_date: '1994-06'
 
 ---
 

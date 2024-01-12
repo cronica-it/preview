@@ -4,9 +4,9 @@ title: 'Istoric - Societatea Română de Radiodifuziune'
 authors: [ilg-ul]
 tags: [radio]
 
-date: 2010-06-23
+date: 2023-12-17T10:01:32
 
-creationDate: 2023-12-17T10:01:32
+event_date: '2010-06-23'
 
 ---
 

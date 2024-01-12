@@ -3,9 +3,10 @@ slug: 2012/vdarie-interviu-sah-otilia
 title: 'Interviul lui Viorel Darie acordat Otiliei Bălănișteanu'
 authors: [obalanisteanu]
 tags: [interviuri, sah, itc, informatica]
-date: 2012-07
 
-creation_date: 2024-01-08T22:38:41
+date: 2024-01-08T22:38:41
+
+event_date: '2012-07'
 
 ---
 

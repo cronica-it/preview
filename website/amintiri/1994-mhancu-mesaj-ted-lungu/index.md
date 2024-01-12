@@ -4,9 +4,9 @@ title: 'Mesajul în care Marius Hâncu îl introduce pe Ted Lungu'
 authors: [mhancu]
 tags: [mesaje, autor:marius.hancu]
 
-date: 1994-09-21
+date: 2023-11-06T21:01
 
-creationDate: 2023-11-06T21:01
+event_date: '1994-09-21'
 
 ---
 

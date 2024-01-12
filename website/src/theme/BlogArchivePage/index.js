@@ -42,7 +42,8 @@ function YearsSection({years}) {
 }
 function listPostsByYears(blogPosts) {
   const postsByYear = blogPosts.reduce((posts, post) => {
-    const year = post.metadata.date.split('-')[0];
+    // const year = post.metadata.date.split('-')[0];
+    const year = post.metadata.eventDateISO.split('-')[0];
     const yearPosts = posts.get(year) ?? [];
     return posts.set(year, [post, ...yearPosts]);
   }, new Map());

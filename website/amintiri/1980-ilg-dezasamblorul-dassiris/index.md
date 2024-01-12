@@ -3,9 +3,10 @@ slug: 1980/ilg-dezasamblorul-dassiris
 title: 'Programul „DASSIRIS”'
 authors: [ilg-ul]
 tags: []
-date: 1980-03
 
-creation_date: 2024-01-09T18:30:30
+date: 2024-01-09T18:30:30
+
+event_date: '1980-03'
 
 ---
 
