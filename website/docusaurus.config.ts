@@ -63,6 +63,7 @@ const config: Config = {
         routeBasePath: 'amintiri',
         archiveBasePath: 'arhiva',
         tagsBasePath: 'categorii',
+        pageBasePath: 'pagina',
         showReadingTime: true,
         // Please change this to your repo.
         // Remove this to remove the "edit this page" links.
@@ -92,6 +93,8 @@ const config: Config = {
         routeBasePath: 'evenimente',
         archiveBasePath: 'arhiva',
         tagsBasePath: 'categorii',
+        pageBasePath: 'pagina',
+
         authorsMapPath: '../authors.yml',
         exclude: ['**/README.md'],
         showReadingTime: true,
