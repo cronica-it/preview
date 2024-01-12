@@ -16,11 +16,13 @@ on:
       - 'website/amintiri/**'
       - 'website/evenimente/**'
       - 'website/docs/**'
+      - 'website/i18n/**'
       - 'website/src/**'
       - 'website/static/**'
       - 'website/*.js'
       - 'website/*.ts'
       - 'website/*.json'
+      - 'website/*.yml'
       - '.github/workflows/publish-github-pages.yml'
 
   # Allows you to run this workflow manually from the Actions tab
