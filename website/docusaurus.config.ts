@@ -65,7 +65,7 @@ const config: Config = {
         tagsBasePath: 'categorii',
         pageBasePath: 'pagina',
         showReadingTime: true,
-        // showLastUpdateTime: true,
+        showLastUpdateTime: true,
 
         // Please change this to your repo.
         // Remove this to remove the "edit this page" links.
@@ -100,7 +100,7 @@ const config: Config = {
         authorsMapPath: '../authors.yml',
         exclude: ['**/README.md'],
         showReadingTime: true,
-        // showLastUpdateTime: true,
+        showLastUpdateTime: true,
 
         // Please change this to your repo.
         // Remove this to remove the "edit this page" links.
