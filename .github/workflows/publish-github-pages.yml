@@ -63,6 +63,7 @@ jobs:
           set -x
           ls -lLA
           git --version
+          git config --list
           git log -- README.md
           date --date="@$(git log --format=%ct --max-count=1 -- README.md)"
           git log -- website/amintiri/test/index.md
