@@ -61,8 +61,8 @@ jobs:
       - name: Check git log
         run: |
           ls -lL
-          date -r $(git log --format=%ct --max-count=1 README.md)
-          date -r $(git log --format=%ct --max-count=1 website/amintiri/test/index.md)
+          date --date="@$(git log --format=%ct --max-count=1 README.md)"
+          date --date="@$(git log --format=%ct --max-count=1 website/amintiri/test/index.md)"
 
       - name: Install dependencies
         run: npm ci -C website
