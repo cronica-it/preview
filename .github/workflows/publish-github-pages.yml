@@ -60,8 +60,10 @@ jobs:
 
       - name: Check git log
         run: |
-          ls -lL
+          ls -lLA
+          git log README.md
           date --date="@$(git log --format=%ct --max-count=1 README.md)"
+          git log website/amintiri/test/index.md
           date --date="@$(git log --format=%ct --max-count=1 website/amintiri/test/index.md)"
 
       - name: Install dependencies
