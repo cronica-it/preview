@@ -51,6 +51,8 @@ jobs:
       - name: Checkout
         # https://github.com/actions/checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Use Nodejs
         # https://github.com/actions/setup-node
