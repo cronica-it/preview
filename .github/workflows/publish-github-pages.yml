@@ -59,7 +59,7 @@ jobs:
           node-version: '18.x'
 
       - name: Install dependencies
-        run: npm install -C website
+        run: npm ci -C website
 
       - name: Show environment
         run: env | sort | egrep '^[^ \t]+='
