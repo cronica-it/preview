@@ -58,6 +58,10 @@ jobs:
         with:
           node-version: '18.x'
 
+      - name: Check git log
+        run: |
+          git log --format=%ct,%an --max-count=1 README.md website/amintiri/test/index.md
+
       - name: Install dependencies
         run: npm ci -C website
 
