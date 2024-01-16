@@ -16,7 +16,7 @@ import styles from './styles.module.css';
 
 // authors are from the data model.
 export default function AuthorsListInline({authors}: Props): JSX.Element {
-  authors.forEach((a) => { logger.info(a) })
+  // authors.forEach((a) => { logger.info(a) })
   return (
     <>
       <b>
