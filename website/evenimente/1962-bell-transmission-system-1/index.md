@@ -2,7 +2,7 @@
 slug: 1962/bell-transmission-system-1
 title: 'Compania AT&T începe să transmită 24 de convorbiri simultane pe linii T1'
 authors: [gserban, ilg-ul]
-tags: [international, autor:gheorghe.serban]
+tags: [international]
 
 date: 2023-12-26T21:56:08
 

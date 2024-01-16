@@ -2,7 +2,7 @@
 slug: 1984/calculatorul-felix-pc
 title: 'ICE Felix lansează calculatorul „Felix-PC”'
 authors: [ntapus]
-tags: [calculatoare, ice, autor:nicolae.tapus]
+tags: [calculatoare, ice]
 
 date: 2023-12-11T19:17:36
 

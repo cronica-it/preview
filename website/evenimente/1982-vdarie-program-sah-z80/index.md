@@ -2,7 +2,7 @@
 slug: 1982/vdarie-program-sah-z80
 title: 'Viorel Darie realizează robotul de șah „Labirint-64”'
 authors: [vdarie, ilg-ul]
-tags: [sah, itc, autor:viorel.darie]
+tags: [sah, itc]
 
 date: 2024-01-03T20:16:22
 

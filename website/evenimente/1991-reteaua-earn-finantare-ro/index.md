@@ -2,7 +2,7 @@
 slug: 1991/reteaua-earn-finantare-ro
 title: 'Guvernul aprobă finanțarea pentru conectare la rețeaua EARN'
 authors: [ntapus, ilg-ul]
-tags: [internet, educatie, ici, autor:nicolae.tapus]
+tags: [internet, educatie, ici]
 
 date: 2023-12-13T15:40:46
 

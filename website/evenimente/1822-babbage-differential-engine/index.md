@@ -2,7 +2,7 @@
 slug: 1822/babbage-differential-engine
 title: 'Charles Babbage concepe „Difference Engine”'
 authors: [gserban, ilg-ul]
-tags: [international, autor:gheorghe.serban]
+tags: [international]
 
 date: 2023-12-23T15:57:31
 

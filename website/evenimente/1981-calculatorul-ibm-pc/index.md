@@ -2,7 +2,7 @@
 slug: 1981/calculatorul-ibm-pc
 title: 'Firma IBM lansează calculatorul personal „IBM PC”'
 authors: [gserban, ilg-ul]
-tags: [international, autor:gheorghe.serban]
+tags: [international]
 
 date: 2023-12-27T20:19:39
 

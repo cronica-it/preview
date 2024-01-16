@@ -2,7 +2,7 @@
 slug: 1999/iana-alocare-ipv6
 title: 'Autoritatea IANA anunță că a început alocările pentru IPv6'
 authors: [gserban, ilg-ul]
-tags: [international, autor:gheorghe.serban]
+tags: [international]
 
 date: 2023-12-28T21:25:41
 

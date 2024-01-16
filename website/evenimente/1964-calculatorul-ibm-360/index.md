@@ -2,7 +2,7 @@
 slug: 1964/calculatorul-ibm-360
 title: 'Firma IBM anunță calculatorul „IBM System/360”'
 authors: [gserban, ilg-ul]
-tags: [international, autor:gheorghe.serban]
+tags: [international]
 
 date: 2023-12-26T22:11:08
 

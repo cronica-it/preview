@@ -2,7 +2,7 @@
 slug: 2004/serviciul-zapp-internet-express
 title: 'Firma Zapp lansează primul serviciu de comunicații mobile în bandă largă'
 authors: [gserban, ilg-ul]
-tags: [firme, internet, servicii, gsm, autor:gheorghe.serban]
+tags: [firme, internet, servicii, gsm]
 
 date: 2023-12-20T20:03:15
 

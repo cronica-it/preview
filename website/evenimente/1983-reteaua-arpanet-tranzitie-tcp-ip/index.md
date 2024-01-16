@@ -2,7 +2,7 @@
 slug: 1983/reteaua-arpanet-tranzitie-tcp-ip
 title: 'Rețeaua ARPANET trece de la NCP la TCP/IP'
 authors: [gserban, ilg-ul]
-tags: [international, internet, autor:gheorghe.serban]
+tags: [international, internet]
 
 date: 2023-12-13T22:11:23
 

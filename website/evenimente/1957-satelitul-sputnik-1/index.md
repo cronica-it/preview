@@ -2,7 +2,7 @@
 slug: 1957/satelitul-sputnik-1
 title: 'Uniunea Sovietică lansează „Sputnik 1”, primul satelit artificial'
 authors: [gserban, ilg-ul]
-tags: [international, autor:gheorghe.serban]
+tags: [international]
 
 date: 2023-12-26T19:11:21
 

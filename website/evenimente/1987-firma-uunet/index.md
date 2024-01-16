@@ -2,7 +2,7 @@
 slug: 1987/firma-uunet
 title: 'Este înființat „UUNET”, primul Internet Service Provider'
 authors: [gserban, ilg-ul]
-tags: [international, autor:gheorghe.serban]
+tags: [international]
 
 date: 2023-12-28T12:25:20
 

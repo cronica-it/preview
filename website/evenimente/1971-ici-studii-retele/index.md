@@ -2,7 +2,7 @@
 slug: 1971/ici-studii-retele
 title: 'La Institutul Central de Informatică (ICI) demarează primele studii privind rețelele de calculatoare'
 authors: [gserban, ilg-ul]
-tags: [ici, autor:gheorghe.serban]
+tags: [ici]
 
 date: 2023-12-18T19:28:40
 

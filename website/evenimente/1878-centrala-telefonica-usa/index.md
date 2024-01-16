@@ -2,7 +2,7 @@
 slug: 1878/centrala-telefonica-usa
 title: 'În Connecticut începe să funcționeze prima centrală telefonică comercială din SUA'
 authors: [gserban, ilg-ul]
-tags: [international, autor:gheorghe.serban]
+tags: [international]
 
 date: 2023-12-29T10:19:26
 

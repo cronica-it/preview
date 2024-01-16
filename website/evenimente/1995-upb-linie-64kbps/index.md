@@ -2,7 +2,7 @@
 slug: 1995/upb-linie-64kbps
 title: 'La Universitatea Politehnica din București este instalată o linie dedicată de 64 kbps'
 authors: [ntapus, ilg-ul]
-tags: [internet, educatie, upb, autor:nicolae.tapus]
+tags: [internet, educatie, upb]
 
 date: 2023-12-13T17:25:40
 

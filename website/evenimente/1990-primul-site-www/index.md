@@ -2,7 +2,7 @@
 slug: 1990/primul-site-www
 title: 'La centrul de cercetări de la CERN apare primul site WWW'
 authors: [gserban, ilg-ul]
-tags: [international, internet, servicii, autor:gheorghe.serban]
+tags: [international, internet, servicii]
 
 date: 2023-12-20T09:38:54
 

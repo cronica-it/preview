@@ -2,7 +2,7 @@
 slug: 1957/calculatorul-cifa-1-functional
 title: 'La Institutul de Fizică Atomică (IFA) este pus in funcțiune calculatorul „CIFA-1”'
 authors: [gserban, ilg-ul]
-tags: [autor:gheorghe.serban]
+tags: []
 
 date: 2023-12-18T17:24:38
 

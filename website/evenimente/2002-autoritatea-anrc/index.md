@@ -2,7 +2,7 @@
 slug: 2002/autoritatea-anrc
 title: 'Intră în funcțiune „Autoritatea Națională de Reglementare în Comunicații” (ANRC)'
 authors: [gserban, ilg-ul]
-tags: [licente, autor:gheorghe.serban]
+tags: [licente]
 
 date: 2023-12-20T19:30:34
 

@@ -2,7 +2,7 @@
 slug: 2023/arot-fondare-guru
 title: 'Articolul lui Adi Rotaru la CNIV 2023 - Fondarea asociației GURU'
 authors: [arot]
-tags: [asociatii, autor:alexandru.rotaru]
+tags: [asociatii]
 
 date: 2023-12-11T23:09:40
 

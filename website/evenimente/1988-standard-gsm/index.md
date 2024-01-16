@@ -2,7 +2,7 @@
 slug: 1988/standard-gsm
 title: 'GSM devine standard internațional de telefonie digitală celulară'
 authors: [gserban, ilg-ul]
-tags: [international, gsm, autor:gheorghe.serban]
+tags: [international, gsm]
 
 date: 2023-12-19T09:18:25
 

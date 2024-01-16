@@ -2,7 +2,7 @@
 slug: 1998/firma-roedunet
 title: 'Este fondat „Oficiul pentru Administrarea și Operarea Infrastructurii de Comunicații de Date RoEduNet”'
 authors: [ntapus, ilg-ul]
-tags: [internet, educatie, upb, autor:nicolae.tapus]
+tags: [internet, educatie, upb]
 
 date: 2023-12-13T18:23:24
 

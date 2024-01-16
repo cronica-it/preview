@@ -2,7 +2,7 @@
 slug: 1991/sistemul-gopher
 title: 'Mark McCahill crează sistemul „Gopher”'
 authors: [gserban, ilg-ul]
-tags: [international, internet, servicii, autor:gheorghe.serban]
+tags: [international, internet, servicii]
 
 date: 2023-12-20T10:12:03
 

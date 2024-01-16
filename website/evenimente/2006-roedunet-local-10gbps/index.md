@@ -2,7 +2,7 @@
 slug: 2006/roedunet-local-10gbps
 title: 'Nodurile de date din Universitatea Politehnica din București sunt conectate la 10 Gbps'
 authors: [ntapus, ilg-ul]
-tags: [internet, educatie, upb, autor:nicolae.tapus]
+tags: [internet, educatie, upb]
 
 date: 2023-12-22T18:22:55
 

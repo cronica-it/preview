@@ -2,7 +2,7 @@
 slug: 1982/sistemul-minitel
 title: 'Operatorul France Télécom lansează serviciul „Minitel”'
 authors: [gserban, ilg-ul]
-tags: [international, autor:gheorghe.serban]
+tags: [international]
 
 date: 2023-12-29T20:20:17
 

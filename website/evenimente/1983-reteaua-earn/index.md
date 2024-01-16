@@ -2,7 +2,7 @@
 slug: 1983/reteaua-earn
 title: 'În Europa este înființată rețeaua academică „EARN”'
 authors: [gserban, ilg-ul]
-tags: [international, autor:gheorghe.serban]
+tags: [international]
 
 date: 2023-12-19T08:22:32
 

@@ -2,7 +2,7 @@
 slug: 1972/tomlinson-network-email
 title: 'Ray Tomlinson transmite primul e-mail în rețea (user@host)'
 authors: [gserban, ilg-ul]
-tags: [international, autor:gheorghe.serban]
+tags: [international]
 
 date: 2023-12-27T15:32:26
 

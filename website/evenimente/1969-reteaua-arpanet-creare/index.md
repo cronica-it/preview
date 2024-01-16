@@ -2,7 +2,7 @@
 slug: 1969/reteaua-arpanet-creare
 title: 'Department of Defense (DoD) crează rețeaua ARPANET'
 authors: [gserban, ilg-ul]
-tags: [international, autor:gheorghe.serban]
+tags: [international]
 
 date: 2023-12-27T09:44:44
 

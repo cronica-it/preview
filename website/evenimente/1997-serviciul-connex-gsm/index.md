@@ -2,7 +2,7 @@
 slug: 1997/serviciul-connex-gsm
 title: 'Firma MobiFon lansează brandul „Connex”'
 authors: [arot, ilg-ul]
-tags: [gsm, firme, autor:alexandru.rotaru]
+tags: [gsm, firme]
 
 date: 2023-12-10T11:08:53
 

@@ -2,7 +2,7 @@
 slug: 1907/de-forest-ship-to-shore
 title: 'Lee de Forest transmite prin radio primele mesaje în fonie de la o navă către țărm'
 authors: [ilg-ul]
-tags: [international, autor:liviu.ionescu]
+tags: [international]
 
 date: 2023-12-24T11:21:45
 

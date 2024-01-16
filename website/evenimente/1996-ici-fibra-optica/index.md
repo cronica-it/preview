@@ -2,7 +2,7 @@
 slug: 1996/ici-fibra-optica
 title: 'La Institutul Central de Informatică (ICI) este instalată o legătură terestră digitală'
 authors: [arot, ilg-ul]
-tags: [internet, ici, autor:alexandru.rotaru]
+tags: [internet, ici]
 
 date: 2023-12-10T13:04:27
 

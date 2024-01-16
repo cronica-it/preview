@@ -2,7 +2,7 @@
 slug: 1984/calculatorul-ibm-pc-at
 title: 'Firma IBM lansează calculatorul personal „IBM PC AT”'
 authors: [ilg-ul]
-tags: [international, autor:gheorghe.serban]
+tags: [international]
 
 date: 2023-12-27T20:54:24
 

@@ -2,7 +2,7 @@
 slug: 1999/upb-academia-cisco
 title: 'La Catedra de Calculatoare din UPB este înființată „Academia Cisco”'
 authors: [ntapus, ilg-ul]
-tags: [educatie,  upb, autor:nicolae.tapus]
+tags: [educatie,  upb]
 
 date: 2023-12-22T17:35:53
 

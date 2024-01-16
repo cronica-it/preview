@@ -2,7 +2,7 @@
 slug: 1992/ici-linie-dedicata-9.6kbps
 title: 'La Institutul Central de Informatică (ICI) este instalată o linie dedicată de 9.6 kbps cu Viena'
 authors: [gserban, ilg-ul]
-tags: [internet, ici, autor:gheorghe.serban]
+tags: [internet, ici]
 
 date: 2023-12-20T14:45:28
 

@@ -2,7 +2,7 @@
 slug: 1983/milnet-separare-de-arpanet
 title: 'Rețeaua MILNET se separă fizic de rețeaua ARPANET'
 authors: [gserban, ilg-ul]
-tags: [international, autor:gheorghe.serban]
+tags: [international]
 
 date: 2023-12-27T20:45:36
 

@@ -2,7 +2,7 @@
 slug: 1997/reteaua-roedunet
 title: 'Rețeaua RDIS se transformă în „RoEduNet”'
 authors: [ntapus, ilg-ul]
-tags: [internet, educatie, upb, autor:nicolae.tapus]
+tags: [internet, educatie, upb]
 
 date: 2023-12-13T18:23:24
 

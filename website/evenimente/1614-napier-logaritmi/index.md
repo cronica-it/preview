@@ -2,7 +2,7 @@
 slug: 1614/napier-logaritmi
 title: 'John Napiers crează mașini care înmulțeau numere folosind logaritmi'
 authors: [gserban, ilg-ul]
-tags: [international, autor:gheorghe.serban]
+tags: [international]
 
 date: 2023-12-15T11:18:18
 

@@ -2,7 +2,7 @@
 slug: 2001/roedunet-geant-34mbps
 title: 'Rețeaua RoEduNet se conectează la GÉANT cu 34 Mbps'
 authors: [ntapus]
-tags: [internet, educatie, upb, autor:nicolae.tapus]
+tags: [internet, educatie, upb]
 
 date: 2023-12-13T18:43:49
 

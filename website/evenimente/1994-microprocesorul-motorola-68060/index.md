@@ -2,7 +2,7 @@
 slug: 1994/microprocesorul-motorola-68060
 title: 'Firma Motorola anunță microprocesorul „68060”'
 authors: [ilg-ul]
-tags: [international, motorola, microprocesoare, autor:liviu.ionescu]
+tags: [international, motorola, microprocesoare]
 
 date: 2024-01-02T10:31:24
 

@@ -2,7 +2,7 @@
 slug: 2004/serviciul-mobifon-3g
 title: 'Firma MobiFon face primele demonstrații de GSM 3G'
 authors: [gserban, ilg-ul]
-tags: [gsm, servicii, autor:gheorghe.serban]
+tags: [gsm, servicii]
 
 date: 2023-12-20T20:02:15
 

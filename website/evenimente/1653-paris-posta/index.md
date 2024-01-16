@@ -2,7 +2,7 @@
 slug: 1653/paris-posta
 title: 'La Paris este înființat primul serviciu poștal public'
 authors: [gserban, ilg-ul]
-tags: [international, autor:gheorghe.serban]
+tags: [international]
 
 date: 2023-12-15T15:20:04
 

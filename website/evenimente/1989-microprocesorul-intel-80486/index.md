@@ -2,7 +2,7 @@
 slug: 1989/microprocesorul-intel-80486
 title: 'Firma Intel lansează microprocesorul „Intel 80486”'
 authors: [gserban, ilg-ul]
-tags: [international, intel, microprocesoare, autor:gheorghe.serban]
+tags: [international, intel, microprocesoare]
 
 date: 2023-12-28T21:53:13
 

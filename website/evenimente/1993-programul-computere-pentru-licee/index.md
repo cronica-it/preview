@@ -2,7 +2,7 @@
 slug: 1993/programul-computere-pentru-licee
 title: 'Nicolai Sandu coordonează programul „Computere pentru licee”'
 authors: [arot, ilg-ul]
-tags: [educatie, autor:alexandru.rotaru]
+tags: [educatie]
 
 date: 2023-10-30T08:28
 

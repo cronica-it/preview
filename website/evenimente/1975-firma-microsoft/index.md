@@ -2,7 +2,7 @@
 slug: 1975/firma-microsoft
 title: 'Bill Gates și Paul Allen înființează compania „Microsoft”'
 authors: [gserban, ilg-ul]
-tags: [international, autor:gheorghe.serban]
+tags: [international]
 
 date: 2023-12-28T11:33:24
 

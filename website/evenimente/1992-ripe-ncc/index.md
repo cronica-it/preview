@@ -2,7 +2,7 @@
 slug: 1992/ripe-ncc
 title: 'Asociația RIPE crează „Network Coordination Center” (NCC)'
 authors: [gserban, ilg-ul]
-tags: [international, internet, autor:gheorghe.serban]
+tags: [international, internet]
 
 date: 2023-12-20T15:57:07
 

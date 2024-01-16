@@ -2,7 +2,7 @@
 slug: 1964/calculatorul-cet-500
 title: 'La Institutul de Fizică Atomică (IFA) este pus în funcțiune calculatorul „CET 500”'
 authors: [gserban, ilg-ul]
-tags: [calculatoare, autor:gheorghe.serban]
+tags: [calculatoare]
 
 date: 2023-12-18T18:31:11
 

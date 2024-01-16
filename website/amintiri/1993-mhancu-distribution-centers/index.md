@@ -2,7 +2,7 @@
 slug: 1993/mhancu-distribution-centers
 title: 'Raportul lui Marius Hâncu despre punctele de distribuție'
 authors: [mhancu]
-tags: [mesaje, autor:marius.hancu]
+tags: [mesaje]
 
 date: 2023-11-06T21:55
 

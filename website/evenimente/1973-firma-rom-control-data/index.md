@@ -2,7 +2,7 @@
 slug: 1973/firma-rom-control-data
 title: 'Este înființată societatea mixtă româno-americană „Rom Control Data” (RCD)'
 authors: [ilg-ul]
-tags: [firme, autor:liviu.ionescu]
+tags: [firme]
 
 date: 2024-01-06T13:41:00
 

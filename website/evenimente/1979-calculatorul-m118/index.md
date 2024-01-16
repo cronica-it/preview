@@ -2,7 +2,7 @@
 slug: 1979/calculatorul-m118
 title: 'ICE Felix lansează microcalculatorul „M-118”'
 authors: [ilg-ul]
-tags: [calculatoare, ice, autor:liviu.ionescu]
+tags: [calculatoare, ice]
 
 date: 2024-01-03T20:48:12
 

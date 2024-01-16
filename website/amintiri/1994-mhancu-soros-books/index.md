@@ -2,7 +2,7 @@
 slug: 1994/mhancu-soros-books
 title: 'Raportul lui Marius Hâncu despre cărțile trimise în România și Moldova'
 authors: [mhancu]
-tags: [mesaje, autor:marius.hancu]
+tags: [mesaje]
 
 date: 2023-11-06T21:52
 

@@ -2,7 +2,7 @@
 slug: 1882/edison-centrala-electrica
 title: 'Thomas Alva Edison construiește prima centrală electrică, în New York'
 authors: [gserban, ilg-ul]
-tags: [international, autor:gheorghe.serban]
+tags: [international]
 
 date: 2023-12-29T10:29:18
 

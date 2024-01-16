@@ -2,7 +2,7 @@
 slug: 1985/microprocesorul-intel-80386
 title: 'Firma Intel lansează microprocesorul „Intel 80386”'
 authors: [gserban, ilg-ul]
-tags: [international, intel, microprocesoare, autor:gheorghe.serban]
+tags: [international, intel, microprocesoare]
 
 date: 2023-12-27T22:38:59
 

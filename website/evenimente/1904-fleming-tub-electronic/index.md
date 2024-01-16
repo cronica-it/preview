@@ -2,7 +2,7 @@
 slug: 1904/fleming-tub-electronic
 title: 'John Ambrose Fleming inventează tubul electronic cu vid'
 authors: [gserban, ilg-ul]
-tags: [international, autor:gheorghe.serban]
+tags: [international]
 
 date: 2023-12-24T10:45:33
 

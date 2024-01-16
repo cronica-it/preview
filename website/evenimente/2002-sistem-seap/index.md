@@ -2,7 +2,7 @@
 slug: 2002/sistem-seap
 title: 'Guvernul României lansează „Sistemul electronic de achiziții publice” (SEAP)'
 authors: [gserban, ilg-ul]
-tags: [servicii, autor:gheorghe.serban]
+tags: [servicii]
 
 date: 2023-12-20T19:46:36
 

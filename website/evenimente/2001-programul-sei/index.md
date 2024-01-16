@@ -2,7 +2,7 @@
 slug: 2001/programul-sei
 title: 'Este lansat programul guvernamental „Sistem Educaţional Informatizat” (SEI)'
 authors: [radujugu]
-tags: [educatie, autor:radu.jugureanu]
+tags: [educatie]
 
 date: 2023-12-11T18:29:02
 

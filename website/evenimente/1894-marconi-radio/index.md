@@ -2,7 +2,7 @@
 slug: 1894/marconi-radio
 title: 'Guglielmo Marconi realizează primul echipament de transmisiuni radio'
 authors: [gserban, ilg-ul]
-tags: [international, autor:gheorghe.serban]
+tags: [international]
 
 date: 2023-12-24T10:35:10
 

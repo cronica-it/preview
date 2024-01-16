@@ -2,7 +2,7 @@
 slug: 1945/clarke-sateliti-comunicatii
 title: 'Arthur C. Clarke propune folosirea sateliților pentru telecomunicații'
 authors: [ilg-ul]
-tags: [international, autor:liviu.ionescu]
+tags: [international]
 
 date: 2023-12-26T21:39:26
 

@@ -2,7 +2,7 @@
 slug: 1992/asociatia-internet-society
 title: 'Vinton Cerf anunță formarea „Internet Society”'
 authors: [gserban, ilg-ul]
-tags: [international, internet, autor:gheorghe.serban]
+tags: [international, internet]
 
 date: 2023-12-20T10:30:58
 

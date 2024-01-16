@@ -2,7 +2,7 @@
 slug: 1974/cerf-articol-protocol-tcp
 title: 'Vinton Cerf și Robert Kahn publică prima versiune de TCP'
 authors: [gserban, ilg-ul]
-tags: [international, autor:gheorghe.serban]
+tags: [international]
 
 date: 2023-12-27T16:05:25
 

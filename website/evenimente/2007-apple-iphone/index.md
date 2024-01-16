@@ -2,7 +2,7 @@
 slug: 2007/apple-iphone
 title: 'La Apple, Steve Jobs anunță „iPhone”, un model revoluționar de telefon mobil'
 authors: [gserban, ilg-ul]
-tags: [international, autor:gheorghe.serban]
+tags: [international]
 
 date: 2023-12-29T20:55:37
 

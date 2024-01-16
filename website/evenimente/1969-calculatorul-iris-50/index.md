@@ -2,7 +2,7 @@
 slug: 1969/calculatorul-iris-50
 title: 'În Franța, compania CII anunță calculatorul „Iris 50”'
 authors: [ilg-ul]
-tags: [international, calculatoare, autor:liviu.ionescu]
+tags: [international, calculatoare]
 
 date: 2024-01-08T17:01:55
 

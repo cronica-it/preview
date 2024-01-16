@@ -2,7 +2,7 @@
 slug: 1982/calculatorul-commodore-64
 title: 'Firma Commodore International lansează microcalculatorul personal „Commodore 64”'
 authors: [ilg-ul]
-tags: [international, autor:liviu.ionescu]
+tags: [international]
 
 date: 2024-01-02T16:48:17
 

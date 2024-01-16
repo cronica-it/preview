@@ -2,7 +2,7 @@
 slug: 1993/ici-rotld
 title: 'Institutul Central de Informatică (ICI) începe să administreze DNS-ul pentru domeniul „.ro”'
 authors: [arot, ilg-ul]
-tags: [internet, ici, autor:alexandru.rotaru]
+tags: [internet, ici]
 
 date: 2023-11-04T20:28
 

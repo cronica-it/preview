@@ -2,7 +2,7 @@
 slug: 1977/calculatorul-ti-59
 title: 'Firma Texas Instruments lansează calculatorul de buzunar programabil „TI-59”'
 authors: [ilg-ul]
-tags: [international, calculatoare, autor:liviu.ionescu]
+tags: [international, calculatoare]
 
 date: 2024-01-06T11:17:50
 

@@ -2,7 +2,7 @@
 slug: 2023/aniversare-gts-telecom-30-ani
 title: 'Firma GTS Telecom aniversează 30 de ani de activitate (fondată ca EUnet)'
 authors: [ilg-ul]
-tags: [aniversari, firme, autor:liviu.ionescu]
+tags: [aniversari, firme]
 
 date: 2023-11-02T20:15
 

@@ -2,7 +2,7 @@
 slug: 1978/tcp-distinct-de-ip
 title: 'Protocolul TCP se desparte în TCP si IP'
 authors: [gserban, ilg-ul]
-tags: [international, autor:gheorghe.serban]
+tags: [international]
 
 date: 2023-12-27T17:28:46
 

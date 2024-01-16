@@ -2,7 +2,7 @@
 slug: 1993/conferinta-rose-93
 title: "Asociația GURU organizează conferința „ROSE '93”, la Cluj-Napoca"
 authors: [arot]
-tags: [conferinte, internet, autor:alexandru.rotaru]
+tags: [conferinte, internet]
 
 date: 2023-11-01T09:01
 

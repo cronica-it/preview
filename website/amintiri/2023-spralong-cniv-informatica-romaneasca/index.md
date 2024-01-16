@@ -2,7 +2,7 @@
 slug: 2023/spralong-cniv-informatica-romaneasca
 title: 'Articolul Sandrei Pralong la CNIV 2023'
 authors: [spralong]
-tags: [articole, internet, autor:sandra.pralong]
+tags: [articole, internet]
 
 date: 2023-12-22T10:16:32
 

@@ -2,7 +2,7 @@
 slug: 1985/microsoft-windows
 title: 'Firma Microsoft lansează sistemul de operare „Windows 1.0”'
 authors: [gserban, ilg-ul]
-tags: [international, autor:gheorghe.serban]
+tags: [international]
 
 date: 2023-12-29T21:41:52
 

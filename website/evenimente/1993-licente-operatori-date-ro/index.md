@@ -2,7 +2,7 @@
 slug: 1993/licente-operatori-date-ro
 title: 'Autoritatea de reglementare din România atribuie primele licențe de operatori de date'
 authors: [gserban, ilg-ul]
-tags: [licente, firme, comunicatii, autor:gheorghe.serban]
+tags: [licente, firme, comunicatii]
 
 date: 2023-12-10T12:39:42
 

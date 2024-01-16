@@ -2,7 +2,7 @@
 slug: 1982/calculatorul-compaq-portable
 title: 'Firma Compaq anunță „Compaq Portable”, prima clona a calculatorului IBM PC'
 authors: [gserban, ilg-ul]
-tags: [international, autor:gheorghe.serban]
+tags: [international]
 
 date: 2023-12-29T20:40:55
 

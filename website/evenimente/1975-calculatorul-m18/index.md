@@ -2,7 +2,7 @@
 slug: 1975/calculatorul-m18
 title: 'ICE Felix lansează microcalculatorul „M-18”'
 authors: [ilg-ul]
-tags: [calculatoare, ice, autor:liviu.ionescu]
+tags: [calculatoare, ice]
 
 date: 2024-01-03T20:51:51
 

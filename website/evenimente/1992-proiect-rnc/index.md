@@ -2,7 +2,7 @@
 slug: 1992/proiect-rnc
 title: 'Este proiectată „Rețeaua Națională de Cercetare” (RNC)'
 authors: [ntapus, ilg-ul]
-tags: [internet, cercetare, ici, autor:nicolae.tapus]
+tags: [internet, cercetare, ici]
 
 date: 2023-12-13T18:49:54
 

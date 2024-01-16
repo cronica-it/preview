@@ -2,7 +2,7 @@
 slug: 1867/sholes-masina-de-scris
 title: 'Sholes și Glidden inventează mașina de scris'
 authors: [gserban, ilg-ul]
-tags: [international, autor:gheorghe.serban]
+tags: [international]
 
 date: 2023-12-29T10:00:29
 

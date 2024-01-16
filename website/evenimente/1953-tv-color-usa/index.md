@@ -2,7 +2,7 @@
 slug: 1953/tv-color-usa
 title: 'În Statele Unite încep transmisiunile TV color'
 authors: [gserban, ilg-ul]
-tags: [international, autor:gheorghe.serban]
+tags: [international]
 
 date: 2023-12-29T18:20:11
 

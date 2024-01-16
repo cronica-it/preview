@@ -2,7 +2,7 @@
 slug: 1988/seminar-calculatoare-invatamant
 title: 'Este organizat seminarul „Utilizarea calculatoarelor electronice în procesul de învățământ”'
 authors: [radujugu]
-tags: [conferinte, educatie, autor:radu.jugureanu]
+tags: [conferinte, educatie]
 
 date: 2023-12-11T12:09:04
 

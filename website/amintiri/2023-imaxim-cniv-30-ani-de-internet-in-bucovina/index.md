@@ -2,7 +2,7 @@
 slug: 2023/imaxim-cniv-30-ani-de-internet-in-bucovina
 title: 'Prezentarea lui Ioan Maxim la CNIV 2023'
 authors: [imaxim]
-tags: [articole, internet, autor:ioan.maxim]
+tags: [articole, internet]
 
 date: 2023-12-22T13:28:34
 

@@ -2,7 +2,7 @@
 slug: test
 title: 'Test'
 authors: [ilg-ul]
-tags: [website, autor:liviu.ionescu]
+tags: [website]
 
 event_date: '1000-01-01'
 

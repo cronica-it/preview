@@ -2,7 +2,7 @@
 slug: 1979/calculatorul-coral
 title: 'ICE Felix lansează calculatorul „Coral”'
 authors: [ilg-ul]
-tags: [calculatoare, ice, autor:liviu.ionescu]
+tags: [calculatoare, ice]
 
 date: 2023-11-07T08:29
 

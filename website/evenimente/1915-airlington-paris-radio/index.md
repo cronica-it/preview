@@ -2,7 +2,7 @@
 slug: 1915/airlington-paris-radio
 title: 'Are loc prima convorbire radiotelefonică transatlantică'
 authors: [gserban, ilg-ul]
-tags: [international, autor:gheorghe.serban]
+tags: [international]
 
 date: 2023-12-29T17:34:41
 

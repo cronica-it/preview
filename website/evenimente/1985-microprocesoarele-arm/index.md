@@ -2,7 +2,7 @@
 slug: 1985/microprocesoarele-arm
 title: 'Sunt lansate primele microprocesoare ARM'
 authors: [ilg-ul]
-tags: [international, microprocesoare, autor:liviu.ionescu]
+tags: [international, microprocesoare]
 
 date: 2024-01-03T11:34:53
 

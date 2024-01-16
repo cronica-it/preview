@@ -2,7 +2,7 @@
 slug: 1998/programul-cisco-networking-academy-ro
 title: 'Firma Cisco Systems lansează programul „Networking Academy” în România'
 authors: [nicolaus]
-tags: [educatie, autor:nicolai.sandu]
+tags: [educatie]
 
 date: 2023-12-11T12:23:46
 

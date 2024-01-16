@@ -2,7 +2,7 @@
 slug: 1975/modemuri-ro
 title: 'La Institutul de Proiectări Automatizări (IPA) sunt realizate primele modemuri românești'
 authors: [gserban, ilg-ul]
-tags: [comunicatii, autor:gheorghe.serban]
+tags: [comunicatii]
 
 date: 2023-12-21T09:07:05
 

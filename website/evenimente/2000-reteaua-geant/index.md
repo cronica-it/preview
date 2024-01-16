@@ -2,7 +2,7 @@
 slug: 2000/reteaua-geant
 title: 'Comisia Europeană lansează proiectul „GÉANT”'
 authors: [gserban, ilg-ul]
-tags: [international, educatie, internet, autor:gheorghe.serban]
+tags: [international, educatie, internet]
 
 date: 2023-12-20T18:43:56
 

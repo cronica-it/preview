@@ -2,7 +2,7 @@
 slug: 1954/calculatorul-cifa-1-proiect
 title: 'Victor Toma proiectează „CIFA-1”, primul calculator electronic românesc'
 authors: [gserban, ilg-ul]
-tags: [calculatoare, autor:gheorghe.serban]
+tags: [calculatoare]
 
 date: 2023-12-18T09:40:01
 

@@ -2,7 +2,7 @@
 slug: 1972/calculatorul-felix-c-256
 title: 'La București începe producția de serie a calculatorului „Felix C-256”'
 authors: [ilg-ul]
-tags: [calculatoare, autor:liviu.ionescu]
+tags: [calculatoare]
 
 date: 2024-01-08T17:40:32
 

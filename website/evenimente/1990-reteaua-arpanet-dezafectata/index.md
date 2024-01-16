@@ -2,7 +2,7 @@
 slug: 1990/reteaua-arpanet-dezafectata
 title: 'Rețeaua ARPANET își încetează oficial existența'
 authors: [gserban, ilg-ul]
-tags: [international, autor:gheorghe.serban]
+tags: [international]
 
 date: 2023-12-28T12:36:01
 

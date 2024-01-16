@@ -2,7 +2,7 @@
 slug: 1820/orsted-electromagnetism
 title: 'Hans Ørsted descoperă legătura dintre electricitate și magnetism'
 authors: [gserban, ilg-ul]
-tags: [international, autor:gheorghe.serban]
+tags: [international]
 
 date: 2023-12-29T16:55:04
 

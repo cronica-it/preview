@@ -2,7 +2,7 @@
 slug: 2006/roedunet-acord-cfr
 title: 'Rețeaua RoEduNet încheie un acord cu CFR pentru operarea rețelei de fibră optică'
 authors: [ntapus, ilg-ul]
-tags: [internet, educatie, upb, autor:nicolae.tapus]
+tags: [internet, educatie, upb]
 
 date: 2023-12-22T18:15:37
 

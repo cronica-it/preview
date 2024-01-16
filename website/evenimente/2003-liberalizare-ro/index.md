@@ -2,7 +2,7 @@
 slug: 2003/liberalizare-ro
 title: 'Are loc „liberalizarea” telecomunicațiilor în România'
 authors: [gserban, ilg-ul]
-tags: [autor:gheorghe.serban]
+tags: []
 
 date: 2023-12-21T09:59:55
 

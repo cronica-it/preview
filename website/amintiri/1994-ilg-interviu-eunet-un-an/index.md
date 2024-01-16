@@ -2,7 +2,7 @@
 slug: 1994/ilg-interviu-eunet-un-an
 title: 'Interviul lui Liviu Ionescu - EUnet Romania – un an de activitate'
 authors: [ilg-ul]
-tags: [internet, firme, aniversari, interviuri, autor:liviu.ionescu]
+tags: [internet, firme, aniversari, interviuri]
 
 date: 2023-12-14T07:13:29
 

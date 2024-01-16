@@ -2,7 +2,7 @@
 slug: 1854/boole-algebra
 title: 'George Boole descrie logica simbolică'
 authors: [gserban, ilg-ul]
-tags: [international, autor:gheorghe.serban]
+tags: [international]
 
 date: 2023-12-24T08:24:51
 

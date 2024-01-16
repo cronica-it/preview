@@ -2,7 +2,7 @@
 slug: 1992/conferinta-utrecht-guru
 title: 'La Utrecht are loc conferința „Open Forum 92”'
 authors: [gserban, ilg-ul]
-tags: [international, autor:gheorghe.serban]
+tags: [international]
 
 date: 2023-12-20T15:17:56
 

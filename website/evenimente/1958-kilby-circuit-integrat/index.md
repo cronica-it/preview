@@ -2,7 +2,7 @@
 slug: 1958/kilby-circuit-integrat
 title: 'Jack Kilby demonstrează primul circuit integrat'
 authors: [gserban, ilg-ul]
-tags: [international, autor:gheorghe.serban]
+tags: [international]
 
 date: 2023-12-29T18:33:38
 

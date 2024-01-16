@@ -2,7 +2,7 @@
 slug: 2013/arot-articol-it-trends-4-94
 title: "Articolul lui Adi Rotaru în IT Trends - Capitol 4 - '94"
 authors: [arot]
-tags: [articole, autor:alexandru.rotaru]
+tags: [articole]
 
 date: 2023-11-03T22:05
 

@@ -2,7 +2,7 @@
 slug: 1979/ici-reteaua-cameleon
 title: 'La Institutul Central de Informatică (ICI) este realizată prima rețea locală (proiectul Cameleon)'
 authors: [gserban, ilg-ul]
-tags: [ici, autor:gheorghe.serban]
+tags: [ici]
 
 date: 2023-12-18T19:58:26
 

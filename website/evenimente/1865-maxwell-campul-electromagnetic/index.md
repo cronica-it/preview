@@ -3,7 +3,7 @@ slug: 1865/maxwell-campul-electromagnetic
 title: 'James Maxwell introduce „ecuațiile de descriere
 a fenomenului electromagnetic”'
 authors: [gserban, ilg-ul]
-tags: [international, autor:gheorghe.serban]
+tags: [international]
 
 date: 2023-12-24T09:35:57
 

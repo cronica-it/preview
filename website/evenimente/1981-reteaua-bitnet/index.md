@@ -2,7 +2,7 @@
 slug: 1981/reteaua-bitnet
 title: 'Se pun bazele rețelei academice „BITNET”'
 authors: [gserban, ilg-ul]
-tags: [international, autor:gheorghe.serban]
+tags: [international]
 
 date: 2023-12-27T20:27:09
 

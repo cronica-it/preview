@@ -2,7 +2,7 @@
 slug: 1974/calculatorul-hp-65
 title: 'Firma Hewlett-Packard lansează primul calculatorul de buzunar programabil „HP-65”'
 authors: [ilg-ul]
-tags: [international, calculatoare, autor:liviu.ionescu]
+tags: [international, calculatoare]
 
 date: 2024-01-06T11:32:11
 

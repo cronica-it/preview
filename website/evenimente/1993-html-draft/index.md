@@ -2,7 +2,7 @@
 slug: 1993/html-draft
 title: 'Tim Berners-Lee publică „Hypertext Markup Language” (HTML)'
 authors: [gserban, ilg-ul]
-tags: [international, autor:gheorghe.serban]
+tags: [international]
 
 date: 2023-12-28T20:56:36
 

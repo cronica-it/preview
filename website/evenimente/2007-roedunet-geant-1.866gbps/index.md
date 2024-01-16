@@ -2,7 +2,7 @@
 slug: 2007/roedunet-geant-1.866gbps
 title: 'Rețeaua RoEduNet se conectează la GÉANT cu 1,866 Gbps'
 authors: [ntapus, ilg-ul]
-tags: [internet, educatie, autor:nicolae.tapus]
+tags: [internet, educatie]
 
 date: 2023-12-22T18:29:03
 

@@ -2,7 +2,7 @@
 slug: 1963/nelson-termenul-hypertext
 title: 'Ted Nelson introduce termenul „hipertext”'
 authors: [gserban, ilg-ul]
-tags: [international, autor:gheorghe.serban]
+tags: [international]
 
 date: 2023-12-26T22:23:17
 

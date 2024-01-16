@@ -2,7 +2,7 @@
 slug: 2020/roedunet-local-100gbps
 title: 'Nodurile rețelei RoEduNet sunt conectate la 100 Gbps'
 authors: [ntapus, ilg-ul]
-tags: [internet, educatie, autor:nicolae.tapus]
+tags: [internet, educatie]
 
 date: 2023-12-22T18:42:04
 

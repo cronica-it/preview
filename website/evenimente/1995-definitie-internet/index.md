@@ -2,7 +2,7 @@
 slug: 1995/definitie-internet
 title: 'Apare prima definiție formală a termenului „Internet”'
 authors: [ilg-ul]
-tags: [international, internet, autor:liviu.ionescu]
+tags: [international, internet]
 
 date: 2023-12-13T22:18:51
 

@@ -2,7 +2,7 @@
 slug: 2004/arot-relatari-inceput-internet
 title: 'Relatările lui Adi Rotaru din perioada de început a Internetului în România.'
 authors: [arot]
-tags: [articole, autor:alexandru.rotaru]
+tags: [articole]
 
 date: 2023-11-06T21:37
 

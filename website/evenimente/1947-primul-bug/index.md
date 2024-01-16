@@ -2,7 +2,7 @@
 slug: 1947/primul-bug
 title: 'Este consemnat primul „bug”, o molie prinsă în calculatorul Mark II'
 authors: [gserban, ilg-ul]
-tags: [international, autor:gheorghe.serban]
+tags: [international]
 
 date: 2023-12-24T18:39:18
 

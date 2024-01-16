@@ -2,7 +2,7 @@
 slug: 1993/mhancu-soros-grant
 title: 'Raportul lui Marius Hâncu despre grantul Soros'
 authors: [mhancu]
-tags: [mesaje, autor:marius.hancu]
+tags: [mesaje]
 
 date: 2023-11-01T09:48
 

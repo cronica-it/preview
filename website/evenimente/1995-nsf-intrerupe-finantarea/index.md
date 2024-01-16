@@ -2,7 +2,7 @@
 slug: 1995/nsf-intrerupe-finantarea
 title: 'Se încheie finanțarea Internetului de către NSF'
 authors: [gserban, ilg-ul]
-tags: [international, internet, autor:gheorghe.serban]
+tags: [international, internet]
 
 date: 2023-12-20T17:32:05
 

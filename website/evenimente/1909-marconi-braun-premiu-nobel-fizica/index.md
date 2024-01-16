@@ -2,7 +2,7 @@
 slug: 1909/marconi-braun-premiu-nobel-fizica
 title: 'Guglielmo Marconi și Karl Braun primesc premiul Nobel pentru fizică'
 authors: [gserban, ilg-ul]
-tags: [international, autor:gheorghe.serban]
+tags: [international]
 
 date: 2023-12-29T11:02:43
 

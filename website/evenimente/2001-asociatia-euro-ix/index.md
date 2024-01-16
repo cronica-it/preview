@@ -2,7 +2,7 @@
 slug: 2001/asociatia-euro-ix
 title: 'La Amsterdam, este constituită „European Internet Exchange Association” (Euro-IX)'
 authors: [gserban, ilg-ul]
-tags: [international, autor:gheorghe.serban]
+tags: [international]
 
 date: 2023-12-28T21:29:08
 

@@ -2,7 +2,7 @@
 slug: 1928/radio-romania
 title: '„Societatea de Difuziune Radiotelefonică” difuzează prima emisiune radio publică din România'
 authors: [ilg-ul]
-tags: [radio, autor:liviu.ionescu]
+tags: [radio]
 
 date: 2023-12-17T09:40:24
 

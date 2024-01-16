@@ -2,7 +2,7 @@
 slug: 1997/conferinta-cerf-97
 title: "Agora Group organizează conferința „CERF '97”"
 authors: [ilg-ul]
-tags: [conferinte, internet, autor:liviu.ionescu]
+tags: [conferinte, internet]
 
 date: 2023-12-12T07:49:53
 

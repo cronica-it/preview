@@ -2,7 +2,7 @@
 slug: 1943/calculatorul-eniac
 title: 'La University of Pensilvania începe construcția calculatorului „ENIAC”'
 authors: [gserban, ilg-ul]
-tags: [international, autor:gheorghe.serban]
+tags: [international]
 
 date: 2023-12-24T18:04:07
 

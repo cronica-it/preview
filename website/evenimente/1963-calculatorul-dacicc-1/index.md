@@ -2,7 +2,7 @@
 slug: 1963/calculatorul-dacicc-1
 title: 'La Cluj-Napoca este pus în funcțiune calculatorul „DACICC-1”'
 authors: [gserban, ilg-ul]
-tags: [calculatoare, autor:gheorghe.serban]
+tags: [calculatoare]
 
 date: 2023-12-18T18:17:32
 

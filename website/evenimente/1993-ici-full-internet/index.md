@@ -2,7 +2,7 @@
 slug: 1993/ici-full-internet
 title: 'România obține acces deplin în Internet'
 authors: [gserban, ilg-ul]
-tags: [ici, internet, autor:gheorghe.serban]
+tags: [ici, internet]
 
 date: 2023-12-20T16:15:44
 

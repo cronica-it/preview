@@ -2,7 +2,7 @@
 slug: 1961/calculatorul-mecipt-1
 title: 'La Timișoara este pus în funcțiune calculatorul „MECIPT-1”'
 authors: [gserban, ilg-ul]
-tags: [calculatoare, autor:gheorghe.serban]
+tags: [calculatoare]
 
 date: 2023-12-18T17:36:48
 

@@ -2,7 +2,7 @@
 slug: 1993/firma-eunet-romania
 title: 'Liviu Ionescu înființează firma „EUnet Romania SRL”'
 authors: [ilg-ul]
-tags: [firme, internet, autor:liviu.ionescu]
+tags: [firme, internet]
 
 date: 2023-11-01T17:42
 

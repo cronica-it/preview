@@ -2,7 +2,7 @@
 slug: 1954/backus-limbajul-fortran
 title: 'John Backus, la IBM, concepe limbajul de programare „FORTRAN”'
 authors: [gserban, ilg-ul]
-tags: [international, autor:gheorghe.serban]
+tags: [international]
 
 date: 2023-12-26T16:06:49
 

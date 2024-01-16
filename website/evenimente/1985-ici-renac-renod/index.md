@@ -2,7 +2,7 @@
 slug: 1985/ici-renac-renod
 title: 'La Institutul Central de Informatică (ICI) este realizat proiectul UNIREA (RENAC/RENOD)'
 authors: [gserban, ilg-ul]
-tags: [ici, autor:gheorghe.serban]
+tags: [ici]
 
 date: 2023-12-21T09:27:56
 

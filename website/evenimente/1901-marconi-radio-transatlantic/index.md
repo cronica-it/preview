@@ -2,7 +2,7 @@
 slug: 1901/marconi-radio-transatlantic
 title: 'Guglielmo Marconi efectuează primele transmisiuni radio transatlantice'
 authors: [gserban, ilg-ul]
-tags: [international, autor:gheorghe.serban]
+tags: [international]
 
 date: 2023-12-29T10:41:34
 

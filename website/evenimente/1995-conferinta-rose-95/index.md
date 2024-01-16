@@ -2,7 +2,7 @@
 slug: 1995/conferinta-rose-95
 title: "Asociația GURU organizează conferința „ROSE '95”, la București"
 authors: [arot]
-tags: [conferinte, internet, autor:alexandru.rotaru]
+tags: [conferinte, internet]
 
 date: 2023-11-01T09:10
 

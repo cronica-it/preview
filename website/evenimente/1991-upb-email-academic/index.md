@@ -2,7 +2,7 @@
 slug: 1991/upb-email-academic
 title: 'Nini Popovici efectuează primele legături de e-mail la centrul de calcul din Politehnică'
 authors: [ilg-ul]
-tags: [internet, educatie, upb, autor:liviu.ionescu]
+tags: [internet, educatie, upb]
 
 date: 2023-12-10T11:44:21
 

@@ -2,7 +2,7 @@
 slug: 1960/maccarthy-limbajul-lisp
 title: 'John McCarty publică un articol cu bazele teoretice ale limbajului de programare „Lisp”'
 authors: [gserban, ilg-ul]
-tags: [international, autor:gheorghe.serban]
+tags: [international]
 
 date: 2023-12-26T16:27:32
 
