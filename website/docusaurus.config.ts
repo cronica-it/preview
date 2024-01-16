@@ -63,9 +63,13 @@ const config: Config = {
         routeBasePath: 'amintiri',
         archiveBasePath: 'arhiva',
         tagsBasePath: 'categorii',
+        authorsBasePath: 'autori',
         pageBasePath: 'pagina',
         showReadingTime: true,
         showLastUpdateTime: true,
+
+        blogAuthorsListComponent: '@site/src/theme/BlogAuthorsListPage',
+        blogAuthorsPostsComponent: '@site/src/theme/BlogAuthorsPostsPage',
 
         // Please change this to your repo.
         // Remove this to remove the "edit this page" links.
@@ -95,12 +99,16 @@ const config: Config = {
         routeBasePath: 'evenimente',
         archiveBasePath: 'arhiva',
         tagsBasePath: 'categorii',
+        authorsBasePath: 'autori',
         pageBasePath: 'pagina',
 
         authorsMapPath: '../authors.yml',
         exclude: ['**/README.md'],
         showReadingTime: true,
         showLastUpdateTime: true,
+
+        blogAuthorsListComponent: '@site/src/theme/BlogAuthorsListPage',
+        blogAuthorsPostsComponent: '@site/src/theme/BlogAuthorsPostsPage',
 
         // Please change this to your repo.
         // Remove this to remove the "edit this page" links.
@@ -188,6 +196,10 @@ const config: Config = {
               to: '/evenimente/categorii'
             },
             {
+              label: 'Autori',
+              to: '/evenimente/autori'
+            },
+            {
               label: 'Toate',
               to: '/evenimente'
             }
@@ -207,6 +219,10 @@ const config: Config = {
             {
               label: 'Categorii',
               to: '/amintiri/categorii'
+            },
+            {
+              label: 'Autori',
+              to: '/amintiri/autori'
             },
             {
               label: 'Toate',

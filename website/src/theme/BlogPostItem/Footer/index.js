@@ -1,17 +1,26 @@
+/**
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
 import React from 'react';
 import clsx from 'clsx';
 import {useBlogPost} from '@docusaurus/theme-common/internal';
 import EditThisPage from '@theme/EditThisPage';
 import TagsListInline from '@theme/TagsListInline';
+import AuthorsListInline from '@site/src/theme/AuthorsListInline';
 import ReadMoreLink from '@theme/BlogPostItem/Footer/ReadMoreLink';
 import styles from './styles.module.css';
 
 import LastUpdated from '@theme/LastUpdated';
-import {ThemeClassNames} from '@docusaurus/theme-common';
+// import {ThemeClassNames} from '@docusaurus/theme-common';
+import { ThemeClassNames } from '@site/src/code/docusaurus-theme-common/utils/ThemeClassNames';
 
 export default function BlogPostItemFooter() {
   const {metadata, isBlogPostPage} = useBlogPost();
-  const {tags, title, editUrl, hasTruncateMarker} = metadata;
+  const {tags, authors, title, editUrl, hasTruncateMarker} = metadata;
   // A post is truncated if it's in the "list view" and it has a truncate marker
   const truncatedPost = !isBlogPostPage && hasTruncateMarker;
   const tagsExists = tags.length > 0;
@@ -35,6 +44,11 @@ export default function BlogPostItemFooter() {
           <TagsListInline tags={tags} />
         </div>
       )}
+      {!truncatedPost && tagsExists && (
+        <div className={clsx('col', {'col--9': truncatedPost})}>
+          <AuthorsListInline authors={authors} />
+        </div>
+      )}
 
       <div className={clsx(ThemeClassNames.docs.docFooterEditMetaRow, 'row')}>
         {isBlogPostPage && editUrl && (
@@ -44,7 +58,7 @@ export default function BlogPostItemFooter() {
         )}
 
         <div className={clsx('col', styles.lastUpdated)}>
-          {(lastUpdatedAt || lastUpdatedBy) && (
+          {(lastUpdatedAt || lastUpdatedBy) && (!truncatedPost) && (
             <LastUpdated
               lastUpdatedAt={lastUpdatedAt}
               formattedLastUpdatedAt={formattedLastUpdatedAt}
