@@ -13,7 +13,7 @@
 import Heading from '@theme/Heading';
 import styles from './styles.module.css';
 
-import { ChronologyRecord } from '@ilg/docusaurus-plugin-content-chronology'
+import { ChronologyRecord } from '@xpack/docusaurus-plugin-content-blog'
 
 function ChronologyRow({interval, title, permalink, isInternational}: ChronologyRecord) {
   const intlInterval = interval+(isInternational ? ' (intl)' : '');

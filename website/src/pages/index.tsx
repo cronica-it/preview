@@ -50,7 +50,7 @@ function HomepageHeader() {
 export default function Home(): JSX.Element {
   const { siteConfig } = useDocusaurusContext();
 
-  const pluginData = usePluginData('docusaurus-plugin-content-chronology', 'events-blog');
+  const pluginData = usePluginData('docusaurus-plugin-content-blog', 'events-blog');
 
   // logger.info('Home()')
   // pluginData.chronologyRecords.forEach((item) => logger.info(item))

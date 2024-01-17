@@ -46,7 +46,7 @@ const config: Config = {
     ],
     [
       // https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog
-      '@ilg/docusaurus-plugin-content-chronology',
+      '@xpack/docusaurus-plugin-content-blog',
       {
         /**
          * Required for any multi-instance plugin
@@ -82,7 +82,7 @@ const config: Config = {
     ],
     [
       // https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog
-      '@ilg/docusaurus-plugin-content-chronology',
+      '@xpack/docusaurus-plugin-content-blog',
       {
         /**
          * Required for any multi-instance plugin

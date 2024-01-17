@@ -16,7 +16,7 @@
     "check-urls": "blc https://cronica-it.github.io/preview/ --recursive --ordered --filter-level 2 --exclude 'https://twitter.com*' --exclude 'https://cronica-it.github.io/arhiva/' --exclude 'https://github.com/cronica-it/preview/edit/master/' --exclude 'https://github.com/ilg-ul' --exclude 'https://www.linkedin.com/in/'",
     "deep-clean": "rm -rf node_modules package-lock.json .docusaurus build",
     "npm-install": "npm install",
-    "link-deps": "npm link @ilg/docusaurus-plugin-content-chronology",
+    "link-deps": "npm link @xpack/docusaurus-plugin-content-blog",
     "outdated": "npm outdated",
     "audit": "npm audit",
     "fix": "npm audit fix --force"
@@ -26,7 +26,7 @@
     "@docusaurus/plugin-client-redirects": "3.1.0",
     "@docusaurus/preset-classic": "^3.1.0",
     "@docusaurus/theme-classic": "^3.1.0",
-    "@ilg/docusaurus-plugin-content-chronology": "github:cronica-it/docusaurus-plugin-content-chronology",
+    "@xpack/docusaurus-plugin-content-blog": "github:xpack/docusaurus-plugin-content-blog",
     "@mdx-js/react": "^3.0.0",
     "clsx": "^2.0.0",
     "prism-react-renderer": "^2.3.0",

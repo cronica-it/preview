@@ -7,7 +7,7 @@
 
 // declare module '@theme/AuthorsListInline'
 
-    import type {Author} from '@ilg/docusaurus-plugin-content-chronology';
+    import type {Author} from '@xpack/docusaurus-plugin-content-blog';
 
     export interface Props {
       readonly authors: readonly Author[];
