@@ -66,12 +66,6 @@ then
   exit 1
 fi
 
-date="${event_date}"
-if $(echo ${event_date} | grep -q -v "-")
-then
-  date+="-07"
-fi
-
 creation_date="$(date -u '+%Y-%m-%dT%H:%M:%S')"
 
 tmp_file_path="$(dirname "${script_folder_path}")/${blog_post_folder_name}.md.tmp"
@@ -83,9 +77,10 @@ echo "slug: ${blog_post_year}/${slug}" >>"${tmp_file_path}"
 echo "title: 'TODO'" >>"${tmp_file_path}"
 echo "authors: [${authors}]" >>"${tmp_file_path}"
 echo "tags: [${tags}]" >>"${tmp_file_path}"
-echo "date: ${date}" >>"${tmp_file_path}"
 echo >>"${tmp_file_path}"
-echo "creation_date: ${creation_date}" >>"${tmp_file_path}"
+echo "date: ${creation_date}" >>"${tmp_file_path}"
+echo >>"${tmp_file_path}"
+echo "event_date: '${event_date}'" >>"${tmp_file_path}"
 echo >>"${tmp_file_path}"
 echo "---" >>"${tmp_file_path}"
 echo >>"${tmp_file_path}"
