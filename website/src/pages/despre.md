@@ -17,7 +17,7 @@ a istoriei industriei IT&C**, prezentată în context internațional.
 Cronologia în sine este formată din **Evenimente** datate, descrise
 prin articole mai mult sau mai puțin detaliate.
 
-Suplimentar, în secțiunea **Blog** sunt publicate articole cu amintiri
+Suplimentar, în secțiunea **Amintiri** sunt publicate articole cu amintiri
 personale ale celor implicați în diverse evenimente.
 
 ## Drepturi de autor
