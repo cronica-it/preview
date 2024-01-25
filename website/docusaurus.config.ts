@@ -46,7 +46,7 @@ const config: Config = {
     ],
     [
       // https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog
-      '@xpack/docusaurus-plugin-content-blog',
+      '@docusaurus/plugin-content-blog',
       {
         /**
          * Required for any multi-instance plugin
@@ -67,9 +67,9 @@ const config: Config = {
         pageBasePath: 'pagina',
         showReadingTime: true,
         showLastUpdateTime: true,
-
-        blogAuthorsListComponent: '@site/src/theme/BlogAuthorsListPage',
-        blogAuthorsPostsComponent: '@site/src/theme/BlogAuthorsPostsPage',
+        hidePostYearInArchive: true,
+        sortPostsByEventDate: true,
+        generateAuthorsPages: true,
 
         // Please change this to your repo.
         // Remove this to remove the "edit this page" links.
@@ -82,7 +82,7 @@ const config: Config = {
     ],
     [
       // https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog
-      '@xpack/docusaurus-plugin-content-blog',
+      '@docusaurus/plugin-content-blog',
       {
         /**
          * Required for any multi-instance plugin
@@ -106,9 +106,9 @@ const config: Config = {
         exclude: ['**/README.md'],
         showReadingTime: true,
         showLastUpdateTime: true,
-
-        blogAuthorsListComponent: '@site/src/theme/BlogAuthorsListPage',
-        blogAuthorsPostsComponent: '@site/src/theme/BlogAuthorsPostsPage',
+        hidePostYearInArchive: true,
+        sortPostsByEventDate: true,
+        generateAuthorsPages: true,
 
         // Please change this to your repo.
         // Remove this to remove the "edit this page" links.
