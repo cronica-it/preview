@@ -1,9 +1,11 @@
 import { themes as prismThemes } from 'prism-react-renderer';
 import type { Config } from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
+import { fileURLToPath } from 'url';
 // import logger from '@docusaurus/logger'
 
-const isPreview = true;
+// logger.info(`cwd: ${fileURLToPath(import.meta.url)}`)
+const isPreview = fileURLToPath(import.meta.url).match('preview');
 
 const config: Config = {
   title: 'Cronica IT&C',
