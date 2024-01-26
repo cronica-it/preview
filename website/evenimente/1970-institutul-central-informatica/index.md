@@ -38,7 +38,9 @@ pune un accent mai mare pe aspectele de dezvoltare și valorificare a rezultatel
 
 În 1990, prin HG 49/08.01.1990,
 institutul redevine autonom, sub o nouă denumire - **Institutul
-de Cercetări în Informatică (ICI)** - și se adaptează la cerințele economiei de piață, cu intenția de a continua activitățile de cercetare științifică în domeniul IT&C.
+de Cercetări în Informatică (ICI)** - și se adaptează la cerințele economiei
+de piață, cu intenția de a continua activitățile de cercetare științifică în
+domeniul IT&C.
 
 După mai multe alte reorganizări,
 în anul 2020, prin HG nr. 328 privind modificarea și completarea Hotărârii
