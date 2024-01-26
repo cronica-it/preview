@@ -22,7 +22,7 @@ Pe lângă acestea, amintirile personale sunt de asemenea apreciate, ca
 articole de blog, care nu vor face parte directă din cronologie, dar vor
 fi menționate ca referințe în cronologie.
 
-Limbajul articolelor de blog este personal, la persoana întâia
+Limbajul articolelor de blog este de obicei personal, la persoana întâia
 sau în orice format dorește autorul.
 
 ## Articole cu poze și alte documente atașate
@@ -33,7 +33,9 @@ este într-un fișier cu nume fix, `index.md`.
 Dacă articolul este însoțit de
 poze și/sau alte documente atașate, acestea vor fi memorate
 în foldere separate, de exemplu pozele pot sta
-într-un sub-folder `img`.
+într-un sub-folder `img`. Din motive de optimizare a spațiului,
+preferabil pozele vor fi stocate in proiectul separat
+[cronica-it/imagini](https://github.com/cronica-it/imagini).
 
 Deși Docusaurus permite și memorarea articolelor simple în direct
 în fișiere cu terminația `.md`, din motive de consistență, toate
@@ -46,7 +48,7 @@ un string care începe cu anul si
 este urmat de un nume scurt, posibil mai multe cuvinte separate de
 linițe, de exemplu:
 
-```
+```txt
 2023-cniv
 2023-free-unix-for-romania
 ```
@@ -67,7 +69,7 @@ articolele științifice.
 Această secțiune este separată de corpul principal al articolului
 printr-o linie cu un conținut specific:
 
-```
+```html
 <!-- truncate -->
 ```
 
@@ -80,7 +82,7 @@ externe acestui site.
 În cazul URL-urilor, textul este bine să conțină numele site-ului și
 numele articolului, de exmplu:
 
-```
+```md
 ## Referințe
 
 - [retroit.ro - Microcalculatorul L/B 881](https://retroit.ro/l-b-881/)
