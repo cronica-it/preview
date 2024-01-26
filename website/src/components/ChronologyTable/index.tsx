@@ -13,14 +13,14 @@
 import Heading from '@theme/Heading';
 import styles from './styles.module.css';
 
-import { ChronologyRecord } from '@xpack/docusaurus-plugin-content-blog'
+import { ChronologyRecord } from '@docusaurus/plugin-content-blog'
 
-function ChronologyRow({interval, title, permalink, isInternational}: ChronologyRecord) {
-  const intlInterval = interval+(isInternational ? ' (intl)' : '');
+function ChronologyRow({ eventDateRange, title, permalink, isInternational }: ChronologyRecord) {
+  const intlEventDateRange = eventDateRange + (isInternational ? ' (intl)' : '');
 
   return (
     <tr class="chronology">
-      <td class="chronology">{intlInterval}</td>
+      <td class="chronology">{intlEventDateRange}</td>
       <td class="chronology">
         <a href={permalink}>{title}</a>
       </td>
