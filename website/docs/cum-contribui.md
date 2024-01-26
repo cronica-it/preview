@@ -14,7 +14,7 @@ Sursa datelor listate în cronologie este în secțiunea **Evenimente**.
 
 Pentru articolele de tip eveniment
 este recomandat un **limbaj profesional**, clar și concis, cu repere în timp,
-nume de persoane, referințe, și în general informații cu valoare științifică.
+nume de persoane, referințe, și în general informații cu valoare istorică.
 Ca un punct de reper, aceste articole trebuie să îndeplinească și
 condițiile de publicare pe Wikipedia.
 
