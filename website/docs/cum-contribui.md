@@ -19,26 +19,26 @@ Ca un punct de reper, aceste articole trebuie să îndeplinească și
 condițiile de publicare pe Wikipedia.
 
 Pe lângă acestea, amintirile personale sunt de asemenea apreciate, ca
-articole de blog, care nu vor face parte directă din cronologie, dar vor
+**Amintiri**, care nu vor face parte directă din cronologie, dar vor
 fi menționate ca referințe în cronologie.
 
-Limbajul articolelor de blog este de obicei personal, la persoana întâia
+Limbajul articolelor de amintiri este de obicei personal, la persoana întâia
 sau în orice format dorește autorul.
 
 ## Articole cu fotografii și alte documente atașate
 
 Articolele sunt memorate ca sub-foldere, în care conținutul
-este într-un fișier cu nume fix, `index.md`.
+este într-un fișier cu numele `index.md`.
 
 Dacă articolul este însoțit de
 fotografii și/sau alte fișierele atașate, acestea vor fi memorate
 în foldere separate, de exemplu imaginile pot sta
 într-un sub-folder `img`. Din motive de optimizare a spațiului,
-preferabil imaginile și celelalte fișiere atașate vor fi stocate
+este recomandat ca imaginile și celelalte fișiere atașate să fie stocate
 in proiectul separat
 [cronica-it/imagini](https://github.com/cronica-it/imagini).
 
-Deși Docusaurus permite și memorarea articolelor simple în direct
+Deși Docusaurus permite memorarea articolelor simple direct
 în fișiere cu terminația `.md`, din motive de consistență, toate
 articolele vor fi memorate în sub-foldere.
 
@@ -101,6 +101,7 @@ slug: 1992/free-unix-for-romania
 title: 'Marius Hâncu coordonează programul „Free Unix for Romania”'
 authors: [ilg-ul]
 tags: [organizatii]
+
 event_date: '1992'
 event_end_date: '1995'
 
@@ -123,9 +124,10 @@ Ultimul raport cunoscut este din 1995.
 
 ## Diacritice
 
-De preferință, articolele trebuie scrise în limba română, cu diacritice.
+Este recomandat ca articolele să fie scrise în limba română, cu diacritice.
 
-În cazul în care textul primit nu are diacritice, și autorul nu îl poate
+În cazul în care textul trimis spre publicare nu are diacritice,
+și autorul nu îl poate
 corecta, articolul va fi editat înainte de publicare și
 cel puțin titlurile și prima frază vor conține diacriticele corecte.
 
@@ -135,7 +137,8 @@ Pentru cei obișnuiți cu GitHub, cea mai simpla soluție de
 a contribui articole sau actualizări este cu un **Pull Request**.
 
 Pentru cei care nu au experiență cu GitHub, metodele tradiționale de
-transmiterea a fișierelor prin e-mail pot fi de asemenea folosite.
+transmiterea a textelor prin e-mail, direct sau ca fișiere
+atașate, pot fi de asemenea folosite.
 
 ## GDPR
 
