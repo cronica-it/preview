@@ -13,13 +13,9 @@
     "write-translations": "docusaurus write-translations",
     "write-heading-ids": "docusaurus write-heading-ids",
     "typecheck": "tsc",
-    "check-urls": "blc https://cronica-it.github.io/preview/ --recursive --ordered --filter-level 2 --exclude 'https://twitter.com*' --exclude 'https://cronica-it.github.io/arhiva/' --exclude 'https://github.com/cronica-it/preview/edit/master/' --exclude 'https://github.com/ilg-ul' --exclude 'https://www.linkedin.com/in/'",
-    "deep-clean": "rm -rf node_modules package-lock.json .docusaurus build",
-    "npm-install": "npm install",
-    "link-deps": "npm link @xpack/docusaurus-plugin-content-blog",
-    "outdated": "npm outdated",
-    "audit": "npm audit",
-    "fix": "npm audit fix --force"
+    "my-check-urls": "blc https://cronica-it.github.io/preview/ --recursive --ordered --filter-level 2 --exclude 'https://twitter.com*' --exclude 'https://cronica-it.github.io/arhiva/' --exclude 'https://github.com/cronica-it/preview/edit/master/' --exclude 'https://github.com/ilg-ul' --exclude 'https://www.linkedin.com/in/'",
+    "my-deep-clean": "rm -rf node_modules package-lock.json .docusaurus build",
+    "my-npm-install": "npm install"
   },
   "dependencies": {
     "@docusaurus/core": "3.1.0",
