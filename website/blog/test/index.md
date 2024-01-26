@@ -4,7 +4,9 @@ title: 'Test'
 authors: [ilg-ul]
 tags: [website]
 
-event_date: '1000-01-01'
+date: 2023-10-29T08:00
+
+# event_date: '1000-01-01'
 
 draft: true
 
