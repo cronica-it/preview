@@ -41,7 +41,7 @@ const config: Config = {
         // Remove this to remove the "edit this page" links.
         editUrl:
           isPreview ? 'https://github.com/cronica-it/preview/edit/master/website/' : 'https://github.com/cronica-it/cronica-it.github.io/edit/master/website/',
-          showLastUpdateTime: true,
+        showLastUpdateTime: true,
       },
     ],
     [
@@ -119,6 +119,42 @@ const config: Config = {
       },
     ],
     [
+      // https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog
+      '@docusaurus/plugin-content-blog',
+      {
+        /**
+         * Required for any multi-instance plugin
+         */
+        id: 'blog',
+        /**
+         * Path to data on filesystem relative to site dir.
+         */
+        path: './blog',
+        /**
+         * URL route for the blog section of your site.
+         * *DO NOT* include a trailing slash.
+         */
+        routeBasePath: 'blog',
+        archiveBasePath: 'arhiva',
+        tagsBasePath: 'categorii',
+        authorsBasePath: 'autori',
+        pageBasePath: 'pagina',
+        showReadingTime: true,
+        showLastUpdateTime: true,
+        hidePostYearInArchive: true,
+        // sortPostsByEventDate: true,
+        // generateAuthorsPages: true,
+
+        // Please change this to your repo.
+        // Remove this to remove the "edit this page" links.
+        editUrl:
+          isPreview ? 'https://github.com/cronica-it/preview/edit/master/website/' : 'https://github.com/cronica-it/cronica-it.github.io/edit/master/website/',
+        blogSidebarTitle: 'Amintiri',
+        blogSidebarCount: 'ALL',
+        authorsMapPath: '../authors.yml',
+      },
+    ],
+    [
       '@docusaurus/plugin-content-pages',
       {}
     ],
@@ -188,7 +224,7 @@ const config: Config = {
           position: 'left',
           items: [
             {
-              label: 'Arhiva',
+              label: 'Arhiva pe ani',
               to: '/evenimente/arhiva'
             },
             {
@@ -213,7 +249,7 @@ const config: Config = {
           position: 'left',
           items: [
             {
-              label: 'Arhiva',
+              label: 'Arhiva pe ani',
               to: '/amintiri/arhiva'
             },
             {
@@ -227,6 +263,22 @@ const config: Config = {
             {
               label: 'Toate',
               to: '/amintiri'
+            },
+          ]
+        },
+        {
+          type: 'dropdown',
+          label: 'Blog',
+          to: '/blog',
+          position: 'left',
+          items: [
+            {
+              label: 'Arhiva pe ani',
+              to: '/blog/arhiva'
+            },
+            {
+              label: 'Toate',
+              to: '/blog'
             },
           ]
         },
