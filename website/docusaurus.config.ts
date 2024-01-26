@@ -176,23 +176,23 @@ const config: Config = {
         //     from: ['/docs/oldDocFrom2019', '/docs/legacyDocFrom2016'],
         //   },
         // ],
-        createRedirects(existingPath) {
-          // logger.info(existingPath);
-          if (existingPath.includes('/evenimente')) {
-            // logger.info(`to ${existingPath} from ${existingPath.replace('/evenimente', '/events')}`);
-            // Redirect from /events/X to /evenimente/X
-            return [
-              existingPath.replace('/evenimente', '/events')
-            ];
-          } else if (existingPath.includes('/amintiri')) {
-            // logger.info(`to ${existingPath} from ${existingPath.replace('/amintiri', '/blog')}`);
-            // Redirect from /blog/Z to /amintiri/X
-            return [
-              existingPath.replace('/amintiri', '/blog')
-            ];
-          }
-          return undefined; // Return a falsy value: no redirect created
-        },
+        // createRedirects(existingPath) {
+        //   // logger.info(existingPath);
+        //   if (existingPath.includes('/evenimente')) {
+        //     // logger.info(`to ${existingPath} from ${existingPath.replace('/evenimente', '/events')}`);
+        //     // Redirect from /events/X to /evenimente/X
+        //     return [
+        //       existingPath.replace('/evenimente', '/events')
+        //     ];
+        //   } else if (existingPath.includes('/amintiri')) {
+        //     // logger.info(`to ${existingPath} from ${existingPath.replace('/amintiri', '/blog')}`);
+        //     // Redirect from /blog/Z to /amintiri/X
+        //     return [
+        //       existingPath.replace('/amintiri', '/blog')
+        //     ];
+        //   }
+        //   return undefined; // Return a falsy value: no redirect created
+        // },
       },
     ],
   ],
