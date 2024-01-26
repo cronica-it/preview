@@ -25,16 +25,17 @@ fi menționate ca referințe în cronologie.
 Limbajul articolelor de blog este de obicei personal, la persoana întâia
 sau în orice format dorește autorul.
 
-## Articole cu poze și alte documente atașate
+## Articole cu fotografii și alte documente atașate
 
 Articolele sunt memorate ca sub-foldere, în care conținutul
 este într-un fișier cu nume fix, `index.md`.
 
 Dacă articolul este însoțit de
-poze și/sau alte documente atașate, acestea vor fi memorate
-în foldere separate, de exemplu pozele pot sta
+fotografii și/sau alte fișierele atașate, acestea vor fi memorate
+în foldere separate, de exemplu imaginile pot sta
 într-un sub-folder `img`. Din motive de optimizare a spațiului,
-preferabil pozele vor fi stocate in proiectul separat
+preferabil imaginile și celelalte fișiere atașate vor fi stocate
+in proiectul separat
 [cronica-it/imagini](https://github.com/cronica-it/imagini).
 
 Deși Docusaurus permite și memorarea articolelor simple în direct
