@@ -18,7 +18,7 @@ const sidebars: SidebarsConfig = {
     'intro',
     'metadate',
     'frontmatter',
-    'how-to-contribute',
+    'cum-contribui',
     {
       type: 'link',
       label: 'Docusaurus',
