@@ -1,6 +1,7 @@
 # README
 
-Site-ul de preview al proiectului [Cronica IT&C](https://cronica-it.github.io/preview/).
+The preview site of the [Cronica IT&C](https://cronica-it.github.io/preview/) project.
 
-Continutul este in branch-ul `preview` al proiectului
-[cronica-it/cronica-it.github.io](https://github.com/cronica-it/cronica-it.github.io).
+The content is not here, bu in the `preview` branch of the
+[cronica-it/cronica-it.github.io](https://github.com/cronica-it/cronica-it.github.io)
+project.
