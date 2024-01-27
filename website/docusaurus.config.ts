@@ -2,10 +2,14 @@ import { themes as prismThemes } from 'prism-react-renderer';
 import type { Config } from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 import { fileURLToPath } from 'url';
-// import logger from '@docusaurus/logger'
+import logger from '@docusaurus/logger'
 
-// logger.info(`cwd: ${fileURLToPath(import.meta.url)}`)
-const isPreview = fileURLToPath(import.meta.url).match('preview');
+logger.info(`cwd: ${fileURLToPath(import.meta.url)}`)
+const isPreview = import.meta.url.match('preview');
+const envBaseUrl = process.env['DOCUSAURUS_BASEURL']
+if (envBaseUrl) {
+  logger.info(`DOCUSAURUS_BASEURL=${envBaseUrl}`)
+}
 
 const config: Config = {
   title: 'Cronica IT&C',
@@ -16,7 +20,7 @@ const config: Config = {
   url: 'https://cronica-it.github.io/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: isPreview ? '/preview/' : '/',
+  baseUrl: envBaseUrl || isPreview ? '/preview/' : '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
