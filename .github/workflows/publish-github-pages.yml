@@ -32,7 +32,7 @@ jobs:
         with:
           # The full history, required to compute lastUpdatedAt
           fetch-depth: 0
-          repository: cronica-it/preview
+          repository: cronica-it/cronica-it.github.io
           path: repo
 
       - name: Use Nodejs
