@@ -33,6 +33,10 @@
 
 - 1975 - Rom Control Data (Gabriel Vasile, istoria informaticii românesti)
 
+- On the 10th of August in 2000, AMD released the x86-64 Architecture Programmers Overview.
+  https://www.abortretry.fail/p/the-itanic-saga
+
+
 ## Corneliu Mașek (decedat)
 
 [vdarie] - autorul - împreună cu Mihai Martinovici - a subsistemului SESAM pentru sis- temul de operare Helios.
