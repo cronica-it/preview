@@ -1,0 +1,67 @@
+# Simple workflow for deploying static content to GitHub Pages
+name: GitHub Pages
+
+# https://docs.github.com/en/actions/using-workflows/events-that-trigger-workflows
+on:
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Allow one concurrent deployment
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
+
+jobs:
+  # Single deploy job since we're just deploying
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        # https://github.com/actions/checkout
+        uses: actions/checkout@v4
+        with:
+          # The full history, required to compute lastUpdatedAt
+          fetch-depth: 0
+          repository: cronica-it/preview
+          path: repo
+
+      - name: Use Nodejs
+        # https://github.com/actions/setup-node
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18.x'
+
+      - name: Install dependencies
+        run: npm ci -C repo/website
+
+      - name: Show environment
+        run: env | sort | egrep '^[^ \t]+='
+
+      - name: Generate Docusaurus
+        run: npm run build -C repo/website
+
+      - name: Setup Pages
+        # https://github.com/actions/configure-pages
+        uses: actions/configure-pages@v3
+
+      - name: Upload artifact
+        # https://github.com/actions/upload-pages-artifact
+        uses: actions/upload-pages-artifact@v2
+        with:
+          # Upload entire repository
+          path: './repo/website/build'
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        # https://github.com/actions/deploy-pages
+        uses: actions/deploy-pages@v2
