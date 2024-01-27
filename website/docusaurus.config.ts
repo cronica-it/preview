@@ -46,7 +46,7 @@ const config: Config = {
         // Please change this to your repo.
         // Remove this to remove the "edit this page" links.
         editUrl:
-          isPreview ? 'https://github.com/cronica-it/preview/edit/master/website/' : 'https://github.com/cronica-it/cronica-it.github.io/edit/master/website/',
+          isPreview ? 'https://github.com/cronica-it/cronica-it.github.io/edit/ăreview/website/' : 'https://github.com/cronica-it/cronica-it.github.io/edit/master/website/',
         showLastUpdateTime: true,
       },
     ],
@@ -80,7 +80,7 @@ const config: Config = {
         // Please change this to your repo.
         // Remove this to remove the "edit this page" links.
         editUrl:
-          isPreview ? 'https://github.com/cronica-it/preview/edit/master/website/' : 'https://github.com/cronica-it/cronica-it.github.io/edit/master/website/',
+          isPreview ? 'https://github.com/cronica-it/cronica-it.github.io/edit/preview/website/' : 'https://github.com/cronica-it/cronica-it.github.io/edit/master/website/',
         blogSidebarTitle: 'Amintiri',
         blogSidebarCount: 'ALL',
         authorsMapPath: '../authors.yml',
@@ -119,7 +119,7 @@ const config: Config = {
         // Please change this to your repo.
         // Remove this to remove the "edit this page" links.
         editUrl:
-          isPreview ? 'https://github.com/cronica-it/preview/edit/master/website/' : 'https://github.com/cronica-it/cronica-it.github.io/edit/master/website/',
+          isPreview ? 'https://github.com/cronica-it/cronica-it.github.io/edit/preview/website/' : 'https://github.com/cronica-it/cronica-it.github.io/edit/master/website/',
         blogSidebarTitle: 'Evenimente',
         blogSidebarCount: 'ALL',
       },
@@ -154,7 +154,7 @@ const config: Config = {
         // Please change this to your repo.
         // Remove this to remove the "edit this page" links.
         editUrl:
-          isPreview ? 'https://github.com/cronica-it/preview/edit/master/website/' : 'https://github.com/cronica-it/cronica-it.github.io/edit/master/website/',
+          isPreview ? 'https://github.com/cronica-it/cronica-it.github.io/edit/preview/website/' : 'https://github.com/cronica-it/cronica-it.github.io/edit/master/website/',
         blogSidebarTitle: 'Amintiri',
         blogSidebarCount: 'ALL',
         authorsMapPath: '../authors.yml',
@@ -306,7 +306,7 @@ const config: Config = {
         },
         {
           label: 'GitHub',
-          href: isPreview ? 'https://github.com/cronica-it/preview' : 'https://github.com/cronica-it/cronica-it.github.io',
+          href: 'https://github.com/cronica-it/cronica-it.github.io',
           position: 'right',
         },
       ],
