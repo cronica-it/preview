@@ -48,7 +48,7 @@ jobs:
         run: env | sort | egrep '^[^ \t]+='
 
       - name: Generate Docusaurus
-        run: DOCUSAURUS_BASEURL='/preview2/' npm run build -C repo/website
+        run: npm run build -C repo/website
 
       - name: Setup Pages
         # https://github.com/actions/configure-pages
