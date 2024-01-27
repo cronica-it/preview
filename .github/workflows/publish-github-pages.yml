@@ -33,7 +33,8 @@ jobs:
           # The full history, required to compute lastUpdatedAt
           fetch-depth: 0
           repository: cronica-it/cronica-it.github.io
-          path: repo
+          path: repo # clone into a folder called 'repo'
+          ref: preview # The preview branch
 
       - name: Use Nodejs
         # https://github.com/actions/setup-node
