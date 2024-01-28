@@ -7,6 +7,7 @@ The preview site address is:
 
 - <https://cronica-it.github.io/preview/>
 
-The content is not here, but in the `preview` branch of the
-[cronica-it/cronica-it.github.io](https://github.com/cronica-it/cronica-it.github.io)
+The web site is built and published automatically after each
+push in the `preview` branch of the
+[cronica-it/cronica-it.github.io](https://github.com/cronica-it/cronica-it.github.io/tree/preview)
 repository.
