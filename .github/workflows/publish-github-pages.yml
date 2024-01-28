@@ -1,5 +1,5 @@
 # Simple workflow for deploying static content to GitHub Pages
-name: GitHub Pages
+name: Publish GitHub Pages
 
 # https://docs.github.com/en/actions/using-workflows/events-that-trigger-workflows
 on:
