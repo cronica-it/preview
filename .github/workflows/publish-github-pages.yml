@@ -51,6 +51,11 @@ jobs:
       - name: Generate Docusaurus
         run: npm run build -C repo/website
 
+      - name: Prevent robots crawl the preview site
+        run: |
+          echo 'User-agent: *' > repo/website/build/robots.txt
+          echo 'Disallow: /' >> repo/website/build/robots.txt
+
       - name: Setup Pages
         # https://github.com/actions/configure-pages
         uses: actions/configure-pages@v3
